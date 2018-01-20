@@ -1,2 +1,2 @@
-# campain-title-gen
-campain's title generator 
+# campaign-title-gen
+campaign's title generator 
