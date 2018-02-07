@@ -7,12 +7,17 @@ from keras.layers import Dropout
 from keras.layers import LSTM
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
+import re
+
 # load ascii text and covert to lowercase
 filename = "ads_file/live_data_27-1-2018_book_amazon.com_us.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
+raw_text = re.sub('[^A-Za-z0-9\n ]+', '', raw_text)
 # create mapping of unique chars to integers, and a reverse mapping
 chars = sorted(list(set(raw_text)))
+print('Characters: {} '.format(chars))
+print('raw_text: {} '.format(raw_text))
 char_to_int = dict((c, i) for i, c in enumerate(chars))
 int_to_char = dict((i, c) for i, c in enumerate(chars))
 # summarize the loaded data
