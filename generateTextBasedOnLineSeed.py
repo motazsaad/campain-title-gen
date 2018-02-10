@@ -11,6 +11,7 @@ import re
 
 # load ascii text and covert to lowercase
 filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
+# filename = "test_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 raw_text = re.sub('[^A-Za-z0-9\n ]+', '', raw_text)
@@ -98,7 +99,8 @@ model.add(LSTM(256))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 # load the network weights
-filename = "weightsTrainTitle/weights-improvement-50-0.7157-bigger.hdf5"
+filename = "weightsTrainTitle/weights-improvement-94-0.6933-bigger.hdf5"
+# filename = "weightsTrainDescription/.hdf5"
 model.load_weights(filename)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 # pick a random seed

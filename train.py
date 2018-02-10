@@ -9,7 +9,8 @@ from keras.utils import np_utils
 import re
 
 # load ascii text and covert to lowercase
-filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
+# filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
+filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 raw_text = re.sub('[^A-Za-z0-9\n ]+', '', raw_text)
@@ -58,4 +59,6 @@ filepath="weights-improvement-{epoch:02d}-{loss:.4f}-bigger.hdf5"
 checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 callbacks_list = [checkpoint]
 # fit the model
-model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
+# model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
+# test this (Full 8 core cpu)
+model.fit(X, y, epochs=100, batch_size=1024, callbacks=callbacks_list)
