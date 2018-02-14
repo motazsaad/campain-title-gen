@@ -8,32 +8,43 @@ from keras.layers import LSTM
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 import re
+from string import punctuation
 
 # load ascii text and covert to lowercase
-filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
-# filename = "test_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
+# filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
+filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
+# filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
-raw_text = re.sub('[^A-Za-z0-9\n ]+', '', raw_text)
+# make normalization on text file
+raw_text = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', raw_text)
+# add this text line  (!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~) to any file went to test or train on it (total vocab:69)
+# print(punctuation)
+
 
 # Get First and last index for each lines , then get the length for each line
 first = []
 last = []
 lineLength = []
+lineNumber = []
 i = 0
+lineIncrement = 0
+
 for c in raw_text:
  if i == 0:
   first.append(0)
  if c == '\n':
   if i != 0:
    first.append(i+1)
+   lineNumber.append(lineIncrement)
+   lineIncrement +=1
   last.append(i)
  i += 1
 
 first = first[:-1]
 
 for ii in range(len(first)):
- lineLength.append(last[ii]-first[ii])
+    lineLength.append(last[ii]-first[ii])
 
 
 # print(len(first))
@@ -99,8 +110,8 @@ model.add(LSTM(256))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 # load the network weights
-filename = "weightsTrainTitle/weights-improvement-94-0.6933-bigger.hdf5"
-# filename = "weightsTrainDescription/.hdf5"
+# filename = "weightsTrainTitle/before normalization/weights-improvement-94-0.6933-bigger.hdf5"
+filename = "weightsTrainDescription/before normalization/weights-improvement-41-0.2051-bigger.hdf5"
 model.load_weights(filename)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 # pick a random seed
@@ -110,9 +121,11 @@ print('Start Line Index: {} '.format(first[start]))
 print('Line Length: {} '.format(seq_length))
 print('Pattern: {} '.format(pattern))
 print('Num Pattern: {} '.format(len(pattern)))
+print("-------------")
 print ("Seed:")
 print ("\"", ''.join([int_to_char[value] for value in pattern]), "\"")
 print("-------------")
+print("generate text:")
 # generate characters
 for i in range(100):
  x = numpy.reshape(pattern, (1, len(pattern), 1))
@@ -122,7 +135,22 @@ for i in range(100):
  result = int_to_char[index]
  seq_in = [int_to_char[value] for value in pattern]
  sys.stdout.write(result)
- # print(result)
  pattern.append(index)
  pattern = pattern[1:len(pattern)]
+
+print("\n-------------")
+
+# display the original description/title text for comparison
+print('Line Number  (+1 start from zero): {} '.format(lineNumber[start]))
+filename2 = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
+fp = open(filename2)
+for i, line in enumerate(fp):
+    if i == lineNumber[start]:
+        print("Original Description/Title text for comparison\n")
+        print(line)
+    elif i > lineNumber[start]:
+        break
+fp.close()
+
+print("\n-------------")
 print ("\nDone.")

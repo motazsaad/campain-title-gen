@@ -10,10 +10,13 @@ import re
 
 # load ascii text and covert to lowercase
 # filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
-filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
+filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
-raw_text = re.sub('[^A-Za-z0-9\n ]+', '', raw_text)
+# make normalization on text file
+raw_text = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', raw_text)
+# add this text line (!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~) to any file went to test or train on it (total vocab:69)
+# print(punctuation)
 
 # create mapping of unique chars to integers
 chars = sorted(list(set(raw_text)))
