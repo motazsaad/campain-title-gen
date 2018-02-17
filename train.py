@@ -9,8 +9,8 @@ from keras.utils import np_utils
 import re
 
 # load ascii text and covert to lowercase
-# filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
-filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
+filename = "train_file//live_data_27-1-2018_book_amazon.com_us_adsDescription_noLineDuplicated.txt"
+# filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 # make normalization on text file

@@ -5,14 +5,14 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import Dropout
 from keras.layers import LSTM
-from keras.callbacks import ModelCheckpoint
+# from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 import re
-from string import punctuation
+# from string import punctuation
 
 # load ascii text and covert to lowercase
 # filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
-filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
+filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
 # filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
