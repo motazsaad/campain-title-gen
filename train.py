@@ -13,7 +13,9 @@ import json
 import keras.backend as K
 import matplotlib
 matplotlib.use('Agg')
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt1
+import matplotlib.pyplot as plt2
+import matplotlib.pyplot as plt3
 
 
 
@@ -85,7 +87,7 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=5, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=100, batch_size=1024, callbacks=callbacks_list)
 
 
 # list all data in history
@@ -99,41 +101,41 @@ with open('trainHistoryDict/history_training.txt', mode="w") as history_writer:
 	history_writer.write(json.dumps(history.history))
 
 # summarize history for loss
-plt.plot(history.history['loss'])
+plt1.plot(history.history['loss'])
 # plt.plot(history.history['val_acc'])
-plt.title('model loss')
-plt.ylabel('loss')
-plt.xlabel('epoch')
+plt1.title('model loss')
+plt1.ylabel('loss')
+plt1.xlabel('epoch')
 # plt.legend(['train', 'test'], loc='upper left')
-fig = plt.gcf()
+fig1 = plt1.gcf()
 # plt.show()
-plt.draw()
-fig.savefig('trainHistoryDict/loss.svg', format='svg', dpi=1200)
+plt1.draw()
+fig1.savefig('trainHistoryDict/loss.svg', format='svg', dpi=1200)
 
 # summarize history for perplexity
-plt.plot(history.history['perplexity'])
+plt2.plot(history.history['perplexity'])
 # plt.plot(history.history['val_loss'])
-plt.title('model perplexity')
-plt.ylabel('perplexity')
-plt.xlabel('epoch')
+plt2.title('model perplexity')
+plt2.ylabel('perplexity')
+plt2.xlabel('epoch')
 # plt.legend(['train', 'test'], loc='upper left')
-fig = plt.gcf()
+fig2 = plt2.gcf()
 # plt.show()
-plt.draw()
-fig.savefig('trainHistoryDict/perplexity.svg', format='svg', dpi=1200)
+plt2.draw()
+fig2.savefig('trainHistoryDict/perplexity.svg', format='svg', dpi=1200)
 
 
 # In this case times should store the epoch computation times.
 times = time_callback.times
 print('Times: {} '.format(times))
 # summarize history for time computation
-plt.plot(times)
+plt3.plot(times)
 # plt.plot(history.history['val_loss'])
-plt.title('model times')
-plt.ylabel('times')
-plt.xlabel('epoch')
+plt3.title('model times')
+plt3.ylabel('times')
+plt3.xlabel('epoch')
 # plt.legend(['train', 'test'], loc='upper left')
-fig = plt.gcf()
+fig3 = plt3.gcf()
 # plt.show()
-plt.draw()
-fig.savefig('trainHistoryDict/times.svg', format='svg', dpi=1200)
+plt3.draw()
+fig3.savefig('trainHistoryDict/times.svg', format='svg', dpi=1200)
