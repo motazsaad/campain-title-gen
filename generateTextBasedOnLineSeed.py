@@ -11,9 +11,9 @@ import re
 # from string import punctuation
 
 # load ascii text and covert to lowercase
-# filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
-filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
-# filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
+filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
+# filename = "test_file/live_data_27-1-2018_book_amazon.com_us_adsTitle.txt"
+
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 # make normalization on text file
@@ -75,6 +75,8 @@ for ii in range(len(first)):
 chars = sorted(list(set(raw_text)))
 print('Characters: {} '.format(chars))
 print('raw_text: {} '.format(raw_text))
+# with open('clean_title.txt', mode="w") as title_writer:
+#     title_writer.write(raw_text)
 char_to_int = dict((c, i) for i, c in enumerate(chars))
 int_to_char = dict((i, c) for i, c in enumerate(chars))
 # summarize the loaded data
@@ -110,8 +112,8 @@ model.add(LSTM(256))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 # load the network weights
-# filename = "weightsTrainTitle/before normalization/weights-improvement-94-0.6933-bigger.hdf5"
-filename = "weightsTrainDescription/before normalization/weights-improvement-41-0.2051-bigger.hdf5"
+# filename = "weightsTrainDescription/after normalization/weights-improvement-98-0.4133-bigger.hdf5"
+filename = "weightsTrainTitle/after normalization/weights-improvement-99-0.5702-bigger.hdf5"
 model.load_weights(filename)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 # pick a random seed
@@ -127,6 +129,7 @@ print ("\"", ''.join([int_to_char[value] for value in pattern]), "\"")
 print("-------------")
 print("generate text:")
 # generate characters
+# for i in range(seq_length):
 for i in range(100):
  x = numpy.reshape(pattern, (1, len(pattern), 1))
  x = x / float(n_vocab)
@@ -142,7 +145,7 @@ print("\n-------------")
 
 # display the original description/title text for comparison
 print('Line Number  (+1 start from zero): {} '.format(lineNumber[start]))
-filename2 = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
+filename2 = "train_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
 fp = open(filename2)
 for i, line in enumerate(fp):
     if i == lineNumber[start]:

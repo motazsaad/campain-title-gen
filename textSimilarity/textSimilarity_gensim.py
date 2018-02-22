@@ -5,14 +5,14 @@ import re
 # print(dir(gensim))
 
 
-# filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
-# filename = "ads_file/live_data_27-1-2018_book_amazon.com_us_adsDescription.txt"
+filename = "../train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
 # more big text make small number for similarity
-filename = "testfile.txt"
+# filename = "testfile.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 # make normalization on text file
 raw_text = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', raw_text)
+print(raw_text)
 
 raw_documents = [raw_text,""]
 
@@ -63,12 +63,12 @@ print(type(sims))
 
 # Now create a query document and convert it to tf-idf.
 # query_doc = [w.lower() for w in word_tokenize("Socks are a force for good.")]
-query_doc = [w.lower() for w in word_tokenize("15 minute meals cookbook - Official Site")]
+query_doc = [w.lower() for w in word_tokenize("the complete book of sushi - official site")]
 print(query_doc)
 query_doc_bow = dictionary.doc2bow(query_doc)
 print(query_doc_bow)
 query_doc_tf_idf = tf_idf[query_doc_bow]
 print(query_doc_tf_idf)
 
-# We show an array of document similarities to query. (.99 is Top Value)
+# We show an array of document similarities to query. (1 is Top Value)
 print(sims[query_doc_tf_idf])

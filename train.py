@@ -7,10 +7,22 @@ from keras.layers import LSTM
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 import re
+from train_TimeHistory import TimeHistory
+import pickle
+import keras.backend as K
+
+
+def perplexity(y_true, y_pred):
+    cross_entropy = K.categorical_crossentropy(y_true, y_pred)
+    perplexity = K.pow(2.0, cross_entropy)
+    return perplexity
+def crossentropy(y_true, y_pred):
+    return K.categorical_crossentropy(y_true, y_pred)
+
 
 # load ascii text and covert to lowercase
-filename = "train_file//live_data_27-1-2018_book_amazon.com_us_adsDescription_noLineDuplicated.txt"
-# filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
+# filename = "train_file//live_data_27-1-2018_book_amazon.com_us_adsDescription_noLineDuplicated.txt"
+filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 # make normalization on text file
@@ -56,12 +68,29 @@ model.add(Dropout(0.2))
 model.add(LSTM(256))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
-model.compile(loss='categorical_crossentropy', optimizer='adam')
+# model.compile(loss='categorical_crossentropy',optimizer='adam')
+model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=[crossentropy, perplexity])
 # define the checkpoint
 filepath="weights-improvement-{epoch:02d}-{loss:.4f}-bigger.hdf5"
 checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
-callbacks_list = [checkpoint]
+# calculate the time for each epochs
+time_callback = TimeHistory()
+# make list of call back function
+callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-model.fit(X, y, epochs=100, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=5, batch_size=1024, callbacks=callbacks_list)
+# In this case times should store the epoch computation times.
+times = time_callback.times
+print('Times: {} '.format(times))
+
+
+# list all data in history
+print("list all data in history")
+print(history.history.keys())
+
+with open('/trainHistoryDict', 'wb') as file_pi:
+	pickle.dump(history.history, file_pi)
+
+
