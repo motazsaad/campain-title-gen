@@ -8,7 +8,8 @@ from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 import re
 from train_TimeHistory import TimeHistory
-import pickle
+# import pickle
+import json
 import keras.backend as K
 import matplotlib
 matplotlib.use('Agg')
@@ -95,7 +96,7 @@ print(history.history.keys())
 # with open('/trainHistoryDict', 'wb') as file_pi:
 # 	pickle.dump(history.history, file_pi)
 with open('trainHistoryDict/history_training.txt', mode="w") as history_writer:
-	history_writer.write(pickle.dumps(history.history))
+	history_writer.write(json.dumps(history.history))
 
 # summarize history for loss
 plt.plot(history.history['loss'])
