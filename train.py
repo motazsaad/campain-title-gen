@@ -11,6 +11,7 @@ from train_TimeHistory import TimeHistory
 import pickle
 import keras.backend as K
 import matplotlib.pyplot as plt
+plt.use('Agg')
 
 def perplexity(y_true, y_pred):
     cross_entropy = K.categorical_crossentropy(y_true, y_pred)
@@ -80,7 +81,7 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=3, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=1, batch_size=1024, callbacks=callbacks_list)
 # In this case times should store the epoch computation times.
 times = time_callback.times
 print('Times: {} '.format(times))
