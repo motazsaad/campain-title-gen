@@ -1,9 +1,4 @@
 # Larger LSTM Network to Generate Text for Alice in Wonderland
-
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-
 import numpy
 from keras.models import Sequential
 from keras.layers import Dense
@@ -13,8 +8,11 @@ from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 import re
 from train_TimeHistory import TimeHistory
-import pickle
+# import pickle
 import keras.backend as K
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 
 
 
@@ -86,19 +84,18 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=1, batch_size=1024, callbacks=callbacks_list)
-# In this case times should store the epoch computation times.
-times = time_callback.times
-print('Times: {} '.format(times))
+history = model.fit(X, y, epochs=5, batch_size=1024, callbacks=callbacks_list)
 
 
 # list all data in history
 print("list all data in history")
 print(history.history.keys())
 
-with open('/trainHistoryDict', 'wb') as file_pi:
-	pickle.dump(history.history, file_pi)
-
+# write all data of training history in file
+# with open('/trainHistoryDict', 'wb') as file_pi:
+# 	pickle.dump(history.history, file_pi)
+with open('trainHistoryDict/history_training.txt', mode="w") as history_writer:
+	history_writer.write(history.history)
 
 # summarize history for loss
 plt.plot(history.history['loss'])
@@ -107,10 +104,11 @@ plt.title('model loss')
 plt.ylabel('loss')
 plt.xlabel('epoch')
 # plt.legend(['train', 'test'], loc='upper left')
+fig = plt.gcf()
 # plt.show()
-fig = plt.figure()
-plt.plot(range(10))
-fig.savefig('temp.png', dpi=fig.dpi)
+plt.draw()
+fig.savefig('loss.svg', format='svg', dpi=1200)
+
 # summarize history for perplexity
 plt.plot(history.history['perplexity'])
 # plt.plot(history.history['val_loss'])
@@ -118,7 +116,23 @@ plt.title('model perplexity')
 plt.ylabel('perplexity')
 plt.xlabel('epoch')
 # plt.legend(['train', 'test'], loc='upper left')
+fig = plt.gcf()
 # plt.show()
-fig = plt.figure()
-plt.plot(range(10))
-fig.savefig('temp2.png', dpi=fig.dpi)
+plt.draw()
+fig.savefig('perplexity.svg', format='svg', dpi=1200)
+
+
+# In this case times should store the epoch computation times.
+times = time_callback.times
+print('Times: {} '.format(times))
+# summarize history for time computation
+plt.plot(times)
+# plt.plot(history.history['val_loss'])
+plt.title('model times')
+plt.ylabel('times')
+plt.xlabel('epoch')
+# plt.legend(['train', 'test'], loc='upper left')
+fig = plt.gcf()
+# plt.show()
+plt.draw()
+fig.savefig('times.svg', format='svg', dpi=1200)
