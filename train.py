@@ -1,4 +1,9 @@
 # Larger LSTM Network to Generate Text for Alice in Wonderland
+
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+
 import numpy
 from keras.models import Sequential
 from keras.layers import Dense
@@ -10,9 +15,7 @@ import re
 from train_TimeHistory import TimeHistory
 import pickle
 import keras.backend as K
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
+
 
 
 def perplexity(y_true, y_pred):
