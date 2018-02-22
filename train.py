@@ -84,7 +84,7 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=100, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=5, batch_size=1024, callbacks=callbacks_list)
 
 
 # list all data in history
