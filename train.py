@@ -107,7 +107,7 @@ plt.xlabel('epoch')
 fig = plt.gcf()
 # plt.show()
 plt.draw()
-fig.savefig('loss.svg', format='svg', dpi=1200)
+fig.savefig('trainHistoryDict/loss.svg', format='svg', dpi=1200)
 
 # summarize history for perplexity
 plt.plot(history.history['perplexity'])
@@ -119,7 +119,7 @@ plt.xlabel('epoch')
 fig = plt.gcf()
 # plt.show()
 plt.draw()
-fig.savefig('perplexity.svg', format='svg', dpi=1200)
+fig.savefig('trainHistoryDict/perplexity.svg', format='svg', dpi=1200)
 
 
 # In this case times should store the epoch computation times.
@@ -135,4 +135,4 @@ plt.xlabel('epoch')
 fig = plt.gcf()
 # plt.show()
 plt.draw()
-fig.savefig('times.svg', format='svg', dpi=1200)
+fig.savefig('trainHistoryDict/times.svg', format='svg', dpi=1200)
