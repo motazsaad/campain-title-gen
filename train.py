@@ -10,7 +10,7 @@ import re
 from train_TimeHistory import TimeHistory
 import pickle
 import keras.backend as K
-
+import matplotlib.pyplot as plt
 
 def perplexity(y_true, y_pred):
     cross_entropy = K.categorical_crossentropy(y_true, y_pred)
@@ -80,7 +80,7 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=5, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=3, batch_size=1024, callbacks=callbacks_list)
 # In this case times should store the epoch computation times.
 times = time_callback.times
 print('Times: {} '.format(times))
@@ -94,3 +94,19 @@ with open('/trainHistoryDict', 'wb') as file_pi:
 	pickle.dump(history.history, file_pi)
 
 
+# summarize history for loss
+plt.plot(history.history['loss'])
+# plt.plot(history.history['val_acc'])
+plt.title('model loss')
+plt.ylabel('loss')
+plt.xlabel('epoch')
+# plt.legend(['train', 'test'], loc='upper left')
+plt.show()
+# summarize history for perplexity
+plt.plot(history.history['perplexity'])
+# plt.plot(history.history['val_loss'])
+plt.title('model perplexity')
+plt.ylabel('perplexity')
+plt.xlabel('epoch')
+# plt.legend(['train', 'test'], loc='upper left')
+plt.show()
