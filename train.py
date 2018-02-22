@@ -10,6 +10,8 @@ import re
 from train_TimeHistory import TimeHistory
 import pickle
 import keras.backend as K
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 
