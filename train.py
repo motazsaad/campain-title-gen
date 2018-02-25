@@ -29,7 +29,7 @@ def crossentropy(y_true, y_pred):
 
 # load ascii text and covert to lowercase
 # filename = "train_file//live_data_27-1-2018_book_amazon.com_us_adsDescription_noLineDuplicated.txt"
-filename = "train_file/live_data_27-1-2018_book_amazon.com_us_adsTitle_noLineDuplicated.txt"
+filename = "train_file/24-2-2018/adsTitle_noLineDuplicated.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 # make normalization on text file
@@ -87,7 +87,7 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=100, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=3, batch_size=1024, callbacks=callbacks_list)
 
 
 # list all data in history
@@ -111,6 +111,7 @@ fig1 = plt1.gcf()
 # plt.show()
 plt1.draw()
 fig1.savefig('trainHistoryDict/loss.svg', format='svg', dpi=1200)
+plt1.close(fig1)
 
 # summarize history for perplexity
 plt2.plot(history.history['perplexity'])
@@ -123,7 +124,7 @@ fig2 = plt2.gcf()
 # plt.show()
 plt2.draw()
 fig2.savefig('trainHistoryDict/perplexity.svg', format='svg', dpi=1200)
-
+plt2.close(fig2)
 
 # In this case times should store the epoch computation times.
 times = time_callback.times
@@ -139,3 +140,4 @@ fig3 = plt3.gcf()
 # plt.show()
 plt3.draw()
 fig3.savefig('trainHistoryDict/times.svg', format='svg', dpi=1200)
+plt3.close(fig3)
