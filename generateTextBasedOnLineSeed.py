@@ -12,7 +12,7 @@ import re
 
 # load ascii text and covert to lowercase
 # filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
-filename = "test_file/24-2-2018/live_data_24-2-2018_book_amazon.com_us_adsTitle.txt"
+filename = "test_file/2017/adsTitle_2017.txt"
 
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
@@ -112,8 +112,8 @@ model.add(LSTM(256))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 # load the network weights
-filename = "weightsTrainDescription/24-2-2018/weights-improvement-104-0.4158-bigger.hdf5"
-# filename = "weightsTrainTitle/24-2-2018/weights-improvement-200-0.6136-bigger.hdf5"
+# filename = "weightsTrainTitle/2017/weights-improvement-200-0.4981-bigger.hdf5"
+filename = "weightsTrainDescription/2017/weights-improvement-148-0.3852-bigger.hdf5"
 model.load_weights(filename)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 # pick a random seed
@@ -145,7 +145,7 @@ print("\n-------------")
 
 # display the original description/title text for comparison
 print('Line Number  (+1 start from zero): {} '.format(lineNumber[start]))
-filename2 = "test_file/24-2-2018/live_data_24-2-2018_book_amazon.com_us_adsDescription.txt"
+filename2 = "test_file/2017/adsDescription_2017.txt"
 fp = open(filename2)
 for i, line in enumerate(fp):
     if i == lineNumber[start]:
