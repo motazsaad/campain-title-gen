@@ -21,6 +21,17 @@ def perplexity(y_true, y_pred):
     cross_entropy = K.categorical_crossentropy(y_true, y_pred)
     perplexity = K.pow(2.0, cross_entropy)
     return perplexity
+
+def perplexity2(self, text):
+# """
+#         Calculates the perplexity of the given text.
+#         This is simply 2 ** cross-entropy for the text.
+#
+#         :param text: words to calculate perplexity of
+#         :type text: list(str)
+# """
+    return pow(2.0, self.entropy(text))
+
 def crossentropy(y_true, y_pred):
     return K.categorical_crossentropy(y_true, y_pred)
 
@@ -74,7 +85,7 @@ model.add(LSTM(256))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 # model.compile(loss='categorical_crossentropy',optimizer='adam')
-model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=[crossentropy, perplexity])
+model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=[crossentropy, perplexity2])
 # define the checkpoint
 filepath="weights-improvement-{epoch:02d}-{loss:.4f}-bigger.hdf5"
 checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
@@ -85,7 +96,7 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=200, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=2, batch_size=1024, callbacks=callbacks_list)
 
 
 # list all data in history
@@ -112,7 +123,7 @@ fig.savefig('trainHistoryDict/loss.svg', format='svg', dpi=1200)
 plt.close(fig)
 
 # summarize history for perplexity
-plt.plot(history.history['perplexity'])
+plt.plot(history.history['perplexity2'])
 # plt.plot(history.history['val_loss'])
 plt.title('model perplexity')
 plt.ylabel('perplexity')
