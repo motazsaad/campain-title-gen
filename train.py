@@ -16,13 +16,12 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 
-
 # def perplexity(y_true, y_pred):
 #     cross_entropy = K.categorical_crossentropy(y_true, y_pred)
 #     perplexity = K.pow(2.0, cross_entropy)
 #     return perplexity
 
-def perplexity(cls, y_true, y_pred):
+def perplexity(y_true, y_pred):
     cross_entropy = K.mean(K.categorical_crossentropy(y_pred, y_true), axis=-1)
     perplexity = K.exp(cross_entropy)
     return perplexity
