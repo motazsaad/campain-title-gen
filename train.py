@@ -31,8 +31,8 @@ def crossentropy(y_true, y_pred):
 
 
 # load ascii text and covert to lowercase
-filename = "data_file/2016_2017/title/titleTrain70%.txt"
-# filename = "data_file/2016_2017/description/descTrain70%.txt"
+# filename = "data_file/2016_2017/title/titleTrain70%.txt"
+filename = "data_file/2016_2017/description/descTrain70%.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 # make normalization on text file
