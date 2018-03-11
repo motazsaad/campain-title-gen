@@ -12,7 +12,7 @@ import re
 
 # load ascii text and covert to lowercase
 # filename = "test_file/live_data_5-2-2018_book_amazon.com_us_keyword.txt"
-filename = "test_file/2017/adsTitle_2017.txt"
+filename = "data_file/2017/test/adsTitle_2017.txt"
 
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
