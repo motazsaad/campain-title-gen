@@ -2,15 +2,15 @@ import random
 import math
 
 # Configure paths to your dataset files here
-# DATASET_FILE = '../data_file/2016_2017/title/adsTitleUniqe_2016_2017.txt'
-# FILE_TRAIN = '../data_file/2016_2017/title/titleTrain70%.txt'
-# FILE_VALID = '../data_file/2016_2017/title/titleValidation0%.txt'
-# FILE_TESTS = '../data_file/2016_2017/title/titleTest30%.txt'
+# DATASET_FILE = '../data_file/FlightsAndHotels/title/adsTitleUniqe.txt'
+# FILE_TRAIN = '../data_file/FlightsAndHotels/title/titleTrain70%.txt'
+# FILE_VALID = '../data_file/FlightsAndHotels/title/titleValidation0%.txt'
+# FILE_TESTS = '../data_file/FlightsAndHotels/title/titleTest30%.txt'
 
-DATASET_FILE = '../data_file/2016_2017/description/adsDescriptionUniqe_2016_2017.txt'
-FILE_TRAIN = '../data_file/2016_2017/description/descTrain70%.txt'
-FILE_VALID = '../data_file/2016_2017/description/descValidation0%.txt'
-FILE_TESTS = '../data_file/2016_2017/description/descTest30%.txt'
+DATASET_FILE = '../data_file/FlightsAndHotels/description/adsDescriptionUniqe.txt'
+FILE_TRAIN = '../data_file/FlightsAndHotels/description/descTrain70%.txt'
+FILE_VALID = '../data_file/FlightsAndHotels/description/descValidation0%.txt'
+FILE_TESTS = '../data_file/FlightsAndHotels/description/descTest30%.txt'
 
 # Set to true if you want to copy first line from main
 # file into each split (like CSV header)
