@@ -2,15 +2,15 @@ import random
 import math
 
 # Configure paths to your dataset files here
-# DATASET_FILE = '../data_file/FlightsAndHotels/title/adsTitleUniqe.txt'
-# FILE_TRAIN = '../data_file/FlightsAndHotels/title/titleTrain70%.txt'
-# FILE_VALID = '../data_file/FlightsAndHotels/title/titleValidation0%.txt'
-# FILE_TESTS = '../data_file/FlightsAndHotels/title/titleTest30%.txt'
+# DATASET_FILE = '../data_file/EbayAndBestbuy/title/adsTitleUniqe.txt'
+# FILE_TRAIN = '../data_file/EbayAndBestbuy/title/titleTrain70%.txt'
+# FILE_VALID = '../data_file/EbayAndBestbuy/title/titleValidation0%.txt'
+# FILE_TESTS = '../data_file/EbayAndBestbuy/title/titleTest30%.txt'
 
-DATASET_FILE = '../data_file/FlightsAndHotels/description/adsDescriptionUniqe.txt'
-FILE_TRAIN = '../data_file/FlightsAndHotels/description/descTrain70%.txt'
-FILE_VALID = '../data_file/FlightsAndHotels/description/descValidation0%.txt'
-FILE_TESTS = '../data_file/FlightsAndHotels/description/descTest30%.txt'
+DATASET_FILE = '../data_file/EbayAndBestbuy/description/adsDescriptionUniqe.txt'
+FILE_TRAIN = '../data_file/EbayAndBestbuy/description/descTrain70%.txt'
+FILE_VALID = '../data_file/EbayAndBestbuy/description/descValidation0%.txt'
+FILE_TESTS = '../data_file/EbayAndBestbuy/description/descTest30%.txt'
 
 # Set to true if you want to copy first line from main
 # file into each split (like CSV header)

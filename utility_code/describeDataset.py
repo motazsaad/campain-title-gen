@@ -1,11 +1,11 @@
 
-# your_filename = "../data_file/FlightsAndHotels/title/adsTitleUniqe.txt"
-# your_filename = "../data_file/FlightsAndHotels/description/adsDescriptionUniqe.txt"
+# your_filename = "../data_file/EbayAndBestbuy/title/adsTitleUniqe.txt"
+# your_filename = "../data_file/EbayAndBestbuy/description/adsDescriptionUniqe.txt"
 #
-# your_filename = "../data_file/FlightsAndHotels/title/titleTrain70%.txt"
-# your_filename = "../data_file/FlightsAndHotels/title/titleTest30%.txt"
-# your_filename = "../data_file/FlightsAndHotels/description/descTrain70%.txt"
-your_filename = "../data_file/FlightsAndHotels/description/descTest30%.txt"
+# your_filename = "../data_file/EbayAndBestbuy/title/titleTrain70%.txt"
+# your_filename = "../data_file/EbayAndBestbuy/title/titleTest30%.txt"
+# your_filename = "../data_file/EbayAndBestbuy/description/descTrain70%.txt"
+your_filename = "../data_file/EbayAndBestbuy/description/descTest30%.txt"
 
 print("-------------------------------------")
 print("Max Line Length in Data set (with \ n)")

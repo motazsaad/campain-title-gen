@@ -11,10 +11,10 @@ import re
 import pandas as pd
 import collections, nltk
 
-feedFile = "data_file/2016_2017/title/titleTest30%.txt"
-weightsFile = "weights/description/2016_2017/weights-improvement-107-0.5048-bigger.hdf5"
-comparisonFile = "data_file/2016_2017/all data/2016_2017.csv"
-perplexityFile = "data_file/2016_2017/description/descTrain70%.txt"
+feedFile = "data_file/FlightsAndHotels/title/titleTest30%.txt"
+weightsFile = "weights/description/FlightsAndHotels/weights-improvement-199-0.5265-bigger.hdf5"
+comparisonFile = "data_file/FlightsAndHotels/all data/allbooking.csv"
+perplexityFile = "data_file/FlightsAndHotels/description/descTrain70%.txt"
 out_csv_file = "trainHistoryDict/descComparison.csv"
 
 # load ascii text and covert to lowercase
@@ -145,7 +145,7 @@ print("Display the original description/title text for comparison \n")
 df = pd.read_csv(comparisonFile, usecols=['Title', 'Description'])
 df['titleLower'] = df['Title'].str.lower()
 listTitle = df['titleLower'].values.tolist()
-listTitle = [re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', i) for i in listTitle]
+listTitle = [re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', str(i)) for i in listTitle]
 
 df['descriptionLower'] = df['Description'].str.lower()
 listDescription = df['descriptionLower'].values.tolist()
@@ -153,7 +153,8 @@ listDescription = [re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '
 
 foundList = []
 originalTitle = [seed]
-originalDesc = []
+# originalDesc = []
+originalDesc = set()
 
 # find index of original title to get index of original description
 for i in range(len(listTitle)):
@@ -163,7 +164,8 @@ print('- Index in file (+2 start from zero and header): {} '.format(foundList))
 
 
 for item in foundList:
- originalDesc.append(listDescription[item])
+ # originalDesc.append(listDescription[item])
+ originalDesc.add(listDescription[item])
 
 print('- Original Title: {} '.format(originalTitle))
 print('- Original Description: {} '.format(originalDesc))
