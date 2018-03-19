@@ -11,10 +11,10 @@ import re
 import pandas as pd
 import collections, nltk
 
-feedFile = "data_file/FlightsAndHotels/title/titleTest30%.txt"
-weightsFile = "weights/description/FlightsAndHotels/weights-improvement-199-0.5265-bigger.hdf5"
-comparisonFile = "data_file/FlightsAndHotels/all data/allbooking.csv"
-perplexityFile = "data_file/FlightsAndHotels/description/descTrain70%.txt"
+feedFile = "data_file/EbayAndBestbuy/title/titleTest30%.txt"
+weightsFile = "weights/description/EbayAndBestbuy/weights-improvement-199-0.6590-bigger.hdf5"
+comparisonFile = "data_file/EbayAndBestbuy/all data/alldata.csv"
+perplexityFile = "data_file/EbayAndBestbuy/description/descTrain70%.txt"
 out_csv_file = "trainHistoryDict/descComparison.csv"
 
 # load ascii text and covert to lowercase
