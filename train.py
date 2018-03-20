@@ -32,7 +32,7 @@ def crossentropy(y_true, y_pred):
 
 # load ascii text and covert to lowercase
 # filename = "data_file/EbayAndBestbuy/title/titleTrain70%.txt"
-filename = "data_file/EbayAndBestbuy/description/descTrain70%.txt"
+filename = "data_file/FlightsAndHotels/description/descTrain70%.txt"
 raw_text = open(filename).read()
 raw_text = raw_text.lower()
 # make normalization on text file
@@ -90,7 +90,7 @@ callbacks_list = [checkpoint, time_callback]
 # fit the model
 # model.fit(X, y, epochs=50, batch_size=64, callbacks=callbacks_list)
 # test this (Full 8 core cpu)
-history = model.fit(X, y, epochs=200, batch_size=1024, callbacks=callbacks_list)
+history = model.fit(X, y, epochs=2000, batch_size=1024, callbacks=callbacks_list)
 
 
 # list all data in history
