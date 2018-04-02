@@ -7,10 +7,16 @@ import math
 # FILE_VALID = '../data_file/EbayAndBestbuy/title/titleValidation0%.txt'
 # FILE_TESTS = '../data_file/EbayAndBestbuy/title/titleTest30%.txt'
 
-DATASET_FILE = '../data_file/EbayAndBestbuy/description/adsDescriptionUniqe.txt'
-FILE_TRAIN = '../data_file/EbayAndBestbuy/description/descTrain70%.txt'
-FILE_VALID = '../data_file/EbayAndBestbuy/description/descValidation0%.txt'
-FILE_TESTS = '../data_file/EbayAndBestbuy/description/descTest30%.txt'
+
+# DATASET_FILE = '../torch/data/FlightsAndHotels/title/adsTitleUniqe.txt'
+# FILE_TRAIN = '../torch/data/FlightsAndHotels/title/train.txt'
+# FILE_VALID = '../torch/data/FlightsAndHotels/title/valid.txt'
+# FILE_TESTS = '../torch/data/FlightsAndHotels/title/test.txt'
+
+DATASET_FILE = '../torch/data/FlightsAndHotels/description/adsDescriptionUniqe.txt'
+FILE_TRAIN = '../torch/data/FlightsAndHotels/description/train.txt'
+FILE_VALID = '../torch/data/FlightsAndHotels/description/valid.txt'
+FILE_TESTS = '../torch/data/FlightsAndHotels/description/test.txt'
 
 # Set to true if you want to copy first line from main
 # file into each split (like CSV header)
@@ -18,14 +24,14 @@ IS_CSV = False
 
 # Make sure it adds to 100, no error checking below
 PERCENT_TRAIN = 70
-PERCENT_VALID = 0
-PERCENT_TESTS = 30
+PERCENT_VALID = 15
+PERCENT_TESTS = 15
 
-data = [l for l in open(DATASET_FILE, 'r')]
+data = [l for l in open(DATASET_FILE, 'r', encoding='utf8')]
 
-train_file = open(FILE_TRAIN, 'w')
-valid_file = open(FILE_VALID, 'w')
-tests_file = open(FILE_TESTS, 'w')
+train_file = open(FILE_TRAIN, 'w', encoding='utf8')
+valid_file = open(FILE_VALID, 'w', encoding='utf8')
+tests_file = open(FILE_TESTS, 'w', encoding='utf8')
 
 if IS_CSV:
     train_file.write(data[0])
