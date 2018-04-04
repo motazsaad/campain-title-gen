@@ -1,5 +1,6 @@
 import os
 import torch
+import re
 
 class Dictionary(object):
     def __init__(self):
@@ -30,6 +31,11 @@ class Corpus(object):
         with open(path, 'r', encoding='utf8') as f:
             tokens = 0
             for line in f:
+                line = line.lower()
+                # make normalization on text file
+                line = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', line)
+                # print(punctuation)
+                print(line)
                 words = line.split() + ['<eos>']
                 tokens += len(words)
                 for word in words:
@@ -40,6 +46,11 @@ class Corpus(object):
             ids = torch.LongTensor(tokens)
             token = 0
             for line in f:
+                line = line.lower()
+                # make normalization on text file
+                line = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', line)
+                # print(punctuation)
+                # print(line)
                 words = line.split() + ['<eos>']
                 for word in words:
                     ids[token] = self.dictionary.word2idx[word]

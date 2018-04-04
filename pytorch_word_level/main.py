@@ -1,3 +1,5 @@
+# https://github.com/pytorch/examples/blob/7d0d413425e2ee64fcd0e0de1b11c5cca1f79f4d/word_language_model/main.py#L171
+
 import argparse
 import time
 import math
@@ -56,6 +58,8 @@ parser.add_argument('--save', type=str,  default='model.pt',
                     help='path to save the final model')
 parser.add_argument('--savetest', type=str,  default='model.txt',
                     help='file to save the test score')
+parser.add_argument('--savehistory', type=str,  default='history.txt',
+                    help='file to save the training history')
 parser.add_argument('--xavier', action='store_true',
                     help='Use Xavier Initialization')
 parser.add_argument('--bidirectional', action='store_true',
@@ -174,6 +178,11 @@ def train():
         if batch % args.log_interval == 0 and batch > 0:
             cur_loss = total_loss[0] / args.log_interval
             elapsed = time.time() - start_time
+            with open(args.savehistory, "a") as myfile:
+                myfile.write('| epoch {:3d} | {:5d}/{:5d} batches | lr {:02.2f} | ms/batch {:5.2f} | '
+                    'loss {:5.2f} | ppl {:8.2f}'.format(
+                epoch, batch, len(train_data) // args.bptt, lr,
+                elapsed * 1000 / args.log_interval, cur_loss, math.exp(cur_loss)))
             print('| epoch {:3d} | {:5d}/{:5d} batches | lr {:02.2f} | ms/batch {:5.2f} | '
                     'loss {:5.2f} | ppl {:8.2f}'.format(
                 epoch, batch, len(train_data) // args.bptt, lr,
@@ -193,19 +202,41 @@ for epoch in range(1, args.epochs+1):
     epoch_start_time = time.time()
     train()
     val_loss = evaluate(val_data)
+    with open(args.savehistory, "a") as myfile:
+        myfile.write('-' * 89)
+        myfile.write('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
+            'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
+                                       val_loss, math.exp(val_loss)))
+        myfile.write('-' * 89)
     print('-' * 89)
     print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
             'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
                                        val_loss, math.exp(val_loss)))
     print('-' * 89)
     # Anneal the learning rate.
+    # if prev_val_loss and val_loss > prev_val_loss:
+    #     lr /= 4.0
+
     if prev_val_loss and val_loss > prev_val_loss:
+        # Anneal the learning rate if no improvement has been seen in the validation dataset.
         lr /= 4.0
-    prev_val_loss = val_loss
+    else:
+        # Save the model if the validation loss is the best we've seen so far.
+        with open('./trainingFiles/'+str(epoch)+str('_')+str(val_loss)+str('_')+args.save, 'wb') as f:
+            torch.save(model, f)
+        prev_val_loss = val_loss
+
+    # prev_val_loss = val_loss
 
 
 # Run on test data and save the model.
 test_loss = evaluate(test_data)
+with open(args.savehistory, "a") as myfile:
+    myfile.write('=' * 89)
+    myfile.write('| End of training | test loss {:5.2f} | test ppl {:8.2f}'.format(
+    test_loss, math.exp(test_loss)))
+    myfile.write('=' * 89)
+
 print('=' * 89)
 print('| End of training | test loss {:5.2f} | test ppl {:8.2f}'.format(
     test_loss, math.exp(test_loss)))
@@ -221,9 +252,9 @@ if save_name != '':
     test_loss, math.exp(test_loss)))
 
 print('=' * 89)
-if args.save != '':
-    with open(args.save, 'wb') as f:
-        torch.save(model, f)
+# if args.save != '':
+#     with open(args.save, 'wb') as f:
+#         torch.save(model, f)
         
 var = next(model.encoder.parameters())
 var = var.data.cpu().numpy()
