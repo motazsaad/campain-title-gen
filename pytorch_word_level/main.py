@@ -207,6 +207,7 @@ for epoch in range(1, args.epochs+1):
         myfile.write('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
             'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
                                        val_loss, math.exp(val_loss)))
+        myfile.write('\n')
         # myfile.write('-' * 89)
     print('-' * 89)
     print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
@@ -223,7 +224,7 @@ for epoch in range(1, args.epochs+1):
         lr /= 4.0
     else:
         # Save the model if the validation loss is the best we've seen so far.
-        with open('./trainingFiles/'+'Epoch: '+str(epoch)+str('_')+'Val_loss: '+str(math.exp(val_loss))+str('_')+args.save, 'wb') as f:
+        with open('./trainingFiles/'+'Epoch-'+str(epoch)+str('_')+'Val_loss-'+str("%.2f" % val_loss)+str('_')+args.save, 'wb') as f:
             torch.save(model, f)
         prev_val_loss = val_loss
 
