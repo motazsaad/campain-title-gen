@@ -178,11 +178,11 @@ def train():
         if batch % args.log_interval == 0 and batch > 0:
             cur_loss = total_loss[0] / args.log_interval
             elapsed = time.time() - start_time
-            with open(args.savehistory, "a") as myfile:
-                myfile.write('| epoch {:3d} | {:5d}/{:5d} batches | lr {:02.2f} | ms/batch {:5.2f} | '
-                    'loss {:5.2f} | ppl {:8.2f}'.format(
-                epoch, batch, len(train_data) // args.bptt, lr,
-                elapsed * 1000 / args.log_interval, cur_loss, math.exp(cur_loss)))
+            # with open(args.savehistory, "a") as myfile:
+            #     myfile.write('| epoch {:3d} | {:5d}/{:5d} batches | lr {:02.2f} | ms/batch {:5.2f} | '
+            #         'loss {:5.2f} | ppl {:8.2f}'.format(
+            #     epoch, batch, len(train_data) // args.bptt, lr,
+            #     elapsed * 1000 / args.log_interval, cur_loss, math.exp(cur_loss)))
             print('| epoch {:3d} | {:5d}/{:5d} batches | lr {:02.2f} | ms/batch {:5.2f} | '
                     'loss {:5.2f} | ppl {:8.2f}'.format(
                 epoch, batch, len(train_data) // args.bptt, lr,
@@ -203,11 +203,11 @@ for epoch in range(1, args.epochs+1):
     train()
     val_loss = evaluate(val_data)
     with open(args.savehistory, "a") as myfile:
-        myfile.write('-' * 89)
+        # myfile.write('-' * 89)
         myfile.write('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
             'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
                                        val_loss, math.exp(val_loss)))
-        myfile.write('-' * 89)
+        # myfile.write('-' * 89)
     print('-' * 89)
     print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
             'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
@@ -216,26 +216,27 @@ for epoch in range(1, args.epochs+1):
     # Anneal the learning rate.
     # if prev_val_loss and val_loss > prev_val_loss:
     #     lr /= 4.0
+    # prev_val_loss = val_loss
 
     if prev_val_loss and val_loss > prev_val_loss:
         # Anneal the learning rate if no improvement has been seen in the validation dataset.
         lr /= 4.0
     else:
         # Save the model if the validation loss is the best we've seen so far.
-        with open('./trainingFiles/'+str(epoch)+str('_')+str(val_loss)+str('_')+args.save, 'wb') as f:
+        with open('./trainingFiles/'+'Epoch: '+str(epoch)+str('_')+'Val_loss: '+str(math.exp(val_loss))+str('_')+args.save, 'wb') as f:
             torch.save(model, f)
         prev_val_loss = val_loss
 
-    # prev_val_loss = val_loss
+
 
 
 # Run on test data and save the model.
 test_loss = evaluate(test_data)
 with open(args.savehistory, "a") as myfile:
-    myfile.write('=' * 89)
+    # myfile.write('=' * 89)
     myfile.write('| End of training | test loss {:5.2f} | test ppl {:8.2f}'.format(
     test_loss, math.exp(test_loss)))
-    myfile.write('=' * 89)
+    # myfile.write('=' * 89)
 
 print('=' * 89)
 print('| End of training | test loss {:5.2f} | test ppl {:8.2f}'.format(

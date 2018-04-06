@@ -58,7 +58,10 @@ if args.temperature < 1e-3:
     parser.error("--temperature has to be greater or equal 1e-3")
 
 with open(args.checkpoint, 'rb') as f:
-    model = torch.load(f)
+    if args.cuda:
+        model = torch.load(f)
+    else:
+        model = torch.load(f, map_location='cpu')
 
 if args.cuda:
     model.cuda()
@@ -85,6 +88,9 @@ elif(args.seedWordLine == 2):
     # ***************************************************************
     feedFile = args.feedfile
     raw_text = open(feedFile, encoding='utf8').read()
+    raw_text = raw_text.lower()
+    # make normalization on text file
+    raw_text = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', raw_text)
     # Get First and last index for each lines , then get the length for each line
     first = []
     last = []
@@ -176,9 +182,9 @@ dfNew = pd.DataFrame([list_row],
                    columns=['desc_line_seed','generated _text'])
 dfFinal = dfOriginal.append(dfNew, ignore_index=True)
 
-# print('Original DataFrame:\n {} '.format(dfOriginal))
-# print('New DataFrame:\n {} '.format(dfNew))
-# print('Final DataFrame:\n {} '.format(dfFinal))
+print('Original DataFrame:\n {} '.format(dfOriginal))
+print('New DataFrame:\n {} '.format(dfNew))
+print('Final DataFrame:\n {} '.format(dfFinal))
 
 dfFinal.to_csv(args.outcsv, index=False, encoding='utf-8')
 print("\n------------------------------------------------------------------------------")
