@@ -1,3 +1,21 @@
+------------------------------------------
+**My experiment** 
+
+github Link:
+https://github.com/dmadeka/Deep-RNN
+
+library:
+Pytorch
+
+Level:
+word level
+
+Model:
+LSTM, GRU and RNN
+
+optimizer:
+Adam, SGD, Adadelta and RMSProp
+------------------------------------------
 # ds-ga-1008-a2
 
 NYU course Spring 2017 Assignment 2
