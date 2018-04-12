@@ -6,13 +6,13 @@ github Link:
 https://github.com/burliEnterprises/tensorflow-shakespeare-poem-generator
 
 library:
-tensorflow
+Tensorflow
 
 Level:
 
 
 Model:
-
+RNN
 
 optimizer:
 

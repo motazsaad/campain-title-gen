@@ -51,7 +51,14 @@ if __name__ == '__main__':
     argparser.add_argument('--cuda', action='store_true')
     args = argparser.parse_args()
 
+if args.cuda:
     decoder = torch.load(args.filename)
     del args.filename
     print(generate(decoder, **vars(args)))
+    print('----------------------------------------------')
+else:
+    decoder = torch.load(args.filename, map_location='cpu')
+    del args.filename
+    print(generate(decoder, **vars(args)))
+    print('----------------------------------------------')
 
