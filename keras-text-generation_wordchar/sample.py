@@ -8,13 +8,15 @@ from model import load
 def main():
     parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
     parser.add_argument('--data-dir', type=str, default='data/tinyshakespeare',
-                        help='data directory containing input.txt')
+                        help='data directory containing .h5 and pkl')
     parser.add_argument('--seed', type=str, default=None,
                         help='seed string for sampling')
     parser.add_argument('--length', type=int, default=1000,
                         help='length of the sample to generate')
     parser.add_argument('--diversity', type=float, default=1.0,
                         help='Sampling diversity')
+    parser.add_argument('--outcsv', type=str, default='description/desc_char_level.csv',
+                        help='the path of csv output to save result')
     args = parser.parse_args()
 
     model = load(args.data_dir)

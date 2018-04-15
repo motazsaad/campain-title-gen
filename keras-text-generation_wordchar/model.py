@@ -16,6 +16,7 @@ from vectorizer import Vectorizer
 from utils import print_cyan, print_green, print_red
 from utils import sample_preds, shape_for_stateful_rnn, find_random_seeds
 import re
+import pandas as pd
 
 class LiveSamplerCallback(Callback):
     """
@@ -155,7 +156,7 @@ class MetaModel:
         train_end = time.time()
         print_red('Training time', train_end - train_start)
 
-    def sample(self, seed=None, length=None, diversity=1.0):
+    def sample(self, seed=None, length=None, diversity=1.0, outcsv=None):
         """Sample the model"""
         self.sample_model.reset_states()
 
@@ -186,7 +187,26 @@ class MetaModel:
             preds = self.sample_model.predict(np.array([[char_index]]),
                                               verbose=0)
         sample = self.vectorizer.unvectorize(sampled_indices)
+        # print('dd')
         print(sample)
+        # print('dd')
+
+        print("\n------------------------------------------------------------------------------")
+        print("Save every Thing on CSV file")
+        # print(outcsv)
+        list_row = [seed, seed+' '+sample]
+        dfOriginal = pd.read_csv(outcsv, index_col=False, encoding='utf-8')
+        dfNew = pd.DataFrame([list_row],
+                             columns=['desc_line_seed', 'generated _text'])
+        dfFinal = dfOriginal.append(dfNew, ignore_index=True)
+
+        print('Original DataFrame:\n {} '.format(dfOriginal))
+        print('New DataFrame:\n {} '.format(dfNew))
+        print('Final DataFrame:\n {} '.format(dfFinal))
+
+        dfFinal.to_csv(outcsv, index=False, encoding='utf-8')
+        print("\n------------------------------------------------------------------------------")
+
         return sample
 
     # Don't pickle the keras models, better to save directly
