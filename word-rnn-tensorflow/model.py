@@ -119,7 +119,9 @@ class Model():
             if not len(prime) or prime == ' ':
                 prime  = random.choice(list(vocab.keys()))
             if not quiet:
+                print('Prime text:-')
                 print(prime)
+                print('---------------')
             for word in prime.split()[:-1]:
                 if not quiet:
                     print(word)
