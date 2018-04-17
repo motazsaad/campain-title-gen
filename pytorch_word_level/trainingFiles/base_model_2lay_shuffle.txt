@@ -1,1 +1,0 @@
-| End of training | test loss  3.84 | test ppl    46.65

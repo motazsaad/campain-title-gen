@@ -50,6 +50,8 @@ def main():
                                                   Note: this file contains absolute paths, be careful when moving files around;
                             'model.ckpt-*'      : file(s) with model definition (created by tf)
                         """)
+    parser.add_argument('--savehistory', type=str, default='history.txt',
+                        help='file to save the training history')
     args = parser.parse_args()
     train(args)
 
@@ -123,11 +125,24 @@ def train(args):
                         .format(e * data_loader.num_batches + b,
                                 args.num_epochs * data_loader.num_batches,
                                 e, train_loss, speed))
+
+                    with open(args.savehistory, "a") as myfile:
+                        # myfile.write('-' * 89)
+                        myfile.write("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
+                        .format(e * data_loader.num_batches + b,
+                                args.num_epochs * data_loader.num_batches,
+                                e, train_loss, speed))
+                        myfile.write('\n')
                 if (e * data_loader.num_batches + b) % args.save_every == 0 \
                         or (e==args.num_epochs-1 and b == data_loader.num_batches-1): # save for the last result
                     checkpoint_path = os.path.join(args.save_dir, 'model.ckpt')
                     saver.save(sess, checkpoint_path, global_step = e * data_loader.num_batches + b)
                     print("model saved to {}".format(checkpoint_path))
+
+                    with open(args.savehistory, "a") as myfile:
+                        # myfile.write('-' * 89)
+                        myfile.write("model saved to {}".format(checkpoint_path))
+                        myfile.write('\n')
         train_writer.close()
 
 if __name__ == '__main__':
