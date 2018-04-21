@@ -8,7 +8,7 @@ library:
 Tensorflow 
 
 Level:
-Word and Char level
+Word level
 
 Model:
 rnn, gru, or lstm

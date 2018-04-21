@@ -105,6 +105,7 @@ def train(args):
             data_loader.reset_batch_pointer()
             state = sess.run(model.initial_state)
             speed = 0
+            allTime = 0
             if args.init_from is None:
                 assign_op = model.epoch_pointer.assign(e)
                 sess.run(assign_op)
@@ -113,6 +114,7 @@ def train(args):
                 args.init_from = None
             for b in range(data_loader.pointer, data_loader.num_batches):
                 start = time.time()
+                start2 = time.time()
                 x, y = data_loader.next_batch()
                 feed = {model.input_data: x, model.targets: y, model.initial_state: state,
                         model.batch_time: speed}
@@ -120,18 +122,25 @@ def train(args):
                                                              model.train_op, model.inc_batch_pointer_op], feed)
                 train_writer.add_summary(summary, e * data_loader.num_batches + b)
                 speed = time.time() - start
+                end = time.time()
+                allTime = allTime + (end - start2)
+                # print('sssssssss')
+                # print(start2)
+                # print(end)
+                # print(allTime)
+                # print('sssssssss')
                 if (e * data_loader.num_batches + b) % args.batch_size == 0:
-                    print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
+                    print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}, All_Time = {:.3f}" \
                         .format(e * data_loader.num_batches + b,
                                 args.num_epochs * data_loader.num_batches,
-                                e, train_loss, speed))
+                                e, train_loss, speed, allTime))
 
                     with open(args.savehistory, "a") as myfile:
                         # myfile.write('-' * 89)
-                        myfile.write("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}" \
+                        myfile.write("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}, All_Time = {:.3f}" \
                         .format(e * data_loader.num_batches + b,
                                 args.num_epochs * data_loader.num_batches,
-                                e, train_loss, speed))
+                                e, train_loss, speed, allTime))
                         myfile.write('\n')
                 if (e * data_loader.num_batches + b) % args.save_every == 0 \
                         or (e==args.num_epochs-1 and b == data_loader.num_batches-1): # save for the last result
