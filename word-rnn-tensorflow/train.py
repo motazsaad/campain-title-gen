@@ -114,7 +114,6 @@ def train(args):
                 args.init_from = None
             for b in range(data_loader.pointer, data_loader.num_batches):
                 start = time.time()
-                start2 = time.time()
                 x, y = data_loader.next_batch()
                 feed = {model.input_data: x, model.targets: y, model.initial_state: state,
                         model.batch_time: speed}
@@ -122,8 +121,7 @@ def train(args):
                                                              model.train_op, model.inc_batch_pointer_op], feed)
                 train_writer.add_summary(summary, e * data_loader.num_batches + b)
                 speed = time.time() - start
-                end = time.time()
-                allTime = allTime + (end - start2)
+                allTime = allTime + speed
                 # print('sssssssss')
                 # print(start2)
                 # print(end)

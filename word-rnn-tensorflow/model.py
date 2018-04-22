@@ -121,6 +121,8 @@ class Model():
             if not quiet:
                 print('Prime text:-')
                 print(prime)
+                with open('prime_text.txt', 'w') as the_file:
+                    the_file.write(prime)
                 print('---------------')
             for word in prime.split()[:-1]:
                 if not quiet:

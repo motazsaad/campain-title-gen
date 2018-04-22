@@ -67,5 +67,7 @@
 #python sample.py --n 12
 #python sample.py --n 12
 
+#--------------------------------------------------------------------------------
+#python train.py --data_dir 'description' --input_encoding 'utf-8' --num_epochs 2000 --savehistory trainingHistory.txt
 
-python train.py --data_dir 'description' --input_encoding 'utf-8' --num_epochs 2000 --savehistory trainingHistory.txt
+python sample.py --n 12 --perplexity_file 'description/adsDescriptionUniqe.txt' --outcsv 'tf_word_level.csv'

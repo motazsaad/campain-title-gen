@@ -68,4 +68,7 @@
 #python sample.py --n 12
 
 
-python train.py --data_dir 'description' --num_epochs 2000 --savehistory trainingHistory.txt
+#--------------------------------------------------------------------------------
+#python train.py --data_dir 'description' --num_epochs 2000 --savehistory trainingHistory.txt
+
+python sample.py --n 70 --prime "guarantee" --perplexity_file 'description/adsDescriptionUniqe.txt' --outcsv 'tf_char_level.csv'
