@@ -1,7 +1,0 @@
-0/530000 (epoch 0), train_loss = 9.881, time/batch = 0.703, All_Time = 0.703
-model saved to save/model.ckpt
-50/530000 (epoch 0), train_loss = 5.984, time/batch = 0.618, All_Time = 30.925
-100/530000 (epoch 0), train_loss = 5.885, time/batch = 0.655, All_Time = 63.426
-150/530000 (epoch 0), train_loss = 5.942, time/batch = 0.770, All_Time = 97.023
-200/530000 (epoch 0), train_loss = 5.864, time/batch = 0.618, All_Time = 128.511
-250/530000 (epoch 0), train_loss = 5.917, time/batch = 0.991, All_Time = 165.213
