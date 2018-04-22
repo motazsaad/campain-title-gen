@@ -97,6 +97,7 @@ def train(args):
         train_writer.add_graph(sess.graph)
         tf.global_variables_initializer().run()
         saver = tf.train.Saver(tf.global_variables())
+        allTime = 0
         # restore model
         if args.init_from is not None:
             saver.restore(sess, ckpt.model_checkpoint_path)
@@ -105,7 +106,6 @@ def train(args):
             data_loader.reset_batch_pointer()
             state = sess.run(model.initial_state)
             speed = 0
-            allTime = 0
             if args.init_from is None:
                 assign_op = model.epoch_pointer.assign(e)
                 sess.run(assign_op)
