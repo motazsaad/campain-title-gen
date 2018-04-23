@@ -12,7 +12,6 @@ import re
 import pandas as pd
 import collections, nltk
 
-
 def main():
     parser = argparse.ArgumentParser(
                        formatter_class=argparse.ArgumentDefaultsHelpFormatter)
@@ -91,7 +90,7 @@ def main():
     print("Save every Thing on CSV file")
     print("seed_text(prime_text), generated_text and perplexity PPL for whole text to csv file")
 
-    list_row = [args.prime, generated_text.decode(), ppl_val]
+    list_row = [args.prime, generated_text, ppl_val]
     dfOriginal = pd.read_csv(args.outcsv, index_col=False)
     dfNew = pd.DataFrame([list_row],
                          columns=['seed_text(prime_text)', 'generated _text', 'perplexity'])
@@ -120,6 +119,7 @@ def sample(args):
         if ckpt and ckpt.model_checkpoint_path:
             saver.restore(sess, ckpt.model_checkpoint_path)
             generated_text = model.sample(sess, chars, vocab, args.n, args.prime,args.sample).encode('utf-8')
+            generated_text = generated_text.decode()
             print(generated_text)
             print('----------------------------------------------------------')
     return generated_text
