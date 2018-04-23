@@ -16,6 +16,7 @@
 import numpy as np
 import glob
 import sys
+import re
 
 # size of the alphabet that we work with
 ALPHASIZE = 98
@@ -155,7 +156,7 @@ def print_learning_learned_comparison(X, Y, losses, bookranges, batch_loss, batc
         formatted_bookname = "{: <10.40}".format(bookname)  # min 10 and max 40 chars
         epoch_string = "{:4d}".format(index) + " (epoch {}) ".format(epoch)
         loss_string = "loss: {:.5f}".format(losses[k])
-        print_string = epoch_string + formatted_bookname + " │ {} │ {} │ {}"
+        print_string = epoch_string + formatted_bookname + "{} {} {}"
         print(print_string.format(decx, decy, loss_string))
         index += sequence_len
     # box formatting characters:
@@ -172,13 +173,13 @@ def print_learning_learned_comparison(X, Y, losses, bookranges, batch_loss, batc
     format_string += "┴{:─^" + str(len(decy) + 2) + "}"
     format_string += "┴{:─^" + str(len(loss_string)) + "}┘"
     footer = format_string.format('INDEX', 'BOOK NAME', 'TRAINING SEQUENCE', 'PREDICTED SEQUENCE', 'LOSS')
-    print(footer)
+    print(footer.encode('utf-8'))
     # print statistics
     batch_index = start_index_in_epoch // (batch_size * sequence_len)
     batch_string = "batch {}/{} in epoch {},".format(batch_index, epoch_size, epoch)
     stats = "{: <28} batch loss: {:.5f}, batch accuracy: {:.5f}".format(batch_string, batch_loss, batch_accuracy)
     print()
-    print("TRAINING STATS: {}".format(stats))
+    print("TRAINING STATS: {}".format(stats).encode('utf-8'))
 
 
 class Progress:
@@ -211,7 +212,7 @@ class Progress:
     def __print_header(self):
         print()
         format_string = "0%{: ^" + str(self.size - 6) + "}100%"
-        print(format_string.format(self.msg))
+        print(format_string.format(self.msg).encode('utf-8'))
         self.header_printed = True
 
     def __start_progress(self, maxi):
@@ -246,10 +247,14 @@ def read_data_files(directory, validation=True):
     bookranges = []
     shakelist = glob.glob(directory, recursive=True)
     for shakefile in shakelist:
-        shaketext = open(shakefile, "r")
+        shaketext = open(shakefile, "r", encoding='utf-8')
         print("Loading file " + shakefile)
         start = len(codetext)
-        codetext.extend(encode_text(shaketext.read()))
+
+        allData = shaketext.read().lower()
+        allData = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', allData)
+
+        codetext.extend(encode_text(allData))
         end = len(codetext)
         bookranges.append({"start": start, "end": end, "name": shakefile.rsplit("/", 1)[-1]})
         shaketext.close()
@@ -319,15 +324,16 @@ def print_validation_stats(loss, accuracy):
 
 def print_text_generation_header():
     print()
-    print("┌{:─^111}┐".format('Generating random text from learned state'))
+    print("┌{:─^111}┐".format('Generating random text from learned state').encode('utf-8'))
 
 
 def print_text_generation_footer():
     print()
-    print("└{:─^111}┘".format('End of generation'))
+    print("└{:─^111}┘".format('End of generation').encode('utf-8'))
 
 
 def frequency_limiter(n, multiple=1, modulo=0):
     def limit(i):
         return i % (multiple * n) == modulo*multiple
     return limit
+#
