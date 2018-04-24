@@ -12,9 +12,9 @@ from model import Model
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_dir', type=str, default='data/tinyshakespeare',
+    parser.add_argument('--data_dir', type=str, default='description',
                        help='data directory containing input.txt')
-    parser.add_argument('--input_encoding', type=str, default=None,
+    parser.add_argument('--input_encoding', type=str, default='utf-8',
                        help='character encoding of input.txt, from https://docs.python.org/3/library/codecs.html#standard-encodings')
     parser.add_argument('--log_dir', type=str, default='logs',
                        help='directory containing tensorboard logs')

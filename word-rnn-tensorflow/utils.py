@@ -47,6 +47,17 @@ class TextLoader():
         string = re.sub(r"\s{2,}", " ", string)
         return string.strip().lower()
 
+    def clean_str2(self, string):
+
+        """
+        Tokenization/string cleaning for all datasets except for SST.
+        Original taken from https://github.com/yoonkim/CNN_sentence/blob/master/process_data
+        """
+        string = string.lower()
+        # make normalization on text file
+        string = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', string)
+        return string
+
     def build_vocab(self, sentences):
         """
         Builds a vocabulary mapping from word to index based on the sentences.
@@ -66,7 +77,7 @@ class TextLoader():
             data = f.read()
 
         # Optional text cleaning or make them lower case, etc.
-        #data = self.clean_str(data)
+        data = self.clean_str2(data)
         x_text = data.split()
 
         self.vocab, self.words = self.build_vocab(x_text)

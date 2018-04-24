@@ -3,7 +3,7 @@ import os
 import collections
 from six.moves import cPickle
 import numpy as np
-
+import re
 
 class TextLoader():
     def __init__(self, data_dir, batch_size, seq_length, encoding='utf-8'):
@@ -25,9 +25,24 @@ class TextLoader():
         self.create_batches()
         self.reset_batch_pointer()
 
+    def clean_str2(self, string):
+
+        """
+        Tokenization/string cleaning for all datasets except for SST.
+        Original taken from https://github.com/yoonkim/CNN_sentence/blob/master/process_data
+        """
+        string = string.lower()
+        # make normalization on text file
+        string = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', string)
+        return string
+
     def preprocess(self, input_file, vocab_file, tensor_file):
         with codecs.open(input_file, "r", encoding=self.encoding) as f:
             data = f.read()
+
+        # Optional text cleaning or make them lower case, etc.
+        data = self.clean_str2(data)
+
         counter = collections.Counter(data)
         count_pairs = sorted(counter.items(), key=lambda x: -x[1])
         self.chars, _ = zip(*count_pairs)
