@@ -11,7 +11,9 @@ from utils import TextLoader
 from model import Model
 import re
 import pandas as pd
-import collections, nltk
+import collections
+import nltk
+nltk.download('punkt')
 
 def main():
     parser = argparse.ArgumentParser()
