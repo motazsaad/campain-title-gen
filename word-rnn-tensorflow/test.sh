@@ -275,7 +275,7 @@
 #python sample.py --n 12 --save_dir 'lstm_2x_400' --outcsv 'lstm_2x_400_tf_word_level.csv'
 #
 ## (lstm 4x)
-python train.py --num_epochs 200 --save_dir 'lstm_4x_200' --rnn_size 800 --num_layers 6 --model 'lstm' --seq_length 100 --learning_rate 2 --savehistory lstm_4x_200_trainingHistory.txt
+python train.py --num_epochs 200 --save_dir 'lstm_4x_200' --rnn_size 700 --num_layers 6 --model 'lstm' --seq_length 80 --learning_rate 1.2 --savehistory lstm_4x_200_trainingHistory.txt
 #
 ## run 1
 #python sample.py --n 12 --prime "international" --save_dir 'lstm_4x_200' --outcsv 'lstm_4x_200_tf_word_level.csv'
