@@ -207,7 +207,7 @@
 #python sample.py --n 12 --save_dir 'lstm_0x_500' --outcsv 'lstm_0x_500_tf_word_level.csv'
 
 ## (lstm 2x)
-python train.py --num_epochs 400 --save_dir 'lstm_2x_400' --rnn_size 512 --num_layers 4 --model 'lstm' --seq_length 50 --learning_rate 1 --savehistory lstm_2x_400_trainingHistory.txt
+#python train.py --num_epochs 400 --save_dir 'lstm_2x_400' --rnn_size 512 --num_layers 4 --model 'lstm' --seq_length 50 --learning_rate 1 --savehistory lstm_2x_400_trainingHistory.txt
 #
 ## run 1
 #python sample.py --n 12 --prime "international" --save_dir 'lstm_2x_400' --outcsv 'lstm_2x_400_tf_word_level.csv'
@@ -343,7 +343,7 @@ python train.py --num_epochs 400 --save_dir 'lstm_2x_400' --rnn_size 512 --num_l
 #python sample.py --n 12 --save_dir 'lstm_4x_200' --outcsv 'lstm_4x_200_tf_word_level.csv'
 #
 ## (lstm 8x)
-#python train.py --num_epochs 100 --save_dir 'lstm_8x_100' --rnn_size 2048 --num_layers 16 --model 'lstm' --seq_length 200 --learning_rate 3 --savehistory lstm_8x_100_trainingHistory.txt
+python train.py --num_epochs 100 --save_dir 'lstm_8x_100' --rnn_size 2048 --num_layers 16 --model 'lstm' --seq_length 200 --learning_rate 3 --savehistory lstm_8x_100_trainingHistory.txt
 #
 ## run 1
 #python sample.py --n 12 --prime "international" --save_dir 'lstm_8x_100' --outcsv 'lstm_8x_100_tf_word_level.csv'

@@ -43,6 +43,8 @@ def main():
                         help='probability of keeping weights in the hidden layer')
     parser.add_argument('--input_keep_prob', type=float, default=1.0,
                         help='probability of keeping weights in the input layer')
+    parser.add_argument('--gpu_mem', type=float, default=0.9,
+                        help='%% of gpu memory to be allocated to this process. Default is 66.6%% = 0.6666')
     parser.add_argument('--init_from', type=str, default=None,
                         help="""continue training from saved model at this path. Path must contain files saved by previous training process:
                             'config.pkl'        : configuration;
@@ -93,7 +95,12 @@ def train(args):
 
     model = Model(args)
 
-    with tf.Session() as sess:
+    config = tf.ConfigProto()
+    # this solve tensorflow-cuda-error-out-of-memory error
+    config.gpu_options.allow_growth = True
+    config.gpu_options.per_process_gpu_memory_fraction = args.gpu_mem
+
+    with tf.Session(config=config) as sess:
         # instrument for tensorboard
         summaries = tf.summary.merge_all()
         writer = tf.summary.FileWriter(
