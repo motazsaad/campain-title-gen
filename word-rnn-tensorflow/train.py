@@ -40,7 +40,7 @@ def main():
                        help='learning rate')
     parser.add_argument('--decay_rate', type=float, default=0.97,
                        help='decay rate for rmsprop')
-    parser.add_argument('--gpu_mem', type=float, default=0.666,
+    parser.add_argument('--gpu_mem', type=float, default=0.9,
                        help='%% of gpu memory to be allocated to this process. Default is 66.6%%')
     parser.add_argument('--init_from', type=str, default=None,
                        help="""continue training from saved model at this path. Path must contain files saved by previous training process:
@@ -91,9 +91,14 @@ def train(args):
 
     merged = tf.summary.merge_all()
     train_writer = tf.summary.FileWriter(args.log_dir)
-    gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=args.gpu_mem)
+    # gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=args.gpu_mem)
 
-    with tf.Session(config=tf.ConfigProto(gpu_options=gpu_options)) as sess:
+    config = tf.ConfigProto()
+    # this solve tensorflow-cuda-error-out-of-memory error
+    config.gpu_options.allow_growth = True
+    config.gpu_options.per_process_gpu_memory_fraction = args.gpu_mem
+
+    with tf.Session(config=config) as sess:
         train_writer.add_graph(sess.graph)
         tf.global_variables_initializer().run()
         saver = tf.train.Saver(tf.global_variables())
