@@ -139,7 +139,7 @@
 #--------------------------------------------------------------------------------
 
 # Base Model (lstm)
-python train.py --num_epochs 500 --save_dir 'lstm_0x_500' --rnn_size 256 --num_layers 2 --model 'lstm' --seq_length 25 --learning_rate 0.002 --savehistory lstm_0x_500_trainingHistory.txt
+python train.py --num_epochs 10 --save_dir 'lstm_0x_500' --rnn_size 256 --num_layers 2 --model 'lstm' --seq_length 25 --learning_rate 0.002 --savehistory lstm_0x_500_trainingHistory.txt
 #python sample.py --n 12 --perplexity_file 'description/adsDescriptionUniqe.txt' --outcsv 'tf_word_level.csv'
 
 # run 1
