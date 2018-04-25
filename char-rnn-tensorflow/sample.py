@@ -10,7 +10,9 @@ from model import Model
 from six import text_type
 import re
 import pandas as pd
-import collections, nltk
+import collections
+import nltk
+nltk.download('punkt')
 
 def main():
     parser = argparse.ArgumentParser(
