@@ -278,7 +278,7 @@
 #
 #
 ## Base Model (rnn)
-python train.py --num_epochs 500 --save_dir 'rnn_0x_500' --rnn_size 256 --num_layers 2 --model 'rnn' --seq_length 25 --learning_rate 0.002 --savehistory rnn_0x_500_trainingHistory.txt
+#python train.py --num_epochs 500 --save_dir 'rnn_0x_500' --rnn_size 256 --num_layers 2 --model 'rnn' --seq_length 25 --learning_rate 0.002 --savehistory rnn_0x_500_trainingHistory.txt
 #
 ## run 1
 #python sample.py --n 70 --prime "international" --save_dir 'rnn_0x_500' --outcsv 'rnn_0x_500_tf_char_level.csv'
@@ -414,7 +414,7 @@ python train.py --num_epochs 500 --save_dir 'rnn_0x_500' --rnn_size 256 --num_la
 #
 #
 ## Base Model (gru)
-#python train.py --num_epochs 500 --save_dir 'gru_0x_500' --rnn_size 256 --num_layers 2 --model 'gru' --seq_length 25 --learning_rate 0.002 --savehistory gru_0x_500_trainingHistory.txt
+python train.py --num_epochs 500 --save_dir 'gru_0x_500' --rnn_size 256 --num_layers 2 --model 'gru' --seq_length 25 --learning_rate 0.002 --savehistory gru_0x_500_trainingHistory.txt
 #
 ## run 1
 #python sample.py --n 70 --prime "international" --save_dir 'gru_0x_500' --outcsv 'gru_0x_500_tf_char_level.csv'
