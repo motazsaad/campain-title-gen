@@ -208,9 +208,9 @@
 #python sample.py --n 70 --save_dir 'lstm_0x_500' --outcsv 'lstm_0x_500_tf_char_level.csv'
 #
 ## (lstm 2x)
-#python train.py --num_epochs 150 --save_dir 'lstm_2x_400' --rnn_size 512 --num_layers 4 --model 'lstm' --seq_length 50 --learning_rate 1 --savehistory lstm_2x_400_trainingHistory.txt
-python train.py --num_epochs 150 --save_dir 'lstm_2x_400' --rnn_size 512 --num_layers 4 --model 'lstm' --savehistory lstm_2x_400_trainingHistory.txt
-
+##python train.py --num_epochs 150 --save_dir 'lstm_2x_400' --rnn_size 512 --num_layers 4 --model 'lstm' --seq_length 50 --learning_rate 1 --savehistory lstm_2x_400_trainingHistory.txt
+#python train.py --num_epochs 150 --save_dir 'lstm_2x_400' --rnn_size 512 --num_layers 4 --model 'lstm' --savehistory lstm_2x_400_trainingHistory.txt
+#
 ## run 1
 #python sample.py --n 70 --prime "international" --save_dir 'lstm_2x_400' --outcsv 'lstm_2x_400_tf_char_level.csv'
 #python sample.py --n 70 --prime "hotel" --save_dir 'lstm_2x_400' --outcsv 'lstm_2x_400_tf_char_level.csv'
@@ -278,7 +278,7 @@ python train.py --num_epochs 150 --save_dir 'lstm_2x_400' --rnn_size 512 --num_l
 #
 #
 ## Base Model (rnn)
-#python train.py --num_epochs 500 --save_dir 'rnn_0x_500' --rnn_size 256 --num_layers 2 --model 'rnn' --seq_length 25 --learning_rate 0.002 --savehistory rnn_0x_500_trainingHistory.txt
+python train.py --num_epochs 500 --save_dir 'rnn_0x_500' --rnn_size 256 --num_layers 2 --model 'rnn' --seq_length 25 --learning_rate 0.002 --savehistory rnn_0x_500_trainingHistory.txt
 #
 ## run 1
 #python sample.py --n 70 --prime "international" --save_dir 'rnn_0x_500' --outcsv 'rnn_0x_500_tf_char_level.csv'
