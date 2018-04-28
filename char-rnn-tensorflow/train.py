@@ -121,7 +121,8 @@ def train(args):
             for b in range(data_loader.num_batches):
                 start = time.time()
                 x, y = data_loader.next_batch()
-                feed = {model.input_data: x, model.targets: y}
+                # feed = {model.input_data: x, model.targets: y}
+                feed = {model.input_data: x, model.targets: y, model.initial_state: state}
                 for i, (c, h) in enumerate(model.initial_state):
                     feed[c] = state[i].c
                     feed[h] = state[i].h
