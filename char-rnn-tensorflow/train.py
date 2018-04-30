@@ -13,7 +13,7 @@ from model import Model
 def main():
     parser = argparse.ArgumentParser(
                         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument('--data_dir', type=str, default='data/tinyshakespeare',
+    parser.add_argument('--data_dir', type=str, default='description',
                         help='data directory containing input.txt')
     parser.add_argument('--save_dir', type=str, default='save',
                         help='directory to store checkpointed models')
@@ -118,14 +118,16 @@ def train(args):
                                args.learning_rate * (args.decay_rate ** e)))
             data_loader.reset_batch_pointer()
             state = sess.run(model.initial_state)
+
             for b in range(data_loader.num_batches):
                 start = time.time()
                 x, y = data_loader.next_batch()
                 # feed = {model.input_data: x, model.targets: y}
+                # feed = {model.input_data: x, model.targets: y, model.initial_state: state}
                 feed = {model.input_data: x, model.targets: y, model.initial_state: state}
-                for i, (c, h) in enumerate(model.initial_state):
-                    feed[c] = state[i].c
-                    feed[h] = state[i].h
+                # for i, (c, h) in enumerate(model.initial_state):
+                #     feed[c] = state[i].c
+                #     feed[h] = state[i].h
 
                 # instrument for tensorboard
                 summ, train_loss, state, _ = sess.run([summaries, model.cost, model.final_state, model.train_op], feed)
@@ -139,13 +141,13 @@ def train(args):
                                          args.num_epochs * data_loader.num_batches,
                                          e, train_loss, end - start, allTime))
 
-                with open(args.savehistory, "a") as myfile:
-                    # myfile.write('-' * 89)
-                    myfile.write("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}, All_Time = {:.3f}" \
-                                 .format(e * data_loader.num_batches + b,
-                                         args.num_epochs * data_loader.num_batches,
-                                         e, train_loss, end - start, allTime))
-                    myfile.write('\n')
+                # with open(args.savehistory, "a") as myfile:
+                #     # myfile.write('-' * 89)
+                #     myfile.write("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}, All_Time = {:.3f}" \
+                #                  .format(e * data_loader.num_batches + b,
+                #                          args.num_epochs * data_loader.num_batches,
+                #                          e, train_loss, end - start, allTime))
+                #     myfile.write('\n')
                 if (e * data_loader.num_batches + b) % args.save_every == 0\
                         or (e == args.num_epochs-1 and
                             b == data_loader.num_batches-1):
@@ -157,6 +159,11 @@ def train(args):
 
                     with open(args.savehistory, "a") as myfile:
                         # myfile.write('-' * 89)
+                        myfile.write("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}, All_Time = {:.3f}" \
+                                     .format(e * data_loader.num_batches + b,
+                                             args.num_epochs * data_loader.num_batches,
+                                             e, train_loss, end - start, allTime))
+                        myfile.write('\n')
                         myfile.write("model saved to {}".format(checkpoint_path))
                         myfile.write('\n')
 
