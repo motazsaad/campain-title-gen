@@ -1,58 +1,59 @@
-seed_text(prime_text),generated _text,perplexity
-international,international drive. great exclusive deals on hotels in st kilda and save big!,144.25978712004195
-hotel,"hotel tropical reve online no reservation costs. great rates. more choices, best prices,",142.40404116345812
-deals,"deals your trip in panama city beach, usa. no reservation costs. great rates.",47.78615053940778
-coupon,"coupon on western sun new york, new york. no reservation costs. great rates.",127.86046177770193
-reservation,reservation costs. great rates. best rates or refund + $50 coupon. book phuket,106.54857128181078
-rates,"rates or refund +$50 coupon. tn hotel on expedia. more choices, best prices,",103.2250071729526
-great,great rates or refund + $50 coupon. save big on hotels in nungambakkam.,56.26933525686533
-cost,"cost ocean beach hotel & spa, nerja. no reservation costs. great rates. expedia's",43.17316987891688
-expedia,expedia price guarantee. book your ryokan in 5 netherlands book on expedia today,49.235350807714504
-save,save big on hotels in singapore. best rates or refund + $50 coupon.,57.16020648931468
-no,no reservation costs. great rates. find and compare exclusive deals on hotels in,33.06660494503325
-book,"book a hotel room now san diego book at sana lisboa hotel, lisbon.",210.18348501875371
-big,big a cheap hotel in seville online. no reservation costs. great rates. best,51.994849644680436
-vietnam,"vietnam vancouver, seattle. book a b&b in hershey online. no reservation costs. great",78.25738539382624
-canton mA,canton mA blanc robin paso find and compare exclusive deals on hotels in de,205.74701745878025
-best prices,best prices on all inclusive all inclusive resorts. add a for hotel 2 blocks,597.5010433786814
-accommodation,"accommodation reuters, road, bangkok. vientiane. no reservation costs. great rates book your hotel",32.64780519034741
-carnegie mellon university,carnegie mellon university of new york. no reservation costs. great rates. book your hotel in,137.85735375802798
-guarantee,guarantee reservation costs. great rates. expedia guarantees the best price. find hotels in,97.5003382289393
-international,international cruz london. no reservation costs. great rates. best rates or refund +,109.15132700580068
-hotel,"hotel today! book at euler hotel majestic, bellingham. no reservation costs. great rates.",48.461028185775575
-deals,deals cancun hotel in virginia beach fl online. no reservation costs. great rates.,79.79151135942652
-coupon,coupon & save. book your hotel in newark de online. no reservation costs.,77.25113381942329
-reservation,reservation costs. great rates! diamond paradise beach resort - all inclusive. on a,148.2072589621632
-rates,"rates or refund +$50 coupon. fontainebleau maho resort, ko chang. no reservation costs.",320.0073679759738
-great,great this la altagracia hotel! expedia price guarantee. find and compare exclusive deals,205.52666550491668
-cost,cost kansas beach on expedia guarantees playa blanca & apartment in hobart. no,121.6953341493596
-expedia,expedia price guarantee. book a package to key west. expedia price guarantee. find,64.31472354423755
-save,"save big on hotels in nimes, france book accommodation in paros, greece. no",35.76254216279255
-no,"no reservation costs. great rates. best rates on kumarakom executive villas water inclusive,",111.65904491316402
-book,"book accommodation in stockton, online. no reservation costs. great rates. book your hotel",27.30053515465897
-big,big a hotel near regents park. save up to 50% on your reservation.,56.68690796997634
-vietnam,"vietnam port coral beach club, new orleans. no reservation costs. great rates. book",108.65177204327304
-canton mA,"canton mA rose west city centre, seoul. no reservation costs. great rates. find and",130.56019765654534
-best prices,best prices on pelican luxury resort with a full-service spa. walk to samui go,448.672964715871
-accommodation,"accommodation arts, brussels. online ultimate kong. minutes. berry factory. minute nb soleil. ak.",508.73881000968146
-carnegie mellon university,"carnegie mellon university du louvre, paris. no reservation costs. great rates. book your hotel in",131.3727425832289
-guarantee,guarantee reservation costs. great rates. find and compare exclusive deals on hotels in,23.375468486894146
-martello,martello best rates on riu palace aruba beach resort. plan your next trip,422.5704072206212
-sls,sls today! best rates or refund + $50 coupon. book your all inclusive,270.2636573724664
-bavaro.,"bavaro. hotels. best big! carlsbad sunset inn and suites, las vegas istanbul hotel",225.36798920523026
-moorgate.,moorgate. ct apartment in melbourne. no reservation costs. great rates. book accommodation in,49.29903512883528
-east,"east germain tao court, singapore. no reservation costs. great rates. book at hotel",141.56653440583162
-glyptotek.,glyptotek. book accommodation in bellagio. no reservation costs. great rates. deals on things,48.91342119526535
-velassaru,velassaru michaels chi repblica dominicana. dinner riyadh. costs. 4-course dinner. no reservation costs,1519.9725082074372
-ayia,"ayia germain urban, lyon. no reservation costs. great rates. save with expedia's price",109.43137084803908
-sl,sl wa and save big! last minute motel & breakfast. best rates or,182.33079518884384
-"james,","james, baton rouge, ks. the lake. best price guarantee. book a b&b in",92.94078948753395
-mani,"mani resort gardens, london. no reservation costs. great rates. book a hotel near",58.52883858740481
-"5th,","5th, warsaw. experience. deals on all-inclusive hotels in cabo austria now book at",177.00001035718782
-"karaikudi,","karaikudi, kong cathedral. nearby! price guarantee. save big on hotels in tokyo. book",48.41782337858082
-"provincial,","provincial, myers sur. costs. or refund + $50 coupon. save big on williston",215.397986874402
-salles,"salles cucamonga cancun. online. save on hotels in rhodes, greece find luxury ideal",227.79927776993682
-gondolas,"gondolas & la musica, seville. no reservation costs. great rates. book at trianon",164.993675127479
-beeches,"beeches on boutique big resort atop park, quito. no reservation costs. great rates.",160.5215211912293
-"midlands,","midlands, sennen myers. gastown. price il. water. postcode republic 87 marais balances, dominicana.",593.2936581955663
-bredbury,"bredbury fenix elyses, vilamoura. clicks. seogwipo. hempstead draugi, dinner. empress, seconds. prat catering",937.4577363915892
+seed_text(prime_text),generated _text,perplexity,
+international,international drive. great exclusive deals on hotels in st kilda and save big!,144.2597871,
+hotel,"hotel tropical reve online no reservation costs. great rates. more choices, best prices,",142.4040412,
+deals,"deals your trip in panama city beach, usa. no reservation costs. great rates.",47.78615054,
+coupon,"coupon on western sun new york, new york. no reservation costs. great rates.",127.8604618,
+reservation,reservation costs. great rates. best rates or refund + $50 coupon. book phuket,106.5485713,
+rates,"rates or refund +$50 coupon. tn hotel on expedia. more choices, best prices,",103.2250072,
+great,great rates or refund + $50 coupon. save big on hotels in nungambakkam.,56.26933526,
+cost,"cost ocean beach hotel & spa, nerja. no reservation costs. great rates. expedia's",43.17316988,
+expedia,expedia price guarantee. book your ryokan in 5 netherlands book on expedia today,49.23535081,
+save,save big on hotels in singapore. best rates or refund + $50 coupon.,57.16020649,
+no,no reservation costs. great rates. find and compare exclusive deals on hotels in,33.06660495,
+book,"book a hotel room now san diego book at sana lisboa hotel, lisbon.",210.183485,
+big,big a cheap hotel in seville online. no reservation costs. great rates. best,51.99484964,
+vietnam,"vietnam vancouver, seattle. book a b&b in hershey online. no reservation costs. great",78.25738539,
+canton mA,canton mA blanc robin paso find and compare exclusive deals on hotels in de,205.7470175,
+best prices,best prices on all inclusive all inclusive resorts. add a for hotel 2 blocks,597.5010434,
+accommodation,"accommodation reuters, road, bangkok. vientiane. no reservation costs. great rates book your hotel",32.64780519,
+carnegie mellon university,carnegie mellon university of new york. no reservation costs. great rates. book your hotel in,137.8573538,
+guarantee,guarantee reservation costs. great rates. expedia guarantees the best price. find hotels in,97.50033823,
+international,international cruz london. no reservation costs. great rates. best rates or refund +,109.151327,
+hotel,"hotel today! book at euler hotel majestic, bellingham. no reservation costs. great rates.",48.46102819,
+deals,deals cancun hotel in virginia beach fl online. no reservation costs. great rates.,79.79151136,
+coupon,coupon & save. book your hotel in newark de online. no reservation costs.,77.25113382,
+reservation,reservation costs. great rates! diamond paradise beach resort - all inclusive. on a,148.207259,
+rates,"rates or refund +$50 coupon. fontainebleau maho resort, ko chang. no reservation costs.",320.007368,
+great,great this la altagracia hotel! expedia price guarantee. find and compare exclusive deals,205.5266655,
+cost,cost kansas beach on expedia guarantees playa blanca & apartment in hobart. no,121.6953341,
+expedia,expedia price guarantee. book a package to key west. expedia price guarantee. find,64.31472354,
+save,"save big on hotels in nimes, france book accommodation in paros, greece. no",35.76254216,
+no,"no reservation costs. great rates. best rates on kumarakom executive villas water inclusive,",111.6590449,
+book,"book accommodation in stockton, online. no reservation costs. great rates. book your hotel",27.30053515,
+big,big a hotel near regents park. save up to 50% on your reservation.,56.68690797,
+vietnam,"vietnam port coral beach club, new orleans. no reservation costs. great rates. book",108.651772,
+canton mA,"canton mA rose west city centre, seoul. no reservation costs. great rates. find and",130.5601977,
+best prices,best prices on pelican luxury resort with a full-service spa. walk to samui go,448.6729647,
+accommodation,"accommodation arts, brussels. online ultimate kong. minutes. berry factory. minute nb soleil. ak.",508.73881,
+carnegie mellon university,"carnegie mellon university du louvre, paris. no reservation costs. great rates. book your hotel in",131.3727426,
+guarantee,guarantee reservation costs. great rates. find and compare exclusive deals on hotels in,23.37546849,
+martello,martello best rates on riu palace aruba beach resort. plan your next trip,422.5704072,
+sls,sls today! best rates or refund + $50 coupon. book your all inclusive,270.2636574,
+bavaro.,"bavaro. hotels. best big! carlsbad sunset inn and suites, las vegas istanbul hotel",225.3679892,
+moorgate.,moorgate. ct apartment in melbourne. no reservation costs. great rates. book accommodation in,49.29903513,
+east,"east germain tao court, singapore. no reservation costs. great rates. book at hotel",141.5665344,
+glyptotek.,glyptotek. book accommodation in bellagio. no reservation costs. great rates. deals on things,48.9134212,
+velassaru,velassaru michaels chi repblica dominicana. dinner riyadh. costs. 4-course dinner. no reservation costs,1519.972508,
+ayia,"ayia germain urban, lyon. no reservation costs. great rates. save with expedia's price",109.4313708,
+sl,sl wa and save big! last minute motel & breakfast. best rates or,182.3307952,
+"james,","james, baton rouge, ks. the lake. best price guarantee. book a b&b in",92.94078949,
+mani,"mani resort gardens, london. no reservation costs. great rates. book a hotel near",58.52883859,
+"5th,","5th, warsaw. experience. deals on all-inclusive hotels in cabo austria now book at",177.0000104,
+"karaikudi,","karaikudi, kong cathedral. nearby! price guarantee. save big on hotels in tokyo. book",48.41782338,
+"provincial,","provincial, myers sur. costs. or refund + $50 coupon. save big on williston",215.3979869,
+salles,"salles cucamonga cancun. online. save on hotels in rhodes, greece find luxury ideal",227.7992778,
+gondolas,"gondolas & la musica, seville. no reservation costs. great rates. book at trianon",164.9936751,
+beeches,"beeches on boutique big resort atop park, quito. no reservation costs. great rates.",160.5215212,
+"midlands,","midlands, sennen myers. gastown. price il. water. postcode republic 87 marais balances, dominicana.",593.2936582,
+bredbury,"bredbury fenix elyses, vilamoura. clicks. seogwipo. hempstead draugi, dinner. empress, seconds. prat catering",937.4577364,
+,,,188.1742515

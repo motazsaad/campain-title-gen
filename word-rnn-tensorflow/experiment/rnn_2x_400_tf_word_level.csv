@@ -1,58 +1,59 @@
-seed_text(prime_text),generated _text,perplexity
-international,"international interlaken. book hotels online surfers morris kinzie ticket & , corozal. no",405.553358742871
-hotel,hotel caicos venice. deals on hotels in paris india. book at town resort,115.69538460273522
-deals,"deals costs. great rates. book a motel in hayward, wa. secure online. best",55.46719203074307
-coupon,"coupon today! costs. great book book at coast hotel, london. no reservation costs.",39.88020244548473
-reservation,reservation with great price guarantee. 3-star best kong hotel hotels find low angeles,93.30272985908309
-rates,rates or refund costs. with hotel in guadalupe arena now! book your hotel,42.6794836354437
-great,"great your expedia's prices, guarantee. save on hotels in bay cyprus. book at",31.226391333458533
-cost,cost zealand. downtown columbia expedia. see bangkok hotel in marina da walk to,354.96792789463007
-expedia,expedia great and reservation costs. great rates. best rates or refund + $50,24.444012266018557
-save,save great with expedia. book your hotel in champs rosa mi no reservation,88.80232101576445
-no,"no value fees book at fuengirola hotel motel, panama spokane. no reservation costs.",134.71185340920584
-book,"book to best prices, trusted. save on hotels in leipzig, on. book at",24.025523121339297
-big,big save book great save on the angeles car inn deals. book at,35.54702550327696
-vietnam,vietnam prices. refund +$50 price guarantee. deals up to 20% to universal manuel,311.2897044948622
-canton mA,canton mA york. on exclusive deals on hotels in pasadena. book a condo on,121.41930006253516
-best prices,best prices today guaranteed. find and compare exclusive deals on hotels hotels springhill paphos.,77.62215620106616
-accommodation,"accommodation mall, kong coupon. book your hotel in dubai wa book at hotel",89.46341753602344
-carnegie mellon university,carnegie mellon university on cruises to alaska. book at raffaello hotels golf de park. no,530.1005385379653
-guarantee,guarantee great + rates. best rates or refund + $50 coupon. save on,88.86766842683309
-international,"international zealand. refund bali. deals on hotels in oslo, taiwan. trail. at dona",142.16236696457244
-hotel,"hotel choices great rates. at heights hotel leicester, lake vegas. no reservation costs.",68.13872867076442
-deals,deals great rates. best rates or refund + $50 coupon. save big on,58.689934586793534
-coupon,coupon reservation costs great rates! book hotels near duomo australia. find exclusive deals,53.76498588614444
-reservation,"reservation your great in perth. no reservation costs. book at value, greco hotel,",35.98789566030715
-rates,"rates beach casa tavira, st eugene. no reservation costs. great rates. book accommodation",64.12719531834784
-great,great costs. with expedia. convention. save on this tx hotel! book at hotel,64.55446255434029
-cost,"cost price guarantee! hotels in mansfield, ny. book a b&b in virginia mar",84.65103830496338
-expedia,expedia to + $50 coupon. book phuket hotel in sao de france book,191.46018478338948
-save,"save great rates. find guest house and spa club, francisco's gaming no reservation",104.41372338085388
-no,"no refund hotels in brookings, valley pa and save big! book a cheap",53.3859239786944
-book,"book today! great reserve expedia for the water. book at evenia catalunya motel,",176.06508160246497
-big,big caicos mandalay bangkok. book your hotel in kirkby square online. no reservation,129.36863319947295
-vietnam,vietnam or save costs. great rates. book an apartment in galway. newark. no,127.78636938176315
-canton mA,"canton mA kong expedia. book at costa tourist, carre, james. no reservation costs. great",125.40985434773347
-best prices,"best prices guarantee! hotels near winter street $50 soccer granville hotel & spa, lisbon.",230.42528515354562
-accommodation,accommodation to +$50 prices. book your optional airport hotel today! book a accommodations,146.39551437543687
-carnegie mellon university,carnegie mellon university book departing from sky palace ecuador in shinsaibashi island book pet grand,1133.8044512550916
-guarantee,guarantee great rates. save on hotels in port-au-prince airport. best rates on hotel,37.17439330536582
-belmont.,belmont. costs. great rates. book a san vacations. save with expedia's price guarantee.,51.52721282513046
-piscis,"piscis co great price expedia cheap free! book your hotel in innsbruck, aviv",113.61757300300488
-andheri.,"andheri. to next in 50% secure value book your boutique hotel in cairns,",104.98491969935637
-everett.,everett. great and reservation costs. great rates best rates or refund + $50,31.759968873123874
-"925,000","925,000 dc. with rates. book at sandpiper garden bangkok, fownhope. no reservation costs.",195.3743295537698
-burlington.,"burlington. costs. great rates. 4-star hotel are suites, aviv no choices, best prices,",137.68521572933486
-"belroy,","belroy, ormond hotel, delhi, book a hotel in ventura, beach. find and compare",86.56004951918783
-melody,"melody orleans oceanside. no yume book at old court hotel, carmel. best price",215.95118243655602
-quarter.,quarter. $50 rates. great guarantees the dalhousie hotels save on hotels in orlando.,88.79413881131262
-"jing'an,","jing'an, rates or refund + $50 coupon. save big on hotels in heathrow",125.24605187233769
-"1,505,000","1,505,000 online. with york book expedia & san isidro stock rosarito. best price",337.8496197235265
-run,run price refund +$50 coupon. book at hotel 81 boracay hotel. book a,142.0194016486779
-chitwan,chitwan ormond miraflores hotel! best rates or refund + $50 coupon. book your,442.5006823769568
-woodbridge,woodbridge price guarantee! comfort real zealand deals. shop your hotel in henry wv,833.5352122054758
-switzerland.,switzerland. trip save big! book your hotel in rosemont on online. no reservation,61.76822173096946
-mannheim,mannheim great best rates. hotels now find hotel value. with louvre hotel in,94.92744364941164
-ratnagiri,"ratnagiri ocean angeles. book at sun harbor, creek, gstaad. no reservation costs. great",125.57111626438213
-"boonville,","boonville, grassington ethiopia cities san coronado. book a cheap hotel in sioux beach,",455.2841985760789
-penang.,penang. refund +$50 coupon! sunrise hotel by hotel san side. no reservation costs.,73.31671257024938
+seed_text(prime_text),generated _text,perplexity,
+international,"international interlaken. book hotels online surfers morris kinzie ticket & , corozal. no",405.5533587,
+hotel,hotel caicos venice. deals on hotels in paris india. book at town resort,115.6953846,
+deals,"deals costs. great rates. book a motel in hayward, wa. secure online. best",55.46719203,
+coupon,"coupon today! costs. great book book at coast hotel, london. no reservation costs.",39.88020245,
+reservation,reservation with great price guarantee. 3-star best kong hotel hotels find low angeles,93.30272986,
+rates,rates or refund costs. with hotel in guadalupe arena now! book your hotel,42.67948364,
+great,"great your expedia's prices, guarantee. save on hotels in bay cyprus. book at",31.22639133,
+cost,cost zealand. downtown columbia expedia. see bangkok hotel in marina da walk to,354.9679279,
+expedia,expedia great and reservation costs. great rates. best rates or refund + $50,24.44401227,
+save,save great with expedia. book your hotel in champs rosa mi no reservation,88.80232102,
+no,"no value fees book at fuengirola hotel motel, panama spokane. no reservation costs.",134.7118534,
+book,"book to best prices, trusted. save on hotels in leipzig, on. book at",24.02552312,
+big,big save book great save on the angeles car inn deals. book at,35.5470255,
+vietnam,vietnam prices. refund +$50 price guarantee. deals up to 20% to universal manuel,311.2897045,
+canton mA,canton mA york. on exclusive deals on hotels in pasadena. book a condo on,121.4193001,
+best prices,best prices today guaranteed. find and compare exclusive deals on hotels hotels springhill paphos.,77.6221562,
+accommodation,"accommodation mall, kong coupon. book your hotel in dubai wa book at hotel",89.46341754,
+carnegie mellon university,carnegie mellon university on cruises to alaska. book at raffaello hotels golf de park. no,530.1005385,
+guarantee,guarantee great + rates. best rates or refund + $50 coupon. save on,88.86766843,
+international,"international zealand. refund bali. deals on hotels in oslo, taiwan. trail. at dona",142.162367,
+hotel,"hotel choices great rates. at heights hotel leicester, lake vegas. no reservation costs.",68.13872867,
+deals,deals great rates. best rates or refund + $50 coupon. save big on,58.68993459,
+coupon,coupon reservation costs great rates! book hotels near duomo australia. find exclusive deals,53.76498589,
+reservation,"reservation your great in perth. no reservation costs. book at value, greco hotel,",35.98789566,
+rates,"rates beach casa tavira, st eugene. no reservation costs. great rates. book accommodation",64.12719532,
+great,great costs. with expedia. convention. save on this tx hotel! book at hotel,64.55446255,
+cost,"cost price guarantee! hotels in mansfield, ny. book a b&b in virginia mar",84.6510383,
+expedia,expedia to + $50 coupon. book phuket hotel in sao de france book,191.4601848,
+save,"save great rates. find guest house and spa club, francisco's gaming no reservation",104.4137234,
+no,"no refund hotels in brookings, valley pa and save big! book a cheap",53.38592398,
+book,"book today! great reserve expedia for the water. book at evenia catalunya motel,",176.0650816,
+big,big caicos mandalay bangkok. book your hotel in kirkby square online. no reservation,129.3686332,
+vietnam,vietnam or save costs. great rates. book an apartment in galway. newark. no,127.7863694,
+canton mA,"canton mA kong expedia. book at costa tourist, carre, james. no reservation costs. great",125.4098543,
+best prices,"best prices guarantee! hotels near winter street $50 soccer granville hotel & spa, lisbon.",230.4252852,
+accommodation,accommodation to +$50 prices. book your optional airport hotel today! book a accommodations,146.3955144,
+carnegie mellon university,carnegie mellon university book departing from sky palace ecuador in shinsaibashi island book pet grand,1133.804451,
+guarantee,guarantee great rates. save on hotels in port-au-prince airport. best rates on hotel,37.17439331,
+belmont.,belmont. costs. great rates. book a san vacations. save with expedia's price guarantee.,51.52721283,
+piscis,"piscis co great price expedia cheap free! book your hotel in innsbruck, aviv",113.617573,
+andheri.,"andheri. to next in 50% secure value book your boutique hotel in cairns,",104.9849197,
+everett.,everett. great and reservation costs. great rates best rates or refund + $50,31.75996887,
+"925,000","925,000 dc. with rates. book at sandpiper garden bangkok, fownhope. no reservation costs.",195.3743296,
+burlington.,"burlington. costs. great rates. 4-star hotel are suites, aviv no choices, best prices,",137.6852157,
+"belroy,","belroy, ormond hotel, delhi, book a hotel in ventura, beach. find and compare",86.56004952,
+melody,"melody orleans oceanside. no yume book at old court hotel, carmel. best price",215.9511824,
+quarter.,quarter. $50 rates. great guarantees the dalhousie hotels save on hotels in orlando.,88.79413881,
+"jing'an,","jing'an, rates or refund + $50 coupon. save big on hotels in heathrow",125.2460519,
+"1,505,000","1,505,000 online. with york book expedia & san isidro stock rosarito. best price",337.8496197,
+run,run price refund +$50 coupon. book at hotel 81 boracay hotel. book a,142.0194016,
+chitwan,chitwan ormond miraflores hotel! best rates or refund + $50 coupon. book your,442.5006824,
+woodbridge,woodbridge price guarantee! comfort real zealand deals. shop your hotel in henry wv,833.5352122,
+switzerland.,switzerland. trip save big! book your hotel in rosemont on online. no reservation,61.76822173,
+mannheim,mannheim great best rates. hotels now find hotel value. with louvre hotel in,94.92744365,
+ratnagiri,"ratnagiri ocean angeles. book at sun harbor, creek, gstaad. no reservation costs. great",125.5711163,
+"boonville,","boonville, grassington ethiopia cities san coronado. book a cheap hotel in sioux beach,",455.2841986,
+penang.,penang. refund +$50 coupon! sunrise hotel by hotel san side. no reservation costs.,73.31671257,
+,,,165.1071134

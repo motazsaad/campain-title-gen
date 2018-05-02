@@ -1,0 +1,330 @@
+0/163400 (epoch 0), train_loss = 4.128, time/batch = 0.734, All_Time = 0.734
+model saved to gru_2x_400/model.ckpt
+1000/163400 (epoch 1), train_loss = 3.007, time/batch = 0.067, All_Time = 65.136
+model saved to gru_2x_400/model.ckpt
+2000/163400 (epoch 2), train_loss = 3.025, time/batch = 0.066, All_Time = 132.049
+model saved to gru_2x_400/model.ckpt
+3000/163400 (epoch 3), train_loss = 3.037, time/batch = 0.067, All_Time = 199.191
+model saved to gru_2x_400/model.ckpt
+4000/163400 (epoch 4), train_loss = 2.982, time/batch = 0.067, All_Time = 266.280
+model saved to gru_2x_400/model.ckpt
+5000/163400 (epoch 6), train_loss = 1.096, time/batch = 0.067, All_Time = 333.747
+model saved to gru_2x_400/model.ckpt
+6000/163400 (epoch 7), train_loss = 0.800, time/batch = 0.067, All_Time = 401.013
+model saved to gru_2x_400/model.ckpt
+7000/163400 (epoch 8), train_loss = 0.802, time/batch = 0.068, All_Time = 468.378
+model saved to gru_2x_400/model.ckpt
+8000/163400 (epoch 9), train_loss = 0.857, time/batch = 0.067, All_Time = 535.695
+model saved to gru_2x_400/model.ckpt
+9000/163400 (epoch 11), train_loss = 0.698, time/batch = 0.067, All_Time = 603.241
+model saved to gru_2x_400/model.ckpt
+10000/163400 (epoch 12), train_loss = 0.728, time/batch = 0.068, All_Time = 670.780
+model saved to gru_2x_400/model.ckpt
+11000/163400 (epoch 13), train_loss = 0.705, time/batch = 0.067, All_Time = 738.060
+model saved to gru_2x_400/model.ckpt
+12000/163400 (epoch 14), train_loss = 0.717, time/batch = 0.067, All_Time = 805.539
+model saved to gru_2x_400/model.ckpt
+13000/163400 (epoch 15), train_loss = 0.833, time/batch = 0.067, All_Time = 873.100
+model saved to gru_2x_400/model.ckpt
+14000/163400 (epoch 17), train_loss = 0.601, time/batch = 0.067, All_Time = 940.333
+model saved to gru_2x_400/model.ckpt
+15000/163400 (epoch 18), train_loss = 0.705, time/batch = 0.067, All_Time = 1007.617
+model saved to gru_2x_400/model.ckpt
+16000/163400 (epoch 19), train_loss = 0.746, time/batch = 0.067, All_Time = 1074.821
+model saved to gru_2x_400/model.ckpt
+17000/163400 (epoch 20), train_loss = 0.644, time/batch = 0.067, All_Time = 1142.208
+model saved to gru_2x_400/model.ckpt
+18000/163400 (epoch 22), train_loss = 0.554, time/batch = 0.067, All_Time = 1209.534
+model saved to gru_2x_400/model.ckpt
+19000/163400 (epoch 23), train_loss = 0.711, time/batch = 0.067, All_Time = 1276.864
+model saved to gru_2x_400/model.ckpt
+20000/163400 (epoch 24), train_loss = 0.523, time/batch = 0.067, All_Time = 1344.274
+model saved to gru_2x_400/model.ckpt
+21000/163400 (epoch 25), train_loss = 0.625, time/batch = 0.067, All_Time = 1411.653
+model saved to gru_2x_400/model.ckpt
+22000/163400 (epoch 26), train_loss = 0.570, time/batch = 0.067, All_Time = 1479.194
+model saved to gru_2x_400/model.ckpt
+23000/163400 (epoch 28), train_loss = 0.635, time/batch = 0.067, All_Time = 1546.692
+model saved to gru_2x_400/model.ckpt
+24000/163400 (epoch 29), train_loss = 0.589, time/batch = 0.068, All_Time = 1614.236
+model saved to gru_2x_400/model.ckpt
+25000/163400 (epoch 30), train_loss = 0.621, time/batch = 0.069, All_Time = 1681.677
+model saved to gru_2x_400/model.ckpt
+26000/163400 (epoch 31), train_loss = 0.577, time/batch = 0.067, All_Time = 1748.981
+model saved to gru_2x_400/model.ckpt
+27000/163400 (epoch 33), train_loss = 0.590, time/batch = 0.067, All_Time = 1816.418
+model saved to gru_2x_400/model.ckpt
+28000/163400 (epoch 34), train_loss = 0.492, time/batch = 0.067, All_Time = 1883.984
+model saved to gru_2x_400/model.ckpt
+29000/163400 (epoch 35), train_loss = 0.512, time/batch = 0.067, All_Time = 1951.573
+model saved to gru_2x_400/model.ckpt
+30000/163400 (epoch 36), train_loss = 0.577, time/batch = 0.068, All_Time = 2019.068
+model saved to gru_2x_400/model.ckpt
+31000/163400 (epoch 37), train_loss = 0.653, time/batch = 0.068, All_Time = 2086.575
+model saved to gru_2x_400/model.ckpt
+32000/163400 (epoch 39), train_loss = 0.530, time/batch = 0.067, All_Time = 2154.069
+model saved to gru_2x_400/model.ckpt
+33000/163400 (epoch 40), train_loss = 0.519, time/batch = 0.066, All_Time = 2221.715
+model saved to gru_2x_400/model.ckpt
+34000/163400 (epoch 41), train_loss = 0.633, time/batch = 0.067, All_Time = 2289.317
+model saved to gru_2x_400/model.ckpt
+35000/163400 (epoch 42), train_loss = 0.500, time/batch = 0.067, All_Time = 2356.777
+model saved to gru_2x_400/model.ckpt
+36000/163400 (epoch 44), train_loss = 0.570, time/batch = 0.068, All_Time = 2424.372
+model saved to gru_2x_400/model.ckpt
+37000/163400 (epoch 45), train_loss = 0.582, time/batch = 0.068, All_Time = 2491.783
+model saved to gru_2x_400/model.ckpt
+38000/163400 (epoch 46), train_loss = 0.514, time/batch = 0.068, All_Time = 2559.252
+model saved to gru_2x_400/model.ckpt
+39000/163400 (epoch 47), train_loss = 0.542, time/batch = 0.068, All_Time = 2626.814
+model saved to gru_2x_400/model.ckpt
+40000/163400 (epoch 48), train_loss = 0.595, time/batch = 0.067, All_Time = 2694.272
+model saved to gru_2x_400/model.ckpt
+41000/163400 (epoch 50), train_loss = 0.540, time/batch = 0.067, All_Time = 2761.611
+model saved to gru_2x_400/model.ckpt
+42000/163400 (epoch 51), train_loss = 0.503, time/batch = 0.067, All_Time = 2829.195
+model saved to gru_2x_400/model.ckpt
+43000/163400 (epoch 52), train_loss = 0.379, time/batch = 0.068, All_Time = 2896.607
+model saved to gru_2x_400/model.ckpt
+44000/163400 (epoch 53), train_loss = 0.522, time/batch = 0.067, All_Time = 2963.923
+model saved to gru_2x_400/model.ckpt
+45000/163400 (epoch 55), train_loss = 0.462, time/batch = 0.067, All_Time = 3031.304
+model saved to gru_2x_400/model.ckpt
+46000/163400 (epoch 56), train_loss = 0.474, time/batch = 0.068, All_Time = 3098.727
+model saved to gru_2x_400/model.ckpt
+47000/163400 (epoch 57), train_loss = 0.493, time/batch = 0.068, All_Time = 3166.122
+model saved to gru_2x_400/model.ckpt
+48000/163400 (epoch 58), train_loss = 0.535, time/batch = 0.067, All_Time = 3233.435
+model saved to gru_2x_400/model.ckpt
+49000/163400 (epoch 59), train_loss = 0.522, time/batch = 0.067, All_Time = 3300.903
+model saved to gru_2x_400/model.ckpt
+50000/163400 (epoch 61), train_loss = 0.463, time/batch = 0.067, All_Time = 3368.160
+model saved to gru_2x_400/model.ckpt
+51000/163400 (epoch 62), train_loss = 0.469, time/batch = 0.068, All_Time = 3435.803
+model saved to gru_2x_400/model.ckpt
+52000/163400 (epoch 63), train_loss = 0.522, time/batch = 0.068, All_Time = 3503.331
+model saved to gru_2x_400/model.ckpt
+53000/163400 (epoch 64), train_loss = 0.499, time/batch = 0.067, All_Time = 3570.703
+model saved to gru_2x_400/model.ckpt
+54000/163400 (epoch 66), train_loss = 0.529, time/batch = 0.067, All_Time = 3638.184
+model saved to gru_2x_400/model.ckpt
+55000/163400 (epoch 67), train_loss = 0.459, time/batch = 0.068, All_Time = 3705.527
+model saved to gru_2x_400/model.ckpt
+56000/163400 (epoch 68), train_loss = 0.502, time/batch = 0.067, All_Time = 3773.170
+model saved to gru_2x_400/model.ckpt
+57000/163400 (epoch 69), train_loss = 0.456, time/batch = 0.067, All_Time = 3840.556
+model saved to gru_2x_400/model.ckpt
+58000/163400 (epoch 70), train_loss = 0.432, time/batch = 0.068, All_Time = 3908.323
+model saved to gru_2x_400/model.ckpt
+59000/163400 (epoch 72), train_loss = 0.381, time/batch = 0.067, All_Time = 3975.727
+model saved to gru_2x_400/model.ckpt
+60000/163400 (epoch 73), train_loss = 0.493, time/batch = 0.068, All_Time = 4043.154
+model saved to gru_2x_400/model.ckpt
+61000/163400 (epoch 74), train_loss = 0.433, time/batch = 0.066, All_Time = 4110.301
+model saved to gru_2x_400/model.ckpt
+62000/163400 (epoch 75), train_loss = 0.506, time/batch = 0.067, All_Time = 4177.653
+model saved to gru_2x_400/model.ckpt
+63000/163400 (epoch 77), train_loss = 0.544, time/batch = 0.068, All_Time = 4244.980
+model saved to gru_2x_400/model.ckpt
+64000/163400 (epoch 78), train_loss = 0.502, time/batch = 0.068, All_Time = 4312.414
+model saved to gru_2x_400/model.ckpt
+65000/163400 (epoch 79), train_loss = 0.423, time/batch = 0.067, All_Time = 4379.813
+model saved to gru_2x_400/model.ckpt
+66000/163400 (epoch 80), train_loss = 0.479, time/batch = 0.067, All_Time = 4447.193
+model saved to gru_2x_400/model.ckpt
+67000/163400 (epoch 82), train_loss = 0.427, time/batch = 0.068, All_Time = 4514.619
+model saved to gru_2x_400/model.ckpt
+68000/163400 (epoch 83), train_loss = 0.450, time/batch = 0.067, All_Time = 4581.971
+model saved to gru_2x_400/model.ckpt
+69000/163400 (epoch 84), train_loss = 0.502, time/batch = 0.067, All_Time = 4649.529
+model saved to gru_2x_400/model.ckpt
+70000/163400 (epoch 85), train_loss = 0.512, time/batch = 0.067, All_Time = 4716.866
+model saved to gru_2x_400/model.ckpt
+71000/163400 (epoch 86), train_loss = 0.435, time/batch = 0.068, All_Time = 4784.346
+model saved to gru_2x_400/model.ckpt
+72000/163400 (epoch 88), train_loss = 0.472, time/batch = 0.066, All_Time = 4851.514
+model saved to gru_2x_400/model.ckpt
+73000/163400 (epoch 89), train_loss = 0.475, time/batch = 0.068, All_Time = 4918.854
+model saved to gru_2x_400/model.ckpt
+74000/163400 (epoch 90), train_loss = 0.467, time/batch = 0.067, All_Time = 4986.145
+model saved to gru_2x_400/model.ckpt
+75000/163400 (epoch 91), train_loss = 0.471, time/batch = 0.068, All_Time = 5053.561
+model saved to gru_2x_400/model.ckpt
+76000/163400 (epoch 93), train_loss = 0.418, time/batch = 0.067, All_Time = 5121.028
+model saved to gru_2x_400/model.ckpt
+77000/163400 (epoch 94), train_loss = 0.449, time/batch = 0.068, All_Time = 5188.341
+model saved to gru_2x_400/model.ckpt
+78000/163400 (epoch 95), train_loss = 0.492, time/batch = 0.067, All_Time = 5255.999
+model saved to gru_2x_400/model.ckpt
+79000/163400 (epoch 96), train_loss = 0.439, time/batch = 0.069, All_Time = 5323.574
+model saved to gru_2x_400/model.ckpt
+80000/163400 (epoch 97), train_loss = 0.419, time/batch = 0.067, All_Time = 5390.936
+model saved to gru_2x_400/model.ckpt
+81000/163400 (epoch 99), train_loss = 0.394, time/batch = 0.067, All_Time = 5458.280
+model saved to gru_2x_400/model.ckpt
+82000/163400 (epoch 100), train_loss = 0.431, time/batch = 0.068, All_Time = 5525.717
+model saved to gru_2x_400/model.ckpt
+83000/163400 (epoch 101), train_loss = 0.465, time/batch = 0.069, All_Time = 5593.265
+model saved to gru_2x_400/model.ckpt
+84000/163400 (epoch 102), train_loss = 0.456, time/batch = 0.068, All_Time = 5660.709
+model saved to gru_2x_400/model.ckpt
+85000/163400 (epoch 104), train_loss = 0.424, time/batch = 0.068, All_Time = 5728.092
+model saved to gru_2x_400/model.ckpt
+86000/163400 (epoch 105), train_loss = 0.494, time/batch = 0.067, All_Time = 5795.478
+model saved to gru_2x_400/model.ckpt
+87000/163400 (epoch 106), train_loss = 0.504, time/batch = 0.067, All_Time = 5863.052
+model saved to gru_2x_400/model.ckpt
+88000/163400 (epoch 107), train_loss = 0.504, time/batch = 0.068, All_Time = 5930.548
+model saved to gru_2x_400/model.ckpt
+89000/163400 (epoch 108), train_loss = 0.427, time/batch = 0.067, All_Time = 5998.196
+model saved to gru_2x_400/model.ckpt
+90000/163400 (epoch 110), train_loss = 0.476, time/batch = 0.067, All_Time = 6065.542
+model saved to gru_2x_400/model.ckpt
+91000/163400 (epoch 111), train_loss = 0.408, time/batch = 0.067, All_Time = 6132.814
+model saved to gru_2x_400/model.ckpt
+92000/163400 (epoch 112), train_loss = 0.443, time/batch = 0.068, All_Time = 6200.218
+model saved to gru_2x_400/model.ckpt
+93000/163400 (epoch 113), train_loss = 0.424, time/batch = 0.068, All_Time = 6267.731
+model saved to gru_2x_400/model.ckpt
+94000/163400 (epoch 115), train_loss = 0.392, time/batch = 0.068, All_Time = 6335.046
+model saved to gru_2x_400/model.ckpt
+95000/163400 (epoch 116), train_loss = 0.430, time/batch = 0.069, All_Time = 6402.532
+model saved to gru_2x_400/model.ckpt
+96000/163400 (epoch 117), train_loss = 0.460, time/batch = 0.066, All_Time = 6469.903
+model saved to gru_2x_400/model.ckpt
+97000/163400 (epoch 118), train_loss = 0.428, time/batch = 0.067, All_Time = 6537.273
+model saved to gru_2x_400/model.ckpt
+98000/163400 (epoch 119), train_loss = 0.442, time/batch = 0.067, All_Time = 6604.809
+model saved to gru_2x_400/model.ckpt
+99000/163400 (epoch 121), train_loss = 0.463, time/batch = 0.067, All_Time = 6672.179
+model saved to gru_2x_400/model.ckpt
+100000/163400 (epoch 122), train_loss = 0.466, time/batch = 0.067, All_Time = 6739.837
+model saved to gru_2x_400/model.ckpt
+101000/163400 (epoch 123), train_loss = 0.463, time/batch = 0.067, All_Time = 6807.131
+model saved to gru_2x_400/model.ckpt
+102000/163400 (epoch 124), train_loss = 0.503, time/batch = 0.068, All_Time = 6874.661
+model saved to gru_2x_400/model.ckpt
+103000/163400 (epoch 126), train_loss = 0.516, time/batch = 0.068, All_Time = 6942.087
+model saved to gru_2x_400/model.ckpt
+104000/163400 (epoch 127), train_loss = 0.467, time/batch = 0.067, All_Time = 7009.404
+model saved to gru_2x_400/model.ckpt
+105000/163400 (epoch 128), train_loss = 0.428, time/batch = 0.067, All_Time = 7076.939
+model saved to gru_2x_400/model.ckpt
+106000/163400 (epoch 129), train_loss = 0.489, time/batch = 0.067, All_Time = 7144.570
+model saved to gru_2x_400/model.ckpt
+107000/163400 (epoch 130), train_loss = 0.449, time/batch = 0.068, All_Time = 7211.406
+model saved to gru_2x_400/model.ckpt
+108000/163400 (epoch 132), train_loss = 0.462, time/batch = 0.067, All_Time = 7278.270
+model saved to gru_2x_400/model.ckpt
+109000/163400 (epoch 133), train_loss = 0.470, time/batch = 0.067, All_Time = 7345.346
+model saved to gru_2x_400/model.ckpt
+110000/163400 (epoch 134), train_loss = 0.462, time/batch = 0.067, All_Time = 7412.398
+model saved to gru_2x_400/model.ckpt
+111000/163400 (epoch 135), train_loss = 0.523, time/batch = 0.067, All_Time = 7479.667
+model saved to gru_2x_400/model.ckpt
+112000/163400 (epoch 137), train_loss = 0.445, time/batch = 0.067, All_Time = 7546.892
+model saved to gru_2x_400/model.ckpt
+113000/163400 (epoch 138), train_loss = 0.453, time/batch = 0.067, All_Time = 7614.394
+model saved to gru_2x_400/model.ckpt
+114000/163400 (epoch 139), train_loss = 0.504, time/batch = 0.068, All_Time = 7681.806
+model saved to gru_2x_400/model.ckpt
+115000/163400 (epoch 140), train_loss = 0.430, time/batch = 0.067, All_Time = 7749.139
+model saved to gru_2x_400/model.ckpt
+116000/163400 (epoch 141), train_loss = 0.420, time/batch = 0.068, All_Time = 7816.557
+model saved to gru_2x_400/model.ckpt
+117000/163400 (epoch 143), train_loss = 0.420, time/batch = 0.068, All_Time = 7883.943
+model saved to gru_2x_400/model.ckpt
+118000/163400 (epoch 144), train_loss = 0.462, time/batch = 0.067, All_Time = 7951.381
+model saved to gru_2x_400/model.ckpt
+119000/163400 (epoch 145), train_loss = 0.431, time/batch = 0.067, All_Time = 8019.002
+model saved to gru_2x_400/model.ckpt
+120000/163400 (epoch 146), train_loss = 0.479, time/batch = 0.068, All_Time = 8086.490
+model saved to gru_2x_400/model.ckpt
+121000/163400 (epoch 148), train_loss = 0.495, time/batch = 0.068, All_Time = 8153.877
+model saved to gru_2x_400/model.ckpt
+122000/163400 (epoch 149), train_loss = 0.458, time/batch = 0.068, All_Time = 8221.494
+model saved to gru_2x_400/model.ckpt
+123000/163400 (epoch 150), train_loss = 0.447, time/batch = 0.067, All_Time = 8288.863
+model saved to gru_2x_400/model.ckpt
+124000/163400 (epoch 151), train_loss = 0.426, time/batch = 0.067, All_Time = 8356.141
+model saved to gru_2x_400/model.ckpt
+125000/163400 (epoch 152), train_loss = 0.480, time/batch = 0.068, All_Time = 8423.566
+model saved to gru_2x_400/model.ckpt
+126000/163400 (epoch 154), train_loss = 0.431, time/batch = 0.067, All_Time = 8491.104
+model saved to gru_2x_400/model.ckpt
+127000/163400 (epoch 155), train_loss = 0.414, time/batch = 0.068, All_Time = 8558.465
+model saved to gru_2x_400/model.ckpt
+128000/163400 (epoch 156), train_loss = 0.380, time/batch = 0.067, All_Time = 8625.963
+model saved to gru_2x_400/model.ckpt
+129000/163400 (epoch 157), train_loss = 0.400, time/batch = 0.066, All_Time = 8693.381
+model saved to gru_2x_400/model.ckpt
+130000/163400 (epoch 159), train_loss = 0.415, time/batch = 0.067, All_Time = 8760.805
+model saved to gru_2x_400/model.ckpt
+131000/163400 (epoch 160), train_loss = 0.385, time/batch = 0.069, All_Time = 8828.285
+model saved to gru_2x_400/model.ckpt
+132000/163400 (epoch 161), train_loss = 0.473, time/batch = 0.068, All_Time = 8895.610
+model saved to gru_2x_400/model.ckpt
+133000/163400 (epoch 162), train_loss = 0.466, time/batch = 0.067, All_Time = 8963.096
+model saved to gru_2x_400/model.ckpt
+134000/163400 (epoch 164), train_loss = 0.415, time/batch = 0.067, All_Time = 9030.622
+model saved to gru_2x_400/model.ckpt
+135000/163400 (epoch 165), train_loss = 0.439, time/batch = 0.067, All_Time = 9098.097
+model saved to gru_2x_400/model.ckpt
+136000/163400 (epoch 166), train_loss = 0.388, time/batch = 0.068, All_Time = 9165.872
+model saved to gru_2x_400/model.ckpt
+137000/163400 (epoch 167), train_loss = 0.497, time/batch = 0.067, All_Time = 9233.210
+model saved to gru_2x_400/model.ckpt
+138000/163400 (epoch 168), train_loss = 0.488, time/batch = 0.069, All_Time = 9300.822
+model saved to gru_2x_400/model.ckpt
+139000/163400 (epoch 170), train_loss = 0.498, time/batch = 0.067, All_Time = 9368.254
+model saved to gru_2x_400/model.ckpt
+140000/163400 (epoch 171), train_loss = 0.461, time/batch = 0.067, All_Time = 9435.697
+model saved to gru_2x_400/model.ckpt
+141000/163400 (epoch 172), train_loss = 0.460, time/batch = 0.068, All_Time = 9503.342
+model saved to gru_2x_400/model.ckpt
+142000/163400 (epoch 173), train_loss = 0.452, time/batch = 0.067, All_Time = 9570.925
+model saved to gru_2x_400/model.ckpt
+143000/163400 (epoch 175), train_loss = 0.493, time/batch = 0.066, All_Time = 9638.384
+model saved to gru_2x_400/model.ckpt
+144000/163400 (epoch 176), train_loss = 0.404, time/batch = 0.067, All_Time = 9705.910
+model saved to gru_2x_400/model.ckpt
+145000/163400 (epoch 177), train_loss = 0.460, time/batch = 0.067, All_Time = 9773.310
+model saved to gru_2x_400/model.ckpt
+146000/163400 (epoch 178), train_loss = 0.396, time/batch = 0.068, All_Time = 9840.979
+model saved to gru_2x_400/model.ckpt
+147000/163400 (epoch 179), train_loss = 0.439, time/batch = 0.068, All_Time = 9908.639
+model saved to gru_2x_400/model.ckpt
+148000/163400 (epoch 181), train_loss = 0.525, time/batch = 0.067, All_Time = 9976.097
+model saved to gru_2x_400/model.ckpt
+149000/163400 (epoch 182), train_loss = 0.448, time/batch = 0.068, All_Time = 10043.829
+model saved to gru_2x_400/model.ckpt
+150000/163400 (epoch 183), train_loss = 0.449, time/batch = 0.068, All_Time = 10111.442
+model saved to gru_2x_400/model.ckpt
+151000/163400 (epoch 184), train_loss = 0.429, time/batch = 0.068, All_Time = 10179.022
+model saved to gru_2x_400/model.ckpt
+152000/163400 (epoch 186), train_loss = 0.463, time/batch = 0.067, All_Time = 10246.505
+model saved to gru_2x_400/model.ckpt
+153000/163400 (epoch 187), train_loss = 0.471, time/batch = 0.067, All_Time = 10313.977
+model saved to gru_2x_400/model.ckpt
+154000/163400 (epoch 188), train_loss = 0.455, time/batch = 0.068, All_Time = 10381.493
+model saved to gru_2x_400/model.ckpt
+155000/163400 (epoch 189), train_loss = 0.400, time/batch = 0.068, All_Time = 10449.242
+model saved to gru_2x_400/model.ckpt
+156000/163400 (epoch 190), train_loss = 0.391, time/batch = 0.067, All_Time = 10516.806
+model saved to gru_2x_400/model.ckpt
+157000/163400 (epoch 192), train_loss = 0.479, time/batch = 0.067, All_Time = 10584.495
+model saved to gru_2x_400/model.ckpt
+158000/163400 (epoch 193), train_loss = 0.397, time/batch = 0.067, All_Time = 10652.053
+model saved to gru_2x_400/model.ckpt
+159000/163400 (epoch 194), train_loss = 0.418, time/batch = 0.068, All_Time = 10719.599
+model saved to gru_2x_400/model.ckpt
+160000/163400 (epoch 195), train_loss = 0.402, time/batch = 0.068, All_Time = 10787.145
+model saved to gru_2x_400/model.ckpt
+161000/163400 (epoch 197), train_loss = 0.421, time/batch = 0.066, All_Time = 10854.853
+model saved to gru_2x_400/model.ckpt
+162000/163400 (epoch 198), train_loss = 0.347, time/batch = 0.068, All_Time = 10922.301
+model saved to gru_2x_400/model.ckpt
+163000/163400 (epoch 199), train_loss = 0.507, time/batch = 0.068, All_Time = 10989.915
+model saved to gru_2x_400/model.ckpt
+163399/163400 (epoch 199), train_loss = 0.475, time/batch = 0.067, All_Time = 11016.682
+model saved to gru_2x_400/model.ckpt

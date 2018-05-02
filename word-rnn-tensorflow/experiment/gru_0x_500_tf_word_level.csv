@@ -1,58 +1,59 @@
-seed_text(prime_text),generated _text,perplexity
-international,"international street hotel, scottsdale. puerto cana hotel reviews book your hotel in lakeland,",131.50025361108806
-hotel,"hotel co springs, colorado springs. best price guarantee. find and compare exclusive deals",156.93547995120412
-deals,deals on + hotel. book today & save! find and compare exclusive deals,58.11746908577586
-coupon,"coupon resorts save on hostels in chicago. book at hotel manos stephanie, brussels.",171.3733391489323
-reservation,"reservation costs. great rates. find and compare exclusive deals on hotels in lavonia,",38.46962270299633
-rates,rates online today & save. hotels on the beach in galveston book a,56.70595041299716
-great,"great rates. book at azuline hotel arena blanca, amsterdam. no reservation costs. great",83.14726620429586
-cost,"cost lenox valley. no reservation costs. great rates. book at daiichi hotel tokyo,",104.41708056486463
-expedia,"expedia great rates best rates or refund + $50 coupon. book your conwy,",63.35865616196071
-save,save on hotels in las arenas spain. save on tours in brisbane australia,85.25011523623779
-no,no reservation costs. great rates. book your hotel in loveland co online. no,52.03625891902791
-book,"book at fiesta hotel milord, san antonio bay. no reservation costs. great rates.",100.36895324242658
-big,big on hotels in santorini bc book your hotel in south lakes in,38.08206130730217
-vietnam,vietnam santa pedro de centro golfing nearby. 5-star resort with pools and private,1236.1573755783595
-canton mA,"canton mA nature accommodations. with easy, save with expedia's price guarantee. book at hotel",93.85521416061293
-best prices,best prices on hotels in kuala lumpur. best rates or refund + $50 coupon.,108.79955349773864
-accommodation,"accommodation casa colwyn - saratoga island, clearwater beach. no reservation costs. great rates.",263.597079076674
-carnegie mellon university,"carnegie mellon university and center, newark. book at hotel jupiter, sarajevo. no reservation costs. great",145.46185415402906
-guarantee,"guarantee reservation costs. great rates. book at hera hotel, athens. no reservation costs.",46.38725738837493
-international,"international airport - the with key west, usa. no reservation costs. great rates.",135.31220656099012
-hotel,"hotel tokyo, universal carmel, full-service spa. save with expedia's price guarantee. book puerto",84.52374277911913
-deals,deals on flight + hotel. book a package to pennsylvania. book a guest,112.0661608240522
-coupon,coupon get expedia's price guarantee save big on hotels in surrey. book hotels,62.00117650347475
-reservation,reservation costs. great rates. luxury dublin hotel in london business and free breakfast.,75.10880690606909
-rates,"rates rates. book at new york inn, new york. no reservation costs. great",98.70682192034135
-great,great rates. book at the out krabi now. no reservation costs. great rates.,67.41132860755714
-cost,"cost alfagar village, kent. best rates or refund + $50 coupon. save on",191.2571829786366
-expedia,expedia price guarantee book a package to palm springs. book accommodation in french,93.89470417080194
-save,"save big on hotels in brampton, on. in the heart of kyoto near",127.23953878241457
-no,no reservation costs. great rates. book your hotel in flaine online. no reservation,44.1539087099715
-book,book your hotel in wildwood nj online. no reservation costs. great rates. book,43.209636677368266
-big,big on hotels in london new york online book your hotel in ludlow,44.13957652472432
-vietnam,"vietnam roanoke. universo, london. best rates or refund + $50 coupon. book your",113.47506392545387
-canton mA,"canton mA athlone. no reservation costs. great rates. family fun at the beach resort,",137.6623287700217
-best prices,"best prices on hotels in glasgow cheap hotel perfect the beach, san francisco. no",68.63235392671552
-accommodation,accommodation smoky. now & save on expedia & save. camden and fun on,158.31186819989804
-carnegie mellon university,"carnegie mellon university beach. book a motel in fort walton beach, fl. no reservation costs.",282.4966891393876
-guarantee,"guarantee no reservation costs. great rates. book at priory island hotel, athens. no",57.337453153300935
-hills,"hills resort & spa, railay beach. no reservation costs. great rates. save on",96.33397995385431
-d'europe,d'europe emerald head market. no reservation costs. great rates. book your hotel in,71.02261246427894
-cliffs,"cliffs at breckenridge, edinburgh. no reservation costs. great rates save on your toronto",59.153881965441705
-"rye,","rye, alpine lake. best rates or refund + $50 coupon. save on downtown",145.23792471805132
-orly,"orly city centre, london. no reservation costs. great rates. find and compare exclusive",100.44059144681411
-cuesta,"cuesta myers beach, & spa. tokyo apartment in rio de las americas. walk",610.711805905391
-v&a,v&a las antonio strip. free wifi from the of vistas book at hotel,265.2304956314788
-sight,"sight and key washington. save with expedia's price guarantee more choices, best prices,",171.26426169936525
-newham,"newham great rates at marine place hotel, london. no reservation costs. great rates.",115.92904312933165
-naha,"naha new york. book your condo in orange beach now. quick, easy booking.",494.10741402665565
-"reyes,","reyes, kansas. kings cross inn, negril. saint helier jersey. no reservation costs. great",229.01430689852688
-triangle.,"triangle. great rates. find and compare exclusive deals on hotels in olean, new",58.0456706678445
-floridiana.,floridiana. your hotel in lexington ky online. no reservation costs. great rates. book,84.07730956107154
-agadir.,agadir. no reservation costs. great rates. book a hotel near barnes-jewish hospital. save,76.23588384045793
-"italia,","italia, gmbet. no reservation costs. great rates. find and compare exclusive deals on",34.756793187070684
-casino,"casino tour of broadway & centre hotel, london. no reservation costs. great rates.",178.7699006725661
-kirkby,kirkby costs. best rates on villa del palmar resort. plan your next trip,188.39958153932244
-oulton,"oulton inclusive on the #1 travel site! hotels on jfk airport, london. book",181.09736784352958
-"hansa,","hansa, prabang doha. no reservation costs. great rates. book a luxury hotel in",47.89286920817581
+seed_text(prime_text),generated _text,perplexity,
+international,"international street hotel, scottsdale. puerto cana hotel reviews book your hotel in lakeland,",131.5002536,
+hotel,"hotel co springs, colorado springs. best price guarantee. find and compare exclusive deals",156.93548,
+deals,deals on + hotel. book today & save! find and compare exclusive deals,58.11746909,
+coupon,"coupon resorts save on hostels in chicago. book at hotel manos stephanie, brussels.",171.3733391,
+reservation,"reservation costs. great rates. find and compare exclusive deals on hotels in lavonia,",38.4696227,
+rates,rates online today & save. hotels on the beach in galveston book a,56.70595041,
+great,"great rates. book at azuline hotel arena blanca, amsterdam. no reservation costs. great",83.1472662,
+cost,"cost lenox valley. no reservation costs. great rates. book at daiichi hotel tokyo,",104.4170806,
+expedia,"expedia great rates best rates or refund + $50 coupon. book your conwy,",63.35865616,
+save,save on hotels in las arenas spain. save on tours in brisbane australia,85.25011524,
+no,no reservation costs. great rates. book your hotel in loveland co online. no,52.03625892,
+book,"book at fiesta hotel milord, san antonio bay. no reservation costs. great rates.",100.3689532,
+big,big on hotels in santorini bc book your hotel in south lakes in,38.08206131,
+vietnam,vietnam santa pedro de centro golfing nearby. 5-star resort with pools and private,1236.157376,
+canton mA,"canton mA nature accommodations. with easy, save with expedia's price guarantee. book at hotel",93.85521416,
+best prices,best prices on hotels in kuala lumpur. best rates or refund + $50 coupon.,108.7995535,
+accommodation,"accommodation casa colwyn - saratoga island, clearwater beach. no reservation costs. great rates.",263.5970791,
+carnegie mellon university,"carnegie mellon university and center, newark. book at hotel jupiter, sarajevo. no reservation costs. great",145.4618542,
+guarantee,"guarantee reservation costs. great rates. book at hera hotel, athens. no reservation costs.",46.38725739,
+international,"international airport - the with key west, usa. no reservation costs. great rates.",135.3122066,
+hotel,"hotel tokyo, universal carmel, full-service spa. save with expedia's price guarantee. book puerto",84.52374278,
+deals,deals on flight + hotel. book a package to pennsylvania. book a guest,112.0661608,
+coupon,coupon get expedia's price guarantee save big on hotels in surrey. book hotels,62.0011765,
+reservation,reservation costs. great rates. luxury dublin hotel in london business and free breakfast.,75.10880691,
+rates,"rates rates. book at new york inn, new york. no reservation costs. great",98.70682192,
+great,great rates. book at the out krabi now. no reservation costs. great rates.,67.41132861,
+cost,"cost alfagar village, kent. best rates or refund + $50 coupon. save on",191.257183,
+expedia,expedia price guarantee book a package to palm springs. book accommodation in french,93.89470417,
+save,"save big on hotels in brampton, on. in the heart of kyoto near",127.2395388,
+no,no reservation costs. great rates. book your hotel in flaine online. no reservation,44.15390871,
+book,book your hotel in wildwood nj online. no reservation costs. great rates. book,43.20963668,
+big,big on hotels in london new york online book your hotel in ludlow,44.13957652,
+vietnam,"vietnam roanoke. universo, london. best rates or refund + $50 coupon. book your",113.4750639,
+canton mA,"canton mA athlone. no reservation costs. great rates. family fun at the beach resort,",137.6623288,
+best prices,"best prices on hotels in glasgow cheap hotel perfect the beach, san francisco. no",68.63235393,
+accommodation,accommodation smoky. now & save on expedia & save. camden and fun on,158.3118682,
+carnegie mellon university,"carnegie mellon university beach. book a motel in fort walton beach, fl. no reservation costs.",282.4966891,
+guarantee,"guarantee no reservation costs. great rates. book at priory island hotel, athens. no",57.33745315,
+hills,"hills resort & spa, railay beach. no reservation costs. great rates. save on",96.33397995,
+d'europe,d'europe emerald head market. no reservation costs. great rates. book your hotel in,71.02261246,
+cliffs,"cliffs at breckenridge, edinburgh. no reservation costs. great rates save on your toronto",59.15388197,
+"rye,","rye, alpine lake. best rates or refund + $50 coupon. save on downtown",145.2379247,
+orly,"orly city centre, london. no reservation costs. great rates. find and compare exclusive",100.4405914,
+cuesta,"cuesta myers beach, & spa. tokyo apartment in rio de las americas. walk",610.7118059,
+v&a,v&a las antonio strip. free wifi from the of vistas book at hotel,265.2304956,
+sight,"sight and key washington. save with expedia's price guarantee more choices, best prices,",171.2642617,
+newham,"newham great rates at marine place hotel, london. no reservation costs. great rates.",115.9290431,
+naha,"naha new york. book your condo in orange beach now. quick, easy booking.",494.107414,
+"reyes,","reyes, kansas. kings cross inn, negril. saint helier jersey. no reservation costs. great",229.0143069,
+triangle.,"triangle. great rates. find and compare exclusive deals on hotels in olean, new",58.04567067,
+floridiana.,floridiana. your hotel in lexington ky online. no reservation costs. great rates. book,84.07730956,
+agadir.,agadir. no reservation costs. great rates. book a hotel near barnes-jewish hospital. save,76.23588384,
+"italia,","italia, gmbet. no reservation costs. great rates. find and compare exclusive deals on",34.75679319,
+casino,"casino tour of broadway & centre hotel, london. no reservation costs. great rates.",178.7699007,
+kirkby,kirkby costs. best rates on villa del palmar resort. plan your next trip,188.3995815,
+oulton,"oulton inclusive on the #1 travel site! hotels on jfk airport, london. book",181.0973678,
+"hansa,","hansa, prabang doha. no reservation costs. great rates. book a luxury hotel in",47.89286921,
+,,,144.5382997

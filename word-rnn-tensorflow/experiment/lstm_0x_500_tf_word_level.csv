@@ -1,58 +1,59 @@
-seed_text(prime_text),generated _text,perplexity
-international,"international west. book at the chancellor seaside inn, la cala de mijas. no",415.4704064609997
-hotel,hotel today! hotels at zurich airport. best price guarantee! book your hotel in,37.80187271587403
-deals,deals or refund + $50 coupon. book hotels in dun laoghaire online. no,195.03642419706497
-coupon,coupon reservation costs. great rates. book midtown hotel at daytona beach resort and,87.63917934775215
-reservation,"reservation costs. great rates. book at the bristol hotel, thessalonki. no reservation costs.",55.440660642198075
-rates,"rates or refund + $50 coupon. save big on hotels in namba, japan.",74.056940631645
-great,"great crest, houston. no reservation costs. great rates! lowest save on inn &",54.365383651421716
-cost,"cost co spring, springs, tagaytay. wa. offers save on online. & hotels online.",130.53249573313082
-expedia,"expedia reservation costs. great rates. desire villa & villas resort, key west. no",170.80997501884332
-save,"save big on hotels in brampton, on. in the bar casino & attractions.",71.6711300205676
-no,no reservation costs. great rates. book a villa in wifi find and compare,76.53191421285213
-book,"book at fiesta hotel milord, san antonio bay. no reservation costs. great rates.",47.41813418345443
-big,big great rates! book your hotel in oakland ca online. no reservation costs.,39.10973737946142
-vietnam,"vietnam pace, galleria, oban. no reservation costs. great rates. save on packages to",85.46983945241223
-canton mA,"canton mA pier, tower, prices wi mn online. no reservation costs. best rates on",166.26876721840102
-best prices,best prices or refund + $50 coupon. save big on hotels in egypt. hotel,47.569525016413685
-accommodation,accommodation henri concession. san jos. no reservation costs. great rates. book a hotel,69.23648060150404
-carnegie mellon university,carnegie mellon university lake town. no reservation costs. great rates. save on this peidmont resort.,364.2821842849325
-guarantee,"guarantee on flight today! save at the royal hotel, jerusalem. best price guarantee.",62.61525715541318
-international,"international fl. book at generator ottawa kensington, london. no reservation costs. great rates.",87.77283417462334
-hotel,"hotel toronto, colony island, tagaytay. save brussels to 13% beachfront resort with free",253.4076469992674
-deals,deals or refund + $50 coupon. book now with the only resorts. save,154.74817979236678
-coupon,coupon online. great rates. book accommodation in kilkenny. no reservation costs. great rates.,41.02054735051746
-reservation,reservation costs. great rates. book now & save with expedia. hotels downtown montego,96.765272788293
-rates,rates or refund refund + $50 coupon. book sukhumvit hotels today! book at,107.51738451406229
-great,great . no reservation costs. great rates. secure value with expedias price guarantee.,39.77814017409121
-cost,cost salaam. no reservation costs. great rates. book tickets & save! caribbean manila,109.7113868453306
-expedia,"expedia costs. great rates. more choices, great rates from new vegas hotels near",65.66677274082726
-save,"save today. refund + $50 coupon. hotels in stuttgart, germany. 4-star bangkok hotel",139.13944326368463
-no,no reservation costs & book hotels near george airport. book accommodation in oxford.,46.414919813809995
-book,"book at fiesta hotel milord, san antonio bay. no reservation costs. great rates.",57.32413697191802
-big,"big book at alpenhof lodge, sunny isles beach. no reservation costs. great rates.",205.84913946326085
-vietnam,vietnam topkapi. no reservation costs. great rates. save on the habitat montana now.,120.7991552379454
-canton mA,"canton mA co hills, mn montana beach. no reservation costs. great rates. book at",141.9936648370025
-best prices,best prices or refund + $50 coupon. save big on hotels in calgary. book,81.40627590504452
-accommodation,"accommodation co springs, colorado springs. best price online. no reservation costs. great rates.",87.21305380064986
-carnegie mellon university,"carnegie mellon university eastbourne. no reservation costs. great rates save on this fort lauderdale, fl",178.56542561271274
-guarantee,"guarantee hong seattle. book at queens hotel, motel, hong kong. no reservation costs.",111.7684108259136
-charleston,charleston no reservation costs. great rates. secure value with the best a reservation.,82.50170392637517
-egham,"egham save today. hotels in cork, united mn. best rates or refund +",91.69470205696895
-"cristobal,","cristobal, sisto, ne springs, dallas. . . no reservation costs. costs. hotel, mar,",68.74104566279428
-chambery,"chambery generalife, trump ski resort resorts. best reservation costs. great rates. royal clifton",195.61437952155757
-money.,money. great . best rates or refund + $50 coupon. book your santa,75.86360887705396
-playacar,playacar online. no reservation costs. great rates. book at the abbeyleix inn at,144.44139529486162
-phoenicia,"phoenicia celtic torbrau, bengaluru upon nice. guarantees bar beach. no reservation costs. great",666.1540002276081
-esmeralda,"esmeralda bishopsgate, london. online. no reservation costs. great rates. santa old point -",197.21847016830608
-puebla.,"puebla. great rates online. book a motel in hialeah, fl. no reservation costs.",45.849939743394344
-nice,"nice hotel of coast, town, london. no reservation costs. great rates. book at",65.66549794033246
-espana,espana deals! gold leela admission by train station. save big on hotels in,562.6293438317405
-saratoga,"saratoga pier, oceanside. no reservation costs. great rates. ocean forest resort, myrtle beach.",201.16600429364865
-"frances,","frances, birmingham fair residence, wells branch alabama pittsburgh dc save on vancouver, deals.",1080.3141387461715
-"atenas,","atenas, wa keswick. no reservation costs. great warren, resort & city, winnipeg. no",62.81037148229589
-vilseck,vilseck costs. great rates. town. 24-hour now. book & save big on dominican,185.136399532688
-or,or refund + $50 coupon. book your crescent city hotel today! book at,180.31101872801014
-tonga.,"tonga. park beach. no reservation costs. book at villas hotel, lyon the las",94.63670308881058
-ferrat.,ferrat. big! book at real santa eullia resort. no reservation costs. great car,171.97268015627358
-"americus,","americus, complex. grove, walk online. best reservation costs. great rates. book and save",46.40739909263719
+seed_text(prime_text),generated _text,perplexity,
+international,"international west. book at the chancellor seaside inn, la cala de mijas. no",415.4704065,
+hotel,hotel today! hotels at zurich airport. best price guarantee! book your hotel in,37.80187272,
+deals,deals or refund + $50 coupon. book hotels in dun laoghaire online. no,195.0364242,
+coupon,coupon reservation costs. great rates. book midtown hotel at daytona beach resort and,87.63917935,
+reservation,"reservation costs. great rates. book at the bristol hotel, thessalonki. no reservation costs.",55.44066064,
+rates,"rates or refund + $50 coupon. save big on hotels in namba, japan.",74.05694063,
+great,"great crest, houston. no reservation costs. great rates! lowest save on inn &",54.36538365,
+cost,"cost co spring, springs, tagaytay. wa. offers save on online. & hotels online.",130.5324957,
+expedia,"expedia reservation costs. great rates. desire villa & villas resort, key west. no",170.809975,
+save,"save big on hotels in brampton, on. in the bar casino & attractions.",71.67113002,
+no,no reservation costs. great rates. book a villa in wifi find and compare,76.53191421,
+book,"book at fiesta hotel milord, san antonio bay. no reservation costs. great rates.",47.41813418,
+big,big great rates! book your hotel in oakland ca online. no reservation costs.,39.10973738,
+vietnam,"vietnam pace, galleria, oban. no reservation costs. great rates. save on packages to",85.46983945,
+canton mA,"canton mA pier, tower, prices wi mn online. no reservation costs. best rates on",166.2687672,
+best prices,best prices or refund + $50 coupon. save big on hotels in egypt. hotel,47.56952502,
+accommodation,accommodation henri concession. san jos. no reservation costs. great rates. book a hotel,69.2364806,
+carnegie mellon university,carnegie mellon university lake town. no reservation costs. great rates. save on this peidmont resort.,364.2821843,
+guarantee,"guarantee on flight today! save at the royal hotel, jerusalem. best price guarantee.",62.61525716,
+international,"international fl. book at generator ottawa kensington, london. no reservation costs. great rates.",87.77283417,
+hotel,"hotel toronto, colony island, tagaytay. save brussels to 13% beachfront resort with free",253.407647,
+deals,deals or refund + $50 coupon. book now with the only resorts. save,154.7481798,
+coupon,coupon online. great rates. book accommodation in kilkenny. no reservation costs. great rates.,41.02054735,
+reservation,reservation costs. great rates. book now & save with expedia. hotels downtown montego,96.76527279,
+rates,rates or refund refund + $50 coupon. book sukhumvit hotels today! book at,107.5173845,
+great,great . no reservation costs. great rates. secure value with expedias price guarantee.,39.77814017,
+cost,cost salaam. no reservation costs. great rates. book tickets & save! caribbean manila,109.7113868,
+expedia,"expedia costs. great rates. more choices, great rates from new vegas hotels near",65.66677274,
+save,"save today. refund + $50 coupon. hotels in stuttgart, germany. 4-star bangkok hotel",139.1394433,
+no,no reservation costs & book hotels near george airport. book accommodation in oxford.,46.41491981,
+book,"book at fiesta hotel milord, san antonio bay. no reservation costs. great rates.",57.32413697,
+big,"big book at alpenhof lodge, sunny isles beach. no reservation costs. great rates.",205.8491395,
+vietnam,vietnam topkapi. no reservation costs. great rates. save on the habitat montana now.,120.7991552,
+canton mA,"canton mA co hills, mn montana beach. no reservation costs. great rates. book at",141.9936648,
+best prices,best prices or refund + $50 coupon. save big on hotels in calgary. book,81.40627591,
+accommodation,"accommodation co springs, colorado springs. best price online. no reservation costs. great rates.",87.2130538,
+carnegie mellon university,"carnegie mellon university eastbourne. no reservation costs. great rates save on this fort lauderdale, fl",178.5654256,
+guarantee,"guarantee hong seattle. book at queens hotel, motel, hong kong. no reservation costs.",111.7684108,
+charleston,charleston no reservation costs. great rates. secure value with the best a reservation.,82.50170393,
+egham,"egham save today. hotels in cork, united mn. best rates or refund +",91.69470206,
+"cristobal,","cristobal, sisto, ne springs, dallas. . . no reservation costs. costs. hotel, mar,",68.74104566,
+chambery,"chambery generalife, trump ski resort resorts. best reservation costs. great rates. royal clifton",195.6143795,
+money.,money. great . best rates or refund + $50 coupon. book your santa,75.86360888,
+playacar,playacar online. no reservation costs. great rates. book at the abbeyleix inn at,144.4413953,
+phoenicia,"phoenicia celtic torbrau, bengaluru upon nice. guarantees bar beach. no reservation costs. great",666.1540002,
+esmeralda,"esmeralda bishopsgate, london. online. no reservation costs. great rates. santa old point -",197.2184702,
+puebla.,"puebla. great rates online. book a motel in hialeah, fl. no reservation costs.",45.84993974,
+nice,"nice hotel of coast, town, london. no reservation costs. great rates. book at",65.66549794,
+espana,espana deals! gold leela admission by train station. save big on hotels in,562.6293438,
+saratoga,"saratoga pier, oceanside. no reservation costs. great rates. ocean forest resort, myrtle beach.",201.1660043,
+"frances,","frances, birmingham fair residence, wells branch alabama pittsburgh dc save on vancouver, deals.",1080.314139,
+"atenas,","atenas, wa keswick. no reservation costs. great warren, resort & city, winnipeg. no",62.81037148,
+vilseck,vilseck costs. great rates. town. 24-hour now. book & save big on dominican,185.1363995,
+or,or refund + $50 coupon. book your crescent city hotel today! book at,180.3110187,
+tonga.,"tonga. park beach. no reservation costs. book at villas hotel, lyon the las",94.63670309,
+ferrat.,ferrat. big! book at real santa eullia resort. no reservation costs. great car,171.9726802,
+"americus,","americus, complex. grove, walk online. best reservation costs. great rates. book and save",46.40739909,
+,,,150.8301211

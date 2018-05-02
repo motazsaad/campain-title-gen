@@ -1,58 +1,59 @@
-seed_text(prime_text),generated _text,perplexity
-international,"international park hotel, eastbourne. no reservation great great rates. find and compare exclusive",47.76170694206396
-hotel,hotel co north arizona beach ga hotels near the nh cruises your beach.,233.13757381433498
-deals,deals big! book your hotel in franschhoek online. no reservation costs. great rates.,53.084115887082405
-coupon,coupon rates or refund + $50 coupon. book hotel saint arizona road hotel,95.8813634594096
-reservation,reservation costs. great rates. book at avondale & tokyo windsor. no reservation costs.,85.74231566965744
-rates,"rates or refund + $50 coupon. save on hotels in fethiye, an, america",140.182553089061
-great,"great big! a savings on hotels near san nd. chelsea real beach mall,",151.27758822457903
-cost,cost ormond beach. no reservation costs. great rates. book your hotel in lake,57.40221971048642
-expedia,expedia book at alpenhof ut punta ludlow. no reservation costs. great rates. lowest,177.76192576533464
-save,save big! book a easy hotel in phi switzerland. book an the street,82.50998336654222
-no,"no reservation costs. great rates. book at abbots broome, st venice. no reservation",94.49426770998429
-book,book your hotel in maldives greece find and compare exclusive deals on hotels,35.91861629347278
-big,big your hotel in elba wood. no reservation costs. great rates. book at,38.30805311536639
-vietnam,vietnam grassington online. no reservation costs. great rates. book accommodation in seoul online.,106.95163310070372
-canton mA,"canton mA fiesta garden garden beach. by phi bokek. book at the lodge suites,",459.32166110882963
-best prices,best prices or book le fiesta tree palace resort. plan your next trip with,179.33055685361145
-accommodation,accommodation no reservation costs. great rates. secure value with expedias price guarantee book,66.5820084699221
-carnegie mellon university,carnegie mellon university eastbourne. no reservation costs. great rates. book at bartley guest hotel bear,298.11413598911946
-guarantee,"guarantee on hotels in brampton, south mn resort book the royal suites hotel,",111.55521320840236
-international,international ormond beach. no reservation costs. great rates. book your hotel in the,66.07963461312907
-hotel,hotel today! star palm hostel in conwy. no reservation costs. great rates. book,99.46513795817093
-deals,deals a motel in heineken experience. no reservation costs. great rates. hotels near,92.88795143455448
-coupon,coupon great rates. book a motel in brisbane great big on tours &,68.4598296341296
-reservation,reservation costs. great rates. find and compare exclusive deals on hotels in santorini,42.27288275170913
-rates,rates refund + $50 coupon. book sukhumvit airport pattaya hotel today! book at,122.74692036514674
-great,"great big! book the hotel piet hotel, honolulu. no reservation costs. great rates.",52.40260583844519
-cost,cost grassington online. no reservation costs. great rates. find and compare exclusive deals,75.54329771325563
-expedia,"expedia palm garden center, great ocean car maldron shopping at the dolphin inn,",331.02453655142347
-save,save on hotels in athens jamaica eco-friendly hotel on 3 casino. walk to,108.52701826686659
-no,"no rates or rates on blue garden ca city centre hotels. more choices,",128.78076682795643
-book,"book costs. great rates. book online. near temple washington airport. more choices, best",90.45245038358802
-big,"big big on hotels in lexington islands. book at great on expedia quick,",39.39328911678875
-vietnam,"vietnam hotel aranjuez, san jos. no reservation costs. great rates. book at hotel",59.46491293694437
-canton mA,canton mA a great at the mountains. no reservation costs. great rates! book at,50.88694677920063
-best prices,"best prices or book at paradise at goa, beach airport, morro bay. no reservation",127.77452206497976
-accommodation,accommodation no reservation costs. great rates. lowest price guarantee! book a hotel in,35.189128483453494
-carnegie mellon university,carnegie mellon university eastbourne. no reservation costs. great rates. 3.5-star when hostel in central walk,174.6140522746621
-guarantee,"guarantee no reservation costs. great rates. book at colonial inn, myrtle beach. no",78.42283833359255
-cabazon,"cabazon book at alpenhof niagara hotel, art del hall. best price guarantee. search",694.4539975829007
-flagstaff.,"flagstaff. no reservation costs. great rates. book at caravelle inn whistler erlowest, la",117.40883077499016
-kennebunk.,"kennebunk. no reservation costs. great rates. book at te madeira hotel, naples. no",110.73522287442356
-wroxham,"wroxham the spa. hotel, rio city. best price guarantee. best rates or refund",149.74133266689145
-ayodhya,ayodhya the cruises find deals on tours & sightseeing! save with expedia's price,194.7103872495954
-sannat.,"sannat. book at alpenhof condos, santa francisco. no reservation costs. great rates. best",74.26864189147273
-valcartier.,"valcartier. book at alpenhof islands hotel! book at waters hart hotel, aberdeen. no",183.71048655492584
-bendigo.,"bendigo. big! book a motel in columbus, brazil. no reservation costs. great rates.",44.62717618574421
-hospitality.,hospitality. palm garden beach resort and spa beach. best price guarantee. book hotels,56.46619486066932
-sea-tac,sea-tac online. best reservation costs. great rates. secure value with expedias price guarantee.,81.6911174255377
-"hialeah,","hialeah, london. no reservation costs. great rates. save with expedia's price guarantee. save",49.63830956383937
-tianguis,"tianguis lowest prices on cruises to moscow, rico. shop for the best rates!",412.0442151292575
-"casona,","casona, hotel aranjuez, key jos. no reservation costs. great rates. best rates on",37.028920925717465
-power,"power ormond beach. on hotels. tour top city cruises to booking ocean springs,",575.332551599074
-murree,"murree national garden beach inn, myrtle beach. no reservation costs. great rates. book",147.91700043998168
-convenient,convenient trip with expedia. book lodging in san francisco. no reservation costs. great,80.12244843457209
-"hinckley,","hinckley, ormond beach. no reservation costs. great rates. book your hotel in north",87.11712698046972
-potos.,"potos. no reservation costs. great rates. 3-star the hotel near albufeira, near catalunya.",42.39959703841508
-"greensboro,","greensboro, park hotel, eastbourne. no reservation costs. great rates. find and compare exclusive",37.65873583528799
+seed_text(prime_text),generated _text,perplexity,
+international,"international park hotel, eastbourne. no reservation great great rates. find and compare exclusive",47.76170694,
+hotel,hotel co north arizona beach ga hotels near the nh cruises your beach.,233.1375738,
+deals,deals big! book your hotel in franschhoek online. no reservation costs. great rates.,53.08411589,
+coupon,coupon rates or refund + $50 coupon. book hotel saint arizona road hotel,95.88136346,
+reservation,reservation costs. great rates. book at avondale & tokyo windsor. no reservation costs.,85.74231567,
+rates,"rates or refund + $50 coupon. save on hotels in fethiye, an, america",140.1825531,
+great,"great big! a savings on hotels near san nd. chelsea real beach mall,",151.2775882,
+cost,cost ormond beach. no reservation costs. great rates. book your hotel in lake,57.40221971,
+expedia,expedia book at alpenhof ut punta ludlow. no reservation costs. great rates. lowest,177.7619258,
+save,save big! book a easy hotel in phi switzerland. book an the street,82.50998337,
+no,"no reservation costs. great rates. book at abbots broome, st venice. no reservation",94.49426771,
+book,book your hotel in maldives greece find and compare exclusive deals on hotels,35.91861629,
+big,big your hotel in elba wood. no reservation costs. great rates. book at,38.30805312,
+vietnam,vietnam grassington online. no reservation costs. great rates. book accommodation in seoul online.,106.9516331,
+canton mA,"canton mA fiesta garden garden beach. by phi bokek. book at the lodge suites,",459.3216611,
+best prices,best prices or book le fiesta tree palace resort. plan your next trip with,179.3305569,
+accommodation,accommodation no reservation costs. great rates. secure value with expedias price guarantee book,66.58200847,
+carnegie mellon university,carnegie mellon university eastbourne. no reservation costs. great rates. book at bartley guest hotel bear,298.114136,
+guarantee,"guarantee on hotels in brampton, south mn resort book the royal suites hotel,",111.5552132,
+international,international ormond beach. no reservation costs. great rates. book your hotel in the,66.07963461,
+hotel,hotel today! star palm hostel in conwy. no reservation costs. great rates. book,99.46513796,
+deals,deals a motel in heineken experience. no reservation costs. great rates. hotels near,92.88795143,
+coupon,coupon great rates. book a motel in brisbane great big on tours &,68.45982963,
+reservation,reservation costs. great rates. find and compare exclusive deals on hotels in santorini,42.27288275,
+rates,rates refund + $50 coupon. book sukhumvit airport pattaya hotel today! book at,122.7469204,
+great,"great big! book the hotel piet hotel, honolulu. no reservation costs. great rates.",52.40260584,
+cost,cost grassington online. no reservation costs. great rates. find and compare exclusive deals,75.54329771,
+expedia,"expedia palm garden center, great ocean car maldron shopping at the dolphin inn,",331.0245366,
+save,save on hotels in athens jamaica eco-friendly hotel on 3 casino. walk to,108.5270183,
+no,"no rates or rates on blue garden ca city centre hotels. more choices,",128.7807668,
+book,"book costs. great rates. book online. near temple washington airport. more choices, best",90.45245038,
+big,"big big on hotels in lexington islands. book at great on expedia quick,",39.39328912,
+vietnam,"vietnam hotel aranjuez, san jos. no reservation costs. great rates. book at hotel",59.46491294,
+canton mA,canton mA a great at the mountains. no reservation costs. great rates! book at,50.88694678,
+best prices,"best prices or book at paradise at goa, beach airport, morro bay. no reservation",127.7745221,
+accommodation,accommodation no reservation costs. great rates. lowest price guarantee! book a hotel in,35.18912848,
+carnegie mellon university,carnegie mellon university eastbourne. no reservation costs. great rates. 3.5-star when hostel in central walk,174.6140523,
+guarantee,"guarantee no reservation costs. great rates. book at colonial inn, myrtle beach. no",78.42283833,
+cabazon,"cabazon book at alpenhof niagara hotel, art del hall. best price guarantee. search",694.4539976,
+flagstaff.,"flagstaff. no reservation costs. great rates. book at caravelle inn whistler erlowest, la",117.4088308,
+kennebunk.,"kennebunk. no reservation costs. great rates. book at te madeira hotel, naples. no",110.7352229,
+wroxham,"wroxham the spa. hotel, rio city. best price guarantee. best rates or refund",149.7413327,
+ayodhya,ayodhya the cruises find deals on tours & sightseeing! save with expedia's price,194.7103872,
+sannat.,"sannat. book at alpenhof condos, santa francisco. no reservation costs. great rates. best",74.26864189,
+valcartier.,"valcartier. book at alpenhof islands hotel! book at waters hart hotel, aberdeen. no",183.7104866,
+bendigo.,"bendigo. big! book a motel in columbus, brazil. no reservation costs. great rates.",44.62717619,
+hospitality.,hospitality. palm garden beach resort and spa beach. best price guarantee. book hotels,56.46619486,
+sea-tac,sea-tac online. best reservation costs. great rates. secure value with expedias price guarantee.,81.69111743,
+"hialeah,","hialeah, london. no reservation costs. great rates. save with expedia's price guarantee. save",49.63830956,
+tianguis,"tianguis lowest prices on cruises to moscow, rico. shop for the best rates!",412.0442151,
+"casona,","casona, hotel aranjuez, key jos. no reservation costs. great rates. best rates on",37.02892093,
+power,"power ormond beach. on hotels. tour top city cruises to booking ocean springs,",575.3325516,
+murree,"murree national garden beach inn, myrtle beach. no reservation costs. great rates. book",147.9170004,
+convenient,convenient trip with expedia. book lodging in san francisco. no reservation costs. great,80.12244843,
+"hinckley,","hinckley, ormond beach. no reservation costs. great rates. book your hotel in north",87.11712698,
+potos.,"potos. no reservation costs. great rates. 3-star the hotel near albufeira, near catalunya.",42.39959704,
+"greensboro,","greensboro, park hotel, eastbourne. no reservation costs. great rates. find and compare exclusive",37.65873584,
+,,,132.2241844
