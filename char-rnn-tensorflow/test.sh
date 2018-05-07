@@ -554,7 +554,7 @@
 # Experiment to test NER DataSet
 # Base Model (LSTM)
 
-python train.py --data_dir 'description/NER' --save_dir 'NER_lstm_0x_2000' --input_encoding 'utf-8' --num_epochs 2000 --savehistory NER_trainingHistory.txt
+python train.py --data_dir 'description/NER' --save_dir 'NER_lstm_0x_2000' --num_epochs 2000 --savehistory NER_trainingHistory.txt
 #python sample.py --n 70 --perplexity_file 'description/adsDescriptionUniqe.txt' --outcsv 'tf_word_level.csv'
 
 # run 1

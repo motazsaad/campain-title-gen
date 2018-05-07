@@ -1,3 +1,14 @@
+# http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html
+# Download Necessary Models
+# %%bash
+# polyglot download embeddings2.en ner2.en
+# [polyglot_data] Downloading package embeddings2.en to
+# [polyglot_data]     /home/rmyeid/polyglot_data...
+# [polyglot_data]   Package embeddings2.en is already up-to-date!
+# [polyglot_data] Downloading package ner2.en to
+# [polyglot_data]     /home/rmyeid/polyglot_data...
+# [polyglot_data]   Package ner2.en is already up-to-date!
+
 from polyglot.text import Text
 
 input_file = 'adsDescriptionUniqe.txt'
