@@ -1,25 +1,45 @@
-# from polyglot.downloader import downloader
-#
-# print(downloader.supported_languages_table("ner2", 3))
-
 from polyglot.text import Text
 
-blob = """The Israeli Prime Minister Benjamin Netanyahu has warned that Iran poses a "threat to the entire world"."""
-text = Text(blob)
+input_file = 'adsDescriptionUniqe.txt'
+# This with NER
+output_file = 'input.txt'
 
-print(text)
-print(text.entities)
-# We can also specify language of that text by using
-# text = Text(blob, hint_language_code='en')
-
-# for sent in text.sentences:
-#   print(sent, "\n")
-#   for entity in sent.entities:
-#     print(entity.tag, entity)
-
-
-# from nltk import word_tokenize, pos_tag, ne_chunk
+# with open(input_filter_file, "r", encoding='utf-8') as f:
+#     data = f.read()
 #
-# sentence = "Mark and John are working at Google."
+# print(data)
+# print('---------------------------------------------------------')
+
+
+# text = Text(data, hint_language_code='en')
+# all_entities = text.entities
+# print(all_entities)
 #
-# print (ne_chunk(pos_tag(word_tokenize(sentence))))
+# for entity in all_entities:
+#     print(entity)
+#     print(entity.tag)
+#     for e in entity:
+#         if data.find(e) != -1:
+#             data = data.replace(e, entity.tag)
+#
+# print(data)
+# with open(output_file, "a") as myfile:
+#     myfile.write(data)
+
+
+f1 = open(input_file, 'r', encoding='utf-8')
+f2 = open(output_file, 'a', encoding='utf-8')
+for line in f1:
+    text = Text(line, hint_language_code='en')
+    all_entities = text.entities
+    print(line)
+    print(all_entities)
+    for entity in all_entities:
+        print(entity)
+        print(entity.tag)
+        for e in entity:
+            if line.find(e) != -1:
+                line = line.replace(e, entity.tag)
+    f2.write(line)
+f1.close()
+f2.close()
