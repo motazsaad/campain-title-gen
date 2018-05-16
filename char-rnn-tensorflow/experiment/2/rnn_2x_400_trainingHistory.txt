@@ -1,0 +1,820 @@
+0/408500 (epoch 0), train_loss = 4.160, time/batch = 0.266, All_Time = 0.266
+model saved to rnn_2x_400/model.ckpt
+1000/408500 (epoch 1), train_loss = 0.918, time/batch = 0.022, All_Time = 22.390
+model saved to rnn_2x_400/model.ckpt
+2000/408500 (epoch 2), train_loss = 0.757, time/batch = 0.022, All_Time = 44.573
+model saved to rnn_2x_400/model.ckpt
+3000/408500 (epoch 3), train_loss = 0.717, time/batch = 0.022, All_Time = 66.834
+model saved to rnn_2x_400/model.ckpt
+4000/408500 (epoch 4), train_loss = 0.648, time/batch = 0.023, All_Time = 89.598
+model saved to rnn_2x_400/model.ckpt
+5000/408500 (epoch 6), train_loss = 0.553, time/batch = 0.023, All_Time = 112.802
+model saved to rnn_2x_400/model.ckpt
+6000/408500 (epoch 7), train_loss = 0.540, time/batch = 0.023, All_Time = 135.782
+model saved to rnn_2x_400/model.ckpt
+7000/408500 (epoch 8), train_loss = 0.618, time/batch = 0.023, All_Time = 159.102
+model saved to rnn_2x_400/model.ckpt
+8000/408500 (epoch 9), train_loss = 0.704, time/batch = 0.023, All_Time = 182.258
+model saved to rnn_2x_400/model.ckpt
+9000/408500 (epoch 11), train_loss = 0.554, time/batch = 0.023, All_Time = 205.493
+model saved to rnn_2x_400/model.ckpt
+10000/408500 (epoch 12), train_loss = 0.599, time/batch = 0.023, All_Time = 228.503
+model saved to rnn_2x_400/model.ckpt
+11000/408500 (epoch 13), train_loss = 0.614, time/batch = 0.024, All_Time = 251.842
+model saved to rnn_2x_400/model.ckpt
+12000/408500 (epoch 14), train_loss = 0.640, time/batch = 0.023, All_Time = 275.071
+model saved to rnn_2x_400/model.ckpt
+13000/408500 (epoch 15), train_loss = 0.742, time/batch = 0.023, All_Time = 298.264
+model saved to rnn_2x_400/model.ckpt
+14000/408500 (epoch 17), train_loss = 0.543, time/batch = 0.023, All_Time = 321.411
+model saved to rnn_2x_400/model.ckpt
+15000/408500 (epoch 18), train_loss = 0.672, time/batch = 0.023, All_Time = 344.546
+model saved to rnn_2x_400/model.ckpt
+16000/408500 (epoch 19), train_loss = 0.726, time/batch = 0.023, All_Time = 367.695
+model saved to rnn_2x_400/model.ckpt
+17000/408500 (epoch 20), train_loss = 0.572, time/batch = 0.023, All_Time = 390.876
+model saved to rnn_2x_400/model.ckpt
+18000/408500 (epoch 22), train_loss = 0.513, time/batch = 0.023, All_Time = 414.006
+model saved to rnn_2x_400/model.ckpt
+19000/408500 (epoch 23), train_loss = 0.662, time/batch = 0.023, All_Time = 437.086
+model saved to rnn_2x_400/model.ckpt
+20000/408500 (epoch 24), train_loss = 0.490, time/batch = 0.023, All_Time = 460.418
+model saved to rnn_2x_400/model.ckpt
+21000/408500 (epoch 25), train_loss = 0.633, time/batch = 0.023, All_Time = 483.557
+model saved to rnn_2x_400/model.ckpt
+22000/408500 (epoch 26), train_loss = 0.560, time/batch = 0.023, All_Time = 506.651
+model saved to rnn_2x_400/model.ckpt
+23000/408500 (epoch 28), train_loss = 0.618, time/batch = 0.023, All_Time = 530.028
+model saved to rnn_2x_400/model.ckpt
+24000/408500 (epoch 29), train_loss = 0.539, time/batch = 0.023, All_Time = 553.174
+model saved to rnn_2x_400/model.ckpt
+25000/408500 (epoch 30), train_loss = 0.582, time/batch = 0.023, All_Time = 576.315
+model saved to rnn_2x_400/model.ckpt
+26000/408500 (epoch 31), train_loss = 0.564, time/batch = 0.023, All_Time = 599.314
+model saved to rnn_2x_400/model.ckpt
+27000/408500 (epoch 33), train_loss = 0.575, time/batch = 0.023, All_Time = 622.620
+model saved to rnn_2x_400/model.ckpt
+28000/408500 (epoch 34), train_loss = 0.492, time/batch = 0.023, All_Time = 645.589
+model saved to rnn_2x_400/model.ckpt
+29000/408500 (epoch 35), train_loss = 0.501, time/batch = 0.023, All_Time = 668.790
+model saved to rnn_2x_400/model.ckpt
+30000/408500 (epoch 36), train_loss = 0.540, time/batch = 0.023, All_Time = 691.844
+model saved to rnn_2x_400/model.ckpt
+31000/408500 (epoch 37), train_loss = 0.653, time/batch = 0.023, All_Time = 715.028
+model saved to rnn_2x_400/model.ckpt
+32000/408500 (epoch 39), train_loss = 0.531, time/batch = 0.023, All_Time = 738.227
+model saved to rnn_2x_400/model.ckpt
+33000/408500 (epoch 40), train_loss = 0.513, time/batch = 0.023, All_Time = 761.410
+model saved to rnn_2x_400/model.ckpt
+34000/408500 (epoch 41), train_loss = 0.617, time/batch = 0.023, All_Time = 784.367
+model saved to rnn_2x_400/model.ckpt
+35000/408500 (epoch 42), train_loss = 0.483, time/batch = 0.023, All_Time = 807.732
+model saved to rnn_2x_400/model.ckpt
+36000/408500 (epoch 44), train_loss = 0.547, time/batch = 0.023, All_Time = 830.822
+model saved to rnn_2x_400/model.ckpt
+37000/408500 (epoch 45), train_loss = 0.536, time/batch = 0.023, All_Time = 853.996
+model saved to rnn_2x_400/model.ckpt
+38000/408500 (epoch 46), train_loss = 0.525, time/batch = 0.023, All_Time = 877.185
+model saved to rnn_2x_400/model.ckpt
+39000/408500 (epoch 47), train_loss = 0.508, time/batch = 0.023, All_Time = 900.330
+model saved to rnn_2x_400/model.ckpt
+40000/408500 (epoch 48), train_loss = 0.595, time/batch = 0.024, All_Time = 923.409
+model saved to rnn_2x_400/model.ckpt
+41000/408500 (epoch 50), train_loss = 0.537, time/batch = 0.023, All_Time = 946.531
+model saved to rnn_2x_400/model.ckpt
+42000/408500 (epoch 51), train_loss = 0.468, time/batch = 0.023, All_Time = 969.820
+model saved to rnn_2x_400/model.ckpt
+43000/408500 (epoch 52), train_loss = 0.381, time/batch = 0.023, All_Time = 992.916
+model saved to rnn_2x_400/model.ckpt
+44000/408500 (epoch 53), train_loss = 0.478, time/batch = 0.023, All_Time = 1016.284
+model saved to rnn_2x_400/model.ckpt
+45000/408500 (epoch 55), train_loss = 0.442, time/batch = 0.023, All_Time = 1039.417
+model saved to rnn_2x_400/model.ckpt
+46000/408500 (epoch 56), train_loss = 0.468, time/batch = 0.023, All_Time = 1062.535
+model saved to rnn_2x_400/model.ckpt
+47000/408500 (epoch 57), train_loss = 0.451, time/batch = 0.023, All_Time = 1085.530
+model saved to rnn_2x_400/model.ckpt
+48000/408500 (epoch 58), train_loss = 0.499, time/batch = 0.023, All_Time = 1108.841
+model saved to rnn_2x_400/model.ckpt
+49000/408500 (epoch 59), train_loss = 0.482, time/batch = 0.024, All_Time = 1131.967
+model saved to rnn_2x_400/model.ckpt
+50000/408500 (epoch 61), train_loss = 0.427, time/batch = 0.023, All_Time = 1155.204
+model saved to rnn_2x_400/model.ckpt
+51000/408500 (epoch 62), train_loss = 0.451, time/batch = 0.023, All_Time = 1178.311
+model saved to rnn_2x_400/model.ckpt
+52000/408500 (epoch 63), train_loss = 0.453, time/batch = 0.023, All_Time = 1201.615
+model saved to rnn_2x_400/model.ckpt
+53000/408500 (epoch 64), train_loss = 0.448, time/batch = 0.024, All_Time = 1224.778
+model saved to rnn_2x_400/model.ckpt
+54000/408500 (epoch 66), train_loss = 0.486, time/batch = 0.023, All_Time = 1248.118
+model saved to rnn_2x_400/model.ckpt
+55000/408500 (epoch 67), train_loss = 0.413, time/batch = 0.023, All_Time = 1271.300
+model saved to rnn_2x_400/model.ckpt
+56000/408500 (epoch 68), train_loss = 0.448, time/batch = 0.023, All_Time = 1294.678
+model saved to rnn_2x_400/model.ckpt
+57000/408500 (epoch 69), train_loss = 0.404, time/batch = 0.023, All_Time = 1317.973
+model saved to rnn_2x_400/model.ckpt
+58000/408500 (epoch 70), train_loss = 0.370, time/batch = 0.023, All_Time = 1341.138
+model saved to rnn_2x_400/model.ckpt
+59000/408500 (epoch 72), train_loss = 0.334, time/batch = 0.023, All_Time = 1364.157
+model saved to rnn_2x_400/model.ckpt
+60000/408500 (epoch 73), train_loss = 0.426, time/batch = 0.024, All_Time = 1387.357
+model saved to rnn_2x_400/model.ckpt
+61000/408500 (epoch 74), train_loss = 0.397, time/batch = 0.023, All_Time = 1410.575
+model saved to rnn_2x_400/model.ckpt
+62000/408500 (epoch 75), train_loss = 0.434, time/batch = 0.023, All_Time = 1433.635
+model saved to rnn_2x_400/model.ckpt
+63000/408500 (epoch 77), train_loss = 0.474, time/batch = 0.023, All_Time = 1457.051
+model saved to rnn_2x_400/model.ckpt
+64000/408500 (epoch 78), train_loss = 0.417, time/batch = 0.023, All_Time = 1480.154
+model saved to rnn_2x_400/model.ckpt
+65000/408500 (epoch 79), train_loss = 0.360, time/batch = 0.023, All_Time = 1503.410
+model saved to rnn_2x_400/model.ckpt
+66000/408500 (epoch 80), train_loss = 0.388, time/batch = 0.023, All_Time = 1526.746
+model saved to rnn_2x_400/model.ckpt
+67000/408500 (epoch 82), train_loss = 0.348, time/batch = 0.023, All_Time = 1550.000
+model saved to rnn_2x_400/model.ckpt
+68000/408500 (epoch 83), train_loss = 0.377, time/batch = 0.023, All_Time = 1573.208
+model saved to rnn_2x_400/model.ckpt
+69000/408500 (epoch 84), train_loss = 0.420, time/batch = 0.023, All_Time = 1596.398
+model saved to rnn_2x_400/model.ckpt
+70000/408500 (epoch 85), train_loss = 0.425, time/batch = 0.024, All_Time = 1619.665
+model saved to rnn_2x_400/model.ckpt
+71000/408500 (epoch 86), train_loss = 0.367, time/batch = 0.023, All_Time = 1642.803
+model saved to rnn_2x_400/model.ckpt
+72000/408500 (epoch 88), train_loss = 0.385, time/batch = 0.024, All_Time = 1666.237
+model saved to rnn_2x_400/model.ckpt
+73000/408500 (epoch 89), train_loss = 0.377, time/batch = 0.023, All_Time = 1689.377
+model saved to rnn_2x_400/model.ckpt
+74000/408500 (epoch 90), train_loss = 0.390, time/batch = 0.023, All_Time = 1712.546
+model saved to rnn_2x_400/model.ckpt
+75000/408500 (epoch 91), train_loss = 0.416, time/batch = 0.023, All_Time = 1735.778
+model saved to rnn_2x_400/model.ckpt
+76000/408500 (epoch 93), train_loss = 0.341, time/batch = 0.023, All_Time = 1758.973
+model saved to rnn_2x_400/model.ckpt
+77000/408500 (epoch 94), train_loss = 0.361, time/batch = 0.023, All_Time = 1782.290
+model saved to rnn_2x_400/model.ckpt
+78000/408500 (epoch 95), train_loss = 0.406, time/batch = 0.023, All_Time = 1805.389
+model saved to rnn_2x_400/model.ckpt
+79000/408500 (epoch 96), train_loss = 0.357, time/batch = 0.023, All_Time = 1828.581
+model saved to rnn_2x_400/model.ckpt
+80000/408500 (epoch 97), train_loss = 0.354, time/batch = 0.023, All_Time = 1851.725
+model saved to rnn_2x_400/model.ckpt
+81000/408500 (epoch 99), train_loss = 0.317, time/batch = 0.023, All_Time = 1874.873
+model saved to rnn_2x_400/model.ckpt
+82000/408500 (epoch 100), train_loss = 0.330, time/batch = 0.024, All_Time = 1898.124
+model saved to rnn_2x_400/model.ckpt
+83000/408500 (epoch 101), train_loss = 0.347, time/batch = 0.024, All_Time = 1921.280
+model saved to rnn_2x_400/model.ckpt
+84000/408500 (epoch 102), train_loss = 0.377, time/batch = 0.023, All_Time = 1944.506
+model saved to rnn_2x_400/model.ckpt
+85000/408500 (epoch 104), train_loss = 0.335, time/batch = 0.023, All_Time = 1967.780
+model saved to rnn_2x_400/model.ckpt
+86000/408500 (epoch 105), train_loss = 0.389, time/batch = 0.023, All_Time = 1991.007
+model saved to rnn_2x_400/model.ckpt
+87000/408500 (epoch 106), train_loss = 0.375, time/batch = 0.024, All_Time = 2014.361
+model saved to rnn_2x_400/model.ckpt
+88000/408500 (epoch 107), train_loss = 0.371, time/batch = 0.023, All_Time = 2037.538
+model saved to rnn_2x_400/model.ckpt
+89000/408500 (epoch 108), train_loss = 0.342, time/batch = 0.023, All_Time = 2060.718
+model saved to rnn_2x_400/model.ckpt
+90000/408500 (epoch 110), train_loss = 0.366, time/batch = 0.023, All_Time = 2083.897
+model saved to rnn_2x_400/model.ckpt
+91000/408500 (epoch 111), train_loss = 0.325, time/batch = 0.023, All_Time = 2107.140
+model saved to rnn_2x_400/model.ckpt
+92000/408500 (epoch 112), train_loss = 0.356, time/batch = 0.024, All_Time = 2130.181
+model saved to rnn_2x_400/model.ckpt
+93000/408500 (epoch 113), train_loss = 0.351, time/batch = 0.023, All_Time = 2153.396
+model saved to rnn_2x_400/model.ckpt
+94000/408500 (epoch 115), train_loss = 0.338, time/batch = 0.023, All_Time = 2176.440
+model saved to rnn_2x_400/model.ckpt
+95000/408500 (epoch 116), train_loss = 0.355, time/batch = 0.023, All_Time = 2199.593
+model saved to rnn_2x_400/model.ckpt
+96000/408500 (epoch 117), train_loss = 0.362, time/batch = 0.023, All_Time = 2222.725
+model saved to rnn_2x_400/model.ckpt
+97000/408500 (epoch 118), train_loss = 0.334, time/batch = 0.023, All_Time = 2245.933
+model saved to rnn_2x_400/model.ckpt
+98000/408500 (epoch 119), train_loss = 0.338, time/batch = 0.024, All_Time = 2269.119
+model saved to rnn_2x_400/model.ckpt
+99000/408500 (epoch 121), train_loss = 0.340, time/batch = 0.023, All_Time = 2292.378
+model saved to rnn_2x_400/model.ckpt
+100000/408500 (epoch 122), train_loss = 0.369, time/batch = 0.023, All_Time = 2315.654
+model saved to rnn_2x_400/model.ckpt
+101000/408500 (epoch 123), train_loss = 0.354, time/batch = 0.023, All_Time = 2338.868
+model saved to rnn_2x_400/model.ckpt
+102000/408500 (epoch 124), train_loss = 0.353, time/batch = 0.023, All_Time = 2362.013
+model saved to rnn_2x_400/model.ckpt
+103000/408500 (epoch 126), train_loss = 0.384, time/batch = 0.023, All_Time = 2385.363
+model saved to rnn_2x_400/model.ckpt
+104000/408500 (epoch 127), train_loss = 0.378, time/batch = 0.023, All_Time = 2408.557
+model saved to rnn_2x_400/model.ckpt
+105000/408500 (epoch 128), train_loss = 0.327, time/batch = 0.023, All_Time = 2431.627
+model saved to rnn_2x_400/model.ckpt
+106000/408500 (epoch 129), train_loss = 0.365, time/batch = 0.023, All_Time = 2454.918
+model saved to rnn_2x_400/model.ckpt
+107000/408500 (epoch 130), train_loss = 0.333, time/batch = 0.023, All_Time = 2478.049
+model saved to rnn_2x_400/model.ckpt
+108000/408500 (epoch 132), train_loss = 0.364, time/batch = 0.024, All_Time = 2501.131
+model saved to rnn_2x_400/model.ckpt
+109000/408500 (epoch 133), train_loss = 0.354, time/batch = 0.023, All_Time = 2524.359
+model saved to rnn_2x_400/model.ckpt
+110000/408500 (epoch 134), train_loss = 0.332, time/batch = 0.023, All_Time = 2547.471
+model saved to rnn_2x_400/model.ckpt
+111000/408500 (epoch 135), train_loss = 0.404, time/batch = 0.023, All_Time = 2570.848
+model saved to rnn_2x_400/model.ckpt
+112000/408500 (epoch 137), train_loss = 0.356, time/batch = 0.023, All_Time = 2594.143
+model saved to rnn_2x_400/model.ckpt
+113000/408500 (epoch 138), train_loss = 0.335, time/batch = 0.023, All_Time = 2617.305
+model saved to rnn_2x_400/model.ckpt
+114000/408500 (epoch 139), train_loss = 0.383, time/batch = 0.023, All_Time = 2640.281
+model saved to rnn_2x_400/model.ckpt
+115000/408500 (epoch 140), train_loss = 0.320, time/batch = 0.023, All_Time = 2663.745
+model saved to rnn_2x_400/model.ckpt
+116000/408500 (epoch 141), train_loss = 0.328, time/batch = 0.023, All_Time = 2686.815
+model saved to rnn_2x_400/model.ckpt
+117000/408500 (epoch 143), train_loss = 0.327, time/batch = 0.023, All_Time = 2710.131
+model saved to rnn_2x_400/model.ckpt
+118000/408500 (epoch 144), train_loss = 0.339, time/batch = 0.023, All_Time = 2733.279
+model saved to rnn_2x_400/model.ckpt
+119000/408500 (epoch 145), train_loss = 0.341, time/batch = 0.023, All_Time = 2756.529
+model saved to rnn_2x_400/model.ckpt
+120000/408500 (epoch 146), train_loss = 0.361, time/batch = 0.023, All_Time = 2779.549
+model saved to rnn_2x_400/model.ckpt
+121000/408500 (epoch 148), train_loss = 0.370, time/batch = 0.024, All_Time = 2802.791
+model saved to rnn_2x_400/model.ckpt
+122000/408500 (epoch 149), train_loss = 0.358, time/batch = 0.023, All_Time = 2826.016
+model saved to rnn_2x_400/model.ckpt
+123000/408500 (epoch 150), train_loss = 0.356, time/batch = 0.024, All_Time = 2849.092
+model saved to rnn_2x_400/model.ckpt
+124000/408500 (epoch 151), train_loss = 0.319, time/batch = 0.023, All_Time = 2872.332
+model saved to rnn_2x_400/model.ckpt
+125000/408500 (epoch 152), train_loss = 0.346, time/batch = 0.023, All_Time = 2895.466
+model saved to rnn_2x_400/model.ckpt
+126000/408500 (epoch 154), train_loss = 0.327, time/batch = 0.024, All_Time = 2918.540
+model saved to rnn_2x_400/model.ckpt
+127000/408500 (epoch 155), train_loss = 0.326, time/batch = 0.023, All_Time = 2941.811
+model saved to rnn_2x_400/model.ckpt
+128000/408500 (epoch 156), train_loss = 0.294, time/batch = 0.023, All_Time = 2965.001
+model saved to rnn_2x_400/model.ckpt
+129000/408500 (epoch 157), train_loss = 0.314, time/batch = 0.023, All_Time = 2988.142
+model saved to rnn_2x_400/model.ckpt
+130000/408500 (epoch 159), train_loss = 0.346, time/batch = 0.023, All_Time = 3011.504
+model saved to rnn_2x_400/model.ckpt
+131000/408500 (epoch 160), train_loss = 0.306, time/batch = 0.023, All_Time = 3034.667
+model saved to rnn_2x_400/model.ckpt
+132000/408500 (epoch 161), train_loss = 0.371, time/batch = 0.024, All_Time = 3057.911
+model saved to rnn_2x_400/model.ckpt
+133000/408500 (epoch 162), train_loss = 0.363, time/batch = 0.023, All_Time = 3081.216
+model saved to rnn_2x_400/model.ckpt
+134000/408500 (epoch 164), train_loss = 0.328, time/batch = 0.023, All_Time = 3104.377
+model saved to rnn_2x_400/model.ckpt
+135000/408500 (epoch 165), train_loss = 0.343, time/batch = 0.023, All_Time = 3127.606
+model saved to rnn_2x_400/model.ckpt
+136000/408500 (epoch 166), train_loss = 0.297, time/batch = 0.023, All_Time = 3150.849
+model saved to rnn_2x_400/model.ckpt
+137000/408500 (epoch 167), train_loss = 0.379, time/batch = 0.023, All_Time = 3173.971
+model saved to rnn_2x_400/model.ckpt
+138000/408500 (epoch 168), train_loss = 0.339, time/batch = 0.023, All_Time = 3197.244
+model saved to rnn_2x_400/model.ckpt
+139000/408500 (epoch 170), train_loss = 0.361, time/batch = 0.023, All_Time = 3220.461
+model saved to rnn_2x_400/model.ckpt
+140000/408500 (epoch 171), train_loss = 0.357, time/batch = 0.023, All_Time = 3243.680
+model saved to rnn_2x_400/model.ckpt
+141000/408500 (epoch 172), train_loss = 0.328, time/batch = 0.023, All_Time = 3266.808
+model saved to rnn_2x_400/model.ckpt
+142000/408500 (epoch 173), train_loss = 0.340, time/batch = 0.023, All_Time = 3289.987
+model saved to rnn_2x_400/model.ckpt
+143000/408500 (epoch 175), train_loss = 0.379, time/batch = 0.023, All_Time = 3313.204
+model saved to rnn_2x_400/model.ckpt
+144000/408500 (epoch 176), train_loss = 0.307, time/batch = 0.023, All_Time = 3336.383
+model saved to rnn_2x_400/model.ckpt
+145000/408500 (epoch 177), train_loss = 0.361, time/batch = 0.023, All_Time = 3359.636
+model saved to rnn_2x_400/model.ckpt
+146000/408500 (epoch 178), train_loss = 0.296, time/batch = 0.023, All_Time = 3382.812
+model saved to rnn_2x_400/model.ckpt
+147000/408500 (epoch 179), train_loss = 0.331, time/batch = 0.023, All_Time = 3406.029
+model saved to rnn_2x_400/model.ckpt
+148000/408500 (epoch 181), train_loss = 0.397, time/batch = 0.023, All_Time = 3429.406
+model saved to rnn_2x_400/model.ckpt
+149000/408500 (epoch 182), train_loss = 0.352, time/batch = 0.023, All_Time = 3452.459
+model saved to rnn_2x_400/model.ckpt
+150000/408500 (epoch 183), train_loss = 0.325, time/batch = 0.023, All_Time = 3475.575
+model saved to rnn_2x_400/model.ckpt
+151000/408500 (epoch 184), train_loss = 0.332, time/batch = 0.023, All_Time = 3498.775
+model saved to rnn_2x_400/model.ckpt
+152000/408500 (epoch 186), train_loss = 0.369, time/batch = 0.023, All_Time = 3521.796
+model saved to rnn_2x_400/model.ckpt
+153000/408500 (epoch 187), train_loss = 0.355, time/batch = 0.023, All_Time = 3544.980
+model saved to rnn_2x_400/model.ckpt
+154000/408500 (epoch 188), train_loss = 0.348, time/batch = 0.023, All_Time = 3568.124
+model saved to rnn_2x_400/model.ckpt
+155000/408500 (epoch 189), train_loss = 0.300, time/batch = 0.023, All_Time = 3591.228
+model saved to rnn_2x_400/model.ckpt
+156000/408500 (epoch 190), train_loss = 0.308, time/batch = 0.023, All_Time = 3614.475
+model saved to rnn_2x_400/model.ckpt
+157000/408500 (epoch 192), train_loss = 0.347, time/batch = 0.023, All_Time = 3637.492
+model saved to rnn_2x_400/model.ckpt
+158000/408500 (epoch 193), train_loss = 0.304, time/batch = 0.023, All_Time = 3660.724
+model saved to rnn_2x_400/model.ckpt
+159000/408500 (epoch 194), train_loss = 0.336, time/batch = 0.023, All_Time = 3683.933
+model saved to rnn_2x_400/model.ckpt
+160000/408500 (epoch 195), train_loss = 0.291, time/batch = 0.023, All_Time = 3707.074
+model saved to rnn_2x_400/model.ckpt
+161000/408500 (epoch 197), train_loss = 0.336, time/batch = 0.023, All_Time = 3730.349
+model saved to rnn_2x_400/model.ckpt
+162000/408500 (epoch 198), train_loss = 0.275, time/batch = 0.023, All_Time = 3753.504
+model saved to rnn_2x_400/model.ckpt
+163000/408500 (epoch 199), train_loss = 0.365, time/batch = 0.023, All_Time = 3776.768
+model saved to rnn_2x_400/model.ckpt
+164000/408500 (epoch 200), train_loss = 0.327, time/batch = 0.023, All_Time = 3799.874
+model saved to rnn_2x_400/model.ckpt
+165000/408500 (epoch 201), train_loss = 0.330, time/batch = 0.023, All_Time = 3823.051
+model saved to rnn_2x_400/model.ckpt
+166000/408500 (epoch 203), train_loss = 0.296, time/batch = 0.023, All_Time = 3846.304
+model saved to rnn_2x_400/model.ckpt
+167000/408500 (epoch 204), train_loss = 0.355, time/batch = 0.023, All_Time = 3869.613
+model saved to rnn_2x_400/model.ckpt
+168000/408500 (epoch 205), train_loss = 0.352, time/batch = 0.023, All_Time = 3892.706
+model saved to rnn_2x_400/model.ckpt
+169000/408500 (epoch 206), train_loss = 0.319, time/batch = 0.023, All_Time = 3915.952
+model saved to rnn_2x_400/model.ckpt
+170000/408500 (epoch 208), train_loss = 0.307, time/batch = 0.023, All_Time = 3939.021
+model saved to rnn_2x_400/model.ckpt
+171000/408500 (epoch 209), train_loss = 0.320, time/batch = 0.023, All_Time = 3962.257
+model saved to rnn_2x_400/model.ckpt
+172000/408500 (epoch 210), train_loss = 0.334, time/batch = 0.023, All_Time = 3985.366
+model saved to rnn_2x_400/model.ckpt
+173000/408500 (epoch 211), train_loss = 0.315, time/batch = 0.023, All_Time = 4008.631
+model saved to rnn_2x_400/model.ckpt
+174000/408500 (epoch 212), train_loss = 0.312, time/batch = 0.023, All_Time = 4031.674
+model saved to rnn_2x_400/model.ckpt
+175000/408500 (epoch 214), train_loss = 0.334, time/batch = 0.023, All_Time = 4054.894
+model saved to rnn_2x_400/model.ckpt
+176000/408500 (epoch 215), train_loss = 0.328, time/batch = 0.023, All_Time = 4078.150
+model saved to rnn_2x_400/model.ckpt
+177000/408500 (epoch 216), train_loss = 0.307, time/batch = 0.023, All_Time = 4101.267
+model saved to rnn_2x_400/model.ckpt
+178000/408500 (epoch 217), train_loss = 0.326, time/batch = 0.023, All_Time = 4124.404
+model saved to rnn_2x_400/model.ckpt
+179000/408500 (epoch 219), train_loss = 0.319, time/batch = 0.023, All_Time = 4147.599
+model saved to rnn_2x_400/model.ckpt
+180000/408500 (epoch 220), train_loss = 0.277, time/batch = 0.023, All_Time = 4170.824
+model saved to rnn_2x_400/model.ckpt
+181000/408500 (epoch 221), train_loss = 0.311, time/batch = 0.023, All_Time = 4194.098
+model saved to rnn_2x_400/model.ckpt
+182000/408500 (epoch 222), train_loss = 0.353, time/batch = 0.023, All_Time = 4217.199
+model saved to rnn_2x_400/model.ckpt
+183000/408500 (epoch 223), train_loss = 0.311, time/batch = 0.023, All_Time = 4240.448
+model saved to rnn_2x_400/model.ckpt
+184000/408500 (epoch 225), train_loss = 0.327, time/batch = 0.023, All_Time = 4263.518
+model saved to rnn_2x_400/model.ckpt
+185000/408500 (epoch 226), train_loss = 0.326, time/batch = 0.023, All_Time = 4286.758
+model saved to rnn_2x_400/model.ckpt
+186000/408500 (epoch 227), train_loss = 0.313, time/batch = 0.023, All_Time = 4310.000
+model saved to rnn_2x_400/model.ckpt
+187000/408500 (epoch 228), train_loss = 0.343, time/batch = 0.023, All_Time = 4333.267
+model saved to rnn_2x_400/model.ckpt
+188000/408500 (epoch 230), train_loss = 0.352, time/batch = 0.023, All_Time = 4356.516
+model saved to rnn_2x_400/model.ckpt
+189000/408500 (epoch 231), train_loss = 0.325, time/batch = 0.023, All_Time = 4379.690
+model saved to rnn_2x_400/model.ckpt
+190000/408500 (epoch 232), train_loss = 0.334, time/batch = 0.023, All_Time = 4402.858
+model saved to rnn_2x_400/model.ckpt
+191000/408500 (epoch 233), train_loss = 0.305, time/batch = 0.023, All_Time = 4426.011
+model saved to rnn_2x_400/model.ckpt
+192000/408500 (epoch 235), train_loss = 0.361, time/batch = 0.024, All_Time = 4449.222
+model saved to rnn_2x_400/model.ckpt
+193000/408500 (epoch 236), train_loss = 0.315, time/batch = 0.023, All_Time = 4472.408
+model saved to rnn_2x_400/model.ckpt
+194000/408500 (epoch 237), train_loss = 0.349, time/batch = 0.023, All_Time = 4495.639
+model saved to rnn_2x_400/model.ckpt
+195000/408500 (epoch 238), train_loss = 0.289, time/batch = 0.024, All_Time = 4518.883
+model saved to rnn_2x_400/model.ckpt
+196000/408500 (epoch 239), train_loss = 0.278, time/batch = 0.023, All_Time = 4542.132
+model saved to rnn_2x_400/model.ckpt
+197000/408500 (epoch 241), train_loss = 0.380, time/batch = 0.024, All_Time = 4565.261
+model saved to rnn_2x_400/model.ckpt
+198000/408500 (epoch 242), train_loss = 0.301, time/batch = 0.023, All_Time = 4588.516
+model saved to rnn_2x_400/model.ckpt
+199000/408500 (epoch 243), train_loss = 0.324, time/batch = 0.023, All_Time = 4611.652
+model saved to rnn_2x_400/model.ckpt
+200000/408500 (epoch 244), train_loss = 0.355, time/batch = 0.023, All_Time = 4634.807
+model saved to rnn_2x_400/model.ckpt
+201000/408500 (epoch 246), train_loss = 0.308, time/batch = 0.023, All_Time = 4658.155
+model saved to rnn_2x_400/model.ckpt
+202000/408500 (epoch 247), train_loss = 0.368, time/batch = 0.023, All_Time = 4681.343
+model saved to rnn_2x_400/model.ckpt
+203000/408500 (epoch 248), train_loss = 0.341, time/batch = 0.023, All_Time = 4704.568
+model saved to rnn_2x_400/model.ckpt
+204000/408500 (epoch 249), train_loss = 0.317, time/batch = 0.023, All_Time = 4727.946
+model saved to rnn_2x_400/model.ckpt
+205000/408500 (epoch 250), train_loss = 0.318, time/batch = 0.024, All_Time = 4751.143
+model saved to rnn_2x_400/model.ckpt
+206000/408500 (epoch 252), train_loss = 0.309, time/batch = 0.023, All_Time = 4774.284
+model saved to rnn_2x_400/model.ckpt
+207000/408500 (epoch 253), train_loss = 0.314, time/batch = 0.023, All_Time = 4797.528
+model saved to rnn_2x_400/model.ckpt
+208000/408500 (epoch 254), train_loss = 0.320, time/batch = 0.023, All_Time = 4820.770
+model saved to rnn_2x_400/model.ckpt
+209000/408500 (epoch 255), train_loss = 0.379, time/batch = 0.023, All_Time = 4844.089
+model saved to rnn_2x_400/model.ckpt
+210000/408500 (epoch 257), train_loss = 0.354, time/batch = 0.023, All_Time = 4867.215
+model saved to rnn_2x_400/model.ckpt
+211000/408500 (epoch 258), train_loss = 0.322, time/batch = 0.023, All_Time = 4890.420
+model saved to rnn_2x_400/model.ckpt
+212000/408500 (epoch 259), train_loss = 0.307, time/batch = 0.024, All_Time = 4913.580
+model saved to rnn_2x_400/model.ckpt
+213000/408500 (epoch 260), train_loss = 0.307, time/batch = 0.023, All_Time = 4936.763
+model saved to rnn_2x_400/model.ckpt
+214000/408500 (epoch 261), train_loss = 0.332, time/batch = 0.023, All_Time = 4959.893
+model saved to rnn_2x_400/model.ckpt
+215000/408500 (epoch 263), train_loss = 0.318, time/batch = 0.023, All_Time = 4983.215
+model saved to rnn_2x_400/model.ckpt
+216000/408500 (epoch 264), train_loss = 0.369, time/batch = 0.023, All_Time = 5006.430
+model saved to rnn_2x_400/model.ckpt
+217000/408500 (epoch 265), train_loss = 0.314, time/batch = 0.023, All_Time = 5029.581
+model saved to rnn_2x_400/model.ckpt
+218000/408500 (epoch 266), train_loss = 0.385, time/batch = 0.023, All_Time = 5052.815
+model saved to rnn_2x_400/model.ckpt
+219000/408500 (epoch 268), train_loss = 0.358, time/batch = 0.023, All_Time = 5075.976
+model saved to rnn_2x_400/model.ckpt
+220000/408500 (epoch 269), train_loss = 0.294, time/batch = 0.023, All_Time = 5099.186
+model saved to rnn_2x_400/model.ckpt
+221000/408500 (epoch 270), train_loss = 0.340, time/batch = 0.023, All_Time = 5122.442
+model saved to rnn_2x_400/model.ckpt
+222000/408500 (epoch 271), train_loss = 0.271, time/batch = 0.023, All_Time = 5145.476
+model saved to rnn_2x_400/model.ckpt
+223000/408500 (epoch 272), train_loss = 0.312, time/batch = 0.023, All_Time = 5168.626
+model saved to rnn_2x_400/model.ckpt
+224000/408500 (epoch 274), train_loss = 0.298, time/batch = 0.023, All_Time = 5191.803
+model saved to rnn_2x_400/model.ckpt
+225000/408500 (epoch 275), train_loss = 0.256, time/batch = 0.023, All_Time = 5215.062
+model saved to rnn_2x_400/model.ckpt
+226000/408500 (epoch 276), train_loss = 0.297, time/batch = 0.023, All_Time = 5238.304
+model saved to rnn_2x_400/model.ckpt
+227000/408500 (epoch 277), train_loss = 0.312, time/batch = 0.023, All_Time = 5261.562
+model saved to rnn_2x_400/model.ckpt
+228000/408500 (epoch 279), train_loss = 0.294, time/batch = 0.024, All_Time = 5284.619
+model saved to rnn_2x_400/model.ckpt
+229000/408500 (epoch 280), train_loss = 0.257, time/batch = 0.023, All_Time = 5307.845
+model saved to rnn_2x_400/model.ckpt
+230000/408500 (epoch 281), train_loss = 0.331, time/batch = 0.023, All_Time = 5330.947
+model saved to rnn_2x_400/model.ckpt
+231000/408500 (epoch 282), train_loss = 0.304, time/batch = 0.024, All_Time = 5354.183
+model saved to rnn_2x_400/model.ckpt
+232000/408500 (epoch 283), train_loss = 0.323, time/batch = 0.023, All_Time = 5377.447
+model saved to rnn_2x_400/model.ckpt
+233000/408500 (epoch 285), train_loss = 0.348, time/batch = 0.024, All_Time = 5400.529
+model saved to rnn_2x_400/model.ckpt
+234000/408500 (epoch 286), train_loss = 0.319, time/batch = 0.023, All_Time = 5423.750
+model saved to rnn_2x_400/model.ckpt
+235000/408500 (epoch 287), train_loss = 0.291, time/batch = 0.023, All_Time = 5446.954
+model saved to rnn_2x_400/model.ckpt
+236000/408500 (epoch 288), train_loss = 0.297, time/batch = 0.023, All_Time = 5470.236
+model saved to rnn_2x_400/model.ckpt
+237000/408500 (epoch 290), train_loss = 0.298, time/batch = 0.023, All_Time = 5493.280
+model saved to rnn_2x_400/model.ckpt
+238000/408500 (epoch 291), train_loss = 0.356, time/batch = 0.023, All_Time = 5516.483
+model saved to rnn_2x_400/model.ckpt
+239000/408500 (epoch 292), train_loss = 0.292, time/batch = 0.023, All_Time = 5539.625
+model saved to rnn_2x_400/model.ckpt
+240000/408500 (epoch 293), train_loss = 0.315, time/batch = 0.023, All_Time = 5562.772
+model saved to rnn_2x_400/model.ckpt
+241000/408500 (epoch 294), train_loss = 0.358, time/batch = 0.024, All_Time = 5585.887
+model saved to rnn_2x_400/model.ckpt
+242000/408500 (epoch 296), train_loss = 0.362, time/batch = 0.024, All_Time = 5609.027
+model saved to rnn_2x_400/model.ckpt
+243000/408500 (epoch 297), train_loss = 0.325, time/batch = 0.023, All_Time = 5632.250
+model saved to rnn_2x_400/model.ckpt
+244000/408500 (epoch 298), train_loss = 0.300, time/batch = 0.023, All_Time = 5655.393
+model saved to rnn_2x_400/model.ckpt
+245000/408500 (epoch 299), train_loss = 0.319, time/batch = 0.023, All_Time = 5678.560
+model saved to rnn_2x_400/model.ckpt
+246000/408500 (epoch 301), train_loss = 0.319, time/batch = 0.023, All_Time = 5701.765
+model saved to rnn_2x_400/model.ckpt
+247000/408500 (epoch 302), train_loss = 0.309, time/batch = 0.023, All_Time = 5724.830
+model saved to rnn_2x_400/model.ckpt
+248000/408500 (epoch 303), train_loss = 0.331, time/batch = 0.023, All_Time = 5748.088
+model saved to rnn_2x_400/model.ckpt
+249000/408500 (epoch 304), train_loss = 0.302, time/batch = 0.023, All_Time = 5771.238
+model saved to rnn_2x_400/model.ckpt
+250000/408500 (epoch 305), train_loss = 0.332, time/batch = 0.023, All_Time = 5794.565
+model saved to rnn_2x_400/model.ckpt
+251000/408500 (epoch 307), train_loss = 0.302, time/batch = 0.023, All_Time = 5817.579
+model saved to rnn_2x_400/model.ckpt
+252000/408500 (epoch 308), train_loss = 0.273, time/batch = 0.023, All_Time = 5840.849
+model saved to rnn_2x_400/model.ckpt
+253000/408500 (epoch 309), train_loss = 0.352, time/batch = 0.023, All_Time = 5864.046
+model saved to rnn_2x_400/model.ckpt
+254000/408500 (epoch 310), train_loss = 0.353, time/batch = 0.023, All_Time = 5887.147
+model saved to rnn_2x_400/model.ckpt
+255000/408500 (epoch 312), train_loss = 0.308, time/batch = 0.023, All_Time = 5910.461
+model saved to rnn_2x_400/model.ckpt
+256000/408500 (epoch 313), train_loss = 0.314, time/batch = 0.023, All_Time = 5933.570
+model saved to rnn_2x_400/model.ckpt
+257000/408500 (epoch 314), train_loss = 0.305, time/batch = 0.023, All_Time = 5956.724
+model saved to rnn_2x_400/model.ckpt
+258000/408500 (epoch 315), train_loss = 0.335, time/batch = 0.023, All_Time = 5979.883
+model saved to rnn_2x_400/model.ckpt
+259000/408500 (epoch 317), train_loss = 0.314, time/batch = 0.023, All_Time = 6003.098
+model saved to rnn_2x_400/model.ckpt
+260000/408500 (epoch 318), train_loss = 0.332, time/batch = 0.023, All_Time = 6026.242
+model saved to rnn_2x_400/model.ckpt
+261000/408500 (epoch 319), train_loss = 0.342, time/batch = 0.023, All_Time = 6049.391
+model saved to rnn_2x_400/model.ckpt
+262000/408500 (epoch 320), train_loss = 0.287, time/batch = 0.023, All_Time = 6072.580
+model saved to rnn_2x_400/model.ckpt
+263000/408500 (epoch 321), train_loss = 0.354, time/batch = 0.023, All_Time = 6095.832
+model saved to rnn_2x_400/model.ckpt
+264000/408500 (epoch 323), train_loss = 0.323, time/batch = 0.023, All_Time = 6118.938
+model saved to rnn_2x_400/model.ckpt
+265000/408500 (epoch 324), train_loss = 0.278, time/batch = 0.024, All_Time = 6142.067
+model saved to rnn_2x_400/model.ckpt
+266000/408500 (epoch 325), train_loss = 0.335, time/batch = 0.023, All_Time = 6165.375
+model saved to rnn_2x_400/model.ckpt
+267000/408500 (epoch 326), train_loss = 0.278, time/batch = 0.023, All_Time = 6188.425
+model saved to rnn_2x_400/model.ckpt
+268000/408500 (epoch 328), train_loss = 0.349, time/batch = 0.023, All_Time = 6211.655
+model saved to rnn_2x_400/model.ckpt
+269000/408500 (epoch 329), train_loss = 0.315, time/batch = 0.023, All_Time = 6234.890
+model saved to rnn_2x_400/model.ckpt
+270000/408500 (epoch 330), train_loss = 0.333, time/batch = 0.023, All_Time = 6258.018
+model saved to rnn_2x_400/model.ckpt
+271000/408500 (epoch 331), train_loss = 0.331, time/batch = 0.023, All_Time = 6281.368
+model saved to rnn_2x_400/model.ckpt
+272000/408500 (epoch 332), train_loss = 0.333, time/batch = 0.023, All_Time = 6304.415
+model saved to rnn_2x_400/model.ckpt
+273000/408500 (epoch 334), train_loss = 0.282, time/batch = 0.023, All_Time = 6327.840
+model saved to rnn_2x_400/model.ckpt
+274000/408500 (epoch 335), train_loss = 0.289, time/batch = 0.023, All_Time = 6350.961
+model saved to rnn_2x_400/model.ckpt
+275000/408500 (epoch 336), train_loss = 0.303, time/batch = 0.023, All_Time = 6374.283
+model saved to rnn_2x_400/model.ckpt
+276000/408500 (epoch 337), train_loss = 0.345, time/batch = 0.023, All_Time = 6397.345
+model saved to rnn_2x_400/model.ckpt
+277000/408500 (epoch 339), train_loss = 0.301, time/batch = 0.023, All_Time = 6420.620
+model saved to rnn_2x_400/model.ckpt
+278000/408500 (epoch 340), train_loss = 0.315, time/batch = 0.023, All_Time = 6443.662
+model saved to rnn_2x_400/model.ckpt
+279000/408500 (epoch 341), train_loss = 0.314, time/batch = 0.023, All_Time = 6467.024
+model saved to rnn_2x_400/model.ckpt
+280000/408500 (epoch 342), train_loss = 0.319, time/batch = 0.023, All_Time = 6490.198
+model saved to rnn_2x_400/model.ckpt
+281000/408500 (epoch 343), train_loss = 0.291, time/batch = 0.023, All_Time = 6513.387
+model saved to rnn_2x_400/model.ckpt
+282000/408500 (epoch 345), train_loss = 0.332, time/batch = 0.023, All_Time = 6536.579
+model saved to rnn_2x_400/model.ckpt
+283000/408500 (epoch 346), train_loss = 0.319, time/batch = 0.023, All_Time = 6559.760
+model saved to rnn_2x_400/model.ckpt
+284000/408500 (epoch 347), train_loss = 0.299, time/batch = 0.023, All_Time = 6582.889
+model saved to rnn_2x_400/model.ckpt
+285000/408500 (epoch 348), train_loss = 0.320, time/batch = 0.024, All_Time = 6606.195
+model saved to rnn_2x_400/model.ckpt
+286000/408500 (epoch 350), train_loss = 0.297, time/batch = 0.023, All_Time = 6629.331
+model saved to rnn_2x_400/model.ckpt
+287000/408500 (epoch 351), train_loss = 0.315, time/batch = 0.023, All_Time = 6652.496
+model saved to rnn_2x_400/model.ckpt
+288000/408500 (epoch 352), train_loss = 0.349, time/batch = 0.023, All_Time = 6675.822
+model saved to rnn_2x_400/model.ckpt
+289000/408500 (epoch 353), train_loss = 0.328, time/batch = 0.025, All_Time = 6698.851
+model saved to rnn_2x_400/model.ckpt
+290000/408500 (epoch 354), train_loss = 0.336, time/batch = 0.024, All_Time = 6722.188
+model saved to rnn_2x_400/model.ckpt
+291000/408500 (epoch 356), train_loss = 0.306, time/batch = 0.023, All_Time = 6745.245
+model saved to rnn_2x_400/model.ckpt
+292000/408500 (epoch 357), train_loss = 0.296, time/batch = 0.023, All_Time = 6768.359
+model saved to rnn_2x_400/model.ckpt
+293000/408500 (epoch 358), train_loss = 0.332, time/batch = 0.023, All_Time = 6791.520
+model saved to rnn_2x_400/model.ckpt
+294000/408500 (epoch 359), train_loss = 0.303, time/batch = 0.024, All_Time = 6814.555
+model saved to rnn_2x_400/model.ckpt
+295000/408500 (epoch 361), train_loss = 0.363, time/batch = 0.023, All_Time = 6838.023
+model saved to rnn_2x_400/model.ckpt
+296000/408500 (epoch 362), train_loss = 0.325, time/batch = 0.023, All_Time = 6861.064
+model saved to rnn_2x_400/model.ckpt
+297000/408500 (epoch 363), train_loss = 0.313, time/batch = 0.023, All_Time = 6884.437
+model saved to rnn_2x_400/model.ckpt
+298000/408500 (epoch 364), train_loss = 0.291, time/batch = 0.024, All_Time = 6907.474
+model saved to rnn_2x_400/model.ckpt
+299000/408500 (epoch 365), train_loss = 0.327, time/batch = 0.023, All_Time = 6930.643
+model saved to rnn_2x_400/model.ckpt
+300000/408500 (epoch 367), train_loss = 0.309, time/batch = 0.023, All_Time = 6953.953
+model saved to rnn_2x_400/model.ckpt
+301000/408500 (epoch 368), train_loss = 0.273, time/batch = 0.023, All_Time = 6977.067
+model saved to rnn_2x_400/model.ckpt
+302000/408500 (epoch 369), train_loss = 0.330, time/batch = 0.023, All_Time = 7000.228
+model saved to rnn_2x_400/model.ckpt
+303000/408500 (epoch 370), train_loss = 0.322, time/batch = 0.023, All_Time = 7023.590
+model saved to rnn_2x_400/model.ckpt
+304000/408500 (epoch 372), train_loss = 0.308, time/batch = 0.023, All_Time = 7046.564
+model saved to rnn_2x_400/model.ckpt
+305000/408500 (epoch 373), train_loss = 0.326, time/batch = 0.023, All_Time = 7069.964
+model saved to rnn_2x_400/model.ckpt
+306000/408500 (epoch 374), train_loss = 0.315, time/batch = 0.023, All_Time = 7093.019
+model saved to rnn_2x_400/model.ckpt
+307000/408500 (epoch 375), train_loss = 0.322, time/batch = 0.023, All_Time = 7116.157
+model saved to rnn_2x_400/model.ckpt
+308000/408500 (epoch 376), train_loss = 0.299, time/batch = 0.023, All_Time = 7139.446
+model saved to rnn_2x_400/model.ckpt
+309000/408500 (epoch 378), train_loss = 0.315, time/batch = 0.023, All_Time = 7162.667
+model saved to rnn_2x_400/model.ckpt
+310000/408500 (epoch 379), train_loss = 0.299, time/batch = 0.023, All_Time = 7185.825
+model saved to rnn_2x_400/model.ckpt
+311000/408500 (epoch 380), train_loss = 0.291, time/batch = 0.023, All_Time = 7208.884
+model saved to rnn_2x_400/model.ckpt
+312000/408500 (epoch 381), train_loss = 0.332, time/batch = 0.024, All_Time = 7232.219
+model saved to rnn_2x_400/model.ckpt
+313000/408500 (epoch 383), train_loss = 0.263, time/batch = 0.023, All_Time = 7255.365
+model saved to rnn_2x_400/model.ckpt
+314000/408500 (epoch 384), train_loss = 0.319, time/batch = 0.023, All_Time = 7278.482
+model saved to rnn_2x_400/model.ckpt
+315000/408500 (epoch 385), train_loss = 0.260, time/batch = 0.024, All_Time = 7301.625
+model saved to rnn_2x_400/model.ckpt
+316000/408500 (epoch 386), train_loss = 0.345, time/batch = 0.023, All_Time = 7324.845
+model saved to rnn_2x_400/model.ckpt
+317000/408500 (epoch 388), train_loss = 0.352, time/batch = 0.023, All_Time = 7347.831
+model saved to rnn_2x_400/model.ckpt
+318000/408500 (epoch 389), train_loss = 0.311, time/batch = 0.023, All_Time = 7371.027
+model saved to rnn_2x_400/model.ckpt
+319000/408500 (epoch 390), train_loss = 0.311, time/batch = 0.023, All_Time = 7394.093
+model saved to rnn_2x_400/model.ckpt
+320000/408500 (epoch 391), train_loss = 0.346, time/batch = 0.023, All_Time = 7417.154
+model saved to rnn_2x_400/model.ckpt
+321000/408500 (epoch 392), train_loss = 0.311, time/batch = 0.024, All_Time = 7440.554
+model saved to rnn_2x_400/model.ckpt
+322000/408500 (epoch 394), train_loss = 0.319, time/batch = 0.023, All_Time = 7463.760
+model saved to rnn_2x_400/model.ckpt
+323000/408500 (epoch 395), train_loss = 0.327, time/batch = 0.023, All_Time = 7486.902
+model saved to rnn_2x_400/model.ckpt
+324000/408500 (epoch 396), train_loss = 0.333, time/batch = 0.023, All_Time = 7510.222
+model saved to rnn_2x_400/model.ckpt
+325000/408500 (epoch 397), train_loss = 0.273, time/batch = 0.023, All_Time = 7533.209
+model saved to rnn_2x_400/model.ckpt
+326000/408500 (epoch 399), train_loss = 0.348, time/batch = 0.023, All_Time = 7556.391
+model saved to rnn_2x_400/model.ckpt
+327000/408500 (epoch 400), train_loss = 0.327, time/batch = 0.023, All_Time = 7579.638
+model saved to rnn_2x_400/model.ckpt
+328000/408500 (epoch 401), train_loss = 0.287, time/batch = 0.023, All_Time = 7602.665
+model saved to rnn_2x_400/model.ckpt
+329000/408500 (epoch 402), train_loss = 0.285, time/batch = 0.023, All_Time = 7625.772
+model saved to rnn_2x_400/model.ckpt
+330000/408500 (epoch 403), train_loss = 0.292, time/batch = 0.023, All_Time = 7648.994
+model saved to rnn_2x_400/model.ckpt
+331000/408500 (epoch 405), train_loss = 0.366, time/batch = 0.023, All_Time = 7672.145
+model saved to rnn_2x_400/model.ckpt
+332000/408500 (epoch 406), train_loss = 0.293, time/batch = 0.023, All_Time = 7695.529
+model saved to rnn_2x_400/model.ckpt
+333000/408500 (epoch 407), train_loss = 0.304, time/batch = 0.023, All_Time = 7718.593
+model saved to rnn_2x_400/model.ckpt
+334000/408500 (epoch 408), train_loss = 0.346, time/batch = 0.023, All_Time = 7741.803
+model saved to rnn_2x_400/model.ckpt
+335000/408500 (epoch 410), train_loss = 0.324, time/batch = 0.023, All_Time = 7765.049
+model saved to rnn_2x_400/model.ckpt
+336000/408500 (epoch 411), train_loss = 0.309, time/batch = 0.023, All_Time = 7788.059
+model saved to rnn_2x_400/model.ckpt
+337000/408500 (epoch 412), train_loss = 0.359, time/batch = 0.023, All_Time = 7811.375
+model saved to rnn_2x_400/model.ckpt
+338000/408500 (epoch 413), train_loss = 0.345, time/batch = 0.023, All_Time = 7834.442
+model saved to rnn_2x_400/model.ckpt
+339000/408500 (epoch 414), train_loss = 0.324, time/batch = 0.023, All_Time = 7857.676
+model saved to rnn_2x_400/model.ckpt
+340000/408500 (epoch 416), train_loss = 0.295, time/batch = 0.023, All_Time = 7880.906
+model saved to rnn_2x_400/model.ckpt
+341000/408500 (epoch 417), train_loss = 0.374, time/batch = 0.023, All_Time = 7904.032
+model saved to rnn_2x_400/model.ckpt
+342000/408500 (epoch 418), train_loss = 0.286, time/batch = 0.024, All_Time = 7927.137
+model saved to rnn_2x_400/model.ckpt
+343000/408500 (epoch 419), train_loss = 0.265, time/batch = 0.023, All_Time = 7950.334
+model saved to rnn_2x_400/model.ckpt
+344000/408500 (epoch 421), train_loss = 0.307, time/batch = 0.023, All_Time = 7973.540
+model saved to rnn_2x_400/model.ckpt
+345000/408500 (epoch 422), train_loss = 0.293, time/batch = 0.023, All_Time = 7996.616
+model saved to rnn_2x_400/model.ckpt
+346000/408500 (epoch 423), train_loss = 0.299, time/batch = 0.023, All_Time = 8019.883
+model saved to rnn_2x_400/model.ckpt
+347000/408500 (epoch 424), train_loss = 0.329, time/batch = 0.024, All_Time = 8042.924
+model saved to rnn_2x_400/model.ckpt
+348000/408500 (epoch 425), train_loss = 0.319, time/batch = 0.023, All_Time = 8066.210
+model saved to rnn_2x_400/model.ckpt
+349000/408500 (epoch 427), train_loss = 0.301, time/batch = 0.024, All_Time = 8089.454
+model saved to rnn_2x_400/model.ckpt
+350000/408500 (epoch 428), train_loss = 0.371, time/batch = 0.023, All_Time = 8112.477
+model saved to rnn_2x_400/model.ckpt
+351000/408500 (epoch 429), train_loss = 0.344, time/batch = 0.023, All_Time = 8135.755
+model saved to rnn_2x_400/model.ckpt
+352000/408500 (epoch 430), train_loss = 0.322, time/batch = 0.023, All_Time = 8159.008
+model saved to rnn_2x_400/model.ckpt
+353000/408500 (epoch 432), train_loss = 0.340, time/batch = 0.023, All_Time = 8182.076
+model saved to rnn_2x_400/model.ckpt
+354000/408500 (epoch 433), train_loss = 0.342, time/batch = 0.023, All_Time = 8205.372
+model saved to rnn_2x_400/model.ckpt
+355000/408500 (epoch 434), train_loss = 0.328, time/batch = 0.023, All_Time = 8228.567
+model saved to rnn_2x_400/model.ckpt
+356000/408500 (epoch 435), train_loss = 0.360, time/batch = 0.023, All_Time = 8251.691
+model saved to rnn_2x_400/model.ckpt
+357000/408500 (epoch 436), train_loss = 0.320, time/batch = 0.023, All_Time = 8274.886
+model saved to rnn_2x_400/model.ckpt
+358000/408500 (epoch 438), train_loss = 0.319, time/batch = 0.023, All_Time = 8297.964
+model saved to rnn_2x_400/model.ckpt
+359000/408500 (epoch 439), train_loss = 0.338, time/batch = 0.023, All_Time = 8321.174
+model saved to rnn_2x_400/model.ckpt
+360000/408500 (epoch 440), train_loss = 0.298, time/batch = 0.023, All_Time = 8344.224
+model saved to rnn_2x_400/model.ckpt
+361000/408500 (epoch 441), train_loss = 0.332, time/batch = 0.024, All_Time = 8367.527
+model saved to rnn_2x_400/model.ckpt
+362000/408500 (epoch 443), train_loss = 0.319, time/batch = 0.023, All_Time = 8390.722
+model saved to rnn_2x_400/model.ckpt
+363000/408500 (epoch 444), train_loss = 0.311, time/batch = 0.023, All_Time = 8413.842
+model saved to rnn_2x_400/model.ckpt
+364000/408500 (epoch 445), train_loss = 0.348, time/batch = 0.023, All_Time = 8437.158
+model saved to rnn_2x_400/model.ckpt
+365000/408500 (epoch 446), train_loss = 0.317, time/batch = 0.023, All_Time = 8460.348
+model saved to rnn_2x_400/model.ckpt
+366000/408500 (epoch 447), train_loss = 0.317, time/batch = 0.023, All_Time = 8483.674
+model saved to rnn_2x_400/model.ckpt
+367000/408500 (epoch 449), train_loss = 0.349, time/batch = 0.024, All_Time = 8506.832
+model saved to rnn_2x_400/model.ckpt
+368000/408500 (epoch 450), train_loss = 0.339, time/batch = 0.023, All_Time = 8530.000
+model saved to rnn_2x_400/model.ckpt
+369000/408500 (epoch 451), train_loss = 0.306, time/batch = 0.023, All_Time = 8553.192
+model saved to rnn_2x_400/model.ckpt
+370000/408500 (epoch 452), train_loss = 0.266, time/batch = 0.023, All_Time = 8576.250
+model saved to rnn_2x_400/model.ckpt
+371000/408500 (epoch 454), train_loss = 0.298, time/batch = 0.023, All_Time = 8599.629
+model saved to rnn_2x_400/model.ckpt
+372000/408500 (epoch 455), train_loss = 0.353, time/batch = 0.023, All_Time = 8622.733
+model saved to rnn_2x_400/model.ckpt
+373000/408500 (epoch 456), train_loss = 0.374, time/batch = 0.023, All_Time = 8646.019
+model saved to rnn_2x_400/model.ckpt
+374000/408500 (epoch 457), train_loss = 0.305, time/batch = 0.023, All_Time = 8669.042
+model saved to rnn_2x_400/model.ckpt
+375000/408500 (epoch 458), train_loss = 0.296, time/batch = 0.023, All_Time = 8692.167
+model saved to rnn_2x_400/model.ckpt
+376000/408500 (epoch 460), train_loss = 0.363, time/batch = 0.024, All_Time = 8715.388
+model saved to rnn_2x_400/model.ckpt
+377000/408500 (epoch 461), train_loss = 0.386, time/batch = 0.023, All_Time = 8738.547
+model saved to rnn_2x_400/model.ckpt
+378000/408500 (epoch 462), train_loss = 0.303, time/batch = 0.023, All_Time = 8761.589
+model saved to rnn_2x_400/model.ckpt
+379000/408500 (epoch 463), train_loss = 0.289, time/batch = 0.024, All_Time = 8784.764
+model saved to rnn_2x_400/model.ckpt
+380000/408500 (epoch 465), train_loss = 0.349, time/batch = 0.023, All_Time = 8807.988
+model saved to rnn_2x_400/model.ckpt
+381000/408500 (epoch 466), train_loss = 0.346, time/batch = 0.024, All_Time = 8831.105
+model saved to rnn_2x_400/model.ckpt
+382000/408500 (epoch 467), train_loss = 0.351, time/batch = 0.023, All_Time = 8854.212
+model saved to rnn_2x_400/model.ckpt
+383000/408500 (epoch 468), train_loss = 0.308, time/batch = 0.023, All_Time = 8877.387
+model saved to rnn_2x_400/model.ckpt
+384000/408500 (epoch 470), train_loss = 0.339, time/batch = 0.023, All_Time = 8900.593
+model saved to rnn_2x_400/model.ckpt
+385000/408500 (epoch 471), train_loss = 0.334, time/batch = 0.023, All_Time = 8923.753
+model saved to rnn_2x_400/model.ckpt
+386000/408500 (epoch 472), train_loss = 0.376, time/batch = 0.023, All_Time = 8946.987
+model saved to rnn_2x_400/model.ckpt
+387000/408500 (epoch 473), train_loss = 0.344, time/batch = 0.023, All_Time = 8970.109
+model saved to rnn_2x_400/model.ckpt
+388000/408500 (epoch 474), train_loss = 0.315, time/batch = 0.023, All_Time = 8993.146
+model saved to rnn_2x_400/model.ckpt
+389000/408500 (epoch 476), train_loss = 0.310, time/batch = 0.023, All_Time = 9016.311
+model saved to rnn_2x_400/model.ckpt
+390000/408500 (epoch 477), train_loss = 0.330, time/batch = 0.023, All_Time = 9039.567
+model saved to rnn_2x_400/model.ckpt
+391000/408500 (epoch 478), train_loss = 0.310, time/batch = 0.023, All_Time = 9062.630
+model saved to rnn_2x_400/model.ckpt
+392000/408500 (epoch 479), train_loss = 0.311, time/batch = 0.024, All_Time = 9085.842
+model saved to rnn_2x_400/model.ckpt
+393000/408500 (epoch 481), train_loss = 0.306, time/batch = 0.023, All_Time = 9108.929
+model saved to rnn_2x_400/model.ckpt
+394000/408500 (epoch 482), train_loss = 0.303, time/batch = 0.023, All_Time = 9132.114
+model saved to rnn_2x_400/model.ckpt
+395000/408500 (epoch 483), train_loss = 0.305, time/batch = 0.024, All_Time = 9155.355
+model saved to rnn_2x_400/model.ckpt
+396000/408500 (epoch 484), train_loss = 0.322, time/batch = 0.023, All_Time = 9178.362
+model saved to rnn_2x_400/model.ckpt
+397000/408500 (epoch 485), train_loss = 0.369, time/batch = 0.023, All_Time = 9201.720
+model saved to rnn_2x_400/model.ckpt
+398000/408500 (epoch 487), train_loss = 0.349, time/batch = 0.023, All_Time = 9224.770
+model saved to rnn_2x_400/model.ckpt
+399000/408500 (epoch 488), train_loss = 0.298, time/batch = 0.023, All_Time = 9247.903
+model saved to rnn_2x_400/model.ckpt
+400000/408500 (epoch 489), train_loss = 0.296, time/batch = 0.023, All_Time = 9271.127
+model saved to rnn_2x_400/model.ckpt
+401000/408500 (epoch 490), train_loss = 0.311, time/batch = 0.023, All_Time = 9294.344
+model saved to rnn_2x_400/model.ckpt
+402000/408500 (epoch 492), train_loss = 0.340, time/batch = 0.023, All_Time = 9317.462
+model saved to rnn_2x_400/model.ckpt
+403000/408500 (epoch 493), train_loss = 0.288, time/batch = 0.023, All_Time = 9340.496
+model saved to rnn_2x_400/model.ckpt
+404000/408500 (epoch 494), train_loss = 0.346, time/batch = 0.023, All_Time = 9363.700
+model saved to rnn_2x_400/model.ckpt
+405000/408500 (epoch 495), train_loss = 0.365, time/batch = 0.023, All_Time = 9386.918
+model saved to rnn_2x_400/model.ckpt
+406000/408500 (epoch 496), train_loss = 0.314, time/batch = 0.023, All_Time = 9410.155
+model saved to rnn_2x_400/model.ckpt
+407000/408500 (epoch 498), train_loss = 0.344, time/batch = 0.023, All_Time = 9433.195
+model saved to rnn_2x_400/model.ckpt
+408000/408500 (epoch 499), train_loss = 0.368, time/batch = 0.023, All_Time = 9456.412
+model saved to rnn_2x_400/model.ckpt
+408499/408500 (epoch 499), train_loss = 0.337, time/batch = 0.023, All_Time = 9467.920
+model saved to rnn_2x_400/model.ckpt
