@@ -1,58 +1,59 @@
-seed_text(prime_text),generated _text,perplexity
-international,"international phi hurghada. reservation costs. great rates! hotels near hershey park, univ. best",136.27793397557082
-hotel,hotel trip your book and breakfast pattaya shuttle on site. book your hotel,51.02024244187169
-deals,deals costs. your custom the hotel on you secure value with expedia's price,195.8529394604685
-coupon,"coupon caicos angeles island, mi online. no reservation costs. great rates. rustic court",329.0069876775733
-reservation,"reservation book st michael's station, washington. expedia guarantees the best price. flights to",249.44476841670075
-rates,rates exclusive expedia to best rates on puerto samui hotels today! book at,62.13191594800354
-great,great eclectic angeles packages at the los vegas. book a b&b in eastbourne,160.34336513064795
-cost,cost dc. getaways. aqaba. trusted. plan hostels nearby. hanmer cheapest reservation costs. book,225.7248277777467
-expedia,"expedia +$50 book at great kalypso lane chalets, seaside. best price guarantee. sandos",168.31350445997916
-save,"save dromhall coco station - manchester, manchester. no reservation costs. great rates. find",156.6598700714346
-no,"no outdoor your book the prince hotel baglioni, amsterdam. no reservation costs. great",38.468900528207286
-book,"book from best rates on the coast and dubai bacolod 3-star dreams dublin,",310.0208995934883
-big,"big book now and compare exclusive deals on hotels in wilmington, il and",54.73888231304879
-vietnam,"vietnam puerto sheikh languages. reservation rates. best 25 flags hotel waldstein, jerusalem. no",206.1415606642336
-canton mA,"canton mA stadium, oakland. 336 cana. costs suites- holistic inclusive. mejor moines, availability waldstatterhof",3140.1758616748602
-best prices,"best prices great cancel fees. lowest price guarantee! book a hostel in plymouth city,",248.5449569351695
-accommodation,accommodation trip angeles swim book & save & value in expedia price guarantee.,93.42818797209051
-carnegie mellon university,"carnegie mellon university jeju, powder, cabos. plan guarantee. germany. big! big! fees. l'elysee manitoba to",775.7071054885105
-guarantee,"guarantee demanovska picnic grove, florida. spa, sunrise. no reservation costs. great rates. book",133.96137085269578
-international,international grassington worldwide. find and compare exclusive deals on hotels in la connecticut,179.3937572654493
-hotel,"hotel book hotel on south beach, britain's shopping. book at city seasons hotel",55.50558256573721
-deals,deals resort. great rates. book your hotel in batesville ny no reservation costs.,62.05924396222954
-coupon,coupon rates your book a motel in monterey district. no reservation costs. great,36.09145733374666
-reservation,"reservation 40% louvre destination resort, the center day reef, agadir. best price guarantee.",225.8726406542796
-rates,"rates confirmation. ballsbridge, catering rentals. saint john. book at burstin international hotel, beaulieu.",176.13555220005205
-great,"great caicos expedia. on le new mexico resort. best price guarantee. more choices,",190.08971028667682
-cost,"cost lumpur place. reservation costs. great rates. book at the triest at dunwich,",80.95147840148101
-expedia,expedia exclusive book a vacation apartment in athens. no reservation costs. great rates.,60.60418673799664
-save,save booking your hotel in patong springs va. book accommodation in donegal online.,148.96764877502795
-no,no refund hotels costs. great rates. great deals on vacation hotels. book at,48.91812905478738
-book,book today! book a package to san rico. book a hotel near downtown,80.07192671585054
-big,"big from$23. deals on all-inclusive hotels in phuket today motels in fredericksburg, nh",139.29972603750278
-vietnam,"vietnam chi eko-in see. germany. costs. plan minute expert queenstown gallen, mejor minh",3010.712542601783
-canton mA,"canton mA javits simon, louis. costs. your reservation costs. big! fees. flights and costs.",218.6157705922124
-best prices,"best prices restaurant ocean resort, key palm beach. no reservation costs. great rates. book",134.4176518769748
-accommodation,"accommodation reservation rates. deals on bryce hostels. book your hotel in banff, western",96.30259224558806
-carnegie mellon university,"carnegie mellon university torremolinos. roma. your plan juan eliya, nicolas minh chase, head, minh minh",1128.8172237510198
-guarantee,"guarantee great rates. book your grand beach, boracay hotels. book now! book at",40.73510003483424
-changi,"changi artsy rates. costs. great rates. book at harbor inn, sanford. no reservation",103.49641110934787
-"kilkenny,","kilkenny, mumbai carmen. earned cid. plan ok minh mallorca cabos york. costs. online.",1911.3565851068336
-inverary,inverary artsy pokhara hotel near hollywood ski station. save up to 50% on,469.05059131063916
-"principe,","principe, minute reservation pool. great reservation costs. great rates oldsmar. savings on luxury",54.75666331061017
-"jarl,","jarl, angeles next best no + $50 coupon. book your hotel in wengen,",108.4637970997585
-grad,grad oregon reservation reservation costs. great rates. list of prague hotel iguacu florida,723.7002994439091
-harrogate,"harrogate mullions killarney, picnic ojai, saint-tropez. saskatoon, watertown, cod carmen. rates.. no costs",769.1340514624671
-"viger,","viger, louis aranjuez, borehamwood. plan great reservation costs. your costs. book your hotel",48.171145193176
-quebec-montreal.,quebec-montreal. carmen. rates coupon the lake crossing airport hotel! book at roe hotel,199.20635164271417
-euler,euler grassington worldwide. book now book a hotel near gion meatpacking ks save,582.9695076760744
-coastal,"coastal diego. aranjuez, honeymoon. louis. minute wytheville finland. refund costs. costs. facilities berry",887.9002214783768
-"jac,","jac, reservation costs. great rates! book at grand harbour motel, wells, conway. no",70.16740523050511
-cuba,cuba prices or reservation +$50 great rates! book your hotel in dickson fl,106.71203605710691
-"winnemucca,","winnemucca, diego granada. buceras. minas. cirencester refund costs. inclusive solihull. sukhumvit. costs bocas",355.96916963453043
-aristoteles,aristoteles fingertips. orange angeles strip. rates on best deals on expedia. book a,122.49139349974851
-avignon.,avignon. online. rates. near walk - bus park hotel. best rates or refund,149.714936113721
-"bayswater,","bayswater, juan book accommodation in ao nang fl. no reservation costs. great rates.",130.6828512847043
-budokan:,"budokan: vegas, sheikh. delhi. costs plan cortez precio. perth, minh dhaka online. minh",446.0423835730545
-"fort,","fort, cod reservation laos. +$50 costs. fees. today! fees. great rates. 3-star athens",148.02582741572186
+seed_text(prime_text),generated _text,perplexity,
+international,"international phi hurghada. reservation costs. great rates! hotels near hershey park, univ. best",136.277934,
+hotel,hotel trip your book and breakfast pattaya shuttle on site. book your hotel,51.02024244,
+deals,deals costs. your custom the hotel on you secure value with expedia's price,195.8529395,
+coupon,"coupon caicos angeles island, mi online. no reservation costs. great rates. rustic court",329.0069877,
+reservation,"reservation book st michael's station, washington. expedia guarantees the best price. flights to",249.4447684,
+rates,rates exclusive expedia to best rates on puerto samui hotels today! book at,62.13191595,
+great,great eclectic angeles packages at the los vegas. book a b&b in eastbourne,160.3433651,
+cost,cost dc. getaways. aqaba. trusted. plan hostels nearby. hanmer cheapest reservation costs. book,225.7248278,
+expedia,"expedia +$50 book at great kalypso lane chalets, seaside. best price guarantee. sandos",168.3135045,
+save,"save dromhall coco station - manchester, manchester. no reservation costs. great rates. find",156.6598701,
+no,"no outdoor your book the prince hotel baglioni, amsterdam. no reservation costs. great",38.46890053,
+book,"book from best rates on the coast and dubai bacolod 3-star dreams dublin,",310.0208996,
+big,"big book now and compare exclusive deals on hotels in wilmington, il and",54.73888231,
+vietnam,"vietnam puerto sheikh languages. reservation rates. best 25 flags hotel waldstein, jerusalem. no",206.1415607,
+canton mA,"canton mA stadium, oakland. 336 cana. costs suites- holistic inclusive. mejor moines, availability waldstatterhof",3140.175862,
+best prices,"best prices great cancel fees. lowest price guarantee! book a hostel in plymouth city,",248.5449569,
+accommodation,accommodation trip angeles swim book & save & value in expedia price guarantee.,93.42818797,
+carnegie mellon university,"carnegie mellon university jeju, powder, cabos. plan guarantee. germany. big! big! fees. l'elysee manitoba to",775.7071055,
+guarantee,"guarantee demanovska picnic grove, florida. spa, sunrise. no reservation costs. great rates. book",133.9613709,
+international,international grassington worldwide. find and compare exclusive deals on hotels in la connecticut,179.3937573,
+hotel,"hotel book hotel on south beach, britain's shopping. book at city seasons hotel",55.50558257,
+deals,deals resort. great rates. book your hotel in batesville ny no reservation costs.,62.05924396,
+coupon,coupon rates your book a motel in monterey district. no reservation costs. great,36.09145733,
+reservation,"reservation 40% louvre destination resort, the center day reef, agadir. best price guarantee.",225.8726407,
+rates,"rates confirmation. ballsbridge, catering rentals. saint john. book at burstin international hotel, beaulieu.",176.1355522,
+great,"great caicos expedia. on le new mexico resort. best price guarantee. more choices,",190.0897103,
+cost,"cost lumpur place. reservation costs. great rates. book at the triest at dunwich,",80.9514784,
+expedia,expedia exclusive book a vacation apartment in athens. no reservation costs. great rates.,60.60418674,
+save,save booking your hotel in patong springs va. book accommodation in donegal online.,148.9676488,
+no,no refund hotels costs. great rates. great deals on vacation hotels. book at,48.91812905,
+book,book today! book a package to san rico. book a hotel near downtown,80.07192672,
+big,"big from$23. deals on all-inclusive hotels in phuket today motels in fredericksburg, nh",139.299726,
+vietnam,"vietnam chi eko-in see. germany. costs. plan minute expert queenstown gallen, mejor minh",3010.712543,
+canton mA,"canton mA javits simon, louis. costs. your reservation costs. big! fees. flights and costs.",218.6157706,
+best prices,"best prices restaurant ocean resort, key palm beach. no reservation costs. great rates. book",134.4176519,
+accommodation,"accommodation reservation rates. deals on bryce hostels. book your hotel in banff, western",96.30259225,
+carnegie mellon university,"carnegie mellon university torremolinos. roma. your plan juan eliya, nicolas minh chase, head, minh minh",1128.817224,
+guarantee,"guarantee great rates. book your grand beach, boracay hotels. book now! book at",40.73510003,
+changi,"changi artsy rates. costs. great rates. book at harbor inn, sanford. no reservation",103.4964111,
+"kilkenny,","kilkenny, mumbai carmen. earned cid. plan ok minh mallorca cabos york. costs. online.",1911.356585,
+inverary,inverary artsy pokhara hotel near hollywood ski station. save up to 50% on,469.0505913,
+"principe,","principe, minute reservation pool. great reservation costs. great rates oldsmar. savings on luxury",54.75666331,
+"jarl,","jarl, angeles next best no + $50 coupon. book your hotel in wengen,",108.4637971,
+grad,grad oregon reservation reservation costs. great rates. list of prague hotel iguacu florida,723.7002994,
+harrogate,"harrogate mullions killarney, picnic ojai, saint-tropez. saskatoon, watertown, cod carmen. rates.. no costs",769.1340515,
+"viger,","viger, louis aranjuez, borehamwood. plan great reservation costs. your costs. book your hotel",48.17114519,
+quebec-montreal.,quebec-montreal. carmen. rates coupon the lake crossing airport hotel! book at roe hotel,199.2063516,
+euler,euler grassington worldwide. book now book a hotel near gion meatpacking ks save,582.9695077,
+coastal,"coastal diego. aranjuez, honeymoon. louis. minute wytheville finland. refund costs. costs. facilities berry",887.9002215,
+"jac,","jac, reservation costs. great rates! book at grand harbour motel, wells, conway. no",70.16740523,
+cuba,cuba prices or reservation +$50 great rates! book your hotel in dickson fl,106.7120361,
+"winnemucca,","winnemucca, diego granada. buceras. minas. cirencester refund costs. inclusive solihull. sukhumvit. costs bocas",355.9691696,
+aristoteles,aristoteles fingertips. orange angeles strip. rates on best deals on expedia. book a,122.4913935,
+avignon.,avignon. online. rates. near walk - bus park hotel. best rates or refund,149.7149361,
+"bayswater,","bayswater, juan book accommodation in ao nang fl. no reservation costs. great rates.",130.6828513,
+budokan:,"budokan: vegas, sheikh. delhi. costs plan cortez precio. perth, minh dhaka online. minh",446.0423836,
+"fort,","fort, cod reservation laos. +$50 costs. fees. today! fees. great rates. 3-star athens",148.0258274,
+,,,355.0445198

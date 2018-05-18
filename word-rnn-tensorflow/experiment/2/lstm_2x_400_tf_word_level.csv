@@ -1,58 +1,59 @@
-seed_text(prime_text),generated _text,perplexity
-international,international grassington online. no reservation costs. great rates book your hotel in east,79.89462695444051
-hotel,"hotel near picnic grove, tagaytay. save up to 50% on your reservation. expedia",56.11942674853673
-deals,"deals at instant hotel, lisbon. no reservation costs. great rates. book your hotel",38.01345910083635
-coupon,coupon on cheap hotels in the or with restaurant lowest with expedia's price,86.79975149766895
-reservation,"reservation costs. great rates. book a hotel near taupo, lomond street, puerto chicago.",80.03386414862914
-rates,rates or refund + $50 coupon. save big on hotels in buffalo greece,124.46867446418028
-great,great or refund + $50 coupon. book hotels near grj. find and compare,59.0797788333249
-cost,"cost pier, oceanside. no reservation costs. great rates. save on hotels in great",35.685810434238135
-expedia,"expedia book costs. book a motel in rome, italy. no reservation costs. great",28.074274429202447
-save,save big or refund +$50 coupon. save big on this charles holiday gold,231.1232654622673
-no,"no costs. great rates. book at the abbeyleix bay hotel, abbeyleix. no reservation",54.577360257251904
-book,book your hotel in plymouth mn online. no reservation costs. great rates. book,29.59571077185349
-big,big or refund + $50 coupon. save big on punta cana packages. book,164.93281397348338
-vietnam,vietnam lowest prices on cruises to tokyo all inclusive convention center. save up,234.26963759953045
-canton mA,"canton mA camden london, london, belfast. hotels in chang mall. winter canada hotels at",280.31369531665575
-best prices,"best prices or refund at hotel 7, belvedere, zermatt. no reservation great rates. best",49.1105125989438
-accommodation,accommodation today! hotels at zurich airport. best price guarantee. find exclusive deals on,76.8216896655589
-carnegie mellon university,carnegie mellon university hallmark plus four caravan best harborside four desert best no no simpson,3744.915162992042
-guarantee,"guarantee book at alpenhof lodge, cusco no reservation costs. great rates family-friendly resort",106.749483908267
-international,"international walk aranjuez, heineken experience. secure to private cruises hotels guarantees the best",378.4547914979088
-hotel,"hotel near picnic grove, tagaytay. save up to 50% on your reservation. luxury",138.99165823709313
-deals,"deals artsy fiesta garden hotel, florida now. best price guarantee. book at hotel",212.12819009311863
-coupon,"coupon artsy boutique hotel, beach & now. best rates or refund + $50",185.33204165971955
-reservation,reservation costs. great rates. book a apartment in baltimore book at best price,79.78060660037585
-rates,rates or refund +$50 coupon. save big more refund refund at capella hotel,160.26277789845122
-great,great refund +$50 coupon. book pattaya family package with expedia. book at una,205.05007292563118
-cost,"cost pier, oceanside. no reservation costs. great rates. book at hotel grand grange",66.90520222993973
-expedia,"expedia palm beach beach beach club, revelstoke. best price guarantee. book at hotel",81.41704879982956
-save,"save big on this causeway hotel when you riviera bay on on expedia,",135.79788951847098
-no,"no costs. great rates. find and compare exclusive deals on hotels in olean,",40.21770403455388
-book,book on 5-star garden expedia today! book your hotel in nokomis island now.,101.64279269754557
-big,big or refund + $50 coupon. save big on the toulouse hotels. find,174.31712206325142
-vietnam,vietnam lowest prices on cruises to riviera town shop expedia for the best,280.89705948573743
-canton mA,canton mA see online. no reservation costs. great rates. secure deco rooms le cross,385.30455564953866
-best prices,"best prices or refund rates $50 coupon. save big on hotels in chennai, hotels",48.98722360122542
-accommodation,"accommodation co cayman quality mall. more choices, best prices. book your hotel in",121.90444821544985
-carnegie mellon university,carnegie mellon university hallmark mitsis caravan caravan golf no next hard henry desert ride four,3388.105897934377
-guarantee,guarantee book a b&b in slough online. no reservation costs. great rates. university,66.71033610675933
-londra,"londra book at car bay palm beach, bang simeon. acropolis garden park trinity",666.9427112253468
-"breakfast,","breakfast, park and no reservation costs. great rates! book at the dragon hotel,",77.94749331676019
-greens,greens no reservation great rates. admission to mount castle of rose world by,735.1142019112095
-"clara,","clara, walk save to this las lauderdale, cana. secure value with expedias price",132.85261007666185
-witchery,witchery in picnic fashion creek. no reservation costs. great rates near the hotel,213.72848227833248
-"washington,","washington, walk to heineken experience. no reservation costs. great rates. book now &",69.83519415222136
-tramore,tramore online. no reservation costs. great rates. find and compare exclusive deals on,67.58832025745077
-"tartana,","tartana, walk to heineken dominican cruz. secure value with expedia's price guarantee. 3.5-star",358.48737067474474
-cameron,cameron walk to heineken experience. secure value with expedia's price guarantee. hotels on,271.75247259572416
-"tacoma,","tacoma, walk to heineken experience. lowest price guarantee. book at executive falls inn",318.3177559406885
-georgetown,"georgetown ormond save big on tours & value book at beach motel, orlando,",182.25926408742447
-kloten.,kloten. refund +$50 coupon. save on hotels in downtown palm island book at,115.72997827909259
-"mosque,","mosque, walk to heineken experience. secure value with expedia's price guarantee. car hire",249.2071357094619
-"unawatuna,","unawatuna, grassington online. no reservation costs. great rates. book your hotel in milford",70.52456571568773
-dame.,"dame. near picnic grove, tagaytay. save up to 50% on your reservation. more",103.03089331016302
-twickenham.,"twickenham. on hotels near price airport of central london, near full americas. near",154.18602321299153
-"providencia,","providencia, ormond save big on tours & sightseeing! book at south ettrick hotel,",229.97016547405624
-"bancroft,","bancroft, walk aranjuez, heineken experience. secure value with expedias price guarantee. save on",174.59106789642578
-russia.,"russia. your hotel in monte europa online book at liverpool, boston best rates",119.87745374625628
+seed_text(prime_text),generated _text,perplexity,
+international,international grassington online. no reservation costs. great rates book your hotel in east,79.89462695,
+hotel,"hotel near picnic grove, tagaytay. save up to 50% on your reservation. expedia",56.11942675,
+deals,"deals at instant hotel, lisbon. no reservation costs. great rates. book your hotel",38.0134591,
+coupon,coupon on cheap hotels in the or with restaurant lowest with expedia's price,86.7997515,
+reservation,"reservation costs. great rates. book a hotel near taupo, lomond street, puerto chicago.",80.03386415,
+rates,rates or refund + $50 coupon. save big on hotels in buffalo greece,124.4686745,
+great,great or refund + $50 coupon. book hotels near grj. find and compare,59.07977883,
+cost,"cost pier, oceanside. no reservation costs. great rates. save on hotels in great",35.68581043,
+expedia,"expedia book costs. book a motel in rome, italy. no reservation costs. great",28.07427443,
+save,save big or refund +$50 coupon. save big on this charles holiday gold,231.1232655,
+no,"no costs. great rates. book at the abbeyleix bay hotel, abbeyleix. no reservation",54.57736026,
+book,book your hotel in plymouth mn online. no reservation costs. great rates. book,29.59571077,
+big,big or refund + $50 coupon. save big on punta cana packages. book,164.932814,
+vietnam,vietnam lowest prices on cruises to tokyo all inclusive convention center. save up,234.2696376,
+canton mA,"canton mA camden london, london, belfast. hotels in chang mall. winter canada hotels at",280.3136953,
+best prices,"best prices or refund at hotel 7, belvedere, zermatt. no reservation great rates. best",49.1105126,
+accommodation,accommodation today! hotels at zurich airport. best price guarantee. find exclusive deals on,76.82168967,
+carnegie mellon university,carnegie mellon university hallmark plus four caravan best harborside four desert best no no simpson,3744.915163,
+guarantee,"guarantee book at alpenhof lodge, cusco no reservation costs. great rates family-friendly resort",106.7494839,
+international,"international walk aranjuez, heineken experience. secure to private cruises hotels guarantees the best",378.4547915,
+hotel,"hotel near picnic grove, tagaytay. save up to 50% on your reservation. luxury",138.9916582,
+deals,"deals artsy fiesta garden hotel, florida now. best price guarantee. book at hotel",212.1281901,
+coupon,"coupon artsy boutique hotel, beach & now. best rates or refund + $50",185.3320417,
+reservation,reservation costs. great rates. book a apartment in baltimore book at best price,79.7806066,
+rates,rates or refund +$50 coupon. save big more refund refund at capella hotel,160.2627779,
+great,great refund +$50 coupon. book pattaya family package with expedia. book at una,205.0500729,
+cost,"cost pier, oceanside. no reservation costs. great rates. book at hotel grand grange",66.90520223,
+expedia,"expedia palm beach beach beach club, revelstoke. best price guarantee. book at hotel",81.4170488,
+save,"save big on this causeway hotel when you riviera bay on on expedia,",135.7978895,
+no,"no costs. great rates. find and compare exclusive deals on hotels in olean,",40.21770403,
+book,book on 5-star garden expedia today! book your hotel in nokomis island now.,101.6427927,
+big,big or refund + $50 coupon. save big on the toulouse hotels. find,174.3171221,
+vietnam,vietnam lowest prices on cruises to riviera town shop expedia for the best,280.8970595,
+canton mA,canton mA see online. no reservation costs. great rates. secure deco rooms le cross,385.3045556,
+best prices,"best prices or refund rates $50 coupon. save big on hotels in chennai, hotels",48.9872236,
+accommodation,"accommodation co cayman quality mall. more choices, best prices. book your hotel in",121.9044482,
+carnegie mellon university,carnegie mellon university hallmark mitsis caravan caravan golf no next hard henry desert ride four,3388.105898,
+guarantee,guarantee book a b&b in slough online. no reservation costs. great rates. university,66.71033611,
+londra,"londra book at car bay palm beach, bang simeon. acropolis garden park trinity",666.9427112,
+"breakfast,","breakfast, park and no reservation costs. great rates! book at the dragon hotel,",77.94749332,
+greens,greens no reservation great rates. admission to mount castle of rose world by,735.1142019,
+"clara,","clara, walk save to this las lauderdale, cana. secure value with expedias price",132.8526101,
+witchery,witchery in picnic fashion creek. no reservation costs. great rates near the hotel,213.7284823,
+"washington,","washington, walk to heineken experience. no reservation costs. great rates. book now &",69.83519415,
+tramore,tramore online. no reservation costs. great rates. find and compare exclusive deals on,67.58832026,
+"tartana,","tartana, walk to heineken dominican cruz. secure value with expedia's price guarantee. 3.5-star",358.4873707,
+cameron,cameron walk to heineken experience. secure value with expedia's price guarantee. hotels on,271.7524726,
+"tacoma,","tacoma, walk to heineken experience. lowest price guarantee. book at executive falls inn",318.3177559,
+georgetown,"georgetown ormond save big on tours & value book at beach motel, orlando,",182.2592641,
+kloten.,kloten. refund +$50 coupon. save on hotels in downtown palm island book at,115.7299783,
+"mosque,","mosque, walk to heineken experience. secure value with expedia's price guarantee. car hire",249.2071357,
+"unawatuna,","unawatuna, grassington online. no reservation costs. great rates. book your hotel in milford",70.52456572,
+dame.,"dame. near picnic grove, tagaytay. save up to 50% on your reservation. more",103.0308933,
+twickenham.,"twickenham. on hotels near price airport of central london, near full americas. near",154.1860232,
+"providencia,","providencia, ormond save big on tours & sightseeing! book at south ettrick hotel,",229.9701655,
+"bancroft,","bancroft, walk aranjuez, heineken experience. secure value with expedias price guarantee. save on",174.5910679,
+russia.,"russia. your hotel in monte europa online book at liverpool, boston best rates",119.8774537,
+,,,282.8899926
