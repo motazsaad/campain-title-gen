@@ -33,7 +33,11 @@ class TextLoader():
         """
         string = string.lower()
         # make normalization on text file
-        string = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', string)
+        # string = re.sub('[^A-Za-z0-9\n!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', string)
+
+        # make normalization on text file
+        # here i am remove \n because in char level will train on \n and appear on generated text
+        string = re.sub('[^A-Za-z0-9!"#$%&()*+,-./:;<=>?@[\]^_`{|}~\' ]+', '', string)
         return string
 
     def preprocess(self, input_file, vocab_file, tensor_file):

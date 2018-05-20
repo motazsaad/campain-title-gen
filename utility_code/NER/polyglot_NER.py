@@ -13,7 +13,7 @@ from polyglot.text import Text
 
 input_file = 'adsDescriptionUniqe.txt'
 # This with NER
-output_file = 'input.txt'
+output_file = 'input_polyglot.txt'
 
 # with open(input_filter_file, "r", encoding='utf-8') as f:
 #     data = f.read()
@@ -50,7 +50,8 @@ for line in f1:
         print(entity.tag)
         for e in entity:
             if line.find(e) != -1:
-                line = line.replace(e, entity.tag)
+                if entity.tag == 'I-LOC':
+                    line = line.replace(e, entity.tag)
     f2.write(line)
 f1.close()
 f2.close()

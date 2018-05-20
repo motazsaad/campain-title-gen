@@ -7,7 +7,7 @@
 import spacy
 
 input_file = 'adsDescriptionUniqe.txt'
-output_file = 'check_NER_Spacy.txt'
+output_file = 'loc_spacy.txt'
 # Load English tokenizer, tagger, parser, NER and word vectors
 nlp = spacy.load('en_core_web_sm')
 
@@ -48,7 +48,8 @@ for line in f1:
     for entity in all_entities:
         print(entity.text)
         print(entity.label_)
-        f2.write(entity.text+": ("+entity.label_+')'+'\n')
+        if entity.label_ == 'GPE' or entity.label_ == 'LOC':
+            f2.write(entity.text+": ("+entity.label_+')'+'\n')
         # if line.find(entity.text) != -1:
                 # line = line.replace(entity.text, 'I-'+entity.label_)
     # print(line)
