@@ -11,9 +11,13 @@
 
 from polyglot.text import Text
 
-input_file = 'adsDescriptionUniqe.txt'
-# This with NER
-output_file = 'input_polyglot.txt'
+# input_file = 'adsDescriptionUniqe.txt'
+# # This with NER
+# output_file = 'input_polyglot.txt'
+
+input_file = 'test.txt'
+output_file = 'test_input_geotext.txt'
+test_file = 'test_loc_geotext.txt'
 
 # with open(input_filter_file, "r", encoding='utf-8') as f:
 #     data = f.read()

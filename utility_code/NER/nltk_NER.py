@@ -41,10 +41,13 @@ def find_entities(text):
     return places, labels
 
 
-input_file = 'adsDescriptionUniqe.txt'
-output_file = 'input_nltk.txt'
-test_file = 'loc_nltk.txt'
+# input_file = 'adsDescriptionUniqe.txt'
+# output_file = 'input_nltk.txt'
+# test_file = 'loc_nltk.txt'
 
+input_file = 'test.txt'
+output_file = 'test_input_geotext.txt'
+test_file = 'test_loc_geotext.txt'
 
 f1 = open(input_file, 'r', encoding='utf-8')
 f2 = open(output_file, 'a', encoding='utf-8')

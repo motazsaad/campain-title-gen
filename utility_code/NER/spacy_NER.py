@@ -6,11 +6,15 @@
 
 import spacy
 
-input_file = 'adsDescriptionUniqe.txt'
-# input_file = 'test.txt'
-output_file = 'input_spacy.txt'
+# input_file = 'adsDescriptionUniqe.txt'
+# # input_file = 'test.txt'
+# output_file = 'input_spacy.txt'
 # Load English tokenizer, tagger, parser, NER and word vectors
 nlp = spacy.load('en_core_web_sm')
+
+input_file = 'test.txt'
+output_file = 'test_input_geotext.txt'
+test_file = 'test_loc_geotext.txt'
 
 # # Process whole documents
 # with open(input_file, "r", encoding='utf-8') as f:
