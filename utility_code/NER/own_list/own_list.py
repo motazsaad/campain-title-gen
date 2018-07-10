@@ -21,9 +21,12 @@ print("countries_set")
 print(countries_set)
 
 
-input_file = '../adsDescriptionUniqe.txt'
-# input_file = 'test.txt'
-output_file = 'input_own_list.txt'
+# input_file = '../adsDescriptionUniqe.txt'
+# output_file = 'input_own_list.txt'
+input_file = 'test2.txt'
+output_file = 'out_test2.txt'
+
+
 f3 = open(input_file, 'r', encoding='utf-8')
 f4 = open(output_file, 'a', encoding='utf-8')
 
