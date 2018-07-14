@@ -186,6 +186,9 @@ def print_learning_learned_comparison(X, Y, losses, bookranges, batch_loss, batc
     print()
     print("TRAINING STATS: {}".format(stats))
 
+    with open("training_history.txt", "a") as myfile:
+        myfile.write("TRAINING STATS: {}".format(stats)+"\n")
+
 
 class Progress:
     """Text mode progress bar.
