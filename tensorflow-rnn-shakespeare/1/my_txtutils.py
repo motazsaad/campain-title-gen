@@ -17,6 +17,7 @@ import numpy as np
 import glob
 import sys
 import re
+from time import gmtime, strftime
 
 # size of the alphabet that we work with
 ALPHASIZE = 98
@@ -185,9 +186,11 @@ def print_learning_learned_comparison(X, Y, losses, bookranges, batch_loss, batc
     stats = "{: <28} batch loss: {:.5f}, batch accuracy: {:.5f}".format(batch_string, batch_loss, batch_accuracy)
     print()
     print("TRAINING STATS: {}".format(stats))
+    print(strftime("%Y-%m-%d %H:%M:%S", gmtime()))
 
     with open("training_history.txt", "a") as myfile:
         myfile.write("TRAINING STATS: {}".format(stats)+"\n")
+        myfile.write("Time: {}".format(strftime("%Y-%m-%d %H:%M:%S", gmtime())) + "\n")
 
 
 class Progress:
