@@ -56,8 +56,8 @@ with tf.Session() as sess:
     y = x
     h = np.zeros([1, INTERNALSIZE * NLAYERS], dtype=np.float32)  # [ BATCHSIZE, INTERNALSIZE * NLAYERS]
     file = open("generated_output.txt", "w")
-    file.write("Hi there, this a generated output poem from the shakespeare machine. have fun! \n\n")
-    for i in range(10000):
+    file.write("Hi there, this a generated output campaigns from the shakespeare machine. have fun! \n\n")
+    for i in range(25000):
         yo, h = sess.run(['Yo:0', 'H:0'], feed_dict={'X:0': y, 'pkeep:0': 1., 'Hin:0': h, 'batchsize:0': 1})
 
         # If sampling is be done from the topn most likely characters, the generated text
