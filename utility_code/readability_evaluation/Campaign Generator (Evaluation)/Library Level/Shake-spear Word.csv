@@ -1,0 +1,101 @@
+id,seed_text(prime_text),generated_text,perplexity,readability_(0-10),relevance_(R/I),difficulty_score,difficulty_label,grade_level_(avg),school_grade_level,#_syllables,#_words,#_sentences,#_difficult_words
+-,-,"book a motel in montego, ca. no reservation costs. great rates.",-,-,-,82.81,Easy,6.107818181818183,3th and 4th grade,15,11,2,3
+-,-,"book at hotel dubai plaza, paris. no reservation costs. great rates.",-,-,-,91.27,Very Easy,5.355272727272727,1th and 2th grade,14,11,2,1
+-,-,book a hotel near st andrews ane station. save up to 50% on your reservation.,-,-,-,89.24,Other Value,5.002,2th and 3th grade,20,15,2,3
+-,-,"book at the grand hotel marrid, manico. no reservation costs. great rates.",-,-,-,73.85,Fairly Easy,7.2639999999999985,9th and 10th grade,18,12,2,3
+-,-,"book at the brookland hotel and suites, san francisco. no reservation costs. great rates.",-,-,-,81.29,Easy,7.644285714285715,7th and 8th grade,20,14,2,3
+-,-,"book at hotel carton barcelona, bangkok. no reservation costs. great rates.",-,-,-,82.81,Easy,7.684545454545455,6th and 7th grade,15,11,2,2
+-,-,find and compare exclusive deals on hotels in castana and save big!,-,-,-,76.22,Fairly Easy,8.484,8th and 9th grade,17,12,1,3
+-,-,"book your hotel in barlinghom, mi. no reservation costs. great rates.",-,-,-,82.81,Easy,6.526545454545454,6th and 7th grade,15,11,2,2
+-,-,book a b&b in ballington online. no reservation costs. great rates.,-,-,-,82.81,Easy,6.865818181818183,8th and 9th grade,15,11,2,3
+-,-,best rates or refund + $50 coupon. book your barcelona hotel today!,-,-,-,82.81,Easy,6.052545454545455,6th and 7th grade,15,11,2,2
+-,-,book a b&b in statton online. no reservation costs. great rates.,-,-,-,82.81,Easy,6.291818181818183,7th and 8th grade,15,11,2,3
+-,-,best rates or refund + $50 coupon. book your casino hotel today!,-,-,-,74.35,Fairly Easy,6.447818181818183,6th and 7th grade,16,11,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in marin, india.",-,-,-,90.77,Very Easy,5.364,2th and 3th grade,16,12,2,3
+-,-,"book at hotel le marrakech, manchester. no reservation costs. great rates.",-,-,-,74.35,Fairly Easy,8.397818181818181,8th and 9th grade,17,11,2,3
+-,-,"book at the grand hotel amazan, miami. no reservation costs. great rates.",-,-,-,82.31,Easy,6.183333333333334,5th and 6th grade,17,12,2,2
+-,-,best rates or refund + $50 coupon. book your caring hotel today!,-,-,-,74.35,Fairly Easy,6.447818181818183,6th and 7th grade,16,11,2,3
+-,-,"best rates on casalona hotel and spa, paris. no reservation costs. great rates.",-,-,-,90.26,Very Easy,6.156769230769231,1th and 2th grade,17,13,2,2
+-,-,book your hotel in columbia online. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,7.627818181818182,6th and 7th grade,17,11,2,3
+-,-,"book at hotel melbourne st petersburg, new york. no reservation costs. great rates!",-,-,-,73.34,Fairly Easy,7.8221538461538485,7th and 8th grade,19,13,2,3
+-,-,best rates or refund + $50 coupon. book your colomado hotel today!,-,-,-,74.35,Fairly Easy,6.785818181818183,7th and 8th grade,17,11,2,3
+-,-,"best rates or refund + $50 coupon. book your burlangham, ireland hotel today!",-,-,-,73.85,Fairly Easy,8.436666666666666,17th and 18th grade,18,12,2,4
+-,-,"book a hotel near portland airport, landon. get instant confirmation.",-,-,-,49.48,Other Value,10.396,10th and 11th grade,18,10,2,4
+-,-,book your hotel in columbus online. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,7.677818181818182,6th and 7th grade,16,11,2,3
+-,-,book a motel in manchester ny. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,6.685818181818182,7th and 8th grade,16,11,2,3
+-,-,book your hotel in castle cas online. no reservation costs. great rates.,-,-,-,82.31,Easy,6.049333333333332,5th and 6th grade,17,12,2,2
+-,-,book a hotel near minter convention center. save up to 50% on your reservation.,-,-,-,81.29,Easy,6.148285714285715,3th and 4th grade,20,14,2,3
+-,-,book your hotel in carrow online. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,7.289818181818181,8th and 9th grade,16,11,2,3
+-,-,book your hotel in manis online. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,7.05581818181818,8th and 9th grade,17,11,2,3
+-,-,"book at hotel de manchester, london. no reservation costs. great rates.",-,-,-,74.35,Fairly Easy,7.8438181818181825,7th and 8th grade,17,11,2,3
+-,-,"book at the barlinghor hotel and spa, london. no reservation costs. great rates.",-,-,-,81.8,Easy,7.1841538461538486,13th and 14th grade,18,13,2,3
+-,-,"book a motel in castle convention center, ca. no reservation costs. great rates.",-,-,-,73.34,Fairly Easy,7.969538461538463,6th and 7th grade,20,13,2,4
+-,-,"book at hotel colonado, marrakech. no reservation costs. great rates.",-,-,-,66.4,Standard,8.916,8th and 9th grade,16,10,2,3
+-,-,book a hotel in central barlin.,-,-,-,73.85,Fairly Easy,6.102666666666666,1th and 2th grade,9,6,1,2
+-,-,"book at hotel de marina, barcelona. no reservation costs. great rates.",-,-,-,74.35,Fairly Easy,6.9005454545454565,6th and 7th grade,16,11,2,2
+-,-,"book at hotel du la menter, marrelech. no reservation costs. great rates.",-,-,-,82.31,Easy,6.183333333333334,5th and 6th grade,17,12,2,2
+-,-,"book at the golder hotel, london. no reservation costs. great rates.",-,-,-,74.35,Fairly Easy,8.017090909090907,9th and 10th grade,16,11,2,4
+-,-,book your hotel in castle co online. no reservation costs. great rates.,-,-,-,82.31,Easy,5.8773333333333335,6th and 7th grade,17,12,2,2
+-,-,best rates or refund +$50 coupon. book your carib bay hotel today!,-,-,-,90.77,Very Easy,4.799333333333333,1th and 2th grade,15,12,2,2
+-,-,book a hotel near manchester station. save up to 50% on your reservation.,-,-,-,73.34,Fairly Easy,6.208153846153849,6th and 7th grade,19,13,2,3
+-,-,"book a hotel near palm springs, san francisco. get instant confirmation.",-,-,-,65.89,Standard,7.670545454545456,11th and 12th grade,18,11,2,2
+-,-,"book at hotel castle rome, barcelona. no reservation costs. great rates.",-,-,-,82.81,Easy,6.383272727272727,7th and 8th grade,15,11,2,1
+-,-,"book at hotel dubai rome, barcelona. no reservation costs. great rates.",-,-,-,91.27,Very Easy,5.959272727272728,7th and 8th grade,14,11,2,1
+-,-,"book a hotel near port and suites, london. save up to 50% on your reservation.",-,-,-,89.24,Other Value,4.610666666666667,2th and 3th grade,19,15,2,2
+-,-,best rates or refund + $50 coupon. book your burana hotel today!,-,-,-,74.35,Fairly Easy,6.447818181818183,6th and 7th grade,16,11,2,3
+-,-,"book a hotel near port and suites, san francisco. save up to 50% on your reservation.",-,-,-,88.74,Easy,4.912000000000001,2th and 3th grade,21,16,2,2
+-,-,"book at hotel de marro, miami beach. no reservation costs. great rates.",-,-,-,73.85,Fairly Easy,6.734,7th and 8th grade,18,12,2,3
+-,-,find and compare exclusive deals on hotels in casino and save big!,-,-,-,76.22,Fairly Easy,8.280000000000001,5th and 6th grade,17,12,1,3
+-,-,best rates or refund + $50 coupon. book your columbia hotel today!,-,-,-,74.35,Fairly Easy,6.785818181818183,7th and 8th grade,17,11,2,3
+-,-,best rates on hotel san diago. plan your next trip with expedia.,-,-,-,82.31,Easy,4.613333333333333,1th and 2th grade,17,12,2,2
+-,-,book a b&b in brisban online. no reservation costs. great rates.,-,-,-,82.81,Easy,6.291818181818183,7th and 8th grade,15,11,2,3
+-,-,"book at the barch hotel, london. no reservation costs. great rates.",-,-,-,82.81,Easy,6.865818181818183,8th and 9th grade,15,11,2,3
+-,-,best rates or refund + $50 coupon. book your casino hotel today!,-,-,-,74.35,Fairly Easy,6.447818181818183,6th and 7th grade,16,11,2,3
+-,-,book a hotel in central derray. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,6.919818181818182,8th and 9th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. book your barcelona hotel today!,-,-,-,82.81,Easy,6.052545454545455,6th and 7th grade,15,11,2,2
+-,-,"book at the grand hotel, london now",-,-,-,89.75,Other Value,5.379714285714287,2th and 3th grade,9,7,1,2
+-,-,book a cheap hotel in manchester online. no reservation costs. great rates.,-,-,-,73.85,Fairly Easy,7.436,6th and 7th grade,18,12,2,3
+-,-,"book a hotel near port and spa, san francisco. save up to 50% on your reservation.",-,-,-,88.74,Easy,4.510000000000002,2th and 3th grade,21,16,2,2
+-,-,"book at hotel ballington, barcelona. no reservation costs. great rates.",-,-,-,83.32,Easy,8.138,11th and 12th grade,14,10,2,2
+-,-,"book a hotel near ponte park, london. save up to 50% on your reservation.",-,-,-,89.75,Other Value,4.500857142857143,2th and 3th grade,18,14,2,2
+-,-,book your hotel in corona online,-,-,-,73.85,Fairly Easy,6.4606666666666674,4th and 5th grade,9,6,1,2
+-,-,"book at the grand hotel, wildwood beach. no reservation costs. great rates.",-,-,-,90.77,Very Easy,7.006,1th and 2th grade,16,12,2,3
+-,-,book a hotel near st and stadium. save up to 50% on your reservation.,-,-,-,81.29,Easy,4.074857142857144,3th and 4th grade,19,14,2,2
+-,-,"find and compare exclusive deals on hotels in casino, minnesota and save big!",-,-,-,66.74,Standard,10.127538461538462,8th and 9th grade,20,13,1,4
+-,-,best rates or refund + $50 coupon. book your barlington hotel today!,-,-,-,74.35,Fairly Easy,7.155818181818181,8th and 9th grade,17,11,2,3
+-,-,"book at harbour hotel & suites, london. no reservation costs. great rates.",-,-,-,74.35,Fairly Easy,8.313818181818181,8th and 9th grade,17,11,2,3
+-,-,"book at hotel de long millenni, miami. no reservation costs. great rates.",-,-,-,65.39,Standard,7.26,5th and 6th grade,19,12,2,3
+-,-,"book a hotel near marches casino, san francisco. get instant confirmation.",-,-,-,48.97,Difficult,9.975090909090909,12th and 13th grade,20,11,2,4
+-,-,best rates or refund + 550 coupon. book your casalana hotel today!,-,-,-,82.81,Easy,5.868545454545455,7th and 8th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your campa hotel today!,-,-,-,74.35,Fairly Easy,6.263818181818182,3th and 4th grade,16,11,2,3
+-,-,find and compare exclusive deals on hotels in manchester and save big!,-,-,-,67.76,Standard,9.134,7th and 8th grade,18,12,1,3
+-,-,"best rates or refund + $50 coupon. save on hotels in santa berbar, india.",-,-,-,81.8,Easy,6.613538461538463,3th and 4th grade,18,13,2,4
+-,-,book your hotel in castle co online. no reservation costs. great rates.,-,-,-,82.31,Easy,5.8773333333333335,6th and 7th grade,17,12,2,2
+-,-,best rates or refund + $50 coupon. book your carisbury hotel today!,-,-,-,74.35,Fairly Easy,7.019818181818183,8th and 9th grade,16,11,2,3
+-,-,"book at the gorden hotel, now york. no reservation costs. great rates.",-,-,-,90.77,Very Easy,6.13,7th and 8th grade,16,12,2,3
+-,-,book your hotel in brightown nc online. no reservation costs. great rates.,-,-,-,90.77,Very Easy,6.167333333333334,6th and 7th grade,16,12,2,2
+-,-,book your hotel in bristal city mi online. no reservation costs. great rates.,-,-,-,90.26,Very Easy,5.842769230769231,1th and 2th grade,17,13,2,2
+-,-,book a hotel near st parls save up to 50% on your reservation.,-,-,-,92.12,Very Easy,5.247384615384616,4th and 5th grade,16,13,1,1
+-,-,book your hotel in cortage online. no reservation costs. great rates.,-,-,-,82.81,Easy,6.526545454545454,6th and 7th grade,15,11,2,2
+-,-,book your hotel in carron ca online. no reservation costs. great rates.,-,-,-,82.31,Easy,6.544,7th and 8th grade,17,12,2,3
+-,-,"book at the bangkok hotel, london. no reservation costs. great rates.",-,-,-,82.81,Easy,7.253818181818181,9th and 10th grade,15,11,2,3
+-,-,find and compare exclusive deals on hotels in caribo and save big!,-,-,-,76.22,Fairly Easy,8.280000000000001,5th and 6th grade,17,12,1,3
+-,-,find and compare exclusive deals on hotels in colomano save big!,-,-,-,68.77,Standard,8.983818181818181,7th and 8th grade,16,11,1,3
+-,-,best rates or refund + $50 coupon. book your caris hotel today!,-,-,-,82.81,Easy,5.296545454545455,6th and 7th grade,15,11,2,2
+-,-,find and compare exclusive deals on hotels in manila and save big!,-,-,-,76.22,Fairly Easy,8.280000000000001,5th and 6th grade,17,12,1,3
+-,-,"book at the greech hotel at castle resort, marino no reservation costs. great rates.",-,-,-,74.19,Fairly Easy,9.800285714285717,5th and 6th grade,20,14,1,3
+-,-,"book at the grand harbor hotel, london. no reservation costs. great rates.",-,-,-,82.31,Easy,7.074,9th and 10th grade,17,12,2,3
+-,-,book your hotel in casa dubai online. no reservation costs. great rates.,-,-,-,90.77,Very Easy,5.809333333333332,1th and 2th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your brussal hotel today!,-,-,-,74.35,Fairly Easy,6.631818181818181,7th and 8th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. save big on hotels in san jose.,-,-,-,98.72,Very Easy,3.7547692307692313,2th and 3th grade,16,13,2,2
+-,-,book your hotel in corta online. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,7.105818181818181,8th and 9th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. book your casino hotel today!,-,-,-,74.35,Fairly Easy,6.447818181818183,6th and 7th grade,16,11,2,3
+-,-,"book at the bridge hotel & spa, singapore. no reservation costs. great rates.",-,-,-,73.85,Fairly Easy,7.003333333333333,6th and 7th grade,18,12,2,2
+-,-,best rates or refund + $50 coupon. book your cork condo hotel today!,-,-,-,82.31,Easy,5.96,3th and 4th grade,17,12,2,3
+-,-,"book at hotel de marina, miami beach. no reservation costs. great rates.",-,-,-,65.39,Standard,7.0760000000000005,5th and 6th grade,19,12,2,3
+-,-,"book at the green hotel & casino, las vegas. no reservation costs. great rates.",-,-,-,73.34,Fairly Easy,7.1201538461538485,13th and 14th grade,19,13,2,3
+-,-,book at the grand convention central hong kong. no reservation costs. great rates.,-,-,-,81.8,Easy,7.448153846153848,7th and 8th grade,18,13,2,3
+-,-,"book a hotel near palmas squere, san francisco. get instant confirmation.",-,-,-,57.43,Fairly Difficult,8.823818181818181,8th and 9th grade,19,11,2,3
+-,-,"book at hotel de minater, rome. no reservation costs. great rates.",-,-,-,82.81,Easy,5.952545454545455,6th and 7th grade,15,11,2,2
+-,-,"find and compare exclusive deals on hotels in colomano, ca and save big!",-,-,-,75.2,Fairly Easy,8.572153846153848,6th and 7th grade,18,13,1,3
+-,-,book your hotel in colombia online. no reservation costs. great rates.,-,-,-,74.35,Fairly Easy,7.677818181818182,6th and 7th grade,16,11,2,3

@@ -1,0 +1,115 @@
+id,seed_text(prime_text),generated_text,perplexity,readability_(0-10),relevance_(R/I),difficulty_score,difficulty_label,grade_level_(avg),school_grade_level,#_syllables,#_words,#_sentences,#_difficult_words
+-,-,"north columbus, in. no reservation costs. great rates. book a motel in columbus,",-,-,-,84.03,Easy,5.936153846153848,7th and 8th grade,18,13,3,3
+-,-,"hotel in da sol ski biloxi. quick, easy & secure online & save!",-,-,-,74.35,Fairly Easy,5.4005454545454565,6th and 7th grade,16,11,2,2
+-,-,save on hotels in downtown washington dc. best rates or refund + $50,-,-,-,73.85,Fairly Easy,6.15,7th and 8th grade,18,12,2,3
+-,-,trusted. start guarantee! no reservation costs. great rates. book a resort in long,-,-,-,73.34,Fairly Easy,8.283538461538463,10th and 11th grade,19,13,2,4
+-,-,texas hamilton hotels. brewery. french-style hotel 380 hotels in penang online save with,-,-,-,73.34,Fairly Easy,10.600307692307693,13th and 14th grade,20,13,2,6
+-,-,house in king cove hotels. no reservation costs. great rates. book your hotel,-,-,-,92.49,Very Easy,4.592769230769231,6th and 7th grade,17,13,3,2
+-,-,less! booking book & save with expedia. book san antonio riverwalk hotels. save,-,-,-,56.93,Fairly Difficult,9.809333333333333,11th and 12th grade,20,12,2,5
+-,-,"vietnam book hotel in pigeon spain. book a b&b in yorkshire bar, copenhagen.",-,-,-,81.8,Easy,6.576153846153848,7th and 8th grade,18,13,2,3
+-,-,"choices, seabourne multiple plan and for your philadelphia on madrid. plan the site",-,-,-,73.34,Fairly Easy,7.972153846153848,7th and 8th grade,19,13,2,3
+-,-,"costs. great rates. book at captain's house inn, chatham. no reservation costs. great",-,-,-,98.72,Very Easy,6.902769230769231,1th and 2th grade,16,13,2,2
+-,-,"reservation costs. great rates. book at ye olde bulls sun, whitby. no reservation",-,-,-,75.2,Fairly Easy,9.316769230769232,12th and 13th grade,18,13,1,2
+-,-,"costs. great rates. book a hostel in puerto viejo, costa rica. no reservation",-,-,-,66.74,Standard,10.842923076923077,10th and 11th grade,19,13,1,5
+-,-,"zagreb hotel, north crescent bogota adult state cana. admission and and and caicos.",-,-,-,73.34,Fairly Easy,9.052923076923078,10th and 11th grade,20,13,2,5
+-,-,"book a hotel near faneuil hall, boston. save up to 50% on your",-,-,-,98.72,Very Easy,3.2187692307692317,1th and 2th grade,16,13,2,2
+-,-,"find great a hotel in downtown los jose all phuket, thailand hotels. no",-,-,-,83.66,Easy,7.662769230769231,6th and 7th grade,17,13,1,2
+-,-,cheap packages & breakfast in mexico. expedia price guarantee. save on holidays to,-,-,-,42.04,Difficult,9.555333333333332,10th and 11th grade,23,12,3,5
+-,-,"central cranbrook. boracay, guarantee. secure value car and save! book accommodations in omaha,",-,-,-,22.58,Very Confusing,13.699692307692304,11th and 12th grade,27,13,2,7
+-,-,coupon. chica. book your hotel in sathorn on your online book a hotel,-,-,-,83.66,Easy,7.318769230769233,5th and 6th grade,17,13,1,2
+-,-,book accommodation on loch reykjavk. no reservation costs. great rates. book accommodation in,-,-,-,50.19,Fairly Difficult,9.10948717948718,13th and 14th grade,24,13,3,3
+-,-,best prices accommodation in ouray. no reservation costs. great rates. book accommodation in tioman,-,-,-,58.24,Fairly Difficult,8.22552380952381,9th and 10th grade,24,14,3,2
+-,-,"great rates. book at austria vacation suite - dubai, dubai. no reservation costs.",-,-,-,73.85,Fairly Easy,8.373999999999999,12th and 13th grade,18,12,2,3
+-,-,secure optional spa resort to the the balcony. premium espana spa. fishing on,-,-,-,56.42,Fairly Difficult,9.809692307692307,8th and 9th grade,22,13,2,7
+-,-,"rates. book at ez 8 motel palmdale, palmdale. no reservation costs. great rates.",-,-,-,81.8,Easy,7.799538461538463,8th and 9th grade,18,13,2,4
+-,-,"great rates. book at hotel ronda lesseps, barcelona. no reservation costs. great rates.",-,-,-,90.26,Very Easy,7.456769230769233,1th and 2th grade,17,13,2,2
+-,-,"newcastle cairo, online. no reservation costs. great rates. book your hotel in the",-,-,-,75.57,Fairly Easy,6.456820512820514,7th and 8th grade,19,13,3,3
+-,-,travel palais naples. no reservation costs. great rates. book lodging in islamorada. no,-,-,-,75.57,Fairly Easy,7.984205128205128,7th and 8th grade,20,13,3,4
+-,-,hotel in napa valley wine country. no reservation costs. great rates. book your,-,-,-,73.34,Fairly Easy,7.232153846153849,13th and 14th grade,19,13,2,3
+-,-,"great rates. book at hotel praha, amsterdam. no reservation costs. great rates. book",-,-,-,73.34,Fairly Easy,8.144153846153849,7th and 8th grade,20,13,2,3
+-,-,site! plan your next trip with expedia. best rates on hotel cambodiana. plan,-,-,-,73.34,Fairly Easy,6.230769230769233,4th and 5th grade,19,13,2,2
+-,-,"rates. book at hotel bon sol resort & spa, illetas. no reservation costs.",-,-,-,73.85,Fairly Easy,7.006,8th and 9th grade,18,12,2,3
+-,-,costs. great rates. book at nusa gev suites resort gourmet all parking. adults-only,-,-,-,83.66,Easy,10.106153846153848,4th and 5th grade,17,13,1,3
+-,-,downtown hoi mandarin hotels. no reservation fees. great rates. book holiday apartment in,-,-,-,67.11,Standard,7.822820512820513,7th and 8th grade,21,13,3,3
+-,-,rates from top brands. car rental kent. compare low rates from top brands.,-,-,-,109.41,Other Value,2.429333333333333,3th and 4th grade,14,13,3,0
+-,-,hotel in napa valley wine country. no reservation costs. great rates. book your,-,-,-,73.34,Fairly Easy,7.232153846153849,13th and 14th grade,19,13,2,3
+-,-,"hotels in orofino, idaho and save big! find and compare exclusive deals on",-,-,-,73.34,Fairly Easy,7.047538461538463,4th and 5th grade,19,13,2,4
+-,-,"great rates. book at hotel ronda lesseps, barcelona. no reservation costs. great rates.",-,-,-,90.26,Very Easy,7.456769230769233,1th and 2th grade,17,13,2,2
+-,-,"panoramic rockresort, columbus, 35 35 35 3 travel discounts nearby. hotels on your",-,-,-,64.88,Standard,10.419692307692307,10th and 11th grade,21,13,2,7
+-,-,great rates. book a holiday holiday in cancn online. best price or a,-,-,-,73.34,Fairly Easy,4.792769230769231,4th and 5th grade,19,13,2,2
+-,-,free capitol. rates & breakfast tour. secure value & expedia's price guarantee. save,-,-,-,40.51,Difficult,11.71109090909091,9th and 10th grade,21,11,2,4
+-,-,great rates. book a hotel in long beach book a b&b near central,-,-,-,92.12,Very Easy,5.4893846153846155,5th and 6th grade,15,13,1,1
+-,-,book casino hotel in klamath falls save up to 50% on your reservation.,-,-,-,75.2,Fairly Easy,8.246153846153845,7th and 8th grade,18,13,1,3
+-,-,rates. book accommodation in st andrews. no reservation costs. great rates. book accommodation,-,-,-,47.96,Difficult,10.578153846153848,7th and 8th grade,24,13,2,3
+-,-,"energy germany. quick, plan & and caicos niagara of sedona. plan your next",-,-,-,65.39,Standard,8.026666666666666,5th and 6th grade,19,12,2,4
+-,-,"great rates. book at hotel ronda lesseps, barcelona. no reservation costs. great rates.",-,-,-,90.26,Very Easy,7.456769230769233,1th and 2th grade,17,13,2,2
+-,-,"reservation costs. great rates. book at saint michaels suite hotel, edmonton. no reservation",-,-,-,66.74,Standard,11.826153846153849,7th and 8th grade,20,13,1,3
+-,-,golden oia bear family new family west hotel unbeatable vegas dominican car views.,-,-,-,41.36,Difficult,10.814153846153848,10th and 11th grade,24,13,1,3
+-,-,kuala don 50% on last confirmation. book hotel on expedia hotels. save up,-,-,-,73.34,Fairly Easy,6.358153846153848,6th and 7th grade,20,13,2,3
+-,-,"rates. book at ez 8 motel palmdale, palmdale. no reservation costs. great rates.",-,-,-,81.8,Easy,7.799538461538463,8th and 9th grade,18,13,2,4
+-,-,deals & save on your kansas city hotels when you book with expedia.,-,-,-,76.22,Fairly Easy,8.38,5th and 6th grade,17,12,1,3
+-,-,"book a hotel near faneuil hall, boston. save up to 50% on your",-,-,-,98.72,Very Easy,3.2187692307692317,1th and 2th grade,16,13,2,2
+-,-,online. no reservation costs. great rates. book your hotel residence in luton online.,-,-,-,64.88,Standard,9.023538461538461,8th and 9th grade,21,13,2,4
+-,-,nina a hotel in ventura ca - hi save up to 50% on,-,-,-,76.22,Fairly Easy,4.551333333333334,6th and 7th grade,17,12,1,2
+-,-,"negril & save. discounts rates. hotel central, kuala lumpur. get instant confirmation. great",-,-,-,48.47,Difficult,11.866666666666665,17th and 18th grade,21,12,2,4
+-,-,"4-star doha. swana, tossa rica florida family south lake blackpool. no reservation costs.",-,-,-,47.96,Difficult,11.312307692307696,10th and 11th grade,23,13,2,6
+-,-,"great rates. book at hotel ronda lesseps, barcelona. no reservation costs. great rates.",-,-,-,90.26,Very Easy,7.456769230769233,1th and 2th grade,17,13,2,2
+-,-,expedia no reservation costs. great rates. book the commons hotel hollywood port en,-,-,-,64.88,Standard,8.627538461538462,8th and 9th grade,21,13,2,4
+-,-,"islands. save on jupiter hotel, dublin. no reservation costs. great rates. expedia guarantees",-,-,-,64.88,Standard,10.874923076923077,10th and 11th grade,21,13,2,5
+-,-,rates from top brands. car rental kent. compare low rates from top brands.,-,-,-,109.41,Other Value,2.429333333333333,3th and 4th grade,14,13,3,0
+-,-,best reservation costs. great rates. book a villa in koh phangan. no reservation,-,-,-,81.8,Easy,6.518769230769233,10th and 11th grade,18,13,2,2
+-,-,"packages. save. save fees. save costs on discovery cove hotel, imerovigli. no reservation",-,-,-,66.74,Standard,12.075538461538462,19th and 20th grade,19,13,1,4
+-,-,"grand hotel copenhagen, saman. spa. quick, easy & secure online booking. hotel &",-,-,-,57.43,Fairly Difficult,10.54309090909091,9th and 10th grade,19,11,2,4
+-,-,rates from top brands. car rental kent. compare low rates from top brands.,-,-,-,109.41,Other Value,2.429333333333333,3th and 4th grade,14,13,3,0
+-,-,save on hotels in downtown washington dc. best rates or refund + $50,-,-,-,73.85,Fairly Easy,6.15,7th and 8th grade,18,12,2,3
+-,-,shuttle & book & sightseeing! book & save on your hotel in dubai.,-,-,-,57.94,Fairly Difficult,7.0840000000000005,5th and 6th grade,17,10,2,2
+-,-,"refund hotel in bergen, centro charleston. shuttle expedia's price guarantee. save on hotels",-,-,-,50.19,Fairly Difficult,11.230358974358976,9th and 10th grade,23,13,3,7
+-,-,"reservation costs. great rates. book at st raphael resort, limassol. no reservation costs.",-,-,-,73.34,Fairly Easy,8.918153846153846,14th and 15th grade,20,13,2,3
+-,-,"prices, pine bungalows, douglas. no reservation costs. great rates. book at the rookery,",-,-,-,75.57,Fairly Easy,8.056205128205129,8th and 9th grade,19,13,3,4
+-,-,"book casino hotels, las do lago. no reservation costs. great rates. book a",-,-,-,81.8,Easy,6.827538461538462,3th and 4th grade,18,13,2,4
+-,-,hotel in napa village wine country. no reservation costs. great rates. book your,-,-,-,73.34,Fairly Easy,7.4041538461538465,6th and 7th grade,19,13,2,3
+-,-,find all hotels. hotels. book great hotels. book an apartment in crete. no,-,-,-,92.49,Very Easy,3.5247179487179485,4th and 5th grade,17,13,3,1
+-,-,"costs. great rates. book at ye kendall inn, boerne. no reservation costs. great",-,-,-,98.72,Very Easy,5.301384615384615,1th and 2th grade,15,13,2,1
+-,-,book accommodation in berkeley village. no reservation costs. great rates. book accommodation in,-,-,-,41.73,Difficult,10.450871794871796,8th and 9th grade,25,13,3,4
+-,-,coupon. germany at hotel corn street vista sedona. no reservation costs. great rates.,-,-,-,81.8,Easy,7.998153846153849,7th and 8th grade,18,13,2,3
+-,-,all maingate haven. no reservation costs. great rates. book your santa monica hotel,-,-,-,75.57,Fairly Easy,7.244205128205127,8th and 9th grade,20,13,3,4
+-,-,london with expedia. great rates book on holiday at expedia! find cheap a,-,-,-,75.57,Fairly Easy,4.9614871794871815,12th and 13th grade,20,13,3,3
+-,-,"hotels. no reservation costs. great rates. book your perfect hotel praha, prague. no",-,-,-,73.34,Fairly Easy,8.659538461538464,11th and 12th grade,19,13,2,4
+-,-,"reservation costs. great rates. book at st. charles coral hotel, bundoran. no reservation",-,-,-,73.34,Fairly Easy,8.746153846153849,13th and 14th grade,20,13,2,3
+-,-,price pikes tiberias. resort nearby. save hotels in high harbor or save big!,-,-,-,90.26,Very Easy,6.336153846153848,7th and 8th grade,17,13,2,3
+-,-,"near ixtapa suites, kata hakuraa palmar diving best best on hotels in sharm",-,-,-,66.74,Standard,11.144307692307697,7th and 8th grade,20,13,1,6
+-,-,package deals on hotels in davis ca online save compare exclusive deals on,-,-,-,66.74,Standard,9.126153846153846,7th and 8th grade,19,13,1,3
+-,-,"book accommodation in bristol. no reservation costs. great rates. book accommodation in brittany,",-,-,-,41.73,Difficult,10.602871794871794,8th and 9th grade,25,13,3,4
+-,-,"book a hotel near faneuil hall, boston. save up to 50% on your",-,-,-,98.72,Very Easy,3.2187692307692317,1th and 2th grade,16,13,2,2
+-,-,"flight inn hotels in downtown ottawa, austin. no reservation costs. great rates. book",-,-,-,81.8,Easy,7.998153846153849,7th and 8th grade,18,13,2,3
+-,-,"save on hotels in parliament rock, az nh get expedia's great costs. great",-,-,-,75.2,Fairly Easy,8.632153846153846,7th and 8th grade,18,13,1,3
+-,-,hotel in napa valley wine country. no reservation costs. great rates. book your,-,-,-,73.34,Fairly Easy,7.232153846153849,13th and 14th grade,19,13,2,3
+-,-,book casino hotels in zrich online book a b&b in newmarket online. no,-,-,-,66.74,Standard,9.544923076923078,7th and 8th grade,19,13,1,5
+-,-,save on hotels in downtown washington dc. best rates on hotels in phuket,-,-,-,81.8,Easy,5.28276923076923,3th and 4th grade,18,13,2,2
+-,-,rates. book your hotel in kaunas online. no reservation costs. great rates. book,-,-,-,81.8,Easy,7.1841538461538486,13th and 14th grade,18,13,2,3
+-,-,big a hotel in angeles club online. no reservation costs. great rates. book,-,-,-,73.34,Fairly Easy,6.554153846153848,7th and 8th grade,19,13,2,3
+-,-,motel with 3 restaurants and full-service spa. tennis on site. family-friendly resort near,-,-,-,67.11,Standard,9.358923076923077,8th and 9th grade,21,13,3,5
+-,-,stay in pine charles key hoi newport. no reservation costs. great rates. book,-,-,-,98.72,Very Easy,5.602769230769232,1th and 2th grade,16,13,2,2
+-,-,guarantee no reservation costs. great rates. book your hotel in santa ponsa online.,-,-,-,64.88,Standard,9.292923076923078,7th and 8th grade,21,13,2,5
+-,-,save on hotels in downtown washington dc. best rates or refund + $50,-,-,-,73.85,Fairly Easy,6.15,7th and 8th grade,18,12,2,3
+-,-,"ambassador & spa, portugal. quick, easy & secure value with expedias price guarantee.",-,-,-,23.59,Very Confusing,12.982363636363635,12th and 13th grade,23,11,2,5
+-,-,"book casino hotels in biloxi, ms on expedia! best rates or refund +",-,-,-,73.85,Fairly Easy,6.612666666666668,17th and 18th grade,18,12,2,4
+-,-,great rates. book a hotel in montego bay lowest price guarantee! book a,-,-,-,75.2,Fairly Easy,8.418153846153848,7th and 8th grade,18,13,1,3
+-,-,book accommodation in bristol. no reservation costs. great rates. book accommodation in beijing,-,-,-,41.73,Difficult,10.278871794871796,8th and 9th grade,25,13,3,4
+-,-,coupon & $25 rooms & save with expedia. find & book the perfect,-,-,-,66.4,Standard,6.432,7th and 8th grade,16,10,2,2
+-,-,save on hotels in downtown washington dc. best rates or refund + $50,-,-,-,73.85,Fairly Easy,6.15,7th and 8th grade,18,12,2,3
+-,-,dublin portmeirion. with guarantee sound for ottawa airport amusement park. book here! find,-,-,-,66.74,Standard,12.40153846153846,13th and 14th grade,20,13,1,4
+-,-,"great rates. book at hotel ronda lesseps, barcelona. no reservation costs. great rates.",-,-,-,90.26,Very Easy,7.456769230769233,1th and 2th grade,17,13,2,2
+-,-,"reservation costs. great rates. book at st. raphael hotel plantation north, toronto. no",-,-,-,73.34,Fairly Easy,8.482153846153848,13th and 14th grade,19,13,2,3
+-,-,guarantee! plan your hotel in san jose canada save up to 50% on,-,-,-,83.66,Easy,6.244769230769231,4th and 5th grade,17,13,1,2
+-,-,"reservation costs. great rates. book at st raphael resort, limassol. no reservation costs.",-,-,-,73.34,Fairly Easy,8.918153846153846,14th and 15th grade,20,13,2,3
+-,-,freeport. great rates. book your hotel playa saint helier jersey. no reservation costs.,-,-,-,73.34,Fairly Easy,8.482153846153848,13th and 14th grade,19,13,2,3
+-,-,travel ruskin oia oia pond tofino. hove wellness hotels in avila resort online.,-,-,-,73.34,Fairly Easy,9.743692307692307,9th and 10th grade,20,13,2,7
+-,-,"secure kuhn resort with views, las swimming spa. no reservation costs. great rates.",-,-,-,81.8,Easy,7.6521538461538485,7th and 8th grade,18,13,2,3
+-,-,great rates. book a lodge in reno online. no reservation costs. great rates.,-,-,-,98.72,Very Easy,5.430769230769231,4th and 5th grade,16,13,2,2
+-,-,"book a hotel near faneuil hall, boston. save up to 50% on your",-,-,-,98.72,Very Easy,3.218769230769232,1th and 2th grade,16,13,2,2
+-,-,cost house in estero desert ny. book online. no reservation costs. great rates.,-,-,-,90.26,Very Easy,6.772153846153848,1th and 2th grade,17,13,2,3
+-,-,refund hotel in ewr of george area area nearby. 3-star belfast hotel in,-,-,-,81.8,Easy,5.774153846153848,3th and 4th grade,18,13,2,3
+-,-,"airport, sedona, ohio. blackpool. garden instant or. no reservation costs. great rates. san",-,-,-,75.57,Fairly Easy,8.577538461538461,8th and 9th grade,20,13,3,4
+-,-,refund hotel in mont-tremblant with free breakfast. cross-country skiing nearby. family-friendly perth retreat,-,-,-,33.27,Difficult,15.304410256410256,13th and 14th grade,26,13,3,8
+-,-,"near sea bungalows, casablanca. official all cancellation. shops, wifi. quick, easy reservation. easy",-,-,-,50.19,Fairly Difficult,11.504923076923077,9th and 10th grade,23,13,3,5
