@@ -5,7 +5,7 @@ import pandas as pd
 import collections
 import nltk
 
-
+# make to test file
 perplexity_file = "description/adsDescriptionUniqe.txt"
 outcsv = "tf_word_levelـshakespeare.csv"
 generated_text_file = "generated_output.txt"

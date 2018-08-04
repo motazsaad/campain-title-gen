@@ -13,10 +13,11 @@ import math
 # FILE_VALID = '../torch/data/FlightsAndHotels/title/valid.txt'
 # FILE_TESTS = '../torch/data/FlightsAndHotels/title/test.txt'
 
-DATASET_FILE = '../torch/data/FlightsAndHotels/description/adsDescriptionUniqe.txt'
-FILE_TRAIN = '../torch/data/FlightsAndHotels/description/train.txt'
-FILE_VALID = '../torch/data/FlightsAndHotels/description/valid.txt'
-FILE_TESTS = '../torch/data/FlightsAndHotels/description/test.txt'
+
+DATASET_FILE = 'dataset/ownlist/input_own_list.txt'
+FILE_TRAIN = 'dataset/ownlist/train.txt'
+FILE_VALID = 'dataset/ownlist/valid.txt'
+FILE_TESTS = 'dataset/ownlist/test.txt'
 
 # Set to true if you want to copy first line from main
 # file into each split (like CSV header)

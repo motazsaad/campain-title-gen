@@ -64,17 +64,17 @@ with open(data_file, "r", encoding='UTF-8') as file:
         difficulty_score = textstat.flesch_reading_ease(test_data)
         print(difficulty_score)
 
-        if 0 <= difficulty_score <= 29:
+        if 0 <= difficulty_score < 30:
                 difficulty_label = "Very Confusing"
-        elif 30 <= difficulty_score <= 49:
+        elif 30 <= difficulty_score < 50:
                 difficulty_label = "Difficult"
-        elif 50 <= difficulty_score <= 59:
+        elif 50 <= difficulty_score < 60:
                 difficulty_label = "Fairly Difficult"
-        elif 60 <= difficulty_score <= 69:
+        elif 60 <= difficulty_score < 70:
                 difficulty_label = "Standard"
-        elif 70 <= difficulty_score <= 79:
+        elif 70 <= difficulty_score < 80:
                 difficulty_label = "Fairly Easy"
-        elif 80 <= difficulty_score <= 89:
+        elif 80 <= difficulty_score < 90:
                 difficulty_label = "Easy"
         elif 90 <= difficulty_score <= 100:
                 difficulty_label = "Very Easy"
