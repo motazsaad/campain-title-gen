@@ -12,7 +12,7 @@ import re
 import pandas as pd
 import collections
 import nltk
-nltk.download('punkt')
+# nltk.download('punkt')
 
 def main():
     parser = argparse.ArgumentParser(
