@@ -34,7 +34,7 @@ INTERNALSIZE = 512
 # shakespeareC3 = "checkpoints/rnn_train_1495455686-450000"  # structure of a play, unintelligible words
 # shakespeareC4 = "checkpoints/rnn_train_1495447371-15000000"  # better structure of a play, character names (not very good), 4-letter words in correct English
 # shakespeareC5 = "checkpoints/rnn_train_1495447371-45000000"  # good names, even when invented (ex: SIR NATHANIS LORD OF SYRACUSE), correct 6-8 letter words
-shakespeareB10 = "checkpoints/rnn_train_1523458639-18000000" # ACT V SCENE IV, [Re-enter KING JOHN with MARDIAN], DON ADRIANO DRAGHAMONE <- invented!
+shakespeareB10 = "checkpoints/rnn_train_1533727684-18000000" # ACT V SCENE IV, [Re-enter KING JOHN with MARDIAN], DON ADRIANO DRAGHAMONE <- invented!
 # most scene directions correct: [Enter FERDINAND] [Dies] [Exit ROSALIND] [To COMINIUS with me] [Enter PRINCE HENRY, and Attendants], correct English.
 
 # pythonA0 = "checkpoints/rnn_train_1495458538-300000"  # gibberish
@@ -47,7 +47,7 @@ author = shakespeareB10
 
 ncnt = 0
 with tf.Session() as sess:
-    new_saver = tf.train.import_meta_graph('checkpoints/rnn_train_1523458639-18000000.meta')
+    new_saver = tf.train.import_meta_graph('checkpoints/rnn_train_1533727684-18000000.meta')
     new_saver.restore(sess, author)
     x = my_txtutils.convert_from_alphabet(ord("L"))
     x = np.array([[x]])  # shape [BATCHSIZE, SEQLEN] with BATCHSIZE=1 and SEQLEN=1

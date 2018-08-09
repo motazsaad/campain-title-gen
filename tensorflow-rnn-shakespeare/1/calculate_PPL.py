@@ -6,7 +6,7 @@ import collections
 import nltk
 
 # make to test file
-perplexity_file = "description/adsDescriptionUniqe.txt"
+perplexity_file = "description/test.txt"
 outcsv = "tf_word_levelـshakespeare.csv"
 generated_text_file = "generated_output.txt"
 

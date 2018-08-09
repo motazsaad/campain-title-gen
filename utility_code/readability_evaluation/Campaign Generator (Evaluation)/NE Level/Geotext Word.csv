@@ -1,106 +1,122 @@
-id,seed_text(prime_text),generated_text,perplexity,readability_(0-10),relevance_(R/I),difficulty_score,difficulty_label,grade_level_(avg),school_grade_level,#_syllables,#_words,#_sentences,#_difficult_words
--,-,"book with expedia. save big on i-city, nm hotels. save big on sint",-,-,-,84.03,Easy,3.6288205128205133,0th and 1th grade,18,13,3,3
--,-,great rates. book a room in i-city online. no reservation costs. great rates.,-,-,-,81.8,Easy,6.648153846153848,13th and 14th grade,18,13,2,3
--,-,guarantee bc online. no reservation costs. great rates. book your hotel at camden,-,-,-,75.57,Fairly Easy,6.910205128205128,8th and 9th grade,20,13,3,4
--,-,"book with expedia. save big on i-city, save with expedia's price guarantee. save",-,-,-,64.88,Standard,8.109538461538463,8th and 9th grade,21,13,2,4
--,-,"secure riverwalk, pagoda chita, treehouse gonzo costs, carpinteria, value. zrich, carpinteria, crossville, rookley.",-,-,-,47.96,Difficult,16.793076923076924,13th and 14th grade,24,13,2,8
--,-,"book with expedia. save big on i-city, nm hotels. save big on sint",-,-,-,84.03,Easy,3.628820512820513,0th and 1th grade,18,13,3,3
--,-,great rates. pattaya beach offers a beguiling range of attractions and adventures in,-,-,-,58.28,Fairly Difficult,12.028923076923075,13th and 14th grade,21,13,1,5
--,-,compare save big on hotels in i-city. save with expedia's price guarantee find,-,-,-,64.88,Standard,7.825538461538462,8th and 9th grade,21,13,2,4
--,-,"costs. great rates. book at aldemar knossos royal, hersonissos. no reservation costs. great",-,-,-,73.34,Fairly Easy,10.370923076923075,10th and 11th grade,20,13,2,5
--,-,"choices, best prices, trusted. dallas lodging at cancun. find expedia from i-city! book",-,-,-,58.65,Fairly Difficult,10.190358974358977,7th and 8th grade,22,13,3,7
--,-,"texas wilid bank, trinity niagara. clube ely. revolving zrich, comber. litchfield, gothenburg, dining",-,-,-,50.19,Fairly Difficult,12.669025641025641,12th and 13th grade,23,13,3,7
--,-,"4-star sacajawea keio out honolulu. soi-city, soi-city, greece. gardens. folly no reservation costs.",-,-,-,41.73,Difficult,12.703692307692304,12th and 13th grade,25,13,3,7
--,-,accommodation in i-city. save with expedia's price guarantee book a package to i-coun.,-,-,-,47.96,Difficult,9.693538461538463,8th and 9th grade,24,13,2,4
--,-,great rates. pattaya beach offers a beguiling range of attractions and adventures in,-,-,-,58.28,Fairly Difficult,12.028923076923075,13th and 14th grade,21,13,1,5
--,-,save big on caribbean resorts. save with expedia's price guarantee. save big on,-,-,-,75.57,Fairly Easy,6.550871794871798,8th and 9th grade,20,13,3,4
--,-,london hotels choose from expedia. book a hotel in i-city book great hotel,-,-,-,64.88,Standard,7.237538461538462,8th and 9th grade,21,13,2,4
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,zagreb bury af good sea simpson 5 bristol crescent sonoma york lake fountain,-,-,-,66.74,Standard,10.770923076923077,7th and 8th grade,19,13,1,5
--,-,"hotels in mytilene, i-coun. more choices, best prices, trusted. save on hotels in",-,-,-,84.03,Easy,6.736871794871794,8th and 9th grade,18,13,3,4
--,-,online. no reservation costs. great rates. book your hotel in i-city online. no,-,-,-,73.34,Fairly Easy,7.182153846153848,13th and 14th grade,20,13,2,3
--,-,book with expedia. save caribbean and save with expedia. save on al murooj,-,-,-,75.57,Fairly Easy,4.520102564102563,3th and 4th grade,19,13,3,2
--,-,shopping up site. book a luxury hotel in banff. get the best rates,-,-,-,92.49,Very Easy,2.191384615384616,0th and 1th grade,17,13,3,1
--,-,cost a lodge hotel in latin quarter. save with expedia's price guarantee book,-,-,-,73.34,Fairly Easy,6.868153846153848,4th and 5th grade,19,13,2,3
--,-,"choices, best prices, trusted. dallas hotels by madison oceanfront tx & more choices,",-,-,-,56.93,Fairly Difficult,11.616,11th and 12th grade,20,12,2,6
--,-,"hotel, aintree i-city online. no no reservation costs. great rates book your hotel",-,-,-,67.11,Standard,7.927589743589745,8th and 9th grade,21,13,3,5
--,-,online. schlitterbahn i-city. no reservation costs. great rates. book at venice beach ocean,-,-,-,73.34,Fairly Easy,9.705538461538461,10th and 11th grade,20,13,2,4
--,-,downtown henry 5-star dupont marysville rarotonga. book on the fragrance hotel i-city! save,-,-,-,56.42,Fairly Difficult,10.850923076923078,10th and 11th grade,22,13,2,5
--,-,"book with expedia. save big on i-city, nm hotels. save on bournemouth motels",-,-,-,75.57,Fairly Easy,6.0982051282051275,3th and 4th grade,19,13,3,4
--,-,hotel azulik. plan your next trip with expedia. best rates on hotel baja.,-,-,-,73.34,Fairly Easy,6.258153846153848,6th and 7th grade,19,13,2,3
--,-,"hotels in mytilene, i-coun. more choices, best prices, trusted. save on hotels in",-,-,-,84.03,Easy,6.736871794871794,8th and 9th grade,18,13,3,4
--,-,best $50 refund + book your travel at rose motel 3 makati. best,-,-,-,84.68,Easy,7.556,5th and 6th grade,16,12,1,3
--,-,hotel azulik. plan your next trip with expedia. best rates on hotel baja.,-,-,-,73.34,Fairly Easy,6.258153846153848,6th and 7th grade,19,13,2,3
--,-,grand coogee shannon available stranraer paros de. stanbul. no big costs. great rates.,-,-,-,90.26,Very Easy,8.563538461538462,8th and 9th grade,17,13,2,4
--,-,rates. book accommodation in i-city book accommodation in i-city online. no reservation costs.,-,-,-,14.12,Very Confusing,12.03353846153846,12th and 13th grade,28,13,2,4
--,-,save big on caribbean resorts. save with expedia's price guarantee. save big on,-,-,-,75.57,Fairly Easy,6.550871794871798,8th and 9th grade,20,13,3,4
--,-,"book with expedia. save big on i-city, nm hotels. save big on sint",-,-,-,84.03,Easy,3.628820512820513,0th and 1th grade,18,13,3,3
--,-,save big on caribbean resorts. save with expedia's price guarantee. save big on,-,-,-,75.57,Fairly Easy,6.550871794871798,8th and 9th grade,20,13,3,4
--,-,"book with expedia. save big on i-city, melbourne hotels. save with expedia's price",-,-,-,67.11,Standard,7.894256410256411,8th and 9th grade,21,13,3,5
--,-,"hotels in mytilene, i-coun. more choices, best prices, trusted. save on hotels in",-,-,-,84.03,Easy,6.736871794871794,8th and 9th grade,18,13,3,4
--,-,rates. book accommodation in i-city online. no reservation costs. great rates. book accommodation,-,-,-,31.04,Difficult,12.089538461538462,12th and 13th grade,26,13,2,4
--,-,"golden college, sidmouth. no reservation costs. great rates book a chalet in book",-,-,-,84.03,Easy,6.0881538461538485,5th and 6th grade,18,13,3,3
--,-,"airport, bray. trip! no reservation costs. no a hotel diamond chicago apartments book",-,-,-,64.88,Standard,9.023538461538461,8th and 9th grade,21,13,2,4
--,-,save big on caribbean resorts. save with expedia's price guarantee. save big on,-,-,-,75.57,Fairly Easy,6.550871794871798,8th and 9th grade,20,13,3,4
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,"book with expedia. save big on i-city, fl hotels. book bed & breakfast",-,-,-,67.42,Standard,5.488666666666667,7th and 8th grade,19,12,3,3
--,-,"palace, bega rosellen kassandra harwich herzelia agapinor leading mineral dells dining leading change",-,-,-,49.82,Other Value,15.704307692307696,25th and 26th grade,22,13,1,6
--,-,"prices, wimbledon, lara , tuscany las atlanta. expedia expedia expedias price guarantee. save",-,-,-,23.09,Very Confusing,13.724,11th and 12th grade,25,12,2,6
--,-,"find and compare exclusive deals on hotels in i-city, ohio and save big!",-,-,-,66.74,Standard,8.712153846153848,7th and 8th grade,19,13,1,3
--,-,full-service shakespeare's service near observation costs. save now! riu of royal theatre and,-,-,-,56.42,Fairly Difficult,10.699538461538463,8th and 9th grade,22,13,2,4
--,-,"international shiba vyrnwy balconies. sukhumvit, value, 105-room kanab, revolving per 360-degree revolving dining",-,-,-,14.12,Very Confusing,18.13446153846154,12th and 13th grade,28,13,2,9
--,-,great rates. pattaya beach offers a beguiling range of gran hvar spa and,-,-,-,83.66,Easy,8.332153846153847,4th and 5th grade,17,13,1,3
--,-,rates. book accommodation in i-city online. no reservation costs. great rates. book accommodation,-,-,-,31.04,Difficult,12.089538461538462,12th and 13th grade,26,13,2,4
--,-,online. no reservation costs. great rates. book your hotel in i-city online. book,-,-,-,73.34,Fairly Easy,7.508153846153848,6th and 7th grade,20,13,2,3
--,-,hotel azulik. plan your next trip with expedia. best rates on hotel baja.,-,-,-,73.34,Fairly Easy,6.258153846153848,6th and 7th grade,19,13,2,3
--,-,online. no reservation costs. great rates. book your hotel in i-coun online. no,-,-,-,81.8,Easy,6.396769230769231,5th and 6th grade,18,13,2,2
--,-,"rates or refund + $50 coupon. great hotels by i-city, nsw today! best",-,-,-,73.85,Fairly Easy,6.9706666666666655,6th and 7th grade,18,12,2,4
--,-,"panoramic stanford hotel victoria, algarve, i-city. no reservation costs. great rates. book your",-,-,-,47.96,Difficult,12.438307692307696,1th and 2th grade,23,13,2,6
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,"rates. book at zenit abeba, i-city. no reservation costs. great rates. book at",-,-,-,73.34,Fairly Easy,7.635538461538463,8th and 9th grade,19,13,2,4
--,-,"book with expedia. save big on i-city, nm hotels. save big on sint",-,-,-,84.03,Easy,3.628820512820513,0th and 1th grade,18,13,3,3
--,-,reservation. book your hotel in i-city price guarantee. save now! hotels on your,-,-,-,64.88,Standard,8.159538461538464,8th and 9th grade,21,13,2,4
--,-,"hotels in mytilene, i-coun. more choices, best prices, trusted. save on hotels in",-,-,-,84.03,Easy,6.736871794871794,8th and 9th grade,18,13,3,4
--,-,best $50 refund book your bed & breakfast in i-city. plan your next,-,-,-,82.31,Easy,5.039333333333333,5th and 6th grade,17,12,2,2
--,-,save big on caribbean resorts. save with expedia's price guarantee. save big on,-,-,-,75.57,Fairly Easy,6.550871794871798,8th and 9th grade,20,13,3,4
--,-,"all grosvenor mamilla hotel, i-city craignure. queens beacons bundoran. bundoran. no no reservation",-,-,-,50.19,Fairly Difficult,11.674307692307696,9th and 10th grade,24,13,3,6
--,-,accommodation in penn art club. save up to save big on hotels in,-,-,-,81.8,Easy,4.132769230769231,2th and 3th grade,18,13,2,2
--,-,"book with expedia. save big on i-city, ca hotels. save big on all",-,-,-,84.03,Easy,3.468820512820513,7th and 8th grade,18,13,3,3
--,-,"coupon best prices. save on hotels in i-city, tn. more choices, best prices,",-,-,-,92.49,Very Easy,5.036153846153846,5th and 6th grade,17,13,3,3
--,-,hotel azulik. plan your next trip with expedia. best rates on hotel baja.,-,-,-,73.34,Fairly Easy,6.258153846153848,6th and 7th grade,19,13,2,3
--,-,less! online. no reservation costs. great rates. book your villa in new york,-,-,-,90.26,Very Easy,6.286153846153848,7th and 8th grade,17,13,2,3
--,-,refund + $50 coupon. book your queensland hotel today! best rates or refund,-,-,-,75.88,Fairly Easy,6.203333333333334,7th and 8th grade,18,12,3,3
--,-,"best prices in great ocean city, ca. no reservation costs. great rates. book at",-,-,-,106.67,Other Value,4.335428571428571,7th and 8th grade,16,14,2,1
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,great rates. pattaya beach offers a beguiling range of attractions and adventures in,-,-,-,58.28,Fairly Difficult,12.028923076923075,13th and 14th grade,21,13,1,5
--,-,save big on caribbean resorts. save with expedia's price guarantee. save big on,-,-,-,75.57,Fairly Easy,6.550871794871798,8th and 9th grade,20,13,3,4
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,"north fushimi, arena. no no costs. great rates. book your hotel in i-coun",-,-,-,100.95,Other Value,3.726102564102564,2th and 3th grade,16,13,3,2
--,-,refund + $50 coupon. book your queensland hotel today! best rates or refund,-,-,-,75.88,Fairly Easy,6.203333333333334,7th and 8th grade,18,12,3,3
--,-,"energy per hotel bonvecchiati, i-city. no reservation costs. great rates. book at hotel",-,-,-,50.19,Fairly Difficult,8.51753846153846,9th and 10th grade,23,13,3,4
--,-,"deals a prices, online. no reservation costs. great rates. book a motel in",-,-,-,92.49,Very Easy,4.722153846153846,0th and 1th grade,17,13,3,3
--,-,best $50 refund + book your palm break airport now. get easy booking.,-,-,-,90.77,Very Easy,5.207333333333334,6th and 7th grade,16,12,2,2
--,-,great rates. book in pattaya motel book a french quarter krabi hotels. no,-,-,-,75.2,Fairly Easy,9.447538461538462,5th and 6th grade,18,13,1,4
--,-,refund + $50 coupon. book your queensland hotel today! best rates or refund,-,-,-,75.88,Fairly Easy,6.203333333333334,7th and 8th grade,18,12,3,3
--,-,"cheap perrysburg seagull carbis wynn costs! dunkeld. surfers' fl, learn no reservation off",-,-,-,73.34,Fairly Easy,9.583538461538463,14th and 15th grade,19,13,2,4
--,-,hotel azulik. plan your next trip with expedia. best rates on hotel baja.,-,-,-,73.34,Fairly Easy,6.258153846153848,6th and 7th grade,19,13,2,3
--,-,"guarantee! i-city. no reservation costs. great rates. book at over 1,093,000 hotels online.",-,-,-,64.88,Standard,10.560923076923078,10th and 11th grade,21,13,2,5
--,-,great rates. pattaya beach offers a beguiling range of attractions and adventures in,-,-,-,58.28,Fairly Difficult,12.028923076923075,13th and 14th grade,21,13,1,5
--,-,compare online. no reservation costs. great rates. book your hotel in aberdeen wa,-,-,-,73.34,Fairly Easy,7.558153846153848,6th and 7th grade,19,13,2,3
--,-,"book with expedia. save big on i-city, nm hotels. save big on sint",-,-,-,84.03,Easy,3.6288205128205133,0th and 1th grade,18,13,3,3
--,-,rates or refund + $50 coupon. book accommodations in ko phi phi today!,-,-,-,65.39,Standard,6.845999999999999,7th and 8th grade,19,12,2,3
--,-,"trusted. save on hotels in i-city, queens. hoi prices. book a hotel in",-,-,-,81.8,Easy,5.552153846153847,5th and 6th grade,18,13,2,3
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,hotel azulik. plan your next trip with expedia. best rates on hotel baja.,-,-,-,73.34,Fairly Easy,6.258153846153848,6th and 7th grade,19,13,2,3
--,-,great rates. book a room in i-city online. no reservation costs. great rates.,-,-,-,81.8,Easy,6.648153846153848,13th and 14th grade,18,13,2,3
--,-,"price rates. book at living hotel, galway. no reservation costs. great rates. book",-,-,-,81.8,Easy,7.498153846153849,7th and 8th grade,18,13,2,3
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,"travel cetera, an booking on san diego zoo. save with expedia's price guarantee.",-,-,-,73.34,Fairly Easy,7.969538461538463,6th and 7th grade,19,13,2,4
--,-,"package golfing to i-city. get low rates on expedia. save on i-city, ohio",-,-,-,67.11,Standard,5.816871794871798,8th and 9th grade,21,13,3,4
--,-,reservation costs. great rates. book your hotel in kemptville on online. no reservation,-,-,-,66.74,Standard,10.510769230769233,6th and 7th grade,19,13,1,2
--,-,"guarantee. pasay, ritz santorini, car travel package expedia price guarantee. 50% off cedar",-,-,-,47.96,Difficult,10.375538461538463,10th and 11th grade,23,13,2,4
--,-,great rates. book a room in i-city online. no reservation costs. great rates.,-,-,-,81.8,Easy,6.648153846153848,13th and 14th grade,18,13,2,3
--,-,"book with expedia. save big on i-city, nm hotels. save big on sint",-,-,-,84.03,Easy,3.628820512820513,0th and 1th grade,18,13,3,3
--,-,great rates. book at hotel falls. save with expedia's price guarantee. book your,-,-,-,81.8,Easy,6.518769230769233,10th and 11th grade,18,13,2,2
--,-,"brighton, portree. with expedia on i-city. book now & save with expedia. save",-,-,-,65.39,Standard,7.839999999999999,7th and 8th grade,19,12,2,3
--,-,great rates. book a room in i-city online. no reservation costs. great rates.,-,-,-,81.8,Easy,6.648153846153846,13th and 14th grade,18,13,2,3
+id,seed_text(prime_text),generated_text,perplexity,readability_(0-10),relevance_(R/I),difficulty_score,difficulty_label,school_grade_level,#_syllables,#_words,#_sentences,#_difficult_words,,,
+-,-,"suwanee low your room - ibiza island, south korea save on last minute",-,-,-,84.68,Easy,5th and 6th grade,16,12,1,3,,,
+-,-,"palace, i-city enjoy up to $750 to spend onboard! book your cruise by",-,-,-,90.26,Very Easy,1th and 2th grade,17,13,2,2,,,
+-,-,"costs. great rates. book your hotel in i-city, i-city online. no reservation costs.",-,-,-,64.88,Standard,8th and 9th grade,21,13,2,4,,,
+-,-,online. no reservation costs. great rates. marival resort & suites nuevo vallarta all,-,-,-,48.47,Difficult,11th and 12th grade,21,12,2,6,,,
+-,-,"save big! book at fieldhead hotel, markfield. no reservation costs. great rates. best",-,-,-,81.8,Easy,8th and 9th grade,18,13,2,4,,,
+-,-,"hotels cay booking.com & sea inn & gold mall, fl. book at sunset",-,-,-,76.18,Fairly Easy,6th and 7th grade,17,11,3,2,,,
+-,-,"north milan cadorna niagara coast hotel, i-city. no reservation costs. great rates. best",-,-,-,56.42,Fairly Difficult,13th and 14th grade,22,13,2,6,,,
+-,-,reservation costs. great rates. book lodging in i-city. no reservation costs. great rates.,-,-,-,73.34,Fairly Easy,14th and 15th grade,20,13,2,3,,,
+-,-,"coupon. save now best rates great rates. book at hotel antunovic i-city, i-city.",-,-,-,73.34,Fairly Easy,6th and 7th grade,19,13,2,3,,,
+-,-,"costs. great rates. book at hotel astoria, i-city. no reservation costs. great rates.",-,-,-,73.34,Fairly Easy,7th and 8th grade,20,13,2,3,,,
+-,-,great rates. best rates or refund + $50 coupon. book your jebel ali,-,-,-,99.23,Very Easy,5th and 6th grade,14,12,2,1,,,
+-,-,"best rates or refund + $50 coupon. hotels in andalusia, museum, fl. book",-,-,-,65.39,Standard,8th and 9th grade,19,12,2,4,,,
+-,-,great rates. best rates or refund + $50 coupon. book your hotel in,-,-,-,90.77,Very Easy,2th and 3th grade,15,12,2,1,,,
+-,-,reservation costs. great rates. 3-star hyderabad hotel in begumpet with 2 restaurants. get,-,-,-,49.82,Difficult,9th and 10th grade,22,13,1,5,,,
+-,-,"site! save big! book at the great waterloo, london no reservation costs. great",-,-,-,75.2,Fairly Easy,8th and 9th grade,18,13,1,3,,,
+-,-,save with expedia's price guarantee book a vacation home in ayia napa. beach.,-,-,-,66.74,Standard,8th and 9th grade,20,13,1,4,,,
+-,-,secure photo. tokyo forest in i-city. no reservation costs. great rates. book at,-,-,-,73.34,Fairly Easy,6th and 7th grade,20,13,2,4,,,
+-,-,book & save on book hotels in i-city. save with expedia's price guarantee,-,-,-,56.93,Fairly Difficult,8th and 9th grade,20,12,2,4,,,
+-,-,"rates. the artist house on fleming, i-city. no reservation costs. great rates. hotel",-,-,-,73.34,Fairly Easy,7th and 8th grade,19,13,2,3,,,
+-,-,coupon. save on hotels on flight & save book a cheap hotel in,-,-,-,84.68,Easy,5th and 6th grade,15,12,1,1,,,
+-,-,find exclusive deals on hotels in the san diego and save big! book,-,-,-,92.12,Very Easy,4th and 5th grade,16,13,1,2,,,
+-,-,"stay haus, notre mo. i-city. no reservation costs. great rates. best rates or",-,-,-,92.49,Very Easy,0th and 1th grade,17,13,3,2,,,
+-,-,"refund on hotel in i-city book at 4-star resort in jersey 101, walk",-,-,-,66.74,Standard,4th and 5th grade,20,13,1,5,,,
+-,-,"hotels legacy, palacio portmarnock. no reservation costs. great rates. book at hotel le",-,-,-,75.57,Fairly Easy,10th and 11th grade,20,13,3,5,,,
+-,-,book & save on cancun trips. book your hotel in boulder co online.,-,-,-,82.31,Easy,2th and 3th grade,17,12,2,3,,,
+-,-,"prices, ipanema booking.com. no reservation costs. book a cheap hotel in i-city best",-,-,-,67.11,Standard,8th and 9th grade,21,13,3,4,,,
+-,-,"less! your guarantee. save big on hotels in i-city, bc. book at sun",-,-,-,81.8,Easy,1th and 2th grade,18,13,2,3,,,
+-,-,book & save on cancun trips. book your hotel in boulder co online.,-,-,-,82.31,Easy,2th and 3th grade,17,12,2,3,,,
+-,-,"book your apartment in i-city. quick, easy booking. instant confirmation. book a hotel",-,-,-,58.65,Fairly Difficult,7th and 8th grade,22,13,3,3,,,
+-,-,"cost save find on hotels in i-city, i-city, fl. no reservation costs. great",-,-,-,73.34,Fairly Easy,7th and 8th grade,20,13,2,3,,,
+-,-,"accommodation lodge, moab. no reservation costs. great rates. book your hotel in foggy",-,-,-,67.11,Standard,7th and 8th grade,21,13,3,2,,,
+-,-,"trusted. big! book at isle beach suites, i-city. no reservation costs. great rates.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3,,,
+-,-,"book a motel in i-city, fl. no reservation costs. great rates. no reservation",-,-,-,73.34,Fairly Easy,4th and 5th grade,20,13,2,3,,,
+-,-,"shopping costs. great rates. book at una hotel praha, i-city. no reservation costs.",-,-,-,73.34,Fairly Easy,7th and 8th grade,20,13,2,3,,,
+-,-,"deals on hotels in i-city. book online & save quick, easy & secure",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4,,,
+-,-,great rates. best rates or refund + $50 coupon. book your 6th arrondissement,-,-,-,90.77,Very Easy,6th and 7th grade,16,12,2,2,,,
+-,-,"dublin big! romantik suite side hotel, i-coun. no reservation costs. great rates. st.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3,,,
+-,-,full-service save chelsea find and deals on hotels on expedia. save up to,-,-,-,90.26,Very Easy,1th and 2th grade,17,13,2,3,,,
+-,-,"hotel provincetown. zermatt. no reservation costs. great rates. marival resort & golf resort,",-,-,-,48.47,Difficult,11th and 12th grade,21,12,2,6,,,
+-,-,"choices, no reservation costs. great rates book a hotel near gaslamp side, i-city.",-,-,-,73.34,Fairly Easy,7th and 8th grade,19,13,2,3,,,
+-,-,reservation. the artist marathon. no reservation costs. great rates. book at star hotel,-,-,-,84.03,Easy,7th and 8th grade,18,13,3,2,,,
+-,-,freeport. la cape quebec hotels best rates or refund + $50 coupon on,-,-,-,84.68,Easy,8th and 9th grade,16,12,1,3,,,
+-,-,package great rates. book & save on hotels by mall of america. more,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,2,,,
+-,-,"rates. the artist house on fleming, i-city. no reservation costs. great rates. the",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3,,,
+-,-,best up or refund + $50 coupon. hotels in the san antonio dubai,-,-,-,82.31,Easy,1th and 2th grade,17,12,2,3,,,
+-,-,"book a motel in i-city, la. no reservation costs. great rates. best rates",-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3,,,
+-,-,"rates. the artist house on fleming, i-city. no reservation costs. great rates. hotel",-,-,-,73.34,Fairly Easy,7th and 8th grade,19,13,2,3,,,
+-,-,hotels backpackers lee vieques jungmun amalfi. no reservation costs. great rates. book at,-,-,-,73.34,Fairly Easy,9th and 10th grade,20,13,2,5,,,
+-,-,great rates. book your hotel in newbridge online. no reservation costs. great rates.,-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3,,,
+-,-,"compare coupon. save on hotels in i-city, florida fl. more choices, best prices,",-,-,-,73.34,Fairly Easy,6th and 7th grade,20,13,2,4,,,
+-,-,hotels. save big! find & compare exclusive deals on resorts in istanbul new,-,-,-,50.84,Fairly Difficult,9th and 10th grade,20,12,1,4,,,
+-,-,house saint-tropez. no reservation costs. rates. book your hotel in bryce canyon ut,-,-,-,90.26,Very Easy,10th and 11th grade,17,13,2,2,,,
+-,-,"central sedona killarney, plantation photo. no booking fees. book your hotel in gora",-,-,-,50.19,Fairly Difficult,9th and 10th grade,23,13,3,7,,,
+-,-,big online & hotels on expedia. save up to 50% on great hotels.,-,-,-,73.85,Fairly Easy,1th and 2th grade,18,12,2,4,,,
+-,-,save with expedia's price guarantee book a package to wisconsin dells. book your,-,-,-,66.74,Standard,7th and 8th grade,20,13,1,3,,,
+-,-,reservation costs. great rates. book at hotel balcon de ayia amalfi. no reservation,-,-,-,66.74,Standard,7th and 8th grade,20,13,1,3,,,
+-,-,"refund in banff deals on i-city in i-city, i-coun. save on hotel in",-,-,-,73.34,Fairly Easy,1th and 2th grade,19,13,2,3,,,
+-,-,"hotel site, zermatt. no no reservation costs. great rates. marival resort & spa",-,-,-,67.42,Standard,8th and 9th grade,19,12,3,4,,,
+-,-,guarantee. save reservation costs. great rates. book at hotel great inn i-city gare,-,-,-,73.34,Fairly Easy,7th and 8th grade,20,13,2,3,,,
+-,-,"secure bottled helicopter plantation photo. bar, cancun, sedona. book hotel in floral harbor",-,-,-,41.73,Difficult,13th and 14th grade,25,13,3,8,,,
+-,-,big! don't arlanda food resort booking on an reservation big on hotels with,-,-,-,66.74,Standard,7th and 8th grade,20,13,1,5,,,
+-,-,"hotel site, zermatt. zermatt. no reservation costs. great rates. short let flight &",-,-,-,75.88,Fairly Easy,6th and 7th grade,18,12,3,2,,,
+-,-,best rates. book your hotel in varenna online. no reservation costs. great rates.,-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3,,,
+-,-,"book your apartment in i-city. quick, easy booking. instant confirmation. book a hotel",-,-,-,58.65,Fairly Difficult,7th and 8th grade,22,13,3,3,,,
+-,-,rates on your reservation. find and compare exclusive deals on hotels in gold,-,-,-,73.34,Fairly Easy,4th and 5th grade,19,13,2,3,,,
+-,-,great rates. book your hotel in varenna online. no reservation costs. great rates.,-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3,,,
+-,-,"book your apartment in i-city. quick, easy booking. instant confirmation. book a hotel",-,-,-,58.65,Fairly Difficult,7th and 8th grade,22,13,3,3,,,
+-,-,"japan. semiramis, i-city. book your boutique hotel in gili sydney. no reservation costs.",-,-,-,64.88,Standard,13th and 14th grade,21,13,2,5,,,
+-,-,locations parnassus digital photo. no booking fees. family-friendly and convention club. spa from,-,-,-,33.27,Difficult,11th and 12th grade,26,13,3,7,,,
+-,-,reservation costs. great rates. book your hotel in sol ns online. no reservation,-,-,-,66.74,Standard,6th and 7th grade,19,13,1,2,,,
+-,-,"save big! book at fieldhead hotel, markfield. no reservation costs. great rates. best",-,-,-,81.8,Easy,8th and 9th grade,18,13,2,4,,,
+-,-,"hotel 40 digital photo. no booking fees. book at cavendish manor resort, i-city.",-,-,-,67.11,Standard,7th and 8th grade,21,13,3,5,,,
+-,-,great rates. book your hotel in varenna online. no reservation costs. great rates.,-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3,,,
+-,-,"reservation costs. great rates. book at cavo tagoo, near york tn with 4",-,-,-,83.66,Easy,4th and 5th grade,17,13,1,3,,,
+-,-,costs. great rates. paris the perfect trip to bora bora. expedia best price,-,-,-,81.8,Easy,8th and 9th grade,18,13,2,4,,,
+-,-,"travel kos geo-deck. moab, killarney, photo. no no booking fees. book a motel",-,-,-,76.59,Fairly Easy,3th and 4th grade,19,13,4,5,,,
+-,-,compare coupon. book & save on convention center hotels. best rates or refund,-,-,-,65.39,Standard,7th and 8th grade,19,12,2,3,,,
+-,-,refund on hotel in power and compare compare at the boston hong kong,-,-,-,66.74,Standard,6th and 7th grade,19,13,1,2,,,
+-,-,"hotel rate alameda gothenburg. lodge, ab. book at sydney lodge hotel, i-city. no",-,-,-,73.34,Fairly Easy,6th and 7th grade,20,13,2,5,,,
+-,-,london rates. book your hotel in high stadium online. no reservation costs. great,-,-,-,73.34,Fairly Easy,6th and 7th grade,20,13,2,4,,,
+-,-,"online. no reservation costs. great rates. book at anchorage inn, manuel antonio. no",-,-,-,73.34,Fairly Easy,11th and 12th grade,20,13,2,4,,,
+-,-,great rates. ocean packages to cancn. book at mill co no reservation costs.,-,-,-,90.26,Very Easy,7th and 8th grade,17,13,2,3,,,
+-,-,near milan cadorna station. no reservation costs. great rates. i-city. best price guarantee.,-,-,-,58.65,Fairly Difficult,9th and 10th grade,22,13,3,6,,,
+-,-,"reservation costs. great rates. book at hotel whitcomb, i-city. no reservation costs. great",-,-,-,64.88,Standard,7th and 8th grade,21,13,2,3,,,
+-,-,great rates. best rates or refund + $50 coupon. book your vilnius hotel,-,-,-,90.77,Very Easy,4th and 5th grade,16,12,2,2,,,
+-,-,"book a motel in i-city, i-city, i-city. no reservation costs. great rates. more",-,-,-,56.42,Fairly Difficult,9th and 10th grade,22,13,2,4,,,
+-,-,"rates. the artist house on fleming, i-city. no reservation costs. great rates. hotel",-,-,-,73.34,Fairly Easy,7th and 8th grade,19,13,2,3,,,
+-,-,"hotel, i-city enjoy up to $750 to spend onboard! book your cruise by",-,-,-,81.8,Easy,1th and 2th grade,18,13,2,3,,,
+-,-,reservation costs. great rates. book your hotel in i-coun online. no reservation costs.,-,-,-,73.34,Fairly Easy,10th and 11th grade,19,13,2,2,,,
+-,-,hotel rift photo. no no reservation costs. great rates. book now & save,-,-,-,84.34,Easy,5th and 6th grade,17,12,3,2,,,
+-,-,"save big! book at fieldhead hotel, markfield. no reservation costs. great rates. best",-,-,-,81.8,Easy,8th and 9th grade,18,13,2,4,,,
+-,-,packages. great rates. book your hotel in bloomington in online. no reservation costs.,-,-,-,73.34,Fairly Easy,8th and 9th grade,20,13,2,4,,,
+-,-,"find exclusive deals on hotels in atlantic city boardwalk, nj and save big!",-,-,-,75.2,Fairly Easy,9th and 10th grade,18,13,1,4,,,
+-,-,"newcastle albufeira site, no reservation costs. great rates. book at royal atlas &",-,-,-,56.93,Fairly Difficult,8th and 9th grade,20,12,2,4,,,
+-,-,reservation costs. great rates. book your hotel in saint johnsbury vt online. no,-,-,-,75.2,Fairly Easy,9th and 10th grade,18,13,1,3,,,
+-,-,hotel. no reservation costs. great rates. book at luther-hotel wittenberg. no reservation costs.,-,-,-,58.65,Fairly Difficult,9th and 10th grade,22,13,3,4,,,
+-,-,"book a motel in i-city, la. no reservation costs. great rates. best rates",-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3,,,
+-,-,big! guarantee! the canadian apartment house - i-city. no reservation costs. great rates.,-,-,-,48.47,Difficult,17th and 18th grade,22,12,2,4,,,
+-,-,"view, beach, carmen business resort. on this seattle, md city. book an apartment",-,-,-,84.03,Easy,7th and 8th grade,18,13,3,3,,,
+-,-,"best rates or refund + $50 coupon. great deals on i-city, nv hotels.",-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3,,,
+-,-,save with expedia's price guarantee book a vacation home in puerto peasco. no,-,-,-,58.28,Fairly Difficult,10th and 11th grade,21,13,1,5,,,
+-,-,coupon affordable motel in myrtle beach ga de las americas. no reservation costs.,-,-,-,56.42,Fairly Difficult,6th and 7th grade,22,13,2,5,,,
+-,-,great rates. book your hotel in varenna online. no reservation costs. great rates.,-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3,,,
+-,-,"book a motel in i-city, la. no reservation costs. great rates. best rates",-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3,,,
+-,-,rates on your reservation. book your hotel in parksville bc online. no reservation,-,-,-,73.34,Fairly Easy,7th and 8th grade,19,13,2,3,,,
+-,-,"texas rarotonga, deep manor, bromley. zermatt. no reservation costs. great rates. book accommodation",-,-,-,47.96,Difficult,19th and 20th grade,23,13,2,5,,,
+-,-,islands. no reservation costs. great rates. book your hotel in vancouver wa online.,-,-,-,73.34,Fairly Easy,8th and 9th grade,20,13,2,4,,,
+-,-,best prices or refund + $50 coupon. hong jersey beach hotels. best rates or,-,-,-,92.49,Very Easy,12th and 13th grade,17,13,3,3,,,
+-,-,4-star hotel in the business and entertainment district. gangnam district. lowest price guarantee!,-,-,-,39.5,Difficult,12th and 13th grade,25,13,2,6,,,
+-,-,shuttle to gatwick luxury expedia's big on your great hotel in hakone book,-,-,-,66.74,Standard,7th and 8th grade,19,13,1,3,,,
+-,-,golden deep grace vilamoura spectacular square. london here refund coupon.save big coupon. save,-,-,-,58.65,Fairly Difficult,9th and 10th grade,22,13,3,5,,,
+-,-,costs. great rates. book your hotel in westminster ca online. no reservation costs.,-,-,-,73.34,Fairly Easy,7th and 8th grade,19,13,2,3,,,
+-,-,"save with expedia's price guarantee book a vacation falls hotel & casino, i-city.",-,-,-,33.92,Difficult,11th and 12th grade,23,12,1,5,,,
+,,,,,,,,,,,,,,Difficulty,count
+,,,,,,,,,,,,,,Very Easy,11
+,,,,,,,,,,,,,,Easy,29
+,,,,,,,,,,,,,,Fairly Easy,32
+,,,,,,,,,,,,,,Standard,18
+,,,,,,,,,,,,,,Fairly Difficult,14
+,,,,,,,,,,,,,,Difficult,9
+,,,,,,,,,,,,,,Very Confusing,0

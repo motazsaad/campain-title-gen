@@ -1,0 +1,3226 @@
+0/1612000 (epoch 0), train_loss = 4.081, time/batch = 0.330, All_Time = 0.330
+model saved to save/model.ckpt
+1000/1612000 (epoch 1), train_loss = 0.969, time/batch = 0.014, All_Time = 15.010
+model saved to save/model.ckpt
+2000/1612000 (epoch 2), train_loss = 0.796, time/batch = 0.014, All_Time = 29.715
+model saved to save/model.ckpt
+3000/1612000 (epoch 3), train_loss = 0.772, time/batch = 0.015, All_Time = 44.529
+model saved to save/model.ckpt
+4000/1612000 (epoch 4), train_loss = 0.678, time/batch = 0.015, All_Time = 59.347
+model saved to save/model.ckpt
+5000/1612000 (epoch 6), train_loss = 0.710, time/batch = 0.015, All_Time = 74.154
+model saved to save/model.ckpt
+6000/1612000 (epoch 7), train_loss = 0.776, time/batch = 0.016, All_Time = 88.978
+model saved to save/model.ckpt
+7000/1612000 (epoch 8), train_loss = 0.568, time/batch = 0.014, All_Time = 103.813
+model saved to save/model.ckpt
+8000/1612000 (epoch 9), train_loss = 0.759, time/batch = 0.014, All_Time = 118.632
+model saved to save/model.ckpt
+9000/1612000 (epoch 11), train_loss = 0.586, time/batch = 0.015, All_Time = 133.471
+model saved to save/model.ckpt
+10000/1612000 (epoch 12), train_loss = 0.603, time/batch = 0.014, All_Time = 148.264
+model saved to save/model.ckpt
+11000/1612000 (epoch 13), train_loss = 0.672, time/batch = 0.014, All_Time = 163.087
+model saved to save/model.ckpt
+12000/1612000 (epoch 14), train_loss = 0.589, time/batch = 0.015, All_Time = 177.954
+model saved to save/model.ckpt
+13000/1612000 (epoch 16), train_loss = 0.664, time/batch = 0.015, All_Time = 192.811
+model saved to save/model.ckpt
+14000/1612000 (epoch 17), train_loss = 0.577, time/batch = 0.016, All_Time = 207.614
+model saved to save/model.ckpt
+15000/1612000 (epoch 18), train_loss = 0.653, time/batch = 0.015, All_Time = 222.454
+model saved to save/model.ckpt
+16000/1612000 (epoch 19), train_loss = 0.544, time/batch = 0.014, All_Time = 237.300
+model saved to save/model.ckpt
+17000/1612000 (epoch 21), train_loss = 0.624, time/batch = 0.015, All_Time = 252.145
+model saved to save/model.ckpt
+18000/1612000 (epoch 22), train_loss = 0.557, time/batch = 0.015, All_Time = 266.968
+model saved to save/model.ckpt
+19000/1612000 (epoch 23), train_loss = 0.589, time/batch = 0.016, All_Time = 281.801
+model saved to save/model.ckpt
+20000/1612000 (epoch 24), train_loss = 0.505, time/batch = 0.016, All_Time = 296.627
+model saved to save/model.ckpt
+21000/1612000 (epoch 26), train_loss = 0.569, time/batch = 0.016, All_Time = 311.450
+model saved to save/model.ckpt
+22000/1612000 (epoch 27), train_loss = 0.599, time/batch = 0.015, All_Time = 326.304
+model saved to save/model.ckpt
+23000/1612000 (epoch 28), train_loss = 0.579, time/batch = 0.015, All_Time = 341.141
+model saved to save/model.ckpt
+24000/1612000 (epoch 29), train_loss = 0.551, time/batch = 0.015, All_Time = 355.937
+model saved to save/model.ckpt
+25000/1612000 (epoch 31), train_loss = 0.604, time/batch = 0.017, All_Time = 370.788
+model saved to save/model.ckpt
+26000/1612000 (epoch 32), train_loss = 0.550, time/batch = 0.014, All_Time = 385.571
+model saved to save/model.ckpt
+27000/1612000 (epoch 33), train_loss = 0.512, time/batch = 0.015, All_Time = 400.397
+model saved to save/model.ckpt
+28000/1612000 (epoch 34), train_loss = 0.563, time/batch = 0.014, All_Time = 415.235
+model saved to save/model.ckpt
+29000/1612000 (epoch 35), train_loss = 0.591, time/batch = 0.017, All_Time = 430.112
+model saved to save/model.ckpt
+30000/1612000 (epoch 37), train_loss = 0.630, time/batch = 0.016, All_Time = 445.008
+model saved to save/model.ckpt
+31000/1612000 (epoch 38), train_loss = 0.495, time/batch = 0.017, All_Time = 459.854
+model saved to save/model.ckpt
+32000/1612000 (epoch 39), train_loss = 0.575, time/batch = 0.014, All_Time = 474.713
+model saved to save/model.ckpt
+33000/1612000 (epoch 40), train_loss = 0.627, time/batch = 0.016, All_Time = 489.605
+model saved to save/model.ckpt
+34000/1612000 (epoch 42), train_loss = 0.537, time/batch = 0.016, All_Time = 504.484
+model saved to save/model.ckpt
+35000/1612000 (epoch 43), train_loss = 0.569, time/batch = 0.015, All_Time = 519.320
+model saved to save/model.ckpt
+36000/1612000 (epoch 44), train_loss = 0.626, time/batch = 0.014, All_Time = 534.171
+model saved to save/model.ckpt
+37000/1612000 (epoch 45), train_loss = 0.471, time/batch = 0.015, All_Time = 549.035
+model saved to save/model.ckpt
+38000/1612000 (epoch 47), train_loss = 0.552, time/batch = 0.017, All_Time = 563.883
+model saved to save/model.ckpt
+39000/1612000 (epoch 48), train_loss = 0.455, time/batch = 0.015, All_Time = 578.787
+model saved to save/model.ckpt
+40000/1612000 (epoch 49), train_loss = 0.476, time/batch = 0.015, All_Time = 593.639
+model saved to save/model.ckpt
+41000/1612000 (epoch 50), train_loss = 0.480, time/batch = 0.015, All_Time = 608.496
+model saved to save/model.ckpt
+42000/1612000 (epoch 52), train_loss = 0.546, time/batch = 0.017, All_Time = 623.349
+model saved to save/model.ckpt
+43000/1612000 (epoch 53), train_loss = 0.462, time/batch = 0.017, All_Time = 638.225
+model saved to save/model.ckpt
+44000/1612000 (epoch 54), train_loss = 0.507, time/batch = 0.015, All_Time = 653.079
+model saved to save/model.ckpt
+45000/1612000 (epoch 55), train_loss = 0.497, time/batch = 0.015, All_Time = 667.905
+model saved to save/model.ckpt
+46000/1612000 (epoch 57), train_loss = 0.479, time/batch = 0.016, All_Time = 682.826
+model saved to save/model.ckpt
+47000/1612000 (epoch 58), train_loss = 0.570, time/batch = 0.015, All_Time = 697.648
+model saved to save/model.ckpt
+48000/1612000 (epoch 59), train_loss = 0.446, time/batch = 0.015, All_Time = 712.501
+model saved to save/model.ckpt
+49000/1612000 (epoch 60), train_loss = 0.519, time/batch = 0.015, All_Time = 727.357
+model saved to save/model.ckpt
+50000/1612000 (epoch 62), train_loss = 0.466, time/batch = 0.015, All_Time = 742.201
+model saved to save/model.ckpt
+51000/1612000 (epoch 63), train_loss = 0.549, time/batch = 0.017, All_Time = 757.039
+model saved to save/model.ckpt
+52000/1612000 (epoch 64), train_loss = 0.515, time/batch = 0.014, All_Time = 771.835
+model saved to save/model.ckpt
+53000/1612000 (epoch 65), train_loss = 0.564, time/batch = 0.015, All_Time = 786.724
+model saved to save/model.ckpt
+54000/1612000 (epoch 66), train_loss = 0.591, time/batch = 0.016, All_Time = 801.558
+model saved to save/model.ckpt
+55000/1612000 (epoch 68), train_loss = 0.466, time/batch = 0.014, All_Time = 816.467
+model saved to save/model.ckpt
+56000/1612000 (epoch 69), train_loss = 0.500, time/batch = 0.014, All_Time = 831.293
+model saved to save/model.ckpt
+57000/1612000 (epoch 70), train_loss = 0.569, time/batch = 0.016, All_Time = 846.145
+model saved to save/model.ckpt
+58000/1612000 (epoch 71), train_loss = 0.419, time/batch = 0.014, All_Time = 860.980
+model saved to save/model.ckpt
+59000/1612000 (epoch 73), train_loss = 0.583, time/batch = 0.015, All_Time = 875.792
+model saved to save/model.ckpt
+60000/1612000 (epoch 74), train_loss = 0.537, time/batch = 0.015, All_Time = 890.613
+model saved to save/model.ckpt
+61000/1612000 (epoch 75), train_loss = 0.559, time/batch = 0.014, All_Time = 905.527
+model saved to save/model.ckpt
+62000/1612000 (epoch 76), train_loss = 0.440, time/batch = 0.015, All_Time = 920.415
+model saved to save/model.ckpt
+63000/1612000 (epoch 78), train_loss = 0.479, time/batch = 0.016, All_Time = 935.290
+model saved to save/model.ckpt
+64000/1612000 (epoch 79), train_loss = 0.487, time/batch = 0.014, All_Time = 950.108
+model saved to save/model.ckpt
+65000/1612000 (epoch 80), train_loss = 0.473, time/batch = 0.014, All_Time = 964.949
+model saved to save/model.ckpt
+66000/1612000 (epoch 81), train_loss = 0.503, time/batch = 0.014, All_Time = 979.841
+model saved to save/model.ckpt
+67000/1612000 (epoch 83), train_loss = 0.522, time/batch = 0.015, All_Time = 994.734
+model saved to save/model.ckpt
+68000/1612000 (epoch 84), train_loss = 0.426, time/batch = 0.014, All_Time = 1009.603
+model saved to save/model.ckpt
+69000/1612000 (epoch 85), train_loss = 0.521, time/batch = 0.015, All_Time = 1024.435
+model saved to save/model.ckpt
+70000/1612000 (epoch 86), train_loss = 0.488, time/batch = 0.015, All_Time = 1039.305
+model saved to save/model.ckpt
+71000/1612000 (epoch 88), train_loss = 0.603, time/batch = 0.017, All_Time = 1054.159
+model saved to save/model.ckpt
+72000/1612000 (epoch 89), train_loss = 0.559, time/batch = 0.014, All_Time = 1069.017
+model saved to save/model.ckpt
+73000/1612000 (epoch 90), train_loss = 0.536, time/batch = 0.014, All_Time = 1083.896
+model saved to save/model.ckpt
+74000/1612000 (epoch 91), train_loss = 0.577, time/batch = 0.015, All_Time = 1098.745
+model saved to save/model.ckpt
+75000/1612000 (epoch 93), train_loss = 0.497, time/batch = 0.014, All_Time = 1113.552
+model saved to save/model.ckpt
+76000/1612000 (epoch 94), train_loss = 0.526, time/batch = 0.015, All_Time = 1128.455
+model saved to save/model.ckpt
+77000/1612000 (epoch 95), train_loss = 0.547, time/batch = 0.015, All_Time = 1143.316
+model saved to save/model.ckpt
+78000/1612000 (epoch 96), train_loss = 0.485, time/batch = 0.016, All_Time = 1158.167
+model saved to save/model.ckpt
+79000/1612000 (epoch 98), train_loss = 0.524, time/batch = 0.014, All_Time = 1173.032
+model saved to save/model.ckpt
+80000/1612000 (epoch 99), train_loss = 0.500, time/batch = 0.015, All_Time = 1187.872
+model saved to save/model.ckpt
+81000/1612000 (epoch 100), train_loss = 0.430, time/batch = 0.015, All_Time = 1202.747
+model saved to save/model.ckpt
+82000/1612000 (epoch 101), train_loss = 0.496, time/batch = 0.015, All_Time = 1217.668
+model saved to save/model.ckpt
+83000/1612000 (epoch 102), train_loss = 0.532, time/batch = 0.015, All_Time = 1232.563
+model saved to save/model.ckpt
+84000/1612000 (epoch 104), train_loss = 0.512, time/batch = 0.015, All_Time = 1247.439
+model saved to save/model.ckpt
+85000/1612000 (epoch 105), train_loss = 0.532, time/batch = 0.015, All_Time = 1262.269
+model saved to save/model.ckpt
+86000/1612000 (epoch 106), train_loss = 0.498, time/batch = 0.014, All_Time = 1277.092
+model saved to save/model.ckpt
+87000/1612000 (epoch 107), train_loss = 0.422, time/batch = 0.015, All_Time = 1291.958
+model saved to save/model.ckpt
+88000/1612000 (epoch 109), train_loss = 0.492, time/batch = 0.016, All_Time = 1306.849
+model saved to save/model.ckpt
+89000/1612000 (epoch 110), train_loss = 0.518, time/batch = 0.014, All_Time = 1321.691
+model saved to save/model.ckpt
+90000/1612000 (epoch 111), train_loss = 0.435, time/batch = 0.014, All_Time = 1336.554
+model saved to save/model.ckpt
+91000/1612000 (epoch 112), train_loss = 0.490, time/batch = 0.015, All_Time = 1351.438
+model saved to save/model.ckpt
+92000/1612000 (epoch 114), train_loss = 0.568, time/batch = 0.015, All_Time = 1366.340
+model saved to save/model.ckpt
+93000/1612000 (epoch 115), train_loss = 0.490, time/batch = 0.015, All_Time = 1381.204
+model saved to save/model.ckpt
+94000/1612000 (epoch 116), train_loss = 0.541, time/batch = 0.015, All_Time = 1396.101
+model saved to save/model.ckpt
+95000/1612000 (epoch 117), train_loss = 0.460, time/batch = 0.015, All_Time = 1410.956
+model saved to save/model.ckpt
+96000/1612000 (epoch 119), train_loss = 0.513, time/batch = 0.015, All_Time = 1425.800
+model saved to save/model.ckpt
+97000/1612000 (epoch 120), train_loss = 0.588, time/batch = 0.015, All_Time = 1440.658
+model saved to save/model.ckpt
+98000/1612000 (epoch 121), train_loss = 0.577, time/batch = 0.014, All_Time = 1455.575
+model saved to save/model.ckpt
+99000/1612000 (epoch 122), train_loss = 0.549, time/batch = 0.017, All_Time = 1470.434
+model saved to save/model.ckpt
+100000/1612000 (epoch 124), train_loss = 0.457, time/batch = 0.015, All_Time = 1485.341
+model saved to save/model.ckpt
+101000/1612000 (epoch 125), train_loss = 0.490, time/batch = 0.014, All_Time = 1500.242
+model saved to save/model.ckpt
+102000/1612000 (epoch 126), train_loss = 0.471, time/batch = 0.015, All_Time = 1515.147
+model saved to save/model.ckpt
+103000/1612000 (epoch 127), train_loss = 0.557, time/batch = 0.015, All_Time = 1529.989
+model saved to save/model.ckpt
+104000/1612000 (epoch 129), train_loss = 0.473, time/batch = 0.015, All_Time = 1544.851
+model saved to save/model.ckpt
+105000/1612000 (epoch 130), train_loss = 0.455, time/batch = 0.014, All_Time = 1559.728
+model saved to save/model.ckpt
+106000/1612000 (epoch 131), train_loss = 0.546, time/batch = 0.015, All_Time = 1574.605
+model saved to save/model.ckpt
+107000/1612000 (epoch 132), train_loss = 0.427, time/batch = 0.015, All_Time = 1589.463
+model saved to save/model.ckpt
+108000/1612000 (epoch 133), train_loss = 0.510, time/batch = 0.014, All_Time = 1604.331
+model saved to save/model.ckpt
+109000/1612000 (epoch 135), train_loss = 0.474, time/batch = 0.015, All_Time = 1619.196
+model saved to save/model.ckpt
+110000/1612000 (epoch 136), train_loss = 0.438, time/batch = 0.015, All_Time = 1634.081
+model saved to save/model.ckpt
+111000/1612000 (epoch 137), train_loss = 0.519, time/batch = 0.014, All_Time = 1648.935
+model saved to save/model.ckpt
+112000/1612000 (epoch 138), train_loss = 0.552, time/batch = 0.014, All_Time = 1663.781
+model saved to save/model.ckpt
+113000/1612000 (epoch 140), train_loss = 0.442, time/batch = 0.014, All_Time = 1678.647
+model saved to save/model.ckpt
+114000/1612000 (epoch 141), train_loss = 0.490, time/batch = 0.015, All_Time = 1693.491
+model saved to save/model.ckpt
+115000/1612000 (epoch 142), train_loss = 0.529, time/batch = 0.014, All_Time = 1708.338
+model saved to save/model.ckpt
+116000/1612000 (epoch 143), train_loss = 0.431, time/batch = 0.014, All_Time = 1723.168
+model saved to save/model.ckpt
+117000/1612000 (epoch 145), train_loss = 0.422, time/batch = 0.016, All_Time = 1738.050
+model saved to save/model.ckpt
+118000/1612000 (epoch 146), train_loss = 0.487, time/batch = 0.015, All_Time = 1752.886
+model saved to save/model.ckpt
+119000/1612000 (epoch 147), train_loss = 0.496, time/batch = 0.015, All_Time = 1767.790
+model saved to save/model.ckpt
+120000/1612000 (epoch 148), train_loss = 0.562, time/batch = 0.014, All_Time = 1782.644
+model saved to save/model.ckpt
+121000/1612000 (epoch 150), train_loss = 0.468, time/batch = 0.015, All_Time = 1797.494
+model saved to save/model.ckpt
+122000/1612000 (epoch 151), train_loss = 0.556, time/batch = 0.015, All_Time = 1812.344
+model saved to save/model.ckpt
+123000/1612000 (epoch 152), train_loss = 0.560, time/batch = 0.015, All_Time = 1827.202
+model saved to save/model.ckpt
+124000/1612000 (epoch 153), train_loss = 0.463, time/batch = 0.015, All_Time = 1842.110
+model saved to save/model.ckpt
+125000/1612000 (epoch 155), train_loss = 0.485, time/batch = 0.014, All_Time = 1856.969
+model saved to save/model.ckpt
+126000/1612000 (epoch 156), train_loss = 0.480, time/batch = 0.017, All_Time = 1871.785
+model saved to save/model.ckpt
+127000/1612000 (epoch 157), train_loss = 0.595, time/batch = 0.015, All_Time = 1886.615
+model saved to save/model.ckpt
+128000/1612000 (epoch 158), train_loss = 0.485, time/batch = 0.014, All_Time = 1901.526
+model saved to save/model.ckpt
+129000/1612000 (epoch 160), train_loss = 0.575, time/batch = 0.015, All_Time = 1916.382
+model saved to save/model.ckpt
+130000/1612000 (epoch 161), train_loss = 0.475, time/batch = 0.015, All_Time = 1931.244
+model saved to save/model.ckpt
+131000/1612000 (epoch 162), train_loss = 0.518, time/batch = 0.015, All_Time = 1946.106
+model saved to save/model.ckpt
+132000/1612000 (epoch 163), train_loss = 0.532, time/batch = 0.014, All_Time = 1960.975
+model saved to save/model.ckpt
+133000/1612000 (epoch 165), train_loss = 0.594, time/batch = 0.017, All_Time = 1975.852
+model saved to save/model.ckpt
+134000/1612000 (epoch 166), train_loss = 0.537, time/batch = 0.015, All_Time = 1990.701
+model saved to save/model.ckpt
+135000/1612000 (epoch 167), train_loss = 0.487, time/batch = 0.015, All_Time = 2005.533
+model saved to save/model.ckpt
+136000/1612000 (epoch 168), train_loss = 0.480, time/batch = 0.014, All_Time = 2020.416
+model saved to save/model.ckpt
+137000/1612000 (epoch 169), train_loss = 0.516, time/batch = 0.014, All_Time = 2035.280
+model saved to save/model.ckpt
+138000/1612000 (epoch 171), train_loss = 0.480, time/batch = 0.014, All_Time = 2050.182
+model saved to save/model.ckpt
+139000/1612000 (epoch 172), train_loss = 0.476, time/batch = 0.015, All_Time = 2065.083
+model saved to save/model.ckpt
+140000/1612000 (epoch 173), train_loss = 0.464, time/batch = 0.015, All_Time = 2079.953
+model saved to save/model.ckpt
+141000/1612000 (epoch 174), train_loss = 0.488, time/batch = 0.016, All_Time = 2094.859
+model saved to save/model.ckpt
+142000/1612000 (epoch 176), train_loss = 0.590, time/batch = 0.014, All_Time = 2109.713
+model saved to save/model.ckpt
+143000/1612000 (epoch 177), train_loss = 0.611, time/batch = 0.015, All_Time = 2124.601
+model saved to save/model.ckpt
+144000/1612000 (epoch 178), train_loss = 0.429, time/batch = 0.014, All_Time = 2139.462
+model saved to save/model.ckpt
+145000/1612000 (epoch 179), train_loss = 0.486, time/batch = 0.014, All_Time = 2154.320
+model saved to save/model.ckpt
+146000/1612000 (epoch 181), train_loss = 0.511, time/batch = 0.014, All_Time = 2169.159
+model saved to save/model.ckpt
+147000/1612000 (epoch 182), train_loss = 0.444, time/batch = 0.015, All_Time = 2184.012
+model saved to save/model.ckpt
+148000/1612000 (epoch 183), train_loss = 0.504, time/batch = 0.015, All_Time = 2198.898
+model saved to save/model.ckpt
+149000/1612000 (epoch 184), train_loss = 0.479, time/batch = 0.014, All_Time = 2213.732
+model saved to save/model.ckpt
+150000/1612000 (epoch 186), train_loss = 0.495, time/batch = 0.014, All_Time = 2228.607
+model saved to save/model.ckpt
+151000/1612000 (epoch 187), train_loss = 0.497, time/batch = 0.015, All_Time = 2243.445
+model saved to save/model.ckpt
+152000/1612000 (epoch 188), train_loss = 0.545, time/batch = 0.016, All_Time = 2258.329
+model saved to save/model.ckpt
+153000/1612000 (epoch 189), train_loss = 0.540, time/batch = 0.015, All_Time = 2273.210
+model saved to save/model.ckpt
+154000/1612000 (epoch 191), train_loss = 0.595, time/batch = 0.017, All_Time = 2288.083
+model saved to save/model.ckpt
+155000/1612000 (epoch 192), train_loss = 0.481, time/batch = 0.014, All_Time = 2302.938
+model saved to save/model.ckpt
+156000/1612000 (epoch 193), train_loss = 0.487, time/batch = 0.017, All_Time = 2317.770
+model saved to save/model.ckpt
+157000/1612000 (epoch 194), train_loss = 0.502, time/batch = 0.014, All_Time = 2332.606
+model saved to save/model.ckpt
+158000/1612000 (epoch 196), train_loss = 0.555, time/batch = 0.016, All_Time = 2347.472
+model saved to save/model.ckpt
+159000/1612000 (epoch 197), train_loss = 0.392, time/batch = 0.015, All_Time = 2362.377
+model saved to save/model.ckpt
+160000/1612000 (epoch 198), train_loss = 0.451, time/batch = 0.014, All_Time = 2377.261
+model saved to save/model.ckpt
+161000/1612000 (epoch 199), train_loss = 0.509, time/batch = 0.015, All_Time = 2392.115
+model saved to save/model.ckpt
+162000/1612000 (epoch 200), train_loss = 0.542, time/batch = 0.014, All_Time = 2406.961
+model saved to save/model.ckpt
+163000/1612000 (epoch 202), train_loss = 0.650, time/batch = 0.015, All_Time = 2421.829
+model saved to save/model.ckpt
+164000/1612000 (epoch 203), train_loss = 0.549, time/batch = 0.015, All_Time = 2436.681
+model saved to save/model.ckpt
+165000/1612000 (epoch 204), train_loss = 0.475, time/batch = 0.014, All_Time = 2451.558
+model saved to save/model.ckpt
+166000/1612000 (epoch 205), train_loss = 0.444, time/batch = 0.015, All_Time = 2466.444
+model saved to save/model.ckpt
+167000/1612000 (epoch 207), train_loss = 0.447, time/batch = 0.016, All_Time = 2481.361
+model saved to save/model.ckpt
+168000/1612000 (epoch 208), train_loss = 0.475, time/batch = 0.014, All_Time = 2496.205
+model saved to save/model.ckpt
+169000/1612000 (epoch 209), train_loss = 0.574, time/batch = 0.014, All_Time = 2511.044
+model saved to save/model.ckpt
+170000/1612000 (epoch 210), train_loss = 0.474, time/batch = 0.014, All_Time = 2525.872
+model saved to save/model.ckpt
+171000/1612000 (epoch 212), train_loss = 0.442, time/batch = 0.015, All_Time = 2540.716
+model saved to save/model.ckpt
+172000/1612000 (epoch 213), train_loss = 0.499, time/batch = 0.016, All_Time = 2555.612
+model saved to save/model.ckpt
+173000/1612000 (epoch 214), train_loss = 0.506, time/batch = 0.015, All_Time = 2570.442
+model saved to save/model.ckpt
+174000/1612000 (epoch 215), train_loss = 0.475, time/batch = 0.017, All_Time = 2585.316
+model saved to save/model.ckpt
+175000/1612000 (epoch 217), train_loss = 0.491, time/batch = 0.015, All_Time = 2600.128
+model saved to save/model.ckpt
+176000/1612000 (epoch 218), train_loss = 0.442, time/batch = 0.016, All_Time = 2614.996
+model saved to save/model.ckpt
+177000/1612000 (epoch 219), train_loss = 0.459, time/batch = 0.015, All_Time = 2629.859
+model saved to save/model.ckpt
+178000/1612000 (epoch 220), train_loss = 0.525, time/batch = 0.016, All_Time = 2644.683
+model saved to save/model.ckpt
+179000/1612000 (epoch 222), train_loss = 0.510, time/batch = 0.015, All_Time = 2659.572
+model saved to save/model.ckpt
+180000/1612000 (epoch 223), train_loss = 0.523, time/batch = 0.014, All_Time = 2674.420
+model saved to save/model.ckpt
+181000/1612000 (epoch 224), train_loss = 0.575, time/batch = 0.015, All_Time = 2689.296
+model saved to save/model.ckpt
+182000/1612000 (epoch 225), train_loss = 0.536, time/batch = 0.015, All_Time = 2704.192
+model saved to save/model.ckpt
+183000/1612000 (epoch 227), train_loss = 0.576, time/batch = 0.014, All_Time = 2719.051
+model saved to save/model.ckpt
+184000/1612000 (epoch 228), train_loss = 0.476, time/batch = 0.014, All_Time = 2733.895
+model saved to save/model.ckpt
+185000/1612000 (epoch 229), train_loss = 0.528, time/batch = 0.015, All_Time = 2748.774
+model saved to save/model.ckpt
+186000/1612000 (epoch 230), train_loss = 0.548, time/batch = 0.015, All_Time = 2763.661
+model saved to save/model.ckpt
+187000/1612000 (epoch 232), train_loss = 0.505, time/batch = 0.016, All_Time = 2778.563
+model saved to save/model.ckpt
+188000/1612000 (epoch 233), train_loss = 0.561, time/batch = 0.015, All_Time = 2793.436
+model saved to save/model.ckpt
+189000/1612000 (epoch 234), train_loss = 0.574, time/batch = 0.015, All_Time = 2808.294
+model saved to save/model.ckpt
+190000/1612000 (epoch 235), train_loss = 0.522, time/batch = 0.015, All_Time = 2823.161
+model saved to save/model.ckpt
+191000/1612000 (epoch 236), train_loss = 0.557, time/batch = 0.017, All_Time = 2839.233
+model saved to save/model.ckpt
+192000/1612000 (epoch 238), train_loss = 0.462, time/batch = 0.014, All_Time = 2854.091
+model saved to save/model.ckpt
+193000/1612000 (epoch 239), train_loss = 0.432, time/batch = 0.015, All_Time = 2868.963
+model saved to save/model.ckpt
+194000/1612000 (epoch 240), train_loss = 0.539, time/batch = 0.017, All_Time = 2883.827
+model saved to save/model.ckpt
+195000/1612000 (epoch 241), train_loss = 0.467, time/batch = 0.014, All_Time = 2898.695
+model saved to save/model.ckpt
+196000/1612000 (epoch 243), train_loss = 0.516, time/batch = 0.015, All_Time = 2913.566
+model saved to save/model.ckpt
+197000/1612000 (epoch 244), train_loss = 0.455, time/batch = 0.014, All_Time = 2928.413
+model saved to save/model.ckpt
+198000/1612000 (epoch 245), train_loss = 0.567, time/batch = 0.014, All_Time = 2943.293
+model saved to save/model.ckpt
+199000/1612000 (epoch 246), train_loss = 0.465, time/batch = 0.015, All_Time = 2958.172
+model saved to save/model.ckpt
+200000/1612000 (epoch 248), train_loss = 0.465, time/batch = 0.014, All_Time = 2973.029
+model saved to save/model.ckpt
+201000/1612000 (epoch 249), train_loss = 0.443, time/batch = 0.015, All_Time = 2987.901
+model saved to save/model.ckpt
+202000/1612000 (epoch 250), train_loss = 0.489, time/batch = 0.017, All_Time = 3002.741
+model saved to save/model.ckpt
+203000/1612000 (epoch 251), train_loss = 0.487, time/batch = 0.015, All_Time = 3017.612
+model saved to save/model.ckpt
+204000/1612000 (epoch 253), train_loss = 0.529, time/batch = 0.015, All_Time = 3032.487
+model saved to save/model.ckpt
+205000/1612000 (epoch 254), train_loss = 0.454, time/batch = 0.014, All_Time = 3047.346
+model saved to save/model.ckpt
+206000/1612000 (epoch 255), train_loss = 0.480, time/batch = 0.015, All_Time = 3062.179
+model saved to save/model.ckpt
+207000/1612000 (epoch 256), train_loss = 0.517, time/batch = 0.015, All_Time = 3077.010
+model saved to save/model.ckpt
+208000/1612000 (epoch 258), train_loss = 0.398, time/batch = 0.015, All_Time = 3091.879
+model saved to save/model.ckpt
+209000/1612000 (epoch 259), train_loss = 0.442, time/batch = 0.014, All_Time = 3106.750
+model saved to save/model.ckpt
+210000/1612000 (epoch 260), train_loss = 0.539, time/batch = 0.017, All_Time = 3121.638
+model saved to save/model.ckpt
+211000/1612000 (epoch 261), train_loss = 0.495, time/batch = 0.015, All_Time = 3136.525
+model saved to save/model.ckpt
+212000/1612000 (epoch 263), train_loss = 0.473, time/batch = 0.015, All_Time = 3151.378
+model saved to save/model.ckpt
+213000/1612000 (epoch 264), train_loss = 0.484, time/batch = 0.014, All_Time = 3166.276
+model saved to save/model.ckpt
+214000/1612000 (epoch 265), train_loss = 0.517, time/batch = 0.016, All_Time = 3181.157
+model saved to save/model.ckpt
+215000/1612000 (epoch 266), train_loss = 0.398, time/batch = 0.015, All_Time = 3195.977
+model saved to save/model.ckpt
+216000/1612000 (epoch 267), train_loss = 0.421, time/batch = 0.015, All_Time = 3210.806
+model saved to save/model.ckpt
+217000/1612000 (epoch 269), train_loss = 0.481, time/batch = 0.016, All_Time = 3225.719
+model saved to save/model.ckpt
+218000/1612000 (epoch 270), train_loss = 0.476, time/batch = 0.015, All_Time = 3240.608
+model saved to save/model.ckpt
+219000/1612000 (epoch 271), train_loss = 0.449, time/batch = 0.015, All_Time = 3255.473
+model saved to save/model.ckpt
+220000/1612000 (epoch 272), train_loss = 0.508, time/batch = 0.014, All_Time = 3270.369
+model saved to save/model.ckpt
+221000/1612000 (epoch 274), train_loss = 0.626, time/batch = 0.017, All_Time = 3285.243
+model saved to save/model.ckpt
+222000/1612000 (epoch 275), train_loss = 0.462, time/batch = 0.015, All_Time = 3300.147
+model saved to save/model.ckpt
+223000/1612000 (epoch 276), train_loss = 0.484, time/batch = 0.015, All_Time = 3315.024
+model saved to save/model.ckpt
+224000/1612000 (epoch 277), train_loss = 0.459, time/batch = 0.015, All_Time = 3329.921
+model saved to save/model.ckpt
+225000/1612000 (epoch 279), train_loss = 0.480, time/batch = 0.015, All_Time = 3344.833
+model saved to save/model.ckpt
+226000/1612000 (epoch 280), train_loss = 0.582, time/batch = 0.014, All_Time = 3359.733
+model saved to save/model.ckpt
+227000/1612000 (epoch 281), train_loss = 0.565, time/batch = 0.015, All_Time = 3374.647
+model saved to save/model.ckpt
+228000/1612000 (epoch 282), train_loss = 0.547, time/batch = 0.015, All_Time = 3389.560
+model saved to save/model.ckpt
+229000/1612000 (epoch 284), train_loss = 0.454, time/batch = 0.015, All_Time = 3404.437
+model saved to save/model.ckpt
+230000/1612000 (epoch 285), train_loss = 0.542, time/batch = 0.015, All_Time = 3419.309
+model saved to save/model.ckpt
+231000/1612000 (epoch 286), train_loss = 0.482, time/batch = 0.015, All_Time = 3434.188
+model saved to save/model.ckpt
+232000/1612000 (epoch 287), train_loss = 0.524, time/batch = 0.015, All_Time = 3449.027
+model saved to save/model.ckpt
+233000/1612000 (epoch 289), train_loss = 0.511, time/batch = 0.015, All_Time = 3463.882
+model saved to save/model.ckpt
+234000/1612000 (epoch 290), train_loss = 0.519, time/batch = 0.015, All_Time = 3478.720
+model saved to save/model.ckpt
+235000/1612000 (epoch 291), train_loss = 0.443, time/batch = 0.015, All_Time = 3493.599
+model saved to save/model.ckpt
+236000/1612000 (epoch 292), train_loss = 0.502, time/batch = 0.014, All_Time = 3508.428
+model saved to save/model.ckpt
+237000/1612000 (epoch 294), train_loss = 0.542, time/batch = 0.015, All_Time = 3523.311
+model saved to save/model.ckpt
+238000/1612000 (epoch 295), train_loss = 0.575, time/batch = 0.015, All_Time = 3538.147
+model saved to save/model.ckpt
+239000/1612000 (epoch 296), train_loss = 0.457, time/batch = 0.015, All_Time = 3553.024
+model saved to save/model.ckpt
+240000/1612000 (epoch 297), train_loss = 0.489, time/batch = 0.015, All_Time = 3567.894
+model saved to save/model.ckpt
+241000/1612000 (epoch 299), train_loss = 0.501, time/batch = 0.016, All_Time = 3582.808
+model saved to save/model.ckpt
+242000/1612000 (epoch 300), train_loss = 0.467, time/batch = 0.015, All_Time = 3597.684
+model saved to save/model.ckpt
+243000/1612000 (epoch 301), train_loss = 0.531, time/batch = 0.015, All_Time = 3612.582
+model saved to save/model.ckpt
+244000/1612000 (epoch 302), train_loss = 0.522, time/batch = 0.017, All_Time = 3627.470
+model saved to save/model.ckpt
+245000/1612000 (epoch 303), train_loss = 0.479, time/batch = 0.015, All_Time = 3642.340
+model saved to save/model.ckpt
+246000/1612000 (epoch 305), train_loss = 0.478, time/batch = 0.016, All_Time = 3657.229
+model saved to save/model.ckpt
+247000/1612000 (epoch 306), train_loss = 0.526, time/batch = 0.014, All_Time = 3672.122
+model saved to save/model.ckpt
+248000/1612000 (epoch 307), train_loss = 0.532, time/batch = 0.014, All_Time = 3687.003
+model saved to save/model.ckpt
+249000/1612000 (epoch 308), train_loss = 0.447, time/batch = 0.017, All_Time = 3701.857
+model saved to save/model.ckpt
+250000/1612000 (epoch 310), train_loss = 0.577, time/batch = 0.014, All_Time = 3716.777
+model saved to save/model.ckpt
+251000/1612000 (epoch 311), train_loss = 0.481, time/batch = 0.015, All_Time = 3731.606
+model saved to save/model.ckpt
+252000/1612000 (epoch 312), train_loss = 0.585, time/batch = 0.014, All_Time = 3746.423
+model saved to save/model.ckpt
+253000/1612000 (epoch 313), train_loss = 0.515, time/batch = 0.014, All_Time = 3761.303
+model saved to save/model.ckpt
+254000/1612000 (epoch 315), train_loss = 0.498, time/batch = 0.014, All_Time = 3776.170
+model saved to save/model.ckpt
+255000/1612000 (epoch 316), train_loss = 0.588, time/batch = 0.015, All_Time = 3791.089
+model saved to save/model.ckpt
+256000/1612000 (epoch 317), train_loss = 0.523, time/batch = 0.014, All_Time = 3805.954
+model saved to save/model.ckpt
+257000/1612000 (epoch 318), train_loss = 0.412, time/batch = 0.016, All_Time = 3820.856
+model saved to save/model.ckpt
+258000/1612000 (epoch 320), train_loss = 0.437, time/batch = 0.015, All_Time = 3835.726
+model saved to save/model.ckpt
+259000/1612000 (epoch 321), train_loss = 0.466, time/batch = 0.014, All_Time = 3850.602
+model saved to save/model.ckpt
+260000/1612000 (epoch 322), train_loss = 0.574, time/batch = 0.015, All_Time = 3865.487
+model saved to save/model.ckpt
+261000/1612000 (epoch 323), train_loss = 0.518, time/batch = 0.017, All_Time = 3880.357
+model saved to save/model.ckpt
+262000/1612000 (epoch 325), train_loss = 0.541, time/batch = 0.017, All_Time = 3895.214
+model saved to save/model.ckpt
+263000/1612000 (epoch 326), train_loss = 0.495, time/batch = 0.015, All_Time = 3910.121
+model saved to save/model.ckpt
+264000/1612000 (epoch 327), train_loss = 0.515, time/batch = 0.016, All_Time = 3924.997
+model saved to save/model.ckpt
+265000/1612000 (epoch 328), train_loss = 0.528, time/batch = 0.014, All_Time = 3939.841
+model saved to save/model.ckpt
+266000/1612000 (epoch 330), train_loss = 0.527, time/batch = 0.014, All_Time = 3954.655
+model saved to save/model.ckpt
+267000/1612000 (epoch 331), train_loss = 0.527, time/batch = 0.015, All_Time = 3969.467
+model saved to save/model.ckpt
+268000/1612000 (epoch 332), train_loss = 0.439, time/batch = 0.015, All_Time = 3984.323
+model saved to save/model.ckpt
+269000/1612000 (epoch 333), train_loss = 0.532, time/batch = 0.015, All_Time = 3999.166
+model saved to save/model.ckpt
+270000/1612000 (epoch 334), train_loss = 0.472, time/batch = 0.016, All_Time = 4014.016
+model saved to save/model.ckpt
+271000/1612000 (epoch 336), train_loss = 0.489, time/batch = 0.015, All_Time = 4028.940
+model saved to save/model.ckpt
+272000/1612000 (epoch 337), train_loss = 0.613, time/batch = 0.015, All_Time = 4043.773
+model saved to save/model.ckpt
+273000/1612000 (epoch 338), train_loss = 0.450, time/batch = 0.014, All_Time = 4058.688
+model saved to save/model.ckpt
+274000/1612000 (epoch 339), train_loss = 0.513, time/batch = 0.015, All_Time = 4073.566
+model saved to save/model.ckpt
+275000/1612000 (epoch 341), train_loss = 0.556, time/batch = 0.015, All_Time = 4088.432
+model saved to save/model.ckpt
+276000/1612000 (epoch 342), train_loss = 0.480, time/batch = 0.015, All_Time = 4103.282
+model saved to save/model.ckpt
+277000/1612000 (epoch 343), train_loss = 0.609, time/batch = 0.015, All_Time = 4118.114
+model saved to save/model.ckpt
+278000/1612000 (epoch 344), train_loss = 0.566, time/batch = 0.017, All_Time = 4133.003
+model saved to save/model.ckpt
+279000/1612000 (epoch 346), train_loss = 0.466, time/batch = 0.014, All_Time = 4147.816
+model saved to save/model.ckpt
+280000/1612000 (epoch 347), train_loss = 0.553, time/batch = 0.016, All_Time = 4162.772
+model saved to save/model.ckpt
+281000/1612000 (epoch 348), train_loss = 0.493, time/batch = 0.015, All_Time = 4177.616
+model saved to save/model.ckpt
+282000/1612000 (epoch 349), train_loss = 0.559, time/batch = 0.015, All_Time = 4192.456
+model saved to save/model.ckpt
+283000/1612000 (epoch 351), train_loss = 0.420, time/batch = 0.014, All_Time = 4207.302
+model saved to save/model.ckpt
+284000/1612000 (epoch 352), train_loss = 0.470, time/batch = 0.015, All_Time = 4222.173
+model saved to save/model.ckpt
+285000/1612000 (epoch 353), train_loss = 0.553, time/batch = 0.014, All_Time = 4237.013
+model saved to save/model.ckpt
+286000/1612000 (epoch 354), train_loss = 0.540, time/batch = 0.014, All_Time = 4251.867
+model saved to save/model.ckpt
+287000/1612000 (epoch 356), train_loss = 0.463, time/batch = 0.014, All_Time = 4266.737
+model saved to save/model.ckpt
+288000/1612000 (epoch 357), train_loss = 0.415, time/batch = 0.015, All_Time = 4281.576
+model saved to save/model.ckpt
+289000/1612000 (epoch 358), train_loss = 0.492, time/batch = 0.014, All_Time = 4296.449
+model saved to save/model.ckpt
+290000/1612000 (epoch 359), train_loss = 0.468, time/batch = 0.015, All_Time = 4311.305
+model saved to save/model.ckpt
+291000/1612000 (epoch 361), train_loss = 0.527, time/batch = 0.014, All_Time = 4326.171
+model saved to save/model.ckpt
+292000/1612000 (epoch 362), train_loss = 0.554, time/batch = 0.015, All_Time = 4341.021
+model saved to save/model.ckpt
+293000/1612000 (epoch 363), train_loss = 0.514, time/batch = 0.015, All_Time = 4355.840
+model saved to save/model.ckpt
+294000/1612000 (epoch 364), train_loss = 0.554, time/batch = 0.015, All_Time = 4370.735
+model saved to save/model.ckpt
+295000/1612000 (epoch 366), train_loss = 0.563, time/batch = 0.014, All_Time = 4385.628
+model saved to save/model.ckpt
+296000/1612000 (epoch 367), train_loss = 0.532, time/batch = 0.015, All_Time = 4400.460
+model saved to save/model.ckpt
+297000/1612000 (epoch 368), train_loss = 0.442, time/batch = 0.015, All_Time = 4415.317
+model saved to save/model.ckpt
+298000/1612000 (epoch 369), train_loss = 0.516, time/batch = 0.016, All_Time = 4430.255
+model saved to save/model.ckpt
+299000/1612000 (epoch 370), train_loss = 0.581, time/batch = 0.015, All_Time = 4445.121
+model saved to save/model.ckpt
+300000/1612000 (epoch 372), train_loss = 0.478, time/batch = 0.015, All_Time = 4459.986
+model saved to save/model.ckpt
+301000/1612000 (epoch 373), train_loss = 0.446, time/batch = 0.016, All_Time = 4474.843
+model saved to save/model.ckpt
+302000/1612000 (epoch 374), train_loss = 0.556, time/batch = 0.015, All_Time = 4489.700
+model saved to save/model.ckpt
+303000/1612000 (epoch 375), train_loss = 0.539, time/batch = 0.015, All_Time = 4504.566
+model saved to save/model.ckpt
+304000/1612000 (epoch 377), train_loss = 0.510, time/batch = 0.014, All_Time = 4519.464
+model saved to save/model.ckpt
+305000/1612000 (epoch 378), train_loss = 0.550, time/batch = 0.014, All_Time = 4534.346
+model saved to save/model.ckpt
+306000/1612000 (epoch 379), train_loss = 0.603, time/batch = 0.015, All_Time = 4549.200
+model saved to save/model.ckpt
+307000/1612000 (epoch 380), train_loss = 0.467, time/batch = 0.016, All_Time = 4564.085
+model saved to save/model.ckpt
+308000/1612000 (epoch 382), train_loss = 0.447, time/batch = 0.015, All_Time = 4578.947
+model saved to save/model.ckpt
+309000/1612000 (epoch 383), train_loss = 0.531, time/batch = 0.015, All_Time = 4593.802
+model saved to save/model.ckpt
+310000/1612000 (epoch 384), train_loss = 0.511, time/batch = 0.015, All_Time = 4608.615
+model saved to save/model.ckpt
+311000/1612000 (epoch 385), train_loss = 0.458, time/batch = 0.015, All_Time = 4623.475
+model saved to save/model.ckpt
+312000/1612000 (epoch 387), train_loss = 0.528, time/batch = 0.014, All_Time = 4638.346
+model saved to save/model.ckpt
+313000/1612000 (epoch 388), train_loss = 0.486, time/batch = 0.014, All_Time = 4653.193
+model saved to save/model.ckpt
+314000/1612000 (epoch 389), train_loss = 0.501, time/batch = 0.014, All_Time = 4668.098
+model saved to save/model.ckpt
+315000/1612000 (epoch 390), train_loss = 0.472, time/batch = 0.015, All_Time = 4682.979
+model saved to save/model.ckpt
+316000/1612000 (epoch 392), train_loss = 0.471, time/batch = 0.016, All_Time = 4697.848
+model saved to save/model.ckpt
+317000/1612000 (epoch 393), train_loss = 0.453, time/batch = 0.015, All_Time = 4712.752
+model saved to save/model.ckpt
+318000/1612000 (epoch 394), train_loss = 0.420, time/batch = 0.014, All_Time = 4727.629
+model saved to save/model.ckpt
+319000/1612000 (epoch 395), train_loss = 0.511, time/batch = 0.014, All_Time = 4742.503
+model saved to save/model.ckpt
+320000/1612000 (epoch 397), train_loss = 0.529, time/batch = 0.015, All_Time = 4757.384
+model saved to save/model.ckpt
+321000/1612000 (epoch 398), train_loss = 0.442, time/batch = 0.014, All_Time = 4772.261
+model saved to save/model.ckpt
+322000/1612000 (epoch 399), train_loss = 0.544, time/batch = 0.015, All_Time = 4787.146
+model saved to save/model.ckpt
+323000/1612000 (epoch 400), train_loss = 0.498, time/batch = 0.015, All_Time = 4802.022
+model saved to save/model.ckpt
+324000/1612000 (epoch 401), train_loss = 0.563, time/batch = 0.016, All_Time = 4816.902
+model saved to save/model.ckpt
+325000/1612000 (epoch 403), train_loss = 0.599, time/batch = 0.015, All_Time = 4831.720
+model saved to save/model.ckpt
+326000/1612000 (epoch 404), train_loss = 0.458, time/batch = 0.015, All_Time = 4846.555
+model saved to save/model.ckpt
+327000/1612000 (epoch 405), train_loss = 0.460, time/batch = 0.015, All_Time = 4861.434
+model saved to save/model.ckpt
+328000/1612000 (epoch 406), train_loss = 0.500, time/batch = 0.016, All_Time = 4876.290
+model saved to save/model.ckpt
+329000/1612000 (epoch 408), train_loss = 0.466, time/batch = 0.015, All_Time = 4891.201
+model saved to save/model.ckpt
+330000/1612000 (epoch 409), train_loss = 0.461, time/batch = 0.014, All_Time = 4906.084
+model saved to save/model.ckpt
+331000/1612000 (epoch 410), train_loss = 0.556, time/batch = 0.014, All_Time = 4920.883
+model saved to save/model.ckpt
+332000/1612000 (epoch 411), train_loss = 0.562, time/batch = 0.015, All_Time = 4935.754
+model saved to save/model.ckpt
+333000/1612000 (epoch 413), train_loss = 0.597, time/batch = 0.014, All_Time = 4950.592
+model saved to save/model.ckpt
+334000/1612000 (epoch 414), train_loss = 0.527, time/batch = 0.015, All_Time = 4965.408
+model saved to save/model.ckpt
+335000/1612000 (epoch 415), train_loss = 0.455, time/batch = 0.015, All_Time = 4980.282
+model saved to save/model.ckpt
+336000/1612000 (epoch 416), train_loss = 0.509, time/batch = 0.015, All_Time = 4995.140
+model saved to save/model.ckpt
+337000/1612000 (epoch 418), train_loss = 0.578, time/batch = 0.015, All_Time = 5010.027
+model saved to save/model.ckpt
+338000/1612000 (epoch 419), train_loss = 0.540, time/batch = 0.014, All_Time = 5024.926
+model saved to save/model.ckpt
+339000/1612000 (epoch 420), train_loss = 0.515, time/batch = 0.014, All_Time = 5039.796
+model saved to save/model.ckpt
+340000/1612000 (epoch 421), train_loss = 0.488, time/batch = 0.016, All_Time = 5054.620
+model saved to save/model.ckpt
+341000/1612000 (epoch 423), train_loss = 0.475, time/batch = 0.014, All_Time = 5069.473
+model saved to save/model.ckpt
+342000/1612000 (epoch 424), train_loss = 0.593, time/batch = 0.016, All_Time = 5084.317
+model saved to save/model.ckpt
+343000/1612000 (epoch 425), train_loss = 0.535, time/batch = 0.014, All_Time = 5099.194
+model saved to save/model.ckpt
+344000/1612000 (epoch 426), train_loss = 0.481, time/batch = 0.014, All_Time = 5114.036
+model saved to save/model.ckpt
+345000/1612000 (epoch 428), train_loss = 0.571, time/batch = 0.014, All_Time = 5128.913
+model saved to save/model.ckpt
+346000/1612000 (epoch 429), train_loss = 0.555, time/batch = 0.015, All_Time = 5143.783
+model saved to save/model.ckpt
+347000/1612000 (epoch 430), train_loss = 0.514, time/batch = 0.014, All_Time = 5158.646
+model saved to save/model.ckpt
+348000/1612000 (epoch 431), train_loss = 0.432, time/batch = 0.015, All_Time = 5173.521
+model saved to save/model.ckpt
+349000/1612000 (epoch 433), train_loss = 0.464, time/batch = 0.017, All_Time = 5188.401
+model saved to save/model.ckpt
+350000/1612000 (epoch 434), train_loss = 0.455, time/batch = 0.014, All_Time = 5203.200
+model saved to save/model.ckpt
+351000/1612000 (epoch 435), train_loss = 0.454, time/batch = 0.015, All_Time = 5218.074
+model saved to save/model.ckpt
+352000/1612000 (epoch 436), train_loss = 0.453, time/batch = 0.015, All_Time = 5232.958
+model saved to save/model.ckpt
+353000/1612000 (epoch 437), train_loss = 0.595, time/batch = 0.015, All_Time = 5247.847
+model saved to save/model.ckpt
+354000/1612000 (epoch 439), train_loss = 0.468, time/batch = 0.015, All_Time = 5262.691
+model saved to save/model.ckpt
+355000/1612000 (epoch 440), train_loss = 0.529, time/batch = 0.015, All_Time = 5277.563
+model saved to save/model.ckpt
+356000/1612000 (epoch 441), train_loss = 0.571, time/batch = 0.015, All_Time = 5292.390
+model saved to save/model.ckpt
+357000/1612000 (epoch 442), train_loss = 0.540, time/batch = 0.015, All_Time = 5307.218
+model saved to save/model.ckpt
+358000/1612000 (epoch 444), train_loss = 0.464, time/batch = 0.016, All_Time = 5322.108
+model saved to save/model.ckpt
+359000/1612000 (epoch 445), train_loss = 0.537, time/batch = 0.015, All_Time = 5336.975
+model saved to save/model.ckpt
+360000/1612000 (epoch 446), train_loss = 0.557, time/batch = 0.016, All_Time = 5351.859
+model saved to save/model.ckpt
+361000/1612000 (epoch 447), train_loss = 0.494, time/batch = 0.015, All_Time = 5366.715
+model saved to save/model.ckpt
+362000/1612000 (epoch 449), train_loss = 0.598, time/batch = 0.015, All_Time = 5381.642
+model saved to save/model.ckpt
+363000/1612000 (epoch 450), train_loss = 0.536, time/batch = 0.015, All_Time = 5396.496
+model saved to save/model.ckpt
+364000/1612000 (epoch 451), train_loss = 0.538, time/batch = 0.015, All_Time = 5411.367
+model saved to save/model.ckpt
+365000/1612000 (epoch 452), train_loss = 0.492, time/batch = 0.015, All_Time = 5426.288
+model saved to save/model.ckpt
+366000/1612000 (epoch 454), train_loss = 0.455, time/batch = 0.015, All_Time = 5441.179
+model saved to save/model.ckpt
+367000/1612000 (epoch 455), train_loss = 0.500, time/batch = 0.015, All_Time = 5456.047
+model saved to save/model.ckpt
+368000/1612000 (epoch 456), train_loss = 0.561, time/batch = 0.014, All_Time = 5470.938
+model saved to save/model.ckpt
+369000/1612000 (epoch 457), train_loss = 0.595, time/batch = 0.014, All_Time = 5485.795
+model saved to save/model.ckpt
+370000/1612000 (epoch 459), train_loss = 0.516, time/batch = 0.015, All_Time = 5500.676
+model saved to save/model.ckpt
+371000/1612000 (epoch 460), train_loss = 0.577, time/batch = 0.014, All_Time = 5515.530
+model saved to save/model.ckpt
+372000/1612000 (epoch 461), train_loss = 0.523, time/batch = 0.015, All_Time = 5530.451
+model saved to save/model.ckpt
+373000/1612000 (epoch 462), train_loss = 0.498, time/batch = 0.015, All_Time = 5545.323
+model saved to save/model.ckpt
+374000/1612000 (epoch 464), train_loss = 0.506, time/batch = 0.015, All_Time = 5560.193
+model saved to save/model.ckpt
+375000/1612000 (epoch 465), train_loss = 0.518, time/batch = 0.017, All_Time = 5575.057
+model saved to save/model.ckpt
+376000/1612000 (epoch 466), train_loss = 0.448, time/batch = 0.014, All_Time = 5589.932
+model saved to save/model.ckpt
+377000/1612000 (epoch 467), train_loss = 0.517, time/batch = 0.015, All_Time = 5604.819
+model saved to save/model.ckpt
+378000/1612000 (epoch 468), train_loss = 0.397, time/batch = 0.014, All_Time = 5619.707
+model saved to save/model.ckpt
+379000/1612000 (epoch 470), train_loss = 0.404, time/batch = 0.014, All_Time = 5634.581
+model saved to save/model.ckpt
+380000/1612000 (epoch 471), train_loss = 0.525, time/batch = 0.015, All_Time = 5649.441
+model saved to save/model.ckpt
+381000/1612000 (epoch 472), train_loss = 0.510, time/batch = 0.016, All_Time = 5664.298
+model saved to save/model.ckpt
+382000/1612000 (epoch 473), train_loss = 0.569, time/batch = 0.014, All_Time = 5679.155
+model saved to save/model.ckpt
+383000/1612000 (epoch 475), train_loss = 0.546, time/batch = 0.014, All_Time = 5693.996
+model saved to save/model.ckpt
+384000/1612000 (epoch 476), train_loss = 0.482, time/batch = 0.015, All_Time = 5708.857
+model saved to save/model.ckpt
+385000/1612000 (epoch 477), train_loss = 0.414, time/batch = 0.016, All_Time = 5723.679
+model saved to save/model.ckpt
+386000/1612000 (epoch 478), train_loss = 0.532, time/batch = 0.015, All_Time = 5738.537
+model saved to save/model.ckpt
+387000/1612000 (epoch 480), train_loss = 0.397, time/batch = 0.014, All_Time = 5753.402
+model saved to save/model.ckpt
+388000/1612000 (epoch 481), train_loss = 0.524, time/batch = 0.014, All_Time = 5768.292
+model saved to save/model.ckpt
+389000/1612000 (epoch 482), train_loss = 0.501, time/batch = 0.014, All_Time = 5783.122
+model saved to save/model.ckpt
+390000/1612000 (epoch 483), train_loss = 0.536, time/batch = 0.014, All_Time = 5797.982
+model saved to save/model.ckpt
+391000/1612000 (epoch 485), train_loss = 0.451, time/batch = 0.016, All_Time = 5812.855
+model saved to save/model.ckpt
+392000/1612000 (epoch 486), train_loss = 0.472, time/batch = 0.014, All_Time = 5827.705
+model saved to save/model.ckpt
+393000/1612000 (epoch 487), train_loss = 0.582, time/batch = 0.014, All_Time = 5842.573
+model saved to save/model.ckpt
+394000/1612000 (epoch 488), train_loss = 0.499, time/batch = 0.015, All_Time = 5857.440
+model saved to save/model.ckpt
+395000/1612000 (epoch 490), train_loss = 0.461, time/batch = 0.014, All_Time = 5872.314
+model saved to save/model.ckpt
+396000/1612000 (epoch 491), train_loss = 0.574, time/batch = 0.015, All_Time = 5887.167
+model saved to save/model.ckpt
+397000/1612000 (epoch 492), train_loss = 0.472, time/batch = 0.015, All_Time = 5902.055
+model saved to save/model.ckpt
+398000/1612000 (epoch 493), train_loss = 0.489, time/batch = 0.015, All_Time = 5916.900
+model saved to save/model.ckpt
+399000/1612000 (epoch 495), train_loss = 0.645, time/batch = 0.015, All_Time = 5931.795
+model saved to save/model.ckpt
+400000/1612000 (epoch 496), train_loss = 0.439, time/batch = 0.016, All_Time = 5946.692
+model saved to save/model.ckpt
+401000/1612000 (epoch 497), train_loss = 0.562, time/batch = 0.017, All_Time = 5961.579
+model saved to save/model.ckpt
+402000/1612000 (epoch 498), train_loss = 0.474, time/batch = 0.015, All_Time = 5976.473
+model saved to save/model.ckpt
+403000/1612000 (epoch 500), train_loss = 0.337, time/batch = 0.015, All_Time = 5991.363
+model saved to save/model.ckpt
+404000/1612000 (epoch 501), train_loss = 0.577, time/batch = 0.015, All_Time = 6006.211
+model saved to save/model.ckpt
+405000/1612000 (epoch 502), train_loss = 0.524, time/batch = 0.015, All_Time = 6021.056
+model saved to save/model.ckpt
+406000/1612000 (epoch 503), train_loss = 0.529, time/batch = 0.015, All_Time = 6035.896
+model saved to save/model.ckpt
+407000/1612000 (epoch 504), train_loss = 0.474, time/batch = 0.015, All_Time = 6050.787
+model saved to save/model.ckpt
+408000/1612000 (epoch 506), train_loss = 0.524, time/batch = 0.015, All_Time = 6065.715
+model saved to save/model.ckpt
+409000/1612000 (epoch 507), train_loss = 0.571, time/batch = 0.015, All_Time = 6080.569
+model saved to save/model.ckpt
+410000/1612000 (epoch 508), train_loss = 0.419, time/batch = 0.015, All_Time = 6095.417
+model saved to save/model.ckpt
+411000/1612000 (epoch 509), train_loss = 0.626, time/batch = 0.014, All_Time = 6110.282
+model saved to save/model.ckpt
+412000/1612000 (epoch 511), train_loss = 0.478, time/batch = 0.014, All_Time = 6125.176
+model saved to save/model.ckpt
+413000/1612000 (epoch 512), train_loss = 0.510, time/batch = 0.015, All_Time = 6140.014
+model saved to save/model.ckpt
+414000/1612000 (epoch 513), train_loss = 0.542, time/batch = 0.016, All_Time = 6154.886
+model saved to save/model.ckpt
+415000/1612000 (epoch 514), train_loss = 0.503, time/batch = 0.016, All_Time = 6169.766
+model saved to save/model.ckpt
+416000/1612000 (epoch 516), train_loss = 0.577, time/batch = 0.015, All_Time = 6184.649
+model saved to save/model.ckpt
+417000/1612000 (epoch 517), train_loss = 0.491, time/batch = 0.014, All_Time = 6199.463
+model saved to save/model.ckpt
+418000/1612000 (epoch 518), train_loss = 0.570, time/batch = 0.015, All_Time = 6214.327
+model saved to save/model.ckpt
+419000/1612000 (epoch 519), train_loss = 0.469, time/batch = 0.015, All_Time = 6229.150
+model saved to save/model.ckpt
+420000/1612000 (epoch 521), train_loss = 0.539, time/batch = 0.015, All_Time = 6244.010
+model saved to save/model.ckpt
+421000/1612000 (epoch 522), train_loss = 0.477, time/batch = 0.014, All_Time = 6258.855
+model saved to save/model.ckpt
+422000/1612000 (epoch 523), train_loss = 0.528, time/batch = 0.015, All_Time = 6273.753
+model saved to save/model.ckpt
+423000/1612000 (epoch 524), train_loss = 0.451, time/batch = 0.015, All_Time = 6288.631
+model saved to save/model.ckpt
+424000/1612000 (epoch 526), train_loss = 0.492, time/batch = 0.016, All_Time = 6303.539
+model saved to save/model.ckpt
+425000/1612000 (epoch 527), train_loss = 0.538, time/batch = 0.015, All_Time = 6318.442
+model saved to save/model.ckpt
+426000/1612000 (epoch 528), train_loss = 0.524, time/batch = 0.015, All_Time = 6333.324
+model saved to save/model.ckpt
+427000/1612000 (epoch 529), train_loss = 0.496, time/batch = 0.014, All_Time = 6348.200
+model saved to save/model.ckpt
+428000/1612000 (epoch 531), train_loss = 0.559, time/batch = 0.015, All_Time = 6363.055
+model saved to save/model.ckpt
+429000/1612000 (epoch 532), train_loss = 0.499, time/batch = 0.016, All_Time = 6377.927
+model saved to save/model.ckpt
+430000/1612000 (epoch 533), train_loss = 0.464, time/batch = 0.014, All_Time = 6392.805
+model saved to save/model.ckpt
+431000/1612000 (epoch 534), train_loss = 0.522, time/batch = 0.014, All_Time = 6407.709
+model saved to save/model.ckpt
+432000/1612000 (epoch 535), train_loss = 0.548, time/batch = 0.014, All_Time = 6422.591
+model saved to save/model.ckpt
+433000/1612000 (epoch 537), train_loss = 0.587, time/batch = 0.015, All_Time = 6437.494
+model saved to save/model.ckpt
+434000/1612000 (epoch 538), train_loss = 0.457, time/batch = 0.015, All_Time = 6452.376
+model saved to save/model.ckpt
+435000/1612000 (epoch 539), train_loss = 0.537, time/batch = 0.015, All_Time = 6467.247
+model saved to save/model.ckpt
+436000/1612000 (epoch 540), train_loss = 0.574, time/batch = 0.015, All_Time = 6482.104
+model saved to save/model.ckpt
+437000/1612000 (epoch 542), train_loss = 0.513, time/batch = 0.015, All_Time = 6496.979
+model saved to save/model.ckpt
+438000/1612000 (epoch 543), train_loss = 0.524, time/batch = 0.014, All_Time = 6511.846
+model saved to save/model.ckpt
+439000/1612000 (epoch 544), train_loss = 0.588, time/batch = 0.015, All_Time = 6526.721
+model saved to save/model.ckpt
+440000/1612000 (epoch 545), train_loss = 0.446, time/batch = 0.015, All_Time = 6541.596
+model saved to save/model.ckpt
+441000/1612000 (epoch 547), train_loss = 0.529, time/batch = 0.016, All_Time = 6556.423
+model saved to save/model.ckpt
+442000/1612000 (epoch 548), train_loss = 0.433, time/batch = 0.015, All_Time = 6571.335
+model saved to save/model.ckpt
+443000/1612000 (epoch 549), train_loss = 0.448, time/batch = 0.015, All_Time = 6586.239
+model saved to save/model.ckpt
+444000/1612000 (epoch 550), train_loss = 0.457, time/batch = 0.015, All_Time = 6601.146
+model saved to save/model.ckpt
+445000/1612000 (epoch 552), train_loss = 0.516, time/batch = 0.015, All_Time = 6616.054
+model saved to save/model.ckpt
+446000/1612000 (epoch 553), train_loss = 0.441, time/batch = 0.015, All_Time = 6630.933
+model saved to save/model.ckpt
+447000/1612000 (epoch 554), train_loss = 0.481, time/batch = 0.014, All_Time = 6645.747
+model saved to save/model.ckpt
+448000/1612000 (epoch 555), train_loss = 0.475, time/batch = 0.014, All_Time = 6660.591
+model saved to save/model.ckpt
+449000/1612000 (epoch 557), train_loss = 0.458, time/batch = 0.015, All_Time = 6675.454
+model saved to save/model.ckpt
+450000/1612000 (epoch 558), train_loss = 0.543, time/batch = 0.015, All_Time = 6690.324
+model saved to save/model.ckpt
+451000/1612000 (epoch 559), train_loss = 0.434, time/batch = 0.016, All_Time = 6705.162
+model saved to save/model.ckpt
+452000/1612000 (epoch 560), train_loss = 0.502, time/batch = 0.015, All_Time = 6720.005
+model saved to save/model.ckpt
+453000/1612000 (epoch 562), train_loss = 0.448, time/batch = 0.015, All_Time = 6734.880
+model saved to save/model.ckpt
+454000/1612000 (epoch 563), train_loss = 0.530, time/batch = 0.015, All_Time = 6749.722
+model saved to save/model.ckpt
+455000/1612000 (epoch 564), train_loss = 0.500, time/batch = 0.016, All_Time = 6764.612
+model saved to save/model.ckpt
+456000/1612000 (epoch 565), train_loss = 0.545, time/batch = 0.014, All_Time = 6779.484
+model saved to save/model.ckpt
+457000/1612000 (epoch 566), train_loss = 0.574, time/batch = 0.015, All_Time = 6794.349
+model saved to save/model.ckpt
+458000/1612000 (epoch 568), train_loss = 0.451, time/batch = 0.016, All_Time = 6809.241
+model saved to save/model.ckpt
+459000/1612000 (epoch 569), train_loss = 0.486, time/batch = 0.014, All_Time = 6824.079
+model saved to save/model.ckpt
+460000/1612000 (epoch 570), train_loss = 0.553, time/batch = 0.015, All_Time = 6838.927
+model saved to save/model.ckpt
+461000/1612000 (epoch 571), train_loss = 0.409, time/batch = 0.015, All_Time = 6853.821
+model saved to save/model.ckpt
+462000/1612000 (epoch 573), train_loss = 0.570, time/batch = 0.015, All_Time = 6868.715
+model saved to save/model.ckpt
+463000/1612000 (epoch 574), train_loss = 0.525, time/batch = 0.017, All_Time = 6883.610
+model saved to save/model.ckpt
+464000/1612000 (epoch 575), train_loss = 0.542, time/batch = 0.015, All_Time = 6898.470
+model saved to save/model.ckpt
+465000/1612000 (epoch 576), train_loss = 0.433, time/batch = 0.016, All_Time = 6913.339
+model saved to save/model.ckpt
+466000/1612000 (epoch 578), train_loss = 0.468, time/batch = 0.015, All_Time = 6928.212
+model saved to save/model.ckpt
+467000/1612000 (epoch 579), train_loss = 0.477, time/batch = 0.015, All_Time = 6943.121
+model saved to save/model.ckpt
+468000/1612000 (epoch 580), train_loss = 0.455, time/batch = 0.015, All_Time = 6958.023
+model saved to save/model.ckpt
+469000/1612000 (epoch 581), train_loss = 0.493, time/batch = 0.014, All_Time = 6972.891
+model saved to save/model.ckpt
+470000/1612000 (epoch 583), train_loss = 0.507, time/batch = 0.014, All_Time = 6987.744
+model saved to save/model.ckpt
+471000/1612000 (epoch 584), train_loss = 0.418, time/batch = 0.015, All_Time = 7002.599
+model saved to save/model.ckpt
+472000/1612000 (epoch 585), train_loss = 0.516, time/batch = 0.014, All_Time = 7017.520
+model saved to save/model.ckpt
+473000/1612000 (epoch 586), train_loss = 0.479, time/batch = 0.014, All_Time = 7032.447
+model saved to save/model.ckpt
+474000/1612000 (epoch 588), train_loss = 0.592, time/batch = 0.015, All_Time = 7047.318
+model saved to save/model.ckpt
+475000/1612000 (epoch 589), train_loss = 0.551, time/batch = 0.015, All_Time = 7062.184
+model saved to save/model.ckpt
+476000/1612000 (epoch 590), train_loss = 0.524, time/batch = 0.016, All_Time = 7077.053
+model saved to save/model.ckpt
+477000/1612000 (epoch 591), train_loss = 0.569, time/batch = 0.014, All_Time = 7091.911
+model saved to save/model.ckpt
+478000/1612000 (epoch 593), train_loss = 0.491, time/batch = 0.014, All_Time = 7106.754
+model saved to save/model.ckpt
+479000/1612000 (epoch 594), train_loss = 0.517, time/batch = 0.015, All_Time = 7121.653
+model saved to save/model.ckpt
+480000/1612000 (epoch 595), train_loss = 0.537, time/batch = 0.014, All_Time = 7136.531
+model saved to save/model.ckpt
+481000/1612000 (epoch 596), train_loss = 0.478, time/batch = 0.014, All_Time = 7151.382
+model saved to save/model.ckpt
+482000/1612000 (epoch 598), train_loss = 0.518, time/batch = 0.017, All_Time = 7166.206
+model saved to save/model.ckpt
+483000/1612000 (epoch 599), train_loss = 0.493, time/batch = 0.015, All_Time = 7181.076
+model saved to save/model.ckpt
+484000/1612000 (epoch 600), train_loss = 0.424, time/batch = 0.015, All_Time = 7195.960
+model saved to save/model.ckpt
+485000/1612000 (epoch 601), train_loss = 0.492, time/batch = 0.015, All_Time = 7210.807
+model saved to save/model.ckpt
+486000/1612000 (epoch 602), train_loss = 0.526, time/batch = 0.015, All_Time = 7225.662
+model saved to save/model.ckpt
+487000/1612000 (epoch 604), train_loss = 0.506, time/batch = 0.017, All_Time = 7240.524
+model saved to save/model.ckpt
+488000/1612000 (epoch 605), train_loss = 0.525, time/batch = 0.014, All_Time = 7255.391
+model saved to save/model.ckpt
+489000/1612000 (epoch 606), train_loss = 0.494, time/batch = 0.015, All_Time = 7270.284
+model saved to save/model.ckpt
+490000/1612000 (epoch 607), train_loss = 0.417, time/batch = 0.016, All_Time = 7285.131
+model saved to save/model.ckpt
+491000/1612000 (epoch 609), train_loss = 0.487, time/batch = 0.015, All_Time = 7299.964
+model saved to save/model.ckpt
+492000/1612000 (epoch 610), train_loss = 0.515, time/batch = 0.015, All_Time = 7314.863
+model saved to save/model.ckpt
+493000/1612000 (epoch 611), train_loss = 0.432, time/batch = 0.015, All_Time = 7329.740
+model saved to save/model.ckpt
+494000/1612000 (epoch 612), train_loss = 0.485, time/batch = 0.014, All_Time = 7344.608
+model saved to save/model.ckpt
+495000/1612000 (epoch 614), train_loss = 0.562, time/batch = 0.014, All_Time = 7359.482
+model saved to save/model.ckpt
+496000/1612000 (epoch 615), train_loss = 0.486, time/batch = 0.016, All_Time = 7374.350
+model saved to save/model.ckpt
+497000/1612000 (epoch 616), train_loss = 0.537, time/batch = 0.016, All_Time = 7389.230
+model saved to save/model.ckpt
+498000/1612000 (epoch 617), train_loss = 0.456, time/batch = 0.014, All_Time = 7404.117
+model saved to save/model.ckpt
+499000/1612000 (epoch 619), train_loss = 0.511, time/batch = 0.014, All_Time = 7419.021
+model saved to save/model.ckpt
+500000/1612000 (epoch 620), train_loss = 0.584, time/batch = 0.014, All_Time = 7433.883
+model saved to save/model.ckpt
+501000/1612000 (epoch 621), train_loss = 0.574, time/batch = 0.014, All_Time = 7448.748
+model saved to save/model.ckpt
+502000/1612000 (epoch 622), train_loss = 0.545, time/batch = 0.015, All_Time = 7463.550
+model saved to save/model.ckpt
+503000/1612000 (epoch 624), train_loss = 0.453, time/batch = 0.014, All_Time = 7478.424
+model saved to save/model.ckpt
+504000/1612000 (epoch 625), train_loss = 0.486, time/batch = 0.015, All_Time = 7493.315
+model saved to save/model.ckpt
+505000/1612000 (epoch 626), train_loss = 0.467, time/batch = 0.017, All_Time = 7508.152
+model saved to save/model.ckpt
+506000/1612000 (epoch 627), train_loss = 0.555, time/batch = 0.015, All_Time = 7523.010
+model saved to save/model.ckpt
+507000/1612000 (epoch 629), train_loss = 0.470, time/batch = 0.014, All_Time = 7537.909
+model saved to save/model.ckpt
+508000/1612000 (epoch 630), train_loss = 0.453, time/batch = 0.014, All_Time = 7552.757
+model saved to save/model.ckpt
+509000/1612000 (epoch 631), train_loss = 0.544, time/batch = 0.015, All_Time = 7567.630
+model saved to save/model.ckpt
+510000/1612000 (epoch 632), train_loss = 0.425, time/batch = 0.016, All_Time = 7582.555
+model saved to save/model.ckpt
+511000/1612000 (epoch 633), train_loss = 0.508, time/batch = 0.015, All_Time = 7597.417
+model saved to save/model.ckpt
+512000/1612000 (epoch 635), train_loss = 0.472, time/batch = 0.014, All_Time = 7612.296
+model saved to save/model.ckpt
+513000/1612000 (epoch 636), train_loss = 0.435, time/batch = 0.015, All_Time = 7627.130
+model saved to save/model.ckpt
+514000/1612000 (epoch 637), train_loss = 0.516, time/batch = 0.015, All_Time = 7641.966
+model saved to save/model.ckpt
+515000/1612000 (epoch 638), train_loss = 0.549, time/batch = 0.014, All_Time = 7656.811
+model saved to save/model.ckpt
+516000/1612000 (epoch 640), train_loss = 0.439, time/batch = 0.015, All_Time = 7671.666
+model saved to save/model.ckpt
+517000/1612000 (epoch 641), train_loss = 0.489, time/batch = 0.017, All_Time = 7686.503
+model saved to save/model.ckpt
+518000/1612000 (epoch 642), train_loss = 0.527, time/batch = 0.015, All_Time = 7701.377
+model saved to save/model.ckpt
+519000/1612000 (epoch 643), train_loss = 0.430, time/batch = 0.015, All_Time = 7716.216
+model saved to save/model.ckpt
+520000/1612000 (epoch 645), train_loss = 0.420, time/batch = 0.014, All_Time = 7731.133
+model saved to save/model.ckpt
+521000/1612000 (epoch 646), train_loss = 0.485, time/batch = 0.015, All_Time = 7746.007
+model saved to save/model.ckpt
+522000/1612000 (epoch 647), train_loss = 0.494, time/batch = 0.015, All_Time = 7760.879
+model saved to save/model.ckpt
+523000/1612000 (epoch 648), train_loss = 0.561, time/batch = 0.015, All_Time = 7775.738
+model saved to save/model.ckpt
+524000/1612000 (epoch 650), train_loss = 0.467, time/batch = 0.015, All_Time = 7790.565
+model saved to save/model.ckpt
+525000/1612000 (epoch 651), train_loss = 0.554, time/batch = 0.015, All_Time = 7805.397
+model saved to save/model.ckpt
+526000/1612000 (epoch 652), train_loss = 0.558, time/batch = 0.017, All_Time = 7820.231
+model saved to save/model.ckpt
+527000/1612000 (epoch 653), train_loss = 0.461, time/batch = 0.014, All_Time = 7835.080
+model saved to save/model.ckpt
+528000/1612000 (epoch 655), train_loss = 0.483, time/batch = 0.015, All_Time = 7849.903
+model saved to save/model.ckpt
+529000/1612000 (epoch 656), train_loss = 0.479, time/batch = 0.015, All_Time = 7864.765
+model saved to save/model.ckpt
+530000/1612000 (epoch 657), train_loss = 0.594, time/batch = 0.014, All_Time = 7879.605
+model saved to save/model.ckpt
+531000/1612000 (epoch 658), train_loss = 0.484, time/batch = 0.015, All_Time = 7894.478
+model saved to save/model.ckpt
+532000/1612000 (epoch 660), train_loss = 0.573, time/batch = 0.015, All_Time = 7909.313
+model saved to save/model.ckpt
+533000/1612000 (epoch 661), train_loss = 0.475, time/batch = 0.015, All_Time = 7924.171
+model saved to save/model.ckpt
+534000/1612000 (epoch 662), train_loss = 0.516, time/batch = 0.015, All_Time = 7939.004
+model saved to save/model.ckpt
+535000/1612000 (epoch 663), train_loss = 0.531, time/batch = 0.015, All_Time = 7953.850
+model saved to save/model.ckpt
+536000/1612000 (epoch 665), train_loss = 0.593, time/batch = 0.014, All_Time = 7968.734
+model saved to save/model.ckpt
+537000/1612000 (epoch 666), train_loss = 0.536, time/batch = 0.015, All_Time = 7983.579
+model saved to save/model.ckpt
+538000/1612000 (epoch 667), train_loss = 0.486, time/batch = 0.014, All_Time = 7998.486
+model saved to save/model.ckpt
+539000/1612000 (epoch 668), train_loss = 0.480, time/batch = 0.015, All_Time = 8013.320
+model saved to save/model.ckpt
+540000/1612000 (epoch 669), train_loss = 0.515, time/batch = 0.014, All_Time = 8028.189
+model saved to save/model.ckpt
+541000/1612000 (epoch 671), train_loss = 0.479, time/batch = 0.015, All_Time = 8043.056
+model saved to save/model.ckpt
+542000/1612000 (epoch 672), train_loss = 0.476, time/batch = 0.016, All_Time = 8057.928
+model saved to save/model.ckpt
+543000/1612000 (epoch 673), train_loss = 0.464, time/batch = 0.015, All_Time = 8072.807
+model saved to save/model.ckpt
+544000/1612000 (epoch 674), train_loss = 0.487, time/batch = 0.015, All_Time = 8087.622
+model saved to save/model.ckpt
+545000/1612000 (epoch 676), train_loss = 0.589, time/batch = 0.016, All_Time = 8102.568
+model saved to save/model.ckpt
+546000/1612000 (epoch 677), train_loss = 0.611, time/batch = 0.019, All_Time = 8119.549
+model saved to save/model.ckpt
+547000/1612000 (epoch 678), train_loss = 0.429, time/batch = 0.017, All_Time = 8134.809
+model saved to save/model.ckpt
+548000/1612000 (epoch 679), train_loss = 0.486, time/batch = 0.016, All_Time = 8155.772
+model saved to save/model.ckpt
+549000/1612000 (epoch 681), train_loss = 0.511, time/batch = 0.015, All_Time = 8172.447
+model saved to save/model.ckpt
+550000/1612000 (epoch 682), train_loss = 0.444, time/batch = 0.014, All_Time = 8187.318
+model saved to save/model.ckpt
+551000/1612000 (epoch 683), train_loss = 0.503, time/batch = 0.015, All_Time = 8202.195
+model saved to save/model.ckpt
+552000/1612000 (epoch 684), train_loss = 0.479, time/batch = 0.014, All_Time = 8217.088
+model saved to save/model.ckpt
+553000/1612000 (epoch 686), train_loss = 0.494, time/batch = 0.015, All_Time = 8231.948
+model saved to save/model.ckpt
+554000/1612000 (epoch 687), train_loss = 0.497, time/batch = 0.015, All_Time = 8246.791
+model saved to save/model.ckpt
+555000/1612000 (epoch 688), train_loss = 0.544, time/batch = 0.014, All_Time = 8261.659
+model saved to save/model.ckpt
+556000/1612000 (epoch 689), train_loss = 0.539, time/batch = 0.015, All_Time = 8276.500
+model saved to save/model.ckpt
+557000/1612000 (epoch 691), train_loss = 0.594, time/batch = 0.015, All_Time = 8291.371
+model saved to save/model.ckpt
+558000/1612000 (epoch 692), train_loss = 0.481, time/batch = 0.016, All_Time = 8306.289
+model saved to save/model.ckpt
+559000/1612000 (epoch 693), train_loss = 0.487, time/batch = 0.014, All_Time = 8321.119
+model saved to save/model.ckpt
+560000/1612000 (epoch 694), train_loss = 0.502, time/batch = 0.015, All_Time = 8335.976
+model saved to save/model.ckpt
+561000/1612000 (epoch 696), train_loss = 0.555, time/batch = 0.014, All_Time = 8350.828
+model saved to save/model.ckpt
+562000/1612000 (epoch 697), train_loss = 0.391, time/batch = 0.014, All_Time = 8365.660
+model saved to save/model.ckpt
+563000/1612000 (epoch 698), train_loss = 0.451, time/batch = 0.015, All_Time = 8380.501
+model saved to save/model.ckpt
+564000/1612000 (epoch 699), train_loss = 0.509, time/batch = 0.014, All_Time = 8395.339
+model saved to save/model.ckpt
+565000/1612000 (epoch 700), train_loss = 0.542, time/batch = 0.014, All_Time = 8410.161
+model saved to save/model.ckpt
+566000/1612000 (epoch 702), train_loss = 0.650, time/batch = 0.015, All_Time = 8425.038
+model saved to save/model.ckpt
+567000/1612000 (epoch 703), train_loss = 0.548, time/batch = 0.015, All_Time = 8439.898
+model saved to save/model.ckpt
+568000/1612000 (epoch 704), train_loss = 0.475, time/batch = 0.015, All_Time = 8454.792
+model saved to save/model.ckpt
+569000/1612000 (epoch 705), train_loss = 0.443, time/batch = 0.015, All_Time = 8469.612
+model saved to save/model.ckpt
+570000/1612000 (epoch 707), train_loss = 0.446, time/batch = 0.015, All_Time = 8484.495
+model saved to save/model.ckpt
+571000/1612000 (epoch 708), train_loss = 0.474, time/batch = 0.015, All_Time = 8499.353
+model saved to save/model.ckpt
+572000/1612000 (epoch 709), train_loss = 0.573, time/batch = 0.014, All_Time = 8514.256
+model saved to save/model.ckpt
+573000/1612000 (epoch 710), train_loss = 0.474, time/batch = 0.014, All_Time = 8529.110
+model saved to save/model.ckpt
+574000/1612000 (epoch 712), train_loss = 0.442, time/batch = 0.016, All_Time = 8543.991
+model saved to save/model.ckpt
+575000/1612000 (epoch 713), train_loss = 0.499, time/batch = 0.015, All_Time = 8558.830
+model saved to save/model.ckpt
+576000/1612000 (epoch 714), train_loss = 0.506, time/batch = 0.015, All_Time = 8573.686
+model saved to save/model.ckpt
+577000/1612000 (epoch 715), train_loss = 0.474, time/batch = 0.015, All_Time = 8588.538
+model saved to save/model.ckpt
+578000/1612000 (epoch 717), train_loss = 0.491, time/batch = 0.015, All_Time = 8603.430
+model saved to save/model.ckpt
+579000/1612000 (epoch 718), train_loss = 0.442, time/batch = 0.016, All_Time = 8618.296
+model saved to save/model.ckpt
+580000/1612000 (epoch 719), train_loss = 0.459, time/batch = 0.014, All_Time = 8633.153
+model saved to save/model.ckpt
+581000/1612000 (epoch 720), train_loss = 0.525, time/batch = 0.015, All_Time = 8648.002
+model saved to save/model.ckpt
+582000/1612000 (epoch 722), train_loss = 0.510, time/batch = 0.016, All_Time = 8662.899
+model saved to save/model.ckpt
+583000/1612000 (epoch 723), train_loss = 0.522, time/batch = 0.014, All_Time = 8677.761
+model saved to save/model.ckpt
+584000/1612000 (epoch 724), train_loss = 0.574, time/batch = 0.014, All_Time = 8692.635
+model saved to save/model.ckpt
+585000/1612000 (epoch 725), train_loss = 0.535, time/batch = 0.014, All_Time = 8707.469
+model saved to save/model.ckpt
+586000/1612000 (epoch 727), train_loss = 0.576, time/batch = 0.014, All_Time = 8722.325
+model saved to save/model.ckpt
+587000/1612000 (epoch 728), train_loss = 0.475, time/batch = 0.015, All_Time = 8737.175
+model saved to save/model.ckpt
+588000/1612000 (epoch 729), train_loss = 0.528, time/batch = 0.016, All_Time = 8752.021
+model saved to save/model.ckpt
+589000/1612000 (epoch 730), train_loss = 0.547, time/batch = 0.015, All_Time = 8766.835
+model saved to save/model.ckpt
+590000/1612000 (epoch 732), train_loss = 0.505, time/batch = 0.015, All_Time = 8781.827
+model saved to save/model.ckpt
+591000/1612000 (epoch 733), train_loss = 0.561, time/batch = 0.017, All_Time = 8796.693
+model saved to save/model.ckpt
+592000/1612000 (epoch 734), train_loss = 0.574, time/batch = 0.015, All_Time = 8811.529
+model saved to save/model.ckpt
+593000/1612000 (epoch 735), train_loss = 0.522, time/batch = 0.015, All_Time = 8826.372
+model saved to save/model.ckpt
+594000/1612000 (epoch 736), train_loss = 0.557, time/batch = 0.014, All_Time = 8841.236
+model saved to save/model.ckpt
+595000/1612000 (epoch 738), train_loss = 0.462, time/batch = 0.015, All_Time = 8856.103
+model saved to save/model.ckpt
+596000/1612000 (epoch 739), train_loss = 0.432, time/batch = 0.015, All_Time = 8870.928
+model saved to save/model.ckpt
+597000/1612000 (epoch 740), train_loss = 0.539, time/batch = 0.015, All_Time = 8885.816
+model saved to save/model.ckpt
+598000/1612000 (epoch 741), train_loss = 0.467, time/batch = 0.014, All_Time = 8900.657
+model saved to save/model.ckpt
+599000/1612000 (epoch 743), train_loss = 0.516, time/batch = 0.017, All_Time = 8915.533
+model saved to save/model.ckpt
+600000/1612000 (epoch 744), train_loss = 0.455, time/batch = 0.014, All_Time = 8930.472
+model saved to save/model.ckpt
+601000/1612000 (epoch 745), train_loss = 0.567, time/batch = 0.015, All_Time = 8945.311
+model saved to save/model.ckpt
+602000/1612000 (epoch 746), train_loss = 0.465, time/batch = 0.017, All_Time = 8960.181
+model saved to save/model.ckpt
+603000/1612000 (epoch 748), train_loss = 0.464, time/batch = 0.015, All_Time = 8975.075
+model saved to save/model.ckpt
+604000/1612000 (epoch 749), train_loss = 0.443, time/batch = 0.015, All_Time = 8989.930
+model saved to save/model.ckpt
+605000/1612000 (epoch 750), train_loss = 0.489, time/batch = 0.015, All_Time = 9004.769
+model saved to save/model.ckpt
+606000/1612000 (epoch 751), train_loss = 0.487, time/batch = 0.015, All_Time = 9019.654
+model saved to save/model.ckpt
+607000/1612000 (epoch 753), train_loss = 0.529, time/batch = 0.015, All_Time = 9034.524
+model saved to save/model.ckpt
+608000/1612000 (epoch 754), train_loss = 0.454, time/batch = 0.014, All_Time = 9049.389
+model saved to save/model.ckpt
+609000/1612000 (epoch 755), train_loss = 0.480, time/batch = 0.018, All_Time = 9064.232
+model saved to save/model.ckpt
+610000/1612000 (epoch 756), train_loss = 0.517, time/batch = 0.014, All_Time = 9079.087
+model saved to save/model.ckpt
+611000/1612000 (epoch 758), train_loss = 0.398, time/batch = 0.015, All_Time = 9093.972
+model saved to save/model.ckpt
+612000/1612000 (epoch 759), train_loss = 0.442, time/batch = 0.016, All_Time = 9108.860
+model saved to save/model.ckpt
+613000/1612000 (epoch 760), train_loss = 0.538, time/batch = 0.015, All_Time = 9123.675
+model saved to save/model.ckpt
+614000/1612000 (epoch 761), train_loss = 0.495, time/batch = 0.015, All_Time = 9138.570
+model saved to save/model.ckpt
+615000/1612000 (epoch 763), train_loss = 0.473, time/batch = 0.015, All_Time = 9153.456
+model saved to save/model.ckpt
+616000/1612000 (epoch 764), train_loss = 0.484, time/batch = 0.015, All_Time = 9168.257
+model saved to save/model.ckpt
+617000/1612000 (epoch 765), train_loss = 0.517, time/batch = 0.014, All_Time = 9183.120
+model saved to save/model.ckpt
+618000/1612000 (epoch 766), train_loss = 0.398, time/batch = 0.015, All_Time = 9197.983
+model saved to save/model.ckpt
+619000/1612000 (epoch 767), train_loss = 0.421, time/batch = 0.015, All_Time = 9212.844
+model saved to save/model.ckpt
+620000/1612000 (epoch 769), train_loss = 0.481, time/batch = 0.015, All_Time = 9227.717
+model saved to save/model.ckpt
+621000/1612000 (epoch 770), train_loss = 0.475, time/batch = 0.015, All_Time = 9242.595
+model saved to save/model.ckpt
+622000/1612000 (epoch 771), train_loss = 0.449, time/batch = 0.015, All_Time = 9257.463
+model saved to save/model.ckpt
+623000/1612000 (epoch 772), train_loss = 0.508, time/batch = 0.015, All_Time = 9272.327
+model saved to save/model.ckpt
+624000/1612000 (epoch 774), train_loss = 0.626, time/batch = 0.015, All_Time = 9287.178
+model saved to save/model.ckpt
+625000/1612000 (epoch 775), train_loss = 0.462, time/batch = 0.015, All_Time = 9302.050
+model saved to save/model.ckpt
+626000/1612000 (epoch 776), train_loss = 0.484, time/batch = 0.015, All_Time = 9316.949
+model saved to save/model.ckpt
+627000/1612000 (epoch 777), train_loss = 0.459, time/batch = 0.014, All_Time = 9331.837
+model saved to save/model.ckpt
+628000/1612000 (epoch 779), train_loss = 0.479, time/batch = 0.015, All_Time = 9346.717
+model saved to save/model.ckpt
+629000/1612000 (epoch 780), train_loss = 0.582, time/batch = 0.017, All_Time = 9361.609
+model saved to save/model.ckpt
+630000/1612000 (epoch 781), train_loss = 0.565, time/batch = 0.015, All_Time = 9376.460
+model saved to save/model.ckpt
+631000/1612000 (epoch 782), train_loss = 0.547, time/batch = 0.015, All_Time = 9391.352
+model saved to save/model.ckpt
+632000/1612000 (epoch 784), train_loss = 0.454, time/batch = 0.014, All_Time = 9406.262
+model saved to save/model.ckpt
+633000/1612000 (epoch 785), train_loss = 0.542, time/batch = 0.015, All_Time = 9421.131
+model saved to save/model.ckpt
+634000/1612000 (epoch 786), train_loss = 0.482, time/batch = 0.015, All_Time = 9435.969
+model saved to save/model.ckpt
+635000/1612000 (epoch 787), train_loss = 0.524, time/batch = 0.015, All_Time = 9450.846
+model saved to save/model.ckpt
+636000/1612000 (epoch 789), train_loss = 0.511, time/batch = 0.017, All_Time = 9465.691
+model saved to save/model.ckpt
+637000/1612000 (epoch 790), train_loss = 0.519, time/batch = 0.014, All_Time = 9480.548
+model saved to save/model.ckpt
+638000/1612000 (epoch 791), train_loss = 0.443, time/batch = 0.015, All_Time = 9495.408
+model saved to save/model.ckpt
+639000/1612000 (epoch 792), train_loss = 0.502, time/batch = 0.016, All_Time = 9510.251
+model saved to save/model.ckpt
+640000/1612000 (epoch 794), train_loss = 0.542, time/batch = 0.016, All_Time = 9525.081
+model saved to save/model.ckpt
+641000/1612000 (epoch 795), train_loss = 0.575, time/batch = 0.014, All_Time = 9539.943
+model saved to save/model.ckpt
+642000/1612000 (epoch 796), train_loss = 0.457, time/batch = 0.014, All_Time = 9554.796
+model saved to save/model.ckpt
+643000/1612000 (epoch 797), train_loss = 0.489, time/batch = 0.016, All_Time = 9569.639
+model saved to save/model.ckpt
+644000/1612000 (epoch 799), train_loss = 0.501, time/batch = 0.014, All_Time = 9584.475
+model saved to save/model.ckpt
+645000/1612000 (epoch 800), train_loss = 0.467, time/batch = 0.016, All_Time = 9599.321
+model saved to save/model.ckpt
+646000/1612000 (epoch 801), train_loss = 0.531, time/batch = 0.016, All_Time = 9614.166
+model saved to save/model.ckpt
+647000/1612000 (epoch 802), train_loss = 0.522, time/batch = 0.014, All_Time = 9629.022
+model saved to save/model.ckpt
+648000/1612000 (epoch 803), train_loss = 0.479, time/batch = 0.014, All_Time = 9643.890
+model saved to save/model.ckpt
+649000/1612000 (epoch 805), train_loss = 0.478, time/batch = 0.014, All_Time = 9658.735
+model saved to save/model.ckpt
+650000/1612000 (epoch 806), train_loss = 0.526, time/batch = 0.015, All_Time = 9673.586
+model saved to save/model.ckpt
+651000/1612000 (epoch 807), train_loss = 0.532, time/batch = 0.015, All_Time = 9688.454
+model saved to save/model.ckpt
+652000/1612000 (epoch 808), train_loss = 0.447, time/batch = 0.015, All_Time = 9703.351
+model saved to save/model.ckpt
+653000/1612000 (epoch 810), train_loss = 0.577, time/batch = 0.014, All_Time = 9718.217
+model saved to save/model.ckpt
+654000/1612000 (epoch 811), train_loss = 0.481, time/batch = 0.014, All_Time = 9733.114
+model saved to save/model.ckpt
+655000/1612000 (epoch 812), train_loss = 0.585, time/batch = 0.016, All_Time = 9748.075
+model saved to save/model.ckpt
+656000/1612000 (epoch 813), train_loss = 0.515, time/batch = 0.015, All_Time = 9762.933
+model saved to save/model.ckpt
+657000/1612000 (epoch 815), train_loss = 0.498, time/batch = 0.015, All_Time = 9777.805
+model saved to save/model.ckpt
+658000/1612000 (epoch 816), train_loss = 0.588, time/batch = 0.015, All_Time = 9792.664
+model saved to save/model.ckpt
+659000/1612000 (epoch 817), train_loss = 0.523, time/batch = 0.015, All_Time = 9807.505
+model saved to save/model.ckpt
+660000/1612000 (epoch 818), train_loss = 0.412, time/batch = 0.015, All_Time = 9822.344
+model saved to save/model.ckpt
+661000/1612000 (epoch 820), train_loss = 0.437, time/batch = 0.015, All_Time = 9837.247
+model saved to save/model.ckpt
+662000/1612000 (epoch 821), train_loss = 0.466, time/batch = 0.015, All_Time = 9852.133
+model saved to save/model.ckpt
+663000/1612000 (epoch 822), train_loss = 0.574, time/batch = 0.015, All_Time = 9866.986
+model saved to save/model.ckpt
+664000/1612000 (epoch 823), train_loss = 0.518, time/batch = 0.014, All_Time = 9881.853
+model saved to save/model.ckpt
+665000/1612000 (epoch 825), train_loss = 0.541, time/batch = 0.015, All_Time = 9896.717
+model saved to save/model.ckpt
+666000/1612000 (epoch 826), train_loss = 0.495, time/batch = 0.015, All_Time = 9911.583
+model saved to save/model.ckpt
+667000/1612000 (epoch 827), train_loss = 0.515, time/batch = 0.015, All_Time = 9926.453
+model saved to save/model.ckpt
+668000/1612000 (epoch 828), train_loss = 0.528, time/batch = 0.015, All_Time = 9941.275
+model saved to save/model.ckpt
+669000/1612000 (epoch 830), train_loss = 0.527, time/batch = 0.014, All_Time = 9956.135
+model saved to save/model.ckpt
+670000/1612000 (epoch 831), train_loss = 0.527, time/batch = 0.014, All_Time = 9970.987
+model saved to save/model.ckpt
+671000/1612000 (epoch 832), train_loss = 0.439, time/batch = 0.014, All_Time = 9985.834
+model saved to save/model.ckpt
+672000/1612000 (epoch 833), train_loss = 0.532, time/batch = 0.014, All_Time = 10000.658
+model saved to save/model.ckpt
+673000/1612000 (epoch 834), train_loss = 0.472, time/batch = 0.014, All_Time = 10015.523
+model saved to save/model.ckpt
+674000/1612000 (epoch 836), train_loss = 0.489, time/batch = 0.014, All_Time = 10030.358
+model saved to save/model.ckpt
+675000/1612000 (epoch 837), train_loss = 0.613, time/batch = 0.014, All_Time = 10045.234
+model saved to save/model.ckpt
+676000/1612000 (epoch 838), train_loss = 0.450, time/batch = 0.015, All_Time = 10060.119
+model saved to save/model.ckpt
+677000/1612000 (epoch 839), train_loss = 0.513, time/batch = 0.015, All_Time = 10074.977
+model saved to save/model.ckpt
+678000/1612000 (epoch 841), train_loss = 0.556, time/batch = 0.016, All_Time = 10089.822
+model saved to save/model.ckpt
+679000/1612000 (epoch 842), train_loss = 0.480, time/batch = 0.014, All_Time = 10104.714
+model saved to save/model.ckpt
+680000/1612000 (epoch 843), train_loss = 0.609, time/batch = 0.014, All_Time = 10119.572
+model saved to save/model.ckpt
+681000/1612000 (epoch 844), train_loss = 0.566, time/batch = 0.015, All_Time = 10134.531
+model saved to save/model.ckpt
+682000/1612000 (epoch 846), train_loss = 0.466, time/batch = 0.016, All_Time = 10149.404
+model saved to save/model.ckpt
+683000/1612000 (epoch 847), train_loss = 0.553, time/batch = 0.014, All_Time = 10164.280
+model saved to save/model.ckpt
+684000/1612000 (epoch 848), train_loss = 0.493, time/batch = 0.015, All_Time = 10179.120
+model saved to save/model.ckpt
+685000/1612000 (epoch 849), train_loss = 0.559, time/batch = 0.014, All_Time = 10194.004
+model saved to save/model.ckpt
+686000/1612000 (epoch 851), train_loss = 0.420, time/batch = 0.014, All_Time = 10208.868
+model saved to save/model.ckpt
+687000/1612000 (epoch 852), train_loss = 0.470, time/batch = 0.015, All_Time = 10223.739
+model saved to save/model.ckpt
+688000/1612000 (epoch 853), train_loss = 0.553, time/batch = 0.016, All_Time = 10238.584
+model saved to save/model.ckpt
+689000/1612000 (epoch 854), train_loss = 0.540, time/batch = 0.017, All_Time = 10253.485
+model saved to save/model.ckpt
+690000/1612000 (epoch 856), train_loss = 0.463, time/batch = 0.015, All_Time = 10268.344
+model saved to save/model.ckpt
+691000/1612000 (epoch 857), train_loss = 0.415, time/batch = 0.014, All_Time = 10283.147
+model saved to save/model.ckpt
+692000/1612000 (epoch 858), train_loss = 0.492, time/batch = 0.014, All_Time = 10298.002
+model saved to save/model.ckpt
+693000/1612000 (epoch 859), train_loss = 0.468, time/batch = 0.014, All_Time = 10312.830
+model saved to save/model.ckpt
+694000/1612000 (epoch 861), train_loss = 0.527, time/batch = 0.015, All_Time = 10327.732
+model saved to save/model.ckpt
+695000/1612000 (epoch 862), train_loss = 0.554, time/batch = 0.014, All_Time = 10342.574
+model saved to save/model.ckpt
+696000/1612000 (epoch 863), train_loss = 0.514, time/batch = 0.015, All_Time = 10357.437
+model saved to save/model.ckpt
+697000/1612000 (epoch 864), train_loss = 0.554, time/batch = 0.014, All_Time = 10372.293
+model saved to save/model.ckpt
+698000/1612000 (epoch 866), train_loss = 0.563, time/batch = 0.015, All_Time = 10387.129
+model saved to save/model.ckpt
+699000/1612000 (epoch 867), train_loss = 0.532, time/batch = 0.014, All_Time = 10401.972
+model saved to save/model.ckpt
+700000/1612000 (epoch 868), train_loss = 0.442, time/batch = 0.015, All_Time = 10416.870
+model saved to save/model.ckpt
+701000/1612000 (epoch 869), train_loss = 0.516, time/batch = 0.016, All_Time = 10431.713
+model saved to save/model.ckpt
+702000/1612000 (epoch 870), train_loss = 0.581, time/batch = 0.015, All_Time = 10446.615
+model saved to save/model.ckpt
+703000/1612000 (epoch 872), train_loss = 0.478, time/batch = 0.015, All_Time = 10461.489
+model saved to save/model.ckpt
+704000/1612000 (epoch 873), train_loss = 0.446, time/batch = 0.016, All_Time = 10476.362
+model saved to save/model.ckpt
+705000/1612000 (epoch 874), train_loss = 0.556, time/batch = 0.017, All_Time = 10491.268
+model saved to save/model.ckpt
+706000/1612000 (epoch 875), train_loss = 0.539, time/batch = 0.015, All_Time = 10506.136
+model saved to save/model.ckpt
+707000/1612000 (epoch 877), train_loss = 0.510, time/batch = 0.015, All_Time = 10520.991
+model saved to save/model.ckpt
+708000/1612000 (epoch 878), train_loss = 0.550, time/batch = 0.015, All_Time = 10535.837
+model saved to save/model.ckpt
+709000/1612000 (epoch 879), train_loss = 0.603, time/batch = 0.016, All_Time = 10550.718
+model saved to save/model.ckpt
+710000/1612000 (epoch 880), train_loss = 0.467, time/batch = 0.015, All_Time = 10565.580
+model saved to save/model.ckpt
+711000/1612000 (epoch 882), train_loss = 0.447, time/batch = 0.014, All_Time = 10580.430
+model saved to save/model.ckpt
+712000/1612000 (epoch 883), train_loss = 0.531, time/batch = 0.016, All_Time = 10595.291
+model saved to save/model.ckpt
+713000/1612000 (epoch 884), train_loss = 0.511, time/batch = 0.015, All_Time = 10610.107
+model saved to save/model.ckpt
+714000/1612000 (epoch 885), train_loss = 0.458, time/batch = 0.015, All_Time = 10624.964
+model saved to save/model.ckpt
+715000/1612000 (epoch 887), train_loss = 0.528, time/batch = 0.015, All_Time = 10639.784
+model saved to save/model.ckpt
+716000/1612000 (epoch 888), train_loss = 0.486, time/batch = 0.015, All_Time = 10654.651
+model saved to save/model.ckpt
+717000/1612000 (epoch 889), train_loss = 0.501, time/batch = 0.014, All_Time = 10669.481
+model saved to save/model.ckpt
+718000/1612000 (epoch 890), train_loss = 0.472, time/batch = 0.015, All_Time = 10684.334
+model saved to save/model.ckpt
+719000/1612000 (epoch 892), train_loss = 0.471, time/batch = 0.015, All_Time = 10699.189
+model saved to save/model.ckpt
+720000/1612000 (epoch 893), train_loss = 0.453, time/batch = 0.015, All_Time = 10714.003
+model saved to save/model.ckpt
+721000/1612000 (epoch 894), train_loss = 0.420, time/batch = 0.016, All_Time = 10728.871
+model saved to save/model.ckpt
+722000/1612000 (epoch 895), train_loss = 0.511, time/batch = 0.015, All_Time = 10743.721
+model saved to save/model.ckpt
+723000/1612000 (epoch 897), train_loss = 0.529, time/batch = 0.014, All_Time = 10758.562
+model saved to save/model.ckpt
+724000/1612000 (epoch 898), train_loss = 0.442, time/batch = 0.014, All_Time = 10773.408
+model saved to save/model.ckpt
+725000/1612000 (epoch 899), train_loss = 0.544, time/batch = 0.015, All_Time = 10788.307
+model saved to save/model.ckpt
+726000/1612000 (epoch 900), train_loss = 0.498, time/batch = 0.015, All_Time = 10803.147
+model saved to save/model.ckpt
+727000/1612000 (epoch 901), train_loss = 0.563, time/batch = 0.014, All_Time = 10818.015
+model saved to save/model.ckpt
+728000/1612000 (epoch 903), train_loss = 0.599, time/batch = 0.014, All_Time = 10832.928
+model saved to save/model.ckpt
+729000/1612000 (epoch 904), train_loss = 0.458, time/batch = 0.015, All_Time = 10847.807
+model saved to save/model.ckpt
+730000/1612000 (epoch 905), train_loss = 0.460, time/batch = 0.015, All_Time = 10862.668
+model saved to save/model.ckpt
+731000/1612000 (epoch 906), train_loss = 0.500, time/batch = 0.016, All_Time = 10877.611
+model saved to save/model.ckpt
+732000/1612000 (epoch 908), train_loss = 0.466, time/batch = 0.015, All_Time = 10892.472
+model saved to save/model.ckpt
+733000/1612000 (epoch 909), train_loss = 0.461, time/batch = 0.017, All_Time = 10907.333
+model saved to save/model.ckpt
+734000/1612000 (epoch 910), train_loss = 0.556, time/batch = 0.014, All_Time = 10922.167
+model saved to save/model.ckpt
+735000/1612000 (epoch 911), train_loss = 0.562, time/batch = 0.015, All_Time = 10937.023
+model saved to save/model.ckpt
+736000/1612000 (epoch 913), train_loss = 0.597, time/batch = 0.014, All_Time = 10951.893
+model saved to save/model.ckpt
+737000/1612000 (epoch 914), train_loss = 0.527, time/batch = 0.015, All_Time = 10966.714
+model saved to save/model.ckpt
+738000/1612000 (epoch 915), train_loss = 0.455, time/batch = 0.014, All_Time = 10981.568
+model saved to save/model.ckpt
+739000/1612000 (epoch 916), train_loss = 0.509, time/batch = 0.016, All_Time = 10996.455
+model saved to save/model.ckpt
+740000/1612000 (epoch 918), train_loss = 0.578, time/batch = 0.015, All_Time = 11011.327
+model saved to save/model.ckpt
+741000/1612000 (epoch 919), train_loss = 0.540, time/batch = 0.015, All_Time = 11026.218
+model saved to save/model.ckpt
+742000/1612000 (epoch 920), train_loss = 0.515, time/batch = 0.014, All_Time = 11041.024
+model saved to save/model.ckpt
+743000/1612000 (epoch 921), train_loss = 0.488, time/batch = 0.014, All_Time = 11055.899
+model saved to save/model.ckpt
+744000/1612000 (epoch 923), train_loss = 0.475, time/batch = 0.014, All_Time = 11070.771
+model saved to save/model.ckpt
+745000/1612000 (epoch 924), train_loss = 0.593, time/batch = 0.015, All_Time = 11085.679
+model saved to save/model.ckpt
+746000/1612000 (epoch 925), train_loss = 0.535, time/batch = 0.015, All_Time = 11100.558
+model saved to save/model.ckpt
+747000/1612000 (epoch 926), train_loss = 0.481, time/batch = 0.014, All_Time = 11115.446
+model saved to save/model.ckpt
+748000/1612000 (epoch 928), train_loss = 0.571, time/batch = 0.015, All_Time = 11130.314
+model saved to save/model.ckpt
+749000/1612000 (epoch 929), train_loss = 0.555, time/batch = 0.015, All_Time = 11145.189
+model saved to save/model.ckpt
+750000/1612000 (epoch 930), train_loss = 0.514, time/batch = 0.015, All_Time = 11160.070
+model saved to save/model.ckpt
+751000/1612000 (epoch 931), train_loss = 0.432, time/batch = 0.015, All_Time = 11174.985
+model saved to save/model.ckpt
+752000/1612000 (epoch 933), train_loss = 0.464, time/batch = 0.015, All_Time = 11189.879
+model saved to save/model.ckpt
+753000/1612000 (epoch 934), train_loss = 0.455, time/batch = 0.015, All_Time = 11204.759
+model saved to save/model.ckpt
+754000/1612000 (epoch 935), train_loss = 0.454, time/batch = 0.015, All_Time = 11219.659
+model saved to save/model.ckpt
+755000/1612000 (epoch 936), train_loss = 0.453, time/batch = 0.015, All_Time = 11234.518
+model saved to save/model.ckpt
+756000/1612000 (epoch 937), train_loss = 0.595, time/batch = 0.014, All_Time = 11249.356
+model saved to save/model.ckpt
+757000/1612000 (epoch 939), train_loss = 0.468, time/batch = 0.014, All_Time = 11264.236
+model saved to save/model.ckpt
+758000/1612000 (epoch 940), train_loss = 0.529, time/batch = 0.014, All_Time = 11279.067
+model saved to save/model.ckpt
+759000/1612000 (epoch 941), train_loss = 0.571, time/batch = 0.015, All_Time = 11293.910
+model saved to save/model.ckpt
+760000/1612000 (epoch 942), train_loss = 0.540, time/batch = 0.014, All_Time = 11308.805
+model saved to save/model.ckpt
+761000/1612000 (epoch 944), train_loss = 0.464, time/batch = 0.015, All_Time = 11323.681
+model saved to save/model.ckpt
+762000/1612000 (epoch 945), train_loss = 0.537, time/batch = 0.015, All_Time = 11338.553
+model saved to save/model.ckpt
+763000/1612000 (epoch 946), train_loss = 0.557, time/batch = 0.015, All_Time = 11353.413
+model saved to save/model.ckpt
+764000/1612000 (epoch 947), train_loss = 0.494, time/batch = 0.015, All_Time = 11368.281
+model saved to save/model.ckpt
+765000/1612000 (epoch 949), train_loss = 0.598, time/batch = 0.014, All_Time = 11383.150
+model saved to save/model.ckpt
+766000/1612000 (epoch 950), train_loss = 0.536, time/batch = 0.014, All_Time = 11397.997
+model saved to save/model.ckpt
+767000/1612000 (epoch 951), train_loss = 0.538, time/batch = 0.015, All_Time = 11412.858
+model saved to save/model.ckpt
+768000/1612000 (epoch 952), train_loss = 0.492, time/batch = 0.014, All_Time = 11427.725
+model saved to save/model.ckpt
+769000/1612000 (epoch 954), train_loss = 0.455, time/batch = 0.014, All_Time = 11442.581
+model saved to save/model.ckpt
+770000/1612000 (epoch 955), train_loss = 0.500, time/batch = 0.015, All_Time = 11457.510
+model saved to save/model.ckpt
+771000/1612000 (epoch 956), train_loss = 0.561, time/batch = 0.015, All_Time = 11472.344
+model saved to save/model.ckpt
+772000/1612000 (epoch 957), train_loss = 0.595, time/batch = 0.015, All_Time = 11487.224
+model saved to save/model.ckpt
+773000/1612000 (epoch 959), train_loss = 0.516, time/batch = 0.015, All_Time = 11502.078
+model saved to save/model.ckpt
+774000/1612000 (epoch 960), train_loss = 0.577, time/batch = 0.015, All_Time = 11516.922
+model saved to save/model.ckpt
+775000/1612000 (epoch 961), train_loss = 0.523, time/batch = 0.015, All_Time = 11531.774
+model saved to save/model.ckpt
+776000/1612000 (epoch 962), train_loss = 0.498, time/batch = 0.016, All_Time = 11546.665
+model saved to save/model.ckpt
+777000/1612000 (epoch 964), train_loss = 0.506, time/batch = 0.015, All_Time = 11561.483
+model saved to save/model.ckpt
+778000/1612000 (epoch 965), train_loss = 0.518, time/batch = 0.014, All_Time = 11576.303
+model saved to save/model.ckpt
+779000/1612000 (epoch 966), train_loss = 0.448, time/batch = 0.015, All_Time = 11591.196
+model saved to save/model.ckpt
+780000/1612000 (epoch 967), train_loss = 0.517, time/batch = 0.015, All_Time = 11606.078
+model saved to save/model.ckpt
+781000/1612000 (epoch 968), train_loss = 0.397, time/batch = 0.015, All_Time = 11620.938
+model saved to save/model.ckpt
+782000/1612000 (epoch 970), train_loss = 0.404, time/batch = 0.017, All_Time = 11635.818
+model saved to save/model.ckpt
+783000/1612000 (epoch 971), train_loss = 0.525, time/batch = 0.017, All_Time = 11650.653
+model saved to save/model.ckpt
+784000/1612000 (epoch 972), train_loss = 0.510, time/batch = 0.014, All_Time = 11665.498
+model saved to save/model.ckpt
+785000/1612000 (epoch 973), train_loss = 0.569, time/batch = 0.015, All_Time = 11680.365
+model saved to save/model.ckpt
+786000/1612000 (epoch 975), train_loss = 0.546, time/batch = 0.014, All_Time = 11695.247
+model saved to save/model.ckpt
+787000/1612000 (epoch 976), train_loss = 0.482, time/batch = 0.015, All_Time = 11710.134
+model saved to save/model.ckpt
+788000/1612000 (epoch 977), train_loss = 0.414, time/batch = 0.014, All_Time = 11724.927
+model saved to save/model.ckpt
+789000/1612000 (epoch 978), train_loss = 0.532, time/batch = 0.015, All_Time = 11739.788
+model saved to save/model.ckpt
+790000/1612000 (epoch 980), train_loss = 0.397, time/batch = 0.016, All_Time = 11754.614
+model saved to save/model.ckpt
+791000/1612000 (epoch 981), train_loss = 0.524, time/batch = 0.014, All_Time = 11769.429
+model saved to save/model.ckpt
+792000/1612000 (epoch 982), train_loss = 0.501, time/batch = 0.015, All_Time = 11784.301
+model saved to save/model.ckpt
+793000/1612000 (epoch 983), train_loss = 0.536, time/batch = 0.014, All_Time = 11799.179
+model saved to save/model.ckpt
+794000/1612000 (epoch 985), train_loss = 0.451, time/batch = 0.015, All_Time = 11814.018
+model saved to save/model.ckpt
+795000/1612000 (epoch 986), train_loss = 0.472, time/batch = 0.014, All_Time = 11828.864
+model saved to save/model.ckpt
+796000/1612000 (epoch 987), train_loss = 0.582, time/batch = 0.015, All_Time = 11843.672
+model saved to save/model.ckpt
+797000/1612000 (epoch 988), train_loss = 0.499, time/batch = 0.016, All_Time = 11858.567
+model saved to save/model.ckpt
+798000/1612000 (epoch 990), train_loss = 0.461, time/batch = 0.015, All_Time = 11873.498
+model saved to save/model.ckpt
+799000/1612000 (epoch 991), train_loss = 0.574, time/batch = 0.014, All_Time = 11888.370
+model saved to save/model.ckpt
+800000/1612000 (epoch 992), train_loss = 0.472, time/batch = 0.014, All_Time = 11903.250
+model saved to save/model.ckpt
+801000/1612000 (epoch 993), train_loss = 0.489, time/batch = 0.015, All_Time = 11918.141
+model saved to save/model.ckpt
+802000/1612000 (epoch 995), train_loss = 0.645, time/batch = 0.014, All_Time = 11933.036
+model saved to save/model.ckpt
+803000/1612000 (epoch 996), train_loss = 0.439, time/batch = 0.014, All_Time = 11947.927
+model saved to save/model.ckpt
+804000/1612000 (epoch 997), train_loss = 0.562, time/batch = 0.014, All_Time = 11962.832
+model saved to save/model.ckpt
+805000/1612000 (epoch 998), train_loss = 0.474, time/batch = 0.015, All_Time = 11977.728
+model saved to save/model.ckpt
+806000/1612000 (epoch 1000), train_loss = 0.337, time/batch = 0.015, All_Time = 11992.597
+model saved to save/model.ckpt
+807000/1612000 (epoch 1001), train_loss = 0.577, time/batch = 0.014, All_Time = 12007.468
+model saved to save/model.ckpt
+808000/1612000 (epoch 1002), train_loss = 0.524, time/batch = 0.015, All_Time = 12022.331
+model saved to save/model.ckpt
+809000/1612000 (epoch 1003), train_loss = 0.529, time/batch = 0.014, All_Time = 12037.165
+model saved to save/model.ckpt
+810000/1612000 (epoch 1004), train_loss = 0.474, time/batch = 0.014, All_Time = 12052.049
+model saved to save/model.ckpt
+811000/1612000 (epoch 1006), train_loss = 0.524, time/batch = 0.015, All_Time = 12066.875
+model saved to save/model.ckpt
+812000/1612000 (epoch 1007), train_loss = 0.571, time/batch = 0.016, All_Time = 12081.743
+model saved to save/model.ckpt
+813000/1612000 (epoch 1008), train_loss = 0.419, time/batch = 0.014, All_Time = 12096.601
+model saved to save/model.ckpt
+814000/1612000 (epoch 1009), train_loss = 0.626, time/batch = 0.015, All_Time = 12111.459
+model saved to save/model.ckpt
+815000/1612000 (epoch 1011), train_loss = 0.478, time/batch = 0.017, All_Time = 12126.303
+model saved to save/model.ckpt
+816000/1612000 (epoch 1012), train_loss = 0.510, time/batch = 0.014, All_Time = 12141.154
+model saved to save/model.ckpt
+817000/1612000 (epoch 1013), train_loss = 0.542, time/batch = 0.014, All_Time = 12155.984
+model saved to save/model.ckpt
+818000/1612000 (epoch 1014), train_loss = 0.503, time/batch = 0.016, All_Time = 12170.820
+model saved to save/model.ckpt
+819000/1612000 (epoch 1016), train_loss = 0.577, time/batch = 0.015, All_Time = 12185.715
+model saved to save/model.ckpt
+820000/1612000 (epoch 1017), train_loss = 0.491, time/batch = 0.015, All_Time = 12200.585
+model saved to save/model.ckpt
+821000/1612000 (epoch 1018), train_loss = 0.570, time/batch = 0.014, All_Time = 12215.465
+model saved to save/model.ckpt
+822000/1612000 (epoch 1019), train_loss = 0.469, time/batch = 0.014, All_Time = 12230.390
+model saved to save/model.ckpt
+823000/1612000 (epoch 1021), train_loss = 0.539, time/batch = 0.014, All_Time = 12245.284
+model saved to save/model.ckpt
+824000/1612000 (epoch 1022), train_loss = 0.477, time/batch = 0.015, All_Time = 12260.150
+model saved to save/model.ckpt
+825000/1612000 (epoch 1023), train_loss = 0.528, time/batch = 0.015, All_Time = 12275.009
+model saved to save/model.ckpt
+826000/1612000 (epoch 1024), train_loss = 0.451, time/batch = 0.016, All_Time = 12289.882
+model saved to save/model.ckpt
+827000/1612000 (epoch 1026), train_loss = 0.492, time/batch = 0.015, All_Time = 12304.782
+model saved to save/model.ckpt
+828000/1612000 (epoch 1027), train_loss = 0.538, time/batch = 0.015, All_Time = 12319.648
+model saved to save/model.ckpt
+829000/1612000 (epoch 1028), train_loss = 0.524, time/batch = 0.014, All_Time = 12334.521
+model saved to save/model.ckpt
+830000/1612000 (epoch 1029), train_loss = 0.496, time/batch = 0.015, All_Time = 12349.395
+model saved to save/model.ckpt
+831000/1612000 (epoch 1031), train_loss = 0.559, time/batch = 0.015, All_Time = 12364.264
+model saved to save/model.ckpt
+832000/1612000 (epoch 1032), train_loss = 0.499, time/batch = 0.015, All_Time = 12379.106
+model saved to save/model.ckpt
+833000/1612000 (epoch 1033), train_loss = 0.464, time/batch = 0.015, All_Time = 12393.961
+model saved to save/model.ckpt
+834000/1612000 (epoch 1034), train_loss = 0.522, time/batch = 0.015, All_Time = 12408.804
+model saved to save/model.ckpt
+835000/1612000 (epoch 1035), train_loss = 0.548, time/batch = 0.014, All_Time = 12423.654
+model saved to save/model.ckpt
+836000/1612000 (epoch 1037), train_loss = 0.587, time/batch = 0.015, All_Time = 12438.515
+model saved to save/model.ckpt
+837000/1612000 (epoch 1038), train_loss = 0.457, time/batch = 0.016, All_Time = 12453.402
+model saved to save/model.ckpt
+838000/1612000 (epoch 1039), train_loss = 0.537, time/batch = 0.014, All_Time = 12468.316
+model saved to save/model.ckpt
+839000/1612000 (epoch 1040), train_loss = 0.574, time/batch = 0.015, All_Time = 12483.176
+model saved to save/model.ckpt
+840000/1612000 (epoch 1042), train_loss = 0.513, time/batch = 0.015, All_Time = 12498.047
+model saved to save/model.ckpt
+841000/1612000 (epoch 1043), train_loss = 0.524, time/batch = 0.014, All_Time = 12512.901
+model saved to save/model.ckpt
+842000/1612000 (epoch 1044), train_loss = 0.588, time/batch = 0.014, All_Time = 12527.699
+model saved to save/model.ckpt
+843000/1612000 (epoch 1045), train_loss = 0.446, time/batch = 0.017, All_Time = 12542.590
+model saved to save/model.ckpt
+844000/1612000 (epoch 1047), train_loss = 0.529, time/batch = 0.015, All_Time = 12557.469
+model saved to save/model.ckpt
+845000/1612000 (epoch 1048), train_loss = 0.433, time/batch = 0.016, All_Time = 12572.333
+model saved to save/model.ckpt
+846000/1612000 (epoch 1049), train_loss = 0.448, time/batch = 0.014, All_Time = 12587.218
+model saved to save/model.ckpt
+847000/1612000 (epoch 1050), train_loss = 0.457, time/batch = 0.015, All_Time = 12602.099
+model saved to save/model.ckpt
+848000/1612000 (epoch 1052), train_loss = 0.516, time/batch = 0.015, All_Time = 12616.973
+model saved to save/model.ckpt
+849000/1612000 (epoch 1053), train_loss = 0.441, time/batch = 0.015, All_Time = 12631.813
+model saved to save/model.ckpt
+850000/1612000 (epoch 1054), train_loss = 0.481, time/batch = 0.015, All_Time = 12646.722
+model saved to save/model.ckpt
+851000/1612000 (epoch 1055), train_loss = 0.475, time/batch = 0.017, All_Time = 12661.616
+model saved to save/model.ckpt
+852000/1612000 (epoch 1057), train_loss = 0.458, time/batch = 0.015, All_Time = 12676.475
+model saved to save/model.ckpt
+853000/1612000 (epoch 1058), train_loss = 0.543, time/batch = 0.015, All_Time = 12691.312
+model saved to save/model.ckpt
+854000/1612000 (epoch 1059), train_loss = 0.434, time/batch = 0.014, All_Time = 12706.268
+model saved to save/model.ckpt
+855000/1612000 (epoch 1060), train_loss = 0.502, time/batch = 0.014, All_Time = 12721.150
+model saved to save/model.ckpt
+856000/1612000 (epoch 1062), train_loss = 0.448, time/batch = 0.014, All_Time = 12736.004
+model saved to save/model.ckpt
+857000/1612000 (epoch 1063), train_loss = 0.530, time/batch = 0.014, All_Time = 12750.877
+model saved to save/model.ckpt
+858000/1612000 (epoch 1064), train_loss = 0.500, time/batch = 0.015, All_Time = 12765.726
+model saved to save/model.ckpt
+859000/1612000 (epoch 1065), train_loss = 0.545, time/batch = 0.015, All_Time = 12780.588
+model saved to save/model.ckpt
+860000/1612000 (epoch 1066), train_loss = 0.574, time/batch = 0.015, All_Time = 12795.441
+model saved to save/model.ckpt
+861000/1612000 (epoch 1068), train_loss = 0.451, time/batch = 0.014, All_Time = 12810.296
+model saved to save/model.ckpt
+862000/1612000 (epoch 1069), train_loss = 0.486, time/batch = 0.014, All_Time = 12825.160
+model saved to save/model.ckpt
+863000/1612000 (epoch 1070), train_loss = 0.553, time/batch = 0.015, All_Time = 12839.993
+model saved to save/model.ckpt
+864000/1612000 (epoch 1071), train_loss = 0.409, time/batch = 0.014, All_Time = 12854.871
+model saved to save/model.ckpt
+865000/1612000 (epoch 1073), train_loss = 0.570, time/batch = 0.016, All_Time = 12869.746
+model saved to save/model.ckpt
+866000/1612000 (epoch 1074), train_loss = 0.525, time/batch = 0.015, All_Time = 12884.637
+model saved to save/model.ckpt
+867000/1612000 (epoch 1075), train_loss = 0.542, time/batch = 0.015, All_Time = 12899.462
+model saved to save/model.ckpt
+868000/1612000 (epoch 1076), train_loss = 0.433, time/batch = 0.015, All_Time = 12914.356
+model saved to save/model.ckpt
+869000/1612000 (epoch 1078), train_loss = 0.468, time/batch = 0.015, All_Time = 12929.251
+model saved to save/model.ckpt
+870000/1612000 (epoch 1079), train_loss = 0.477, time/batch = 0.016, All_Time = 12944.099
+model saved to save/model.ckpt
+871000/1612000 (epoch 1080), train_loss = 0.455, time/batch = 0.014, All_Time = 12958.910
+model saved to save/model.ckpt
+872000/1612000 (epoch 1081), train_loss = 0.493, time/batch = 0.014, All_Time = 12973.755
+model saved to save/model.ckpt
+873000/1612000 (epoch 1083), train_loss = 0.507, time/batch = 0.014, All_Time = 12988.608
+model saved to save/model.ckpt
+874000/1612000 (epoch 1084), train_loss = 0.418, time/batch = 0.015, All_Time = 13003.458
+model saved to save/model.ckpt
+875000/1612000 (epoch 1085), train_loss = 0.516, time/batch = 0.015, All_Time = 13018.294
+model saved to save/model.ckpt
+876000/1612000 (epoch 1086), train_loss = 0.479, time/batch = 0.015, All_Time = 13033.166
+model saved to save/model.ckpt
+877000/1612000 (epoch 1088), train_loss = 0.592, time/batch = 0.015, All_Time = 13048.062
+model saved to save/model.ckpt
+878000/1612000 (epoch 1089), train_loss = 0.551, time/batch = 0.016, All_Time = 13062.917
+model saved to save/model.ckpt
+879000/1612000 (epoch 1090), train_loss = 0.524, time/batch = 0.014, All_Time = 13077.771
+model saved to save/model.ckpt
+880000/1612000 (epoch 1091), train_loss = 0.569, time/batch = 0.015, All_Time = 13092.667
+model saved to save/model.ckpt
+881000/1612000 (epoch 1093), train_loss = 0.491, time/batch = 0.014, All_Time = 13107.546
+model saved to save/model.ckpt
+882000/1612000 (epoch 1094), train_loss = 0.517, time/batch = 0.015, All_Time = 13122.424
+model saved to save/model.ckpt
+883000/1612000 (epoch 1095), train_loss = 0.537, time/batch = 0.014, All_Time = 13137.290
+model saved to save/model.ckpt
+884000/1612000 (epoch 1096), train_loss = 0.478, time/batch = 0.014, All_Time = 13152.147
+model saved to save/model.ckpt
+885000/1612000 (epoch 1098), train_loss = 0.518, time/batch = 0.015, All_Time = 13167.040
+model saved to save/model.ckpt
+886000/1612000 (epoch 1099), train_loss = 0.493, time/batch = 0.015, All_Time = 13181.851
+model saved to save/model.ckpt
+887000/1612000 (epoch 1100), train_loss = 0.424, time/batch = 0.015, All_Time = 13196.718
+model saved to save/model.ckpt
+888000/1612000 (epoch 1101), train_loss = 0.492, time/batch = 0.017, All_Time = 13211.585
+model saved to save/model.ckpt
+889000/1612000 (epoch 1102), train_loss = 0.526, time/batch = 0.015, All_Time = 13226.469
+model saved to save/model.ckpt
+890000/1612000 (epoch 1104), train_loss = 0.506, time/batch = 0.014, All_Time = 13241.333
+model saved to save/model.ckpt
+891000/1612000 (epoch 1105), train_loss = 0.525, time/batch = 0.016, All_Time = 13256.192
+model saved to save/model.ckpt
+892000/1612000 (epoch 1106), train_loss = 0.494, time/batch = 0.016, All_Time = 13271.018
+model saved to save/model.ckpt
+893000/1612000 (epoch 1107), train_loss = 0.417, time/batch = 0.017, All_Time = 13285.904
+model saved to save/model.ckpt
+894000/1612000 (epoch 1109), train_loss = 0.487, time/batch = 0.015, All_Time = 13300.777
+model saved to save/model.ckpt
+895000/1612000 (epoch 1110), train_loss = 0.515, time/batch = 0.015, All_Time = 13315.632
+model saved to save/model.ckpt
+896000/1612000 (epoch 1111), train_loss = 0.432, time/batch = 0.015, All_Time = 13330.465
+model saved to save/model.ckpt
+897000/1612000 (epoch 1112), train_loss = 0.485, time/batch = 0.015, All_Time = 13345.329
+model saved to save/model.ckpt
+898000/1612000 (epoch 1114), train_loss = 0.562, time/batch = 0.015, All_Time = 13360.194
+model saved to save/model.ckpt
+899000/1612000 (epoch 1115), train_loss = 0.486, time/batch = 0.014, All_Time = 13375.036
+model saved to save/model.ckpt
+900000/1612000 (epoch 1116), train_loss = 0.537, time/batch = 0.015, All_Time = 13389.896
+model saved to save/model.ckpt
+901000/1612000 (epoch 1117), train_loss = 0.456, time/batch = 0.014, All_Time = 13404.739
+model saved to save/model.ckpt
+902000/1612000 (epoch 1119), train_loss = 0.511, time/batch = 0.014, All_Time = 13419.589
+model saved to save/model.ckpt
+903000/1612000 (epoch 1120), train_loss = 0.584, time/batch = 0.017, All_Time = 13434.496
+model saved to save/model.ckpt
+904000/1612000 (epoch 1121), train_loss = 0.574, time/batch = 0.014, All_Time = 13449.385
+model saved to save/model.ckpt
+905000/1612000 (epoch 1122), train_loss = 0.545, time/batch = 0.014, All_Time = 13464.243
+model saved to save/model.ckpt
+906000/1612000 (epoch 1124), train_loss = 0.453, time/batch = 0.015, All_Time = 13479.095
+model saved to save/model.ckpt
+907000/1612000 (epoch 1125), train_loss = 0.486, time/batch = 0.015, All_Time = 13493.973
+model saved to save/model.ckpt
+908000/1612000 (epoch 1126), train_loss = 0.467, time/batch = 0.014, All_Time = 13508.887
+model saved to save/model.ckpt
+909000/1612000 (epoch 1127), train_loss = 0.555, time/batch = 0.016, All_Time = 13523.712
+model saved to save/model.ckpt
+910000/1612000 (epoch 1129), train_loss = 0.470, time/batch = 0.014, All_Time = 13538.572
+model saved to save/model.ckpt
+911000/1612000 (epoch 1130), train_loss = 0.453, time/batch = 0.015, All_Time = 13553.406
+model saved to save/model.ckpt
+912000/1612000 (epoch 1131), train_loss = 0.544, time/batch = 0.016, All_Time = 13568.263
+model saved to save/model.ckpt
+913000/1612000 (epoch 1132), train_loss = 0.425, time/batch = 0.015, All_Time = 13583.118
+model saved to save/model.ckpt
+914000/1612000 (epoch 1133), train_loss = 0.508, time/batch = 0.015, All_Time = 13597.953
+model saved to save/model.ckpt
+915000/1612000 (epoch 1135), train_loss = 0.472, time/batch = 0.014, All_Time = 13612.810
+model saved to save/model.ckpt
+916000/1612000 (epoch 1136), train_loss = 0.435, time/batch = 0.014, All_Time = 13627.692
+model saved to save/model.ckpt
+917000/1612000 (epoch 1137), train_loss = 0.516, time/batch = 0.015, All_Time = 13642.528
+model saved to save/model.ckpt
+918000/1612000 (epoch 1138), train_loss = 0.549, time/batch = 0.015, All_Time = 13657.424
+model saved to save/model.ckpt
+919000/1612000 (epoch 1140), train_loss = 0.439, time/batch = 0.014, All_Time = 13672.309
+model saved to save/model.ckpt
+920000/1612000 (epoch 1141), train_loss = 0.489, time/batch = 0.014, All_Time = 13687.191
+model saved to save/model.ckpt
+921000/1612000 (epoch 1142), train_loss = 0.527, time/batch = 0.015, All_Time = 13702.079
+model saved to save/model.ckpt
+922000/1612000 (epoch 1143), train_loss = 0.430, time/batch = 0.015, All_Time = 13716.924
+model saved to save/model.ckpt
+923000/1612000 (epoch 1145), train_loss = 0.420, time/batch = 0.014, All_Time = 13731.733
+model saved to save/model.ckpt
+924000/1612000 (epoch 1146), train_loss = 0.485, time/batch = 0.015, All_Time = 13746.588
+model saved to save/model.ckpt
+925000/1612000 (epoch 1147), train_loss = 0.494, time/batch = 0.015, All_Time = 13761.422
+model saved to save/model.ckpt
+926000/1612000 (epoch 1148), train_loss = 0.561, time/batch = 0.015, All_Time = 13776.303
+model saved to save/model.ckpt
+927000/1612000 (epoch 1150), train_loss = 0.467, time/batch = 0.014, All_Time = 13791.200
+model saved to save/model.ckpt
+928000/1612000 (epoch 1151), train_loss = 0.554, time/batch = 0.015, All_Time = 13806.055
+model saved to save/model.ckpt
+929000/1612000 (epoch 1152), train_loss = 0.558, time/batch = 0.014, All_Time = 13820.910
+model saved to save/model.ckpt
+930000/1612000 (epoch 1153), train_loss = 0.461, time/batch = 0.016, All_Time = 13835.768
+model saved to save/model.ckpt
+931000/1612000 (epoch 1155), train_loss = 0.483, time/batch = 0.017, All_Time = 13850.601
+model saved to save/model.ckpt
+932000/1612000 (epoch 1156), train_loss = 0.479, time/batch = 0.014, All_Time = 13865.463
+model saved to save/model.ckpt
+933000/1612000 (epoch 1157), train_loss = 0.594, time/batch = 0.014, All_Time = 13880.384
+model saved to save/model.ckpt
+934000/1612000 (epoch 1158), train_loss = 0.484, time/batch = 0.015, All_Time = 13895.254
+model saved to save/model.ckpt
+935000/1612000 (epoch 1160), train_loss = 0.573, time/batch = 0.016, All_Time = 13910.125
+model saved to save/model.ckpt
+936000/1612000 (epoch 1161), train_loss = 0.475, time/batch = 0.014, All_Time = 13924.963
+model saved to save/model.ckpt
+937000/1612000 (epoch 1162), train_loss = 0.516, time/batch = 0.015, All_Time = 13939.794
+model saved to save/model.ckpt
+938000/1612000 (epoch 1163), train_loss = 0.531, time/batch = 0.017, All_Time = 13954.658
+model saved to save/model.ckpt
+939000/1612000 (epoch 1165), train_loss = 0.593, time/batch = 0.015, All_Time = 13969.532
+model saved to save/model.ckpt
+940000/1612000 (epoch 1166), train_loss = 0.536, time/batch = 0.014, All_Time = 13984.392
+model saved to save/model.ckpt
+941000/1612000 (epoch 1167), train_loss = 0.486, time/batch = 0.014, All_Time = 13999.228
+model saved to save/model.ckpt
+942000/1612000 (epoch 1168), train_loss = 0.480, time/batch = 0.015, All_Time = 14014.106
+model saved to save/model.ckpt
+943000/1612000 (epoch 1169), train_loss = 0.515, time/batch = 0.014, All_Time = 14028.946
+model saved to save/model.ckpt
+944000/1612000 (epoch 1171), train_loss = 0.479, time/batch = 0.015, All_Time = 14043.813
+model saved to save/model.ckpt
+945000/1612000 (epoch 1172), train_loss = 0.476, time/batch = 0.015, All_Time = 14058.699
+model saved to save/model.ckpt
+946000/1612000 (epoch 1173), train_loss = 0.464, time/batch = 0.015, All_Time = 14073.532
+model saved to save/model.ckpt
+947000/1612000 (epoch 1174), train_loss = 0.487, time/batch = 0.015, All_Time = 14088.418
+model saved to save/model.ckpt
+948000/1612000 (epoch 1176), train_loss = 0.589, time/batch = 0.014, All_Time = 14103.303
+model saved to save/model.ckpt
+949000/1612000 (epoch 1177), train_loss = 0.611, time/batch = 0.016, All_Time = 14118.170
+model saved to save/model.ckpt
+950000/1612000 (epoch 1178), train_loss = 0.429, time/batch = 0.014, All_Time = 14133.003
+model saved to save/model.ckpt
+951000/1612000 (epoch 1179), train_loss = 0.486, time/batch = 0.014, All_Time = 14147.850
+model saved to save/model.ckpt
+952000/1612000 (epoch 1181), train_loss = 0.511, time/batch = 0.015, All_Time = 14162.687
+model saved to save/model.ckpt
+953000/1612000 (epoch 1182), train_loss = 0.444, time/batch = 0.017, All_Time = 14177.537
+model saved to save/model.ckpt
+954000/1612000 (epoch 1183), train_loss = 0.503, time/batch = 0.015, All_Time = 14192.374
+model saved to save/model.ckpt
+955000/1612000 (epoch 1184), train_loss = 0.479, time/batch = 0.015, All_Time = 14207.232
+model saved to save/model.ckpt
+956000/1612000 (epoch 1186), train_loss = 0.494, time/batch = 0.015, All_Time = 14222.078
+model saved to save/model.ckpt
+957000/1612000 (epoch 1187), train_loss = 0.497, time/batch = 0.014, All_Time = 14236.943
+model saved to save/model.ckpt
+958000/1612000 (epoch 1188), train_loss = 0.544, time/batch = 0.016, All_Time = 14251.844
+model saved to save/model.ckpt
+959000/1612000 (epoch 1189), train_loss = 0.539, time/batch = 0.015, All_Time = 14266.710
+model saved to save/model.ckpt
+960000/1612000 (epoch 1191), train_loss = 0.594, time/batch = 0.014, All_Time = 14281.588
+model saved to save/model.ckpt
+961000/1612000 (epoch 1192), train_loss = 0.481, time/batch = 0.015, All_Time = 14296.454
+model saved to save/model.ckpt
+962000/1612000 (epoch 1193), train_loss = 0.487, time/batch = 0.015, All_Time = 14311.329
+model saved to save/model.ckpt
+963000/1612000 (epoch 1194), train_loss = 0.502, time/batch = 0.015, All_Time = 14326.162
+model saved to save/model.ckpt
+964000/1612000 (epoch 1196), train_loss = 0.555, time/batch = 0.014, All_Time = 14341.073
+model saved to save/model.ckpt
+965000/1612000 (epoch 1197), train_loss = 0.391, time/batch = 0.015, All_Time = 14355.904
+model saved to save/model.ckpt
+966000/1612000 (epoch 1198), train_loss = 0.451, time/batch = 0.015, All_Time = 14370.755
+model saved to save/model.ckpt
+967000/1612000 (epoch 1199), train_loss = 0.509, time/batch = 0.014, All_Time = 14385.602
+model saved to save/model.ckpt
+968000/1612000 (epoch 1200), train_loss = 0.542, time/batch = 0.015, All_Time = 14400.436
+model saved to save/model.ckpt
+969000/1612000 (epoch 1202), train_loss = 0.650, time/batch = 0.014, All_Time = 14415.344
+model saved to save/model.ckpt
+970000/1612000 (epoch 1203), train_loss = 0.548, time/batch = 0.015, All_Time = 14430.192
+model saved to save/model.ckpt
+971000/1612000 (epoch 1204), train_loss = 0.475, time/batch = 0.015, All_Time = 14445.008
+model saved to save/model.ckpt
+972000/1612000 (epoch 1205), train_loss = 0.443, time/batch = 0.015, All_Time = 14459.853
+model saved to save/model.ckpt
+973000/1612000 (epoch 1207), train_loss = 0.446, time/batch = 0.014, All_Time = 14474.704
+model saved to save/model.ckpt
+974000/1612000 (epoch 1208), train_loss = 0.474, time/batch = 0.014, All_Time = 14489.521
+model saved to save/model.ckpt
+975000/1612000 (epoch 1209), train_loss = 0.573, time/batch = 0.014, All_Time = 14504.310
+model saved to save/model.ckpt
+976000/1612000 (epoch 1210), train_loss = 0.474, time/batch = 0.014, All_Time = 14519.151
+model saved to save/model.ckpt
+977000/1612000 (epoch 1212), train_loss = 0.442, time/batch = 0.015, All_Time = 14534.034
+model saved to save/model.ckpt
+978000/1612000 (epoch 1213), train_loss = 0.499, time/batch = 0.017, All_Time = 14548.907
+model saved to save/model.ckpt
+979000/1612000 (epoch 1214), train_loss = 0.506, time/batch = 0.016, All_Time = 14563.780
+model saved to save/model.ckpt
+980000/1612000 (epoch 1215), train_loss = 0.474, time/batch = 0.015, All_Time = 14578.602
+model saved to save/model.ckpt
+981000/1612000 (epoch 1217), train_loss = 0.491, time/batch = 0.015, All_Time = 14593.469
+model saved to save/model.ckpt
+982000/1612000 (epoch 1218), train_loss = 0.442, time/batch = 0.015, All_Time = 14608.298
+model saved to save/model.ckpt
+983000/1612000 (epoch 1219), train_loss = 0.459, time/batch = 0.014, All_Time = 14623.160
+model saved to save/model.ckpt
+984000/1612000 (epoch 1220), train_loss = 0.525, time/batch = 0.014, All_Time = 14637.988
+model saved to save/model.ckpt
+985000/1612000 (epoch 1222), train_loss = 0.510, time/batch = 0.016, All_Time = 14652.866
+model saved to save/model.ckpt
+986000/1612000 (epoch 1223), train_loss = 0.522, time/batch = 0.017, All_Time = 14667.712
+model saved to save/model.ckpt
+987000/1612000 (epoch 1224), train_loss = 0.574, time/batch = 0.015, All_Time = 14682.555
+model saved to save/model.ckpt
+988000/1612000 (epoch 1225), train_loss = 0.535, time/batch = 0.016, All_Time = 14697.377
+model saved to save/model.ckpt
+989000/1612000 (epoch 1227), train_loss = 0.576, time/batch = 0.014, All_Time = 14712.212
+model saved to save/model.ckpt
+990000/1612000 (epoch 1228), train_loss = 0.475, time/batch = 0.014, All_Time = 14727.042
+model saved to save/model.ckpt
+991000/1612000 (epoch 1229), train_loss = 0.528, time/batch = 0.015, All_Time = 14741.899
+model saved to save/model.ckpt
+992000/1612000 (epoch 1230), train_loss = 0.547, time/batch = 0.016, All_Time = 14756.732
+model saved to save/model.ckpt
+993000/1612000 (epoch 1232), train_loss = 0.505, time/batch = 0.015, All_Time = 14771.614
+model saved to save/model.ckpt
+994000/1612000 (epoch 1233), train_loss = 0.561, time/batch = 0.015, All_Time = 14786.425
+model saved to save/model.ckpt
+995000/1612000 (epoch 1234), train_loss = 0.574, time/batch = 0.016, All_Time = 14801.268
+model saved to save/model.ckpt
+996000/1612000 (epoch 1235), train_loss = 0.522, time/batch = 0.016, All_Time = 14816.119
+model saved to save/model.ckpt
+997000/1612000 (epoch 1236), train_loss = 0.557, time/batch = 0.016, All_Time = 14830.987
+model saved to save/model.ckpt
+998000/1612000 (epoch 1238), train_loss = 0.462, time/batch = 0.014, All_Time = 14845.847
+model saved to save/model.ckpt
+999000/1612000 (epoch 1239), train_loss = 0.432, time/batch = 0.015, All_Time = 14860.694
+model saved to save/model.ckpt
+1000000/1612000 (epoch 1240), train_loss = 0.539, time/batch = 0.014, All_Time = 14875.534
+model saved to save/model.ckpt
+1001000/1612000 (epoch 1241), train_loss = 0.467, time/batch = 0.015, All_Time = 14890.366
+model saved to save/model.ckpt
+1002000/1612000 (epoch 1243), train_loss = 0.516, time/batch = 0.015, All_Time = 14905.222
+model saved to save/model.ckpt
+1003000/1612000 (epoch 1244), train_loss = 0.455, time/batch = 0.016, All_Time = 14920.093
+model saved to save/model.ckpt
+1004000/1612000 (epoch 1245), train_loss = 0.567, time/batch = 0.015, All_Time = 14935.023
+model saved to save/model.ckpt
+1005000/1612000 (epoch 1246), train_loss = 0.465, time/batch = 0.014, All_Time = 14949.908
+model saved to save/model.ckpt
+1006000/1612000 (epoch 1248), train_loss = 0.464, time/batch = 0.015, All_Time = 14964.793
+model saved to save/model.ckpt
+1007000/1612000 (epoch 1249), train_loss = 0.443, time/batch = 0.014, All_Time = 14979.649
+model saved to save/model.ckpt
+1008000/1612000 (epoch 1250), train_loss = 0.489, time/batch = 0.014, All_Time = 14994.503
+model saved to save/model.ckpt
+1009000/1612000 (epoch 1251), train_loss = 0.487, time/batch = 0.017, All_Time = 15009.344
+model saved to save/model.ckpt
+1010000/1612000 (epoch 1253), train_loss = 0.529, time/batch = 0.014, All_Time = 15024.167
+model saved to save/model.ckpt
+1011000/1612000 (epoch 1254), train_loss = 0.454, time/batch = 0.016, All_Time = 15039.052
+model saved to save/model.ckpt
+1012000/1612000 (epoch 1255), train_loss = 0.480, time/batch = 0.015, All_Time = 15053.886
+model saved to save/model.ckpt
+1013000/1612000 (epoch 1256), train_loss = 0.517, time/batch = 0.015, All_Time = 15068.736
+model saved to save/model.ckpt
+1014000/1612000 (epoch 1258), train_loss = 0.398, time/batch = 0.014, All_Time = 15083.633
+model saved to save/model.ckpt
+1015000/1612000 (epoch 1259), train_loss = 0.442, time/batch = 0.014, All_Time = 15098.551
+model saved to save/model.ckpt
+1016000/1612000 (epoch 1260), train_loss = 0.538, time/batch = 0.014, All_Time = 15113.440
+model saved to save/model.ckpt
+1017000/1612000 (epoch 1261), train_loss = 0.495, time/batch = 0.014, All_Time = 15128.260
+model saved to save/model.ckpt
+1018000/1612000 (epoch 1263), train_loss = 0.473, time/batch = 0.014, All_Time = 15143.098
+model saved to save/model.ckpt
+1019000/1612000 (epoch 1264), train_loss = 0.484, time/batch = 0.015, All_Time = 15157.981
+model saved to save/model.ckpt
+1020000/1612000 (epoch 1265), train_loss = 0.517, time/batch = 0.017, All_Time = 15172.874
+model saved to save/model.ckpt
+1021000/1612000 (epoch 1266), train_loss = 0.398, time/batch = 0.015, All_Time = 15187.752
+model saved to save/model.ckpt
+1022000/1612000 (epoch 1267), train_loss = 0.421, time/batch = 0.015, All_Time = 15202.640
+model saved to save/model.ckpt
+1023000/1612000 (epoch 1269), train_loss = 0.481, time/batch = 0.015, All_Time = 15217.492
+model saved to save/model.ckpt
+1024000/1612000 (epoch 1270), train_loss = 0.475, time/batch = 0.015, All_Time = 15232.365
+model saved to save/model.ckpt
+1025000/1612000 (epoch 1271), train_loss = 0.449, time/batch = 0.017, All_Time = 15247.213
+model saved to save/model.ckpt
+1026000/1612000 (epoch 1272), train_loss = 0.508, time/batch = 0.017, All_Time = 15262.073
+model saved to save/model.ckpt
+1027000/1612000 (epoch 1274), train_loss = 0.626, time/batch = 0.015, All_Time = 15276.991
+model saved to save/model.ckpt
+1028000/1612000 (epoch 1275), train_loss = 0.462, time/batch = 0.015, All_Time = 15291.938
+model saved to save/model.ckpt
+1029000/1612000 (epoch 1276), train_loss = 0.484, time/batch = 0.015, All_Time = 15306.801
+model saved to save/model.ckpt
+1030000/1612000 (epoch 1277), train_loss = 0.459, time/batch = 0.015, All_Time = 15321.638
+model saved to save/model.ckpt
+1031000/1612000 (epoch 1279), train_loss = 0.479, time/batch = 0.015, All_Time = 15336.494
+model saved to save/model.ckpt
+1032000/1612000 (epoch 1280), train_loss = 0.582, time/batch = 0.014, All_Time = 15351.325
+model saved to save/model.ckpt
+1033000/1612000 (epoch 1281), train_loss = 0.565, time/batch = 0.017, All_Time = 15366.226
+model saved to save/model.ckpt
+1034000/1612000 (epoch 1282), train_loss = 0.547, time/batch = 0.014, All_Time = 15381.077
+model saved to save/model.ckpt
+1035000/1612000 (epoch 1284), train_loss = 0.454, time/batch = 0.015, All_Time = 15395.964
+model saved to save/model.ckpt
+1036000/1612000 (epoch 1285), train_loss = 0.542, time/batch = 0.015, All_Time = 15410.809
+model saved to save/model.ckpt
+1037000/1612000 (epoch 1286), train_loss = 0.482, time/batch = 0.017, All_Time = 15425.597
+model saved to save/model.ckpt
+1038000/1612000 (epoch 1287), train_loss = 0.524, time/batch = 0.015, All_Time = 15440.427
+model saved to save/model.ckpt
+1039000/1612000 (epoch 1289), train_loss = 0.511, time/batch = 0.016, All_Time = 15455.313
+model saved to save/model.ckpt
+1040000/1612000 (epoch 1290), train_loss = 0.519, time/batch = 0.014, All_Time = 15470.134
+model saved to save/model.ckpt
+1041000/1612000 (epoch 1291), train_loss = 0.443, time/batch = 0.014, All_Time = 15485.026
+model saved to save/model.ckpt
+1042000/1612000 (epoch 1292), train_loss = 0.502, time/batch = 0.015, All_Time = 15499.882
+model saved to save/model.ckpt
+1043000/1612000 (epoch 1294), train_loss = 0.542, time/batch = 0.015, All_Time = 15514.741
+model saved to save/model.ckpt
+1044000/1612000 (epoch 1295), train_loss = 0.575, time/batch = 0.015, All_Time = 15529.601
+model saved to save/model.ckpt
+1045000/1612000 (epoch 1296), train_loss = 0.457, time/batch = 0.015, All_Time = 15544.490
+model saved to save/model.ckpt
+1046000/1612000 (epoch 1297), train_loss = 0.489, time/batch = 0.017, All_Time = 15559.369
+model saved to save/model.ckpt
+1047000/1612000 (epoch 1299), train_loss = 0.501, time/batch = 0.014, All_Time = 15574.187
+model saved to save/model.ckpt
+1048000/1612000 (epoch 1300), train_loss = 0.467, time/batch = 0.015, All_Time = 15589.019
+model saved to save/model.ckpt
+1049000/1612000 (epoch 1301), train_loss = 0.531, time/batch = 0.014, All_Time = 15603.850
+model saved to save/model.ckpt
+1050000/1612000 (epoch 1302), train_loss = 0.522, time/batch = 0.015, All_Time = 15618.696
+model saved to save/model.ckpt
+1051000/1612000 (epoch 1303), train_loss = 0.479, time/batch = 0.032, All_Time = 15633.604
+model saved to save/model.ckpt
+1052000/1612000 (epoch 1305), train_loss = 0.478, time/batch = 0.017, All_Time = 15648.457
+model saved to save/model.ckpt
+1053000/1612000 (epoch 1306), train_loss = 0.526, time/batch = 0.015, All_Time = 15663.329
+model saved to save/model.ckpt
+1054000/1612000 (epoch 1307), train_loss = 0.532, time/batch = 0.015, All_Time = 15678.157
+model saved to save/model.ckpt
+1055000/1612000 (epoch 1308), train_loss = 0.447, time/batch = 0.014, All_Time = 15693.011
+model saved to save/model.ckpt
+1056000/1612000 (epoch 1310), train_loss = 0.577, time/batch = 0.015, All_Time = 15707.825
+model saved to save/model.ckpt
+1057000/1612000 (epoch 1311), train_loss = 0.481, time/batch = 0.015, All_Time = 15722.689
+model saved to save/model.ckpt
+1058000/1612000 (epoch 1312), train_loss = 0.585, time/batch = 0.015, All_Time = 15737.518
+model saved to save/model.ckpt
+1059000/1612000 (epoch 1313), train_loss = 0.515, time/batch = 0.015, All_Time = 15752.437
+model saved to save/model.ckpt
+1060000/1612000 (epoch 1315), train_loss = 0.498, time/batch = 0.015, All_Time = 15767.310
+model saved to save/model.ckpt
+1061000/1612000 (epoch 1316), train_loss = 0.588, time/batch = 0.015, All_Time = 15782.188
+model saved to save/model.ckpt
+1062000/1612000 (epoch 1317), train_loss = 0.523, time/batch = 0.015, All_Time = 15797.091
+model saved to save/model.ckpt
+1063000/1612000 (epoch 1318), train_loss = 0.412, time/batch = 0.015, All_Time = 15811.957
+model saved to save/model.ckpt
+1064000/1612000 (epoch 1320), train_loss = 0.437, time/batch = 0.016, All_Time = 15826.810
+model saved to save/model.ckpt
+1065000/1612000 (epoch 1321), train_loss = 0.466, time/batch = 0.015, All_Time = 15841.613
+model saved to save/model.ckpt
+1066000/1612000 (epoch 1322), train_loss = 0.574, time/batch = 0.016, All_Time = 15856.478
+model saved to save/model.ckpt
+1067000/1612000 (epoch 1323), train_loss = 0.518, time/batch = 0.015, All_Time = 15871.329
+model saved to save/model.ckpt
+1068000/1612000 (epoch 1325), train_loss = 0.541, time/batch = 0.014, All_Time = 15886.206
+model saved to save/model.ckpt
+1069000/1612000 (epoch 1326), train_loss = 0.495, time/batch = 0.015, All_Time = 15901.066
+model saved to save/model.ckpt
+1070000/1612000 (epoch 1327), train_loss = 0.515, time/batch = 0.014, All_Time = 15915.951
+model saved to save/model.ckpt
+1071000/1612000 (epoch 1328), train_loss = 0.528, time/batch = 0.014, All_Time = 15930.881
+model saved to save/model.ckpt
+1072000/1612000 (epoch 1330), train_loss = 0.527, time/batch = 0.017, All_Time = 15945.739
+model saved to save/model.ckpt
+1073000/1612000 (epoch 1331), train_loss = 0.527, time/batch = 0.017, All_Time = 15960.600
+model saved to save/model.ckpt
+1074000/1612000 (epoch 1332), train_loss = 0.439, time/batch = 0.015, All_Time = 15975.511
+model saved to save/model.ckpt
+1075000/1612000 (epoch 1333), train_loss = 0.532, time/batch = 0.015, All_Time = 15990.419
+model saved to save/model.ckpt
+1076000/1612000 (epoch 1334), train_loss = 0.472, time/batch = 0.015, All_Time = 16005.286
+model saved to save/model.ckpt
+1077000/1612000 (epoch 1336), train_loss = 0.489, time/batch = 0.015, All_Time = 16020.150
+model saved to save/model.ckpt
+1078000/1612000 (epoch 1337), train_loss = 0.613, time/batch = 0.015, All_Time = 16035.069
+model saved to save/model.ckpt
+1079000/1612000 (epoch 1338), train_loss = 0.450, time/batch = 0.014, All_Time = 16049.924
+model saved to save/model.ckpt
+1080000/1612000 (epoch 1339), train_loss = 0.513, time/batch = 0.015, All_Time = 16064.799
+model saved to save/model.ckpt
+1081000/1612000 (epoch 1341), train_loss = 0.556, time/batch = 0.015, All_Time = 16079.672
+model saved to save/model.ckpt
+1082000/1612000 (epoch 1342), train_loss = 0.480, time/batch = 0.015, All_Time = 16094.542
+model saved to save/model.ckpt
+1083000/1612000 (epoch 1343), train_loss = 0.609, time/batch = 0.015, All_Time = 16109.434
+model saved to save/model.ckpt
+1084000/1612000 (epoch 1344), train_loss = 0.566, time/batch = 0.017, All_Time = 16124.345
+model saved to save/model.ckpt
+1085000/1612000 (epoch 1346), train_loss = 0.466, time/batch = 0.015, All_Time = 16139.241
+model saved to save/model.ckpt
+1086000/1612000 (epoch 1347), train_loss = 0.553, time/batch = 0.014, All_Time = 16154.113
+model saved to save/model.ckpt
+1087000/1612000 (epoch 1348), train_loss = 0.493, time/batch = 0.015, All_Time = 16169.018
+model saved to save/model.ckpt
+1088000/1612000 (epoch 1349), train_loss = 0.559, time/batch = 0.015, All_Time = 16183.909
+model saved to save/model.ckpt
+1089000/1612000 (epoch 1351), train_loss = 0.420, time/batch = 0.015, All_Time = 16198.796
+model saved to save/model.ckpt
+1090000/1612000 (epoch 1352), train_loss = 0.470, time/batch = 0.014, All_Time = 16213.682
+model saved to save/model.ckpt
+1091000/1612000 (epoch 1353), train_loss = 0.553, time/batch = 0.015, All_Time = 16228.542
+model saved to save/model.ckpt
+1092000/1612000 (epoch 1354), train_loss = 0.540, time/batch = 0.015, All_Time = 16243.427
+model saved to save/model.ckpt
+1093000/1612000 (epoch 1356), train_loss = 0.463, time/batch = 0.015, All_Time = 16258.278
+model saved to save/model.ckpt
+1094000/1612000 (epoch 1357), train_loss = 0.415, time/batch = 0.015, All_Time = 16273.156
+model saved to save/model.ckpt
+1095000/1612000 (epoch 1358), train_loss = 0.492, time/batch = 0.014, All_Time = 16287.996
+model saved to save/model.ckpt
+1096000/1612000 (epoch 1359), train_loss = 0.468, time/batch = 0.015, All_Time = 16302.879
+model saved to save/model.ckpt
+1097000/1612000 (epoch 1361), train_loss = 0.527, time/batch = 0.015, All_Time = 16317.780
+model saved to save/model.ckpt
+1098000/1612000 (epoch 1362), train_loss = 0.554, time/batch = 0.014, All_Time = 16332.624
+model saved to save/model.ckpt
+1099000/1612000 (epoch 1363), train_loss = 0.514, time/batch = 0.015, All_Time = 16347.459
+model saved to save/model.ckpt
+1100000/1612000 (epoch 1364), train_loss = 0.554, time/batch = 0.015, All_Time = 16362.342
+model saved to save/model.ckpt
+1101000/1612000 (epoch 1366), train_loss = 0.563, time/batch = 0.014, All_Time = 16377.202
+model saved to save/model.ckpt
+1102000/1612000 (epoch 1367), train_loss = 0.532, time/batch = 0.015, All_Time = 16392.056
+model saved to save/model.ckpt
+1103000/1612000 (epoch 1368), train_loss = 0.442, time/batch = 0.016, All_Time = 16406.962
+model saved to save/model.ckpt
+1104000/1612000 (epoch 1369), train_loss = 0.516, time/batch = 0.016, All_Time = 16421.830
+model saved to save/model.ckpt
+1105000/1612000 (epoch 1370), train_loss = 0.581, time/batch = 0.016, All_Time = 16436.700
+model saved to save/model.ckpt
+1106000/1612000 (epoch 1372), train_loss = 0.478, time/batch = 0.015, All_Time = 16451.577
+model saved to save/model.ckpt
+1107000/1612000 (epoch 1373), train_loss = 0.446, time/batch = 0.016, All_Time = 16466.458
+model saved to save/model.ckpt
+1108000/1612000 (epoch 1374), train_loss = 0.556, time/batch = 0.014, All_Time = 16481.310
+model saved to save/model.ckpt
+1109000/1612000 (epoch 1375), train_loss = 0.539, time/batch = 0.014, All_Time = 16496.170
+model saved to save/model.ckpt
+1110000/1612000 (epoch 1377), train_loss = 0.510, time/batch = 0.015, All_Time = 16511.048
+model saved to save/model.ckpt
+1111000/1612000 (epoch 1378), train_loss = 0.550, time/batch = 0.014, All_Time = 16525.913
+model saved to save/model.ckpt
+1112000/1612000 (epoch 1379), train_loss = 0.603, time/batch = 0.017, All_Time = 16540.795
+model saved to save/model.ckpt
+1113000/1612000 (epoch 1380), train_loss = 0.467, time/batch = 0.015, All_Time = 16555.651
+model saved to save/model.ckpt
+1114000/1612000 (epoch 1382), train_loss = 0.447, time/batch = 0.015, All_Time = 16570.495
+model saved to save/model.ckpt
+1115000/1612000 (epoch 1383), train_loss = 0.531, time/batch = 0.014, All_Time = 16585.364
+model saved to save/model.ckpt
+1116000/1612000 (epoch 1384), train_loss = 0.511, time/batch = 0.014, All_Time = 16600.224
+model saved to save/model.ckpt
+1117000/1612000 (epoch 1385), train_loss = 0.458, time/batch = 0.015, All_Time = 16615.056
+model saved to save/model.ckpt
+1118000/1612000 (epoch 1387), train_loss = 0.528, time/batch = 0.015, All_Time = 16629.944
+model saved to save/model.ckpt
+1119000/1612000 (epoch 1388), train_loss = 0.486, time/batch = 0.017, All_Time = 16644.802
+model saved to save/model.ckpt
+1120000/1612000 (epoch 1389), train_loss = 0.501, time/batch = 0.015, All_Time = 16659.678
+model saved to save/model.ckpt
+1121000/1612000 (epoch 1390), train_loss = 0.472, time/batch = 0.017, All_Time = 16674.538
+model saved to save/model.ckpt
+1122000/1612000 (epoch 1392), train_loss = 0.471, time/batch = 0.015, All_Time = 16689.393
+model saved to save/model.ckpt
+1123000/1612000 (epoch 1393), train_loss = 0.453, time/batch = 0.017, All_Time = 16704.215
+model saved to save/model.ckpt
+1124000/1612000 (epoch 1394), train_loss = 0.420, time/batch = 0.014, All_Time = 16719.081
+model saved to save/model.ckpt
+1125000/1612000 (epoch 1395), train_loss = 0.511, time/batch = 0.015, All_Time = 16733.939
+model saved to save/model.ckpt
+1126000/1612000 (epoch 1397), train_loss = 0.529, time/batch = 0.014, All_Time = 16748.792
+model saved to save/model.ckpt
+1127000/1612000 (epoch 1398), train_loss = 0.442, time/batch = 0.014, All_Time = 16763.630
+model saved to save/model.ckpt
+1128000/1612000 (epoch 1399), train_loss = 0.544, time/batch = 0.014, All_Time = 16778.489
+model saved to save/model.ckpt
+1129000/1612000 (epoch 1400), train_loss = 0.498, time/batch = 0.014, All_Time = 16793.342
+model saved to save/model.ckpt
+1130000/1612000 (epoch 1401), train_loss = 0.563, time/batch = 0.015, All_Time = 16808.237
+model saved to save/model.ckpt
+1131000/1612000 (epoch 1403), train_loss = 0.599, time/batch = 0.014, All_Time = 16823.082
+model saved to save/model.ckpt
+1132000/1612000 (epoch 1404), train_loss = 0.458, time/batch = 0.015, All_Time = 16837.910
+model saved to save/model.ckpt
+1133000/1612000 (epoch 1405), train_loss = 0.460, time/batch = 0.016, All_Time = 16852.775
+model saved to save/model.ckpt
+1134000/1612000 (epoch 1406), train_loss = 0.500, time/batch = 0.015, All_Time = 16867.673
+model saved to save/model.ckpt
+1135000/1612000 (epoch 1408), train_loss = 0.466, time/batch = 0.017, All_Time = 16882.597
+model saved to save/model.ckpt
+1136000/1612000 (epoch 1409), train_loss = 0.461, time/batch = 0.015, All_Time = 16897.487
+model saved to save/model.ckpt
+1137000/1612000 (epoch 1410), train_loss = 0.556, time/batch = 0.014, All_Time = 16912.391
+model saved to save/model.ckpt
+1138000/1612000 (epoch 1411), train_loss = 0.562, time/batch = 0.014, All_Time = 16927.282
+model saved to save/model.ckpt
+1139000/1612000 (epoch 1413), train_loss = 0.597, time/batch = 0.014, All_Time = 16942.144
+model saved to save/model.ckpt
+1140000/1612000 (epoch 1414), train_loss = 0.527, time/batch = 0.015, All_Time = 16957.014
+model saved to save/model.ckpt
+1141000/1612000 (epoch 1415), train_loss = 0.455, time/batch = 0.015, All_Time = 16971.898
+model saved to save/model.ckpt
+1142000/1612000 (epoch 1416), train_loss = 0.509, time/batch = 0.015, All_Time = 16986.764
+model saved to save/model.ckpt
+1143000/1612000 (epoch 1418), train_loss = 0.578, time/batch = 0.015, All_Time = 17001.689
+model saved to save/model.ckpt
+1144000/1612000 (epoch 1419), train_loss = 0.540, time/batch = 0.015, All_Time = 17016.554
+model saved to save/model.ckpt
+1145000/1612000 (epoch 1420), train_loss = 0.515, time/batch = 0.015, All_Time = 17031.452
+model saved to save/model.ckpt
+1146000/1612000 (epoch 1421), train_loss = 0.488, time/batch = 0.015, All_Time = 17046.290
+model saved to save/model.ckpt
+1147000/1612000 (epoch 1423), train_loss = 0.475, time/batch = 0.015, All_Time = 17061.170
+model saved to save/model.ckpt
+1148000/1612000 (epoch 1424), train_loss = 0.593, time/batch = 0.015, All_Time = 17076.051
+model saved to save/model.ckpt
+1149000/1612000 (epoch 1425), train_loss = 0.535, time/batch = 0.015, All_Time = 17090.950
+model saved to save/model.ckpt
+1150000/1612000 (epoch 1426), train_loss = 0.481, time/batch = 0.014, All_Time = 17105.832
+model saved to save/model.ckpt
+1151000/1612000 (epoch 1428), train_loss = 0.571, time/batch = 0.015, All_Time = 17120.705
+model saved to save/model.ckpt
+1152000/1612000 (epoch 1429), train_loss = 0.555, time/batch = 0.016, All_Time = 17135.553
+model saved to save/model.ckpt
+1153000/1612000 (epoch 1430), train_loss = 0.514, time/batch = 0.015, All_Time = 17150.385
+model saved to save/model.ckpt
+1154000/1612000 (epoch 1431), train_loss = 0.432, time/batch = 0.015, All_Time = 17165.237
+model saved to save/model.ckpt
+1155000/1612000 (epoch 1433), train_loss = 0.464, time/batch = 0.015, All_Time = 17180.109
+model saved to save/model.ckpt
+1156000/1612000 (epoch 1434), train_loss = 0.455, time/batch = 0.015, All_Time = 17194.999
+model saved to save/model.ckpt
+1157000/1612000 (epoch 1435), train_loss = 0.454, time/batch = 0.014, All_Time = 17209.870
+model saved to save/model.ckpt
+1158000/1612000 (epoch 1436), train_loss = 0.453, time/batch = 0.017, All_Time = 17224.793
+model saved to save/model.ckpt
+1159000/1612000 (epoch 1437), train_loss = 0.595, time/batch = 0.014, All_Time = 17239.649
+model saved to save/model.ckpt
+1160000/1612000 (epoch 1439), train_loss = 0.468, time/batch = 0.016, All_Time = 17254.464
+model saved to save/model.ckpt
+1161000/1612000 (epoch 1440), train_loss = 0.529, time/batch = 0.014, All_Time = 17269.349
+model saved to save/model.ckpt
+1162000/1612000 (epoch 1441), train_loss = 0.571, time/batch = 0.015, All_Time = 17284.245
+model saved to save/model.ckpt
+1163000/1612000 (epoch 1442), train_loss = 0.540, time/batch = 0.014, All_Time = 17299.116
+model saved to save/model.ckpt
+1164000/1612000 (epoch 1444), train_loss = 0.464, time/batch = 0.014, All_Time = 17313.959
+model saved to save/model.ckpt
+1165000/1612000 (epoch 1445), train_loss = 0.537, time/batch = 0.015, All_Time = 17328.825
+model saved to save/model.ckpt
+1166000/1612000 (epoch 1446), train_loss = 0.557, time/batch = 0.015, All_Time = 17343.743
+model saved to save/model.ckpt
+1167000/1612000 (epoch 1447), train_loss = 0.494, time/batch = 0.015, All_Time = 17358.629
+model saved to save/model.ckpt
+1168000/1612000 (epoch 1449), train_loss = 0.598, time/batch = 0.015, All_Time = 17373.481
+model saved to save/model.ckpt
+1169000/1612000 (epoch 1450), train_loss = 0.536, time/batch = 0.014, All_Time = 17388.383
+model saved to save/model.ckpt
+1170000/1612000 (epoch 1451), train_loss = 0.538, time/batch = 0.017, All_Time = 17403.260
+model saved to save/model.ckpt
+1171000/1612000 (epoch 1452), train_loss = 0.492, time/batch = 0.015, All_Time = 17418.150
+model saved to save/model.ckpt
+1172000/1612000 (epoch 1454), train_loss = 0.455, time/batch = 0.015, All_Time = 17433.006
+model saved to save/model.ckpt
+1173000/1612000 (epoch 1455), train_loss = 0.500, time/batch = 0.014, All_Time = 17447.882
+model saved to save/model.ckpt
+1174000/1612000 (epoch 1456), train_loss = 0.561, time/batch = 0.014, All_Time = 17462.750
+model saved to save/model.ckpt
+1175000/1612000 (epoch 1457), train_loss = 0.595, time/batch = 0.015, All_Time = 17477.618
+model saved to save/model.ckpt
+1176000/1612000 (epoch 1459), train_loss = 0.516, time/batch = 0.015, All_Time = 17492.502
+model saved to save/model.ckpt
+1177000/1612000 (epoch 1460), train_loss = 0.577, time/batch = 0.015, All_Time = 17507.358
+model saved to save/model.ckpt
+1178000/1612000 (epoch 1461), train_loss = 0.523, time/batch = 0.014, All_Time = 17522.252
+model saved to save/model.ckpt
+1179000/1612000 (epoch 1462), train_loss = 0.498, time/batch = 0.016, All_Time = 17537.077
+model saved to save/model.ckpt
+1180000/1612000 (epoch 1464), train_loss = 0.506, time/batch = 0.015, All_Time = 17551.953
+model saved to save/model.ckpt
+1181000/1612000 (epoch 1465), train_loss = 0.518, time/batch = 0.014, All_Time = 17566.801
+model saved to save/model.ckpt
+1182000/1612000 (epoch 1466), train_loss = 0.448, time/batch = 0.014, All_Time = 17581.671
+model saved to save/model.ckpt
+1183000/1612000 (epoch 1467), train_loss = 0.517, time/batch = 0.015, All_Time = 17596.535
+model saved to save/model.ckpt
+1184000/1612000 (epoch 1468), train_loss = 0.397, time/batch = 0.015, All_Time = 17611.424
+model saved to save/model.ckpt
+1185000/1612000 (epoch 1470), train_loss = 0.404, time/batch = 0.016, All_Time = 17626.299
+model saved to save/model.ckpt
+1186000/1612000 (epoch 1471), train_loss = 0.525, time/batch = 0.014, All_Time = 17641.171
+model saved to save/model.ckpt
+1187000/1612000 (epoch 1472), train_loss = 0.510, time/batch = 0.015, All_Time = 17656.017
+model saved to save/model.ckpt
+1188000/1612000 (epoch 1473), train_loss = 0.569, time/batch = 0.014, All_Time = 17670.883
+model saved to save/model.ckpt
+1189000/1612000 (epoch 1475), train_loss = 0.546, time/batch = 0.015, All_Time = 17685.774
+model saved to save/model.ckpt
+1190000/1612000 (epoch 1476), train_loss = 0.482, time/batch = 0.015, All_Time = 17700.658
+model saved to save/model.ckpt
+1191000/1612000 (epoch 1477), train_loss = 0.414, time/batch = 0.017, All_Time = 17715.507
+model saved to save/model.ckpt
+1192000/1612000 (epoch 1478), train_loss = 0.532, time/batch = 0.014, All_Time = 17730.400
+model saved to save/model.ckpt
+1193000/1612000 (epoch 1480), train_loss = 0.397, time/batch = 0.015, All_Time = 17745.247
+model saved to save/model.ckpt
+1194000/1612000 (epoch 1481), train_loss = 0.524, time/batch = 0.014, All_Time = 17760.117
+model saved to save/model.ckpt
+1195000/1612000 (epoch 1482), train_loss = 0.501, time/batch = 0.015, All_Time = 17774.976
+model saved to save/model.ckpt
+1196000/1612000 (epoch 1483), train_loss = 0.536, time/batch = 0.015, All_Time = 17789.857
+model saved to save/model.ckpt
+1197000/1612000 (epoch 1485), train_loss = 0.451, time/batch = 0.014, All_Time = 17804.760
+model saved to save/model.ckpt
+1198000/1612000 (epoch 1486), train_loss = 0.472, time/batch = 0.014, All_Time = 17819.629
+model saved to save/model.ckpt
+1199000/1612000 (epoch 1487), train_loss = 0.582, time/batch = 0.015, All_Time = 17834.549
+model saved to save/model.ckpt
+1200000/1612000 (epoch 1488), train_loss = 0.499, time/batch = 0.015, All_Time = 17849.407
+model saved to save/model.ckpt
+1201000/1612000 (epoch 1490), train_loss = 0.461, time/batch = 0.015, All_Time = 17864.269
+model saved to save/model.ckpt
+1202000/1612000 (epoch 1491), train_loss = 0.574, time/batch = 0.015, All_Time = 17879.158
+model saved to save/model.ckpt
+1203000/1612000 (epoch 1492), train_loss = 0.472, time/batch = 0.015, All_Time = 17894.017
+model saved to save/model.ckpt
+1204000/1612000 (epoch 1493), train_loss = 0.489, time/batch = 0.015, All_Time = 17908.899
+model saved to save/model.ckpt
+1205000/1612000 (epoch 1495), train_loss = 0.645, time/batch = 0.015, All_Time = 17923.803
+model saved to save/model.ckpt
+1206000/1612000 (epoch 1496), train_loss = 0.439, time/batch = 0.015, All_Time = 17938.642
+model saved to save/model.ckpt
+1207000/1612000 (epoch 1497), train_loss = 0.562, time/batch = 0.016, All_Time = 17953.496
+model saved to save/model.ckpt
+1208000/1612000 (epoch 1498), train_loss = 0.474, time/batch = 0.014, All_Time = 17968.326
+model saved to save/model.ckpt
+1209000/1612000 (epoch 1500), train_loss = 0.337, time/batch = 0.015, All_Time = 17983.153
+model saved to save/model.ckpt
+1210000/1612000 (epoch 1501), train_loss = 0.577, time/batch = 0.015, All_Time = 17998.060
+model saved to save/model.ckpt
+1211000/1612000 (epoch 1502), train_loss = 0.524, time/batch = 0.014, All_Time = 18012.924
+model saved to save/model.ckpt
+1212000/1612000 (epoch 1503), train_loss = 0.529, time/batch = 0.015, All_Time = 18027.780
+model saved to save/model.ckpt
+1213000/1612000 (epoch 1504), train_loss = 0.474, time/batch = 0.015, All_Time = 18042.604
+model saved to save/model.ckpt
+1214000/1612000 (epoch 1506), train_loss = 0.524, time/batch = 0.015, All_Time = 18057.437
+model saved to save/model.ckpt
+1215000/1612000 (epoch 1507), train_loss = 0.571, time/batch = 0.014, All_Time = 18072.271
+model saved to save/model.ckpt
+1216000/1612000 (epoch 1508), train_loss = 0.419, time/batch = 0.014, All_Time = 18087.101
+model saved to save/model.ckpt
+1217000/1612000 (epoch 1509), train_loss = 0.626, time/batch = 0.015, All_Time = 18102.018
+model saved to save/model.ckpt
+1218000/1612000 (epoch 1511), train_loss = 0.478, time/batch = 0.015, All_Time = 18116.887
+model saved to save/model.ckpt
+1219000/1612000 (epoch 1512), train_loss = 0.510, time/batch = 0.014, All_Time = 18131.767
+model saved to save/model.ckpt
+1220000/1612000 (epoch 1513), train_loss = 0.542, time/batch = 0.015, All_Time = 18146.703
+model saved to save/model.ckpt
+1221000/1612000 (epoch 1514), train_loss = 0.503, time/batch = 0.016, All_Time = 18161.597
+model saved to save/model.ckpt
+1222000/1612000 (epoch 1516), train_loss = 0.577, time/batch = 0.015, All_Time = 18176.499
+model saved to save/model.ckpt
+1223000/1612000 (epoch 1517), train_loss = 0.491, time/batch = 0.017, All_Time = 18191.347
+model saved to save/model.ckpt
+1224000/1612000 (epoch 1518), train_loss = 0.570, time/batch = 0.015, All_Time = 18206.267
+model saved to save/model.ckpt
+1225000/1612000 (epoch 1519), train_loss = 0.469, time/batch = 0.015, All_Time = 18221.149
+model saved to save/model.ckpt
+1226000/1612000 (epoch 1521), train_loss = 0.539, time/batch = 0.016, All_Time = 18236.035
+model saved to save/model.ckpt
+1227000/1612000 (epoch 1522), train_loss = 0.477, time/batch = 0.014, All_Time = 18250.893
+model saved to save/model.ckpt
+1228000/1612000 (epoch 1523), train_loss = 0.528, time/batch = 0.015, All_Time = 18265.761
+model saved to save/model.ckpt
+1229000/1612000 (epoch 1524), train_loss = 0.451, time/batch = 0.015, All_Time = 18280.646
+model saved to save/model.ckpt
+1230000/1612000 (epoch 1526), train_loss = 0.492, time/batch = 0.015, All_Time = 18295.557
+model saved to save/model.ckpt
+1231000/1612000 (epoch 1527), train_loss = 0.538, time/batch = 0.015, All_Time = 18310.409
+model saved to save/model.ckpt
+1232000/1612000 (epoch 1528), train_loss = 0.524, time/batch = 0.014, All_Time = 18325.282
+model saved to save/model.ckpt
+1233000/1612000 (epoch 1529), train_loss = 0.496, time/batch = 0.015, All_Time = 18340.168
+model saved to save/model.ckpt
+1234000/1612000 (epoch 1531), train_loss = 0.559, time/batch = 0.015, All_Time = 18355.016
+model saved to save/model.ckpt
+1235000/1612000 (epoch 1532), train_loss = 0.499, time/batch = 0.014, All_Time = 18369.894
+model saved to save/model.ckpt
+1236000/1612000 (epoch 1533), train_loss = 0.464, time/batch = 0.014, All_Time = 18384.755
+model saved to save/model.ckpt
+1237000/1612000 (epoch 1534), train_loss = 0.522, time/batch = 0.015, All_Time = 18399.599
+model saved to save/model.ckpt
+1238000/1612000 (epoch 1535), train_loss = 0.548, time/batch = 0.015, All_Time = 18414.444
+model saved to save/model.ckpt
+1239000/1612000 (epoch 1537), train_loss = 0.587, time/batch = 0.014, All_Time = 18429.314
+model saved to save/model.ckpt
+1240000/1612000 (epoch 1538), train_loss = 0.457, time/batch = 0.014, All_Time = 18444.190
+model saved to save/model.ckpt
+1241000/1612000 (epoch 1539), train_loss = 0.537, time/batch = 0.015, All_Time = 18459.083
+model saved to save/model.ckpt
+1242000/1612000 (epoch 1540), train_loss = 0.574, time/batch = 0.017, All_Time = 18473.962
+model saved to save/model.ckpt
+1243000/1612000 (epoch 1542), train_loss = 0.513, time/batch = 0.014, All_Time = 18488.841
+model saved to save/model.ckpt
+1244000/1612000 (epoch 1543), train_loss = 0.524, time/batch = 0.017, All_Time = 18503.728
+model saved to save/model.ckpt
+1245000/1612000 (epoch 1544), train_loss = 0.588, time/batch = 0.014, All_Time = 18518.642
+model saved to save/model.ckpt
+1246000/1612000 (epoch 1545), train_loss = 0.446, time/batch = 0.015, All_Time = 18533.528
+model saved to save/model.ckpt
+1247000/1612000 (epoch 1547), train_loss = 0.529, time/batch = 0.015, All_Time = 18548.371
+model saved to save/model.ckpt
+1248000/1612000 (epoch 1548), train_loss = 0.433, time/batch = 0.014, All_Time = 18563.270
+model saved to save/model.ckpt
+1249000/1612000 (epoch 1549), train_loss = 0.448, time/batch = 0.015, All_Time = 18578.109
+model saved to save/model.ckpt
+1250000/1612000 (epoch 1550), train_loss = 0.457, time/batch = 0.015, All_Time = 18592.948
+model saved to save/model.ckpt
+1251000/1612000 (epoch 1552), train_loss = 0.516, time/batch = 0.015, All_Time = 18607.826
+model saved to save/model.ckpt
+1252000/1612000 (epoch 1553), train_loss = 0.441, time/batch = 0.015, All_Time = 18622.673
+model saved to save/model.ckpt
+1253000/1612000 (epoch 1554), train_loss = 0.481, time/batch = 0.014, All_Time = 18637.533
+model saved to save/model.ckpt
+1254000/1612000 (epoch 1555), train_loss = 0.475, time/batch = 0.015, All_Time = 18652.373
+model saved to save/model.ckpt
+1255000/1612000 (epoch 1557), train_loss = 0.458, time/batch = 0.015, All_Time = 18667.261
+model saved to save/model.ckpt
+1256000/1612000 (epoch 1558), train_loss = 0.543, time/batch = 0.016, All_Time = 18682.139
+model saved to save/model.ckpt
+1257000/1612000 (epoch 1559), train_loss = 0.434, time/batch = 0.014, All_Time = 18696.984
+model saved to save/model.ckpt
+1258000/1612000 (epoch 1560), train_loss = 0.502, time/batch = 0.015, All_Time = 18711.844
+model saved to save/model.ckpt
+1259000/1612000 (epoch 1562), train_loss = 0.448, time/batch = 0.015, All_Time = 18726.723
+model saved to save/model.ckpt
+1260000/1612000 (epoch 1563), train_loss = 0.530, time/batch = 0.014, All_Time = 18741.579
+model saved to save/model.ckpt
+1261000/1612000 (epoch 1564), train_loss = 0.500, time/batch = 0.015, All_Time = 18756.457
+model saved to save/model.ckpt
+1262000/1612000 (epoch 1565), train_loss = 0.545, time/batch = 0.014, All_Time = 18771.328
+model saved to save/model.ckpt
+1263000/1612000 (epoch 1566), train_loss = 0.574, time/batch = 0.015, All_Time = 18786.187
+model saved to save/model.ckpt
+1264000/1612000 (epoch 1568), train_loss = 0.451, time/batch = 0.015, All_Time = 18801.076
+model saved to save/model.ckpt
+1265000/1612000 (epoch 1569), train_loss = 0.486, time/batch = 0.014, All_Time = 18815.964
+model saved to save/model.ckpt
+1266000/1612000 (epoch 1570), train_loss = 0.553, time/batch = 0.017, All_Time = 18830.822
+model saved to save/model.ckpt
+1267000/1612000 (epoch 1571), train_loss = 0.409, time/batch = 0.015, All_Time = 18845.690
+model saved to save/model.ckpt
+1268000/1612000 (epoch 1573), train_loss = 0.570, time/batch = 0.016, All_Time = 18860.515
+model saved to save/model.ckpt
+1269000/1612000 (epoch 1574), train_loss = 0.525, time/batch = 0.015, All_Time = 18875.364
+model saved to save/model.ckpt
+1270000/1612000 (epoch 1575), train_loss = 0.542, time/batch = 0.014, All_Time = 18890.189
+model saved to save/model.ckpt
+1271000/1612000 (epoch 1576), train_loss = 0.433, time/batch = 0.014, All_Time = 18905.025
+model saved to save/model.ckpt
+1272000/1612000 (epoch 1578), train_loss = 0.468, time/batch = 0.014, All_Time = 18919.894
+model saved to save/model.ckpt
+1273000/1612000 (epoch 1579), train_loss = 0.477, time/batch = 0.015, All_Time = 18934.761
+model saved to save/model.ckpt
+1274000/1612000 (epoch 1580), train_loss = 0.455, time/batch = 0.015, All_Time = 18949.636
+model saved to save/model.ckpt
+1275000/1612000 (epoch 1581), train_loss = 0.493, time/batch = 0.015, All_Time = 18964.482
+model saved to save/model.ckpt
+1276000/1612000 (epoch 1583), train_loss = 0.507, time/batch = 0.016, All_Time = 18979.365
+model saved to save/model.ckpt
+1277000/1612000 (epoch 1584), train_loss = 0.418, time/batch = 0.015, All_Time = 18994.248
+model saved to save/model.ckpt
+1278000/1612000 (epoch 1585), train_loss = 0.516, time/batch = 0.015, All_Time = 19009.134
+model saved to save/model.ckpt
+1279000/1612000 (epoch 1586), train_loss = 0.479, time/batch = 0.015, All_Time = 19024.001
+model saved to save/model.ckpt
+1280000/1612000 (epoch 1588), train_loss = 0.592, time/batch = 0.017, All_Time = 19038.952
+model saved to save/model.ckpt
+1281000/1612000 (epoch 1589), train_loss = 0.551, time/batch = 0.015, All_Time = 19053.815
+model saved to save/model.ckpt
+1282000/1612000 (epoch 1590), train_loss = 0.524, time/batch = 0.015, All_Time = 19068.671
+model saved to save/model.ckpt
+1283000/1612000 (epoch 1591), train_loss = 0.569, time/batch = 0.014, All_Time = 19083.508
+model saved to save/model.ckpt
+1284000/1612000 (epoch 1593), train_loss = 0.491, time/batch = 0.014, All_Time = 19098.371
+model saved to save/model.ckpt
+1285000/1612000 (epoch 1594), train_loss = 0.517, time/batch = 0.014, All_Time = 19113.260
+model saved to save/model.ckpt
+1286000/1612000 (epoch 1595), train_loss = 0.537, time/batch = 0.015, All_Time = 19128.147
+model saved to save/model.ckpt
+1287000/1612000 (epoch 1596), train_loss = 0.478, time/batch = 0.015, All_Time = 19142.978
+model saved to save/model.ckpt
+1288000/1612000 (epoch 1598), train_loss = 0.518, time/batch = 0.015, All_Time = 19157.852
+model saved to save/model.ckpt
+1289000/1612000 (epoch 1599), train_loss = 0.493, time/batch = 0.014, All_Time = 19172.749
+model saved to save/model.ckpt
+1290000/1612000 (epoch 1600), train_loss = 0.424, time/batch = 0.015, All_Time = 19187.592
+model saved to save/model.ckpt
+1291000/1612000 (epoch 1601), train_loss = 0.492, time/batch = 0.014, All_Time = 19202.438
+model saved to save/model.ckpt
+1292000/1612000 (epoch 1602), train_loss = 0.526, time/batch = 0.015, All_Time = 19217.368
+model saved to save/model.ckpt
+1293000/1612000 (epoch 1604), train_loss = 0.506, time/batch = 0.015, All_Time = 19232.166
+model saved to save/model.ckpt
+1294000/1612000 (epoch 1605), train_loss = 0.525, time/batch = 0.014, All_Time = 19247.057
+model saved to save/model.ckpt
+1295000/1612000 (epoch 1606), train_loss = 0.494, time/batch = 0.014, All_Time = 19261.905
+model saved to save/model.ckpt
+1296000/1612000 (epoch 1607), train_loss = 0.417, time/batch = 0.015, All_Time = 19276.780
+model saved to save/model.ckpt
+1297000/1612000 (epoch 1609), train_loss = 0.487, time/batch = 0.014, All_Time = 19291.637
+model saved to save/model.ckpt
+1298000/1612000 (epoch 1610), train_loss = 0.515, time/batch = 0.015, All_Time = 19306.466
+model saved to save/model.ckpt
+1299000/1612000 (epoch 1611), train_loss = 0.432, time/batch = 0.016, All_Time = 19321.347
+model saved to save/model.ckpt
+1300000/1612000 (epoch 1612), train_loss = 0.485, time/batch = 0.016, All_Time = 19336.187
+model saved to save/model.ckpt
+1301000/1612000 (epoch 1614), train_loss = 0.562, time/batch = 0.015, All_Time = 19351.050
+model saved to save/model.ckpt
+1302000/1612000 (epoch 1615), train_loss = 0.486, time/batch = 0.014, All_Time = 19365.868
+model saved to save/model.ckpt
+1303000/1612000 (epoch 1616), train_loss = 0.537, time/batch = 0.015, All_Time = 19380.691
+model saved to save/model.ckpt
+1304000/1612000 (epoch 1617), train_loss = 0.456, time/batch = 0.015, All_Time = 19395.563
+model saved to save/model.ckpt
+1305000/1612000 (epoch 1619), train_loss = 0.511, time/batch = 0.015, All_Time = 19410.430
+model saved to save/model.ckpt
+1306000/1612000 (epoch 1620), train_loss = 0.584, time/batch = 0.016, All_Time = 19425.282
+model saved to save/model.ckpt
+1307000/1612000 (epoch 1621), train_loss = 0.574, time/batch = 0.015, All_Time = 19440.119
+model saved to save/model.ckpt
+1308000/1612000 (epoch 1622), train_loss = 0.545, time/batch = 0.015, All_Time = 19455.020
+model saved to save/model.ckpt
+1309000/1612000 (epoch 1624), train_loss = 0.453, time/batch = 0.014, All_Time = 19469.881
+model saved to save/model.ckpt
+1310000/1612000 (epoch 1625), train_loss = 0.486, time/batch = 0.015, All_Time = 19484.753
+model saved to save/model.ckpt
+1311000/1612000 (epoch 1626), train_loss = 0.467, time/batch = 0.015, All_Time = 19499.649
+model saved to save/model.ckpt
+1312000/1612000 (epoch 1627), train_loss = 0.555, time/batch = 0.016, All_Time = 19514.531
+model saved to save/model.ckpt
+1313000/1612000 (epoch 1629), train_loss = 0.470, time/batch = 0.015, All_Time = 19529.401
+model saved to save/model.ckpt
+1314000/1612000 (epoch 1630), train_loss = 0.453, time/batch = 0.014, All_Time = 19544.226
+model saved to save/model.ckpt
+1315000/1612000 (epoch 1631), train_loss = 0.544, time/batch = 0.015, All_Time = 19559.102
+model saved to save/model.ckpt
+1316000/1612000 (epoch 1632), train_loss = 0.425, time/batch = 0.014, All_Time = 19573.949
+model saved to save/model.ckpt
+1317000/1612000 (epoch 1633), train_loss = 0.508, time/batch = 0.015, All_Time = 19588.783
+model saved to save/model.ckpt
+1318000/1612000 (epoch 1635), train_loss = 0.472, time/batch = 0.015, All_Time = 19603.685
+model saved to save/model.ckpt
+1319000/1612000 (epoch 1636), train_loss = 0.435, time/batch = 0.014, All_Time = 19618.558
+model saved to save/model.ckpt
+1320000/1612000 (epoch 1637), train_loss = 0.516, time/batch = 0.014, All_Time = 19633.396
+model saved to save/model.ckpt
+1321000/1612000 (epoch 1638), train_loss = 0.549, time/batch = 0.017, All_Time = 19648.261
+model saved to save/model.ckpt
+1322000/1612000 (epoch 1640), train_loss = 0.439, time/batch = 0.015, All_Time = 19663.108
+model saved to save/model.ckpt
+1323000/1612000 (epoch 1641), train_loss = 0.489, time/batch = 0.014, All_Time = 19677.969
+model saved to save/model.ckpt
+1324000/1612000 (epoch 1642), train_loss = 0.527, time/batch = 0.017, All_Time = 19692.831
+model saved to save/model.ckpt
+1325000/1612000 (epoch 1643), train_loss = 0.430, time/batch = 0.015, All_Time = 19707.653
+model saved to save/model.ckpt
+1326000/1612000 (epoch 1645), train_loss = 0.420, time/batch = 0.017, All_Time = 19722.491
+model saved to save/model.ckpt
+1327000/1612000 (epoch 1646), train_loss = 0.485, time/batch = 0.014, All_Time = 19737.357
+model saved to save/model.ckpt
+1328000/1612000 (epoch 1647), train_loss = 0.494, time/batch = 0.015, All_Time = 19752.177
+model saved to save/model.ckpt
+1329000/1612000 (epoch 1648), train_loss = 0.561, time/batch = 0.015, All_Time = 19767.042
+model saved to save/model.ckpt
+1330000/1612000 (epoch 1650), train_loss = 0.467, time/batch = 0.014, All_Time = 19781.875
+model saved to save/model.ckpt
+1331000/1612000 (epoch 1651), train_loss = 0.554, time/batch = 0.015, All_Time = 19796.741
+model saved to save/model.ckpt
+1332000/1612000 (epoch 1652), train_loss = 0.558, time/batch = 0.015, All_Time = 19811.594
+model saved to save/model.ckpt
+1333000/1612000 (epoch 1653), train_loss = 0.461, time/batch = 0.015, All_Time = 19826.482
+model saved to save/model.ckpt
+1334000/1612000 (epoch 1655), train_loss = 0.483, time/batch = 0.015, All_Time = 19841.358
+model saved to save/model.ckpt
+1335000/1612000 (epoch 1656), train_loss = 0.479, time/batch = 0.016, All_Time = 19856.234
+model saved to save/model.ckpt
+1336000/1612000 (epoch 1657), train_loss = 0.594, time/batch = 0.015, All_Time = 19871.099
+model saved to save/model.ckpt
+1337000/1612000 (epoch 1658), train_loss = 0.484, time/batch = 0.014, All_Time = 19885.930
+model saved to save/model.ckpt
+1338000/1612000 (epoch 1660), train_loss = 0.573, time/batch = 0.015, All_Time = 19900.821
+model saved to save/model.ckpt
+1339000/1612000 (epoch 1661), train_loss = 0.475, time/batch = 0.017, All_Time = 19915.680
+model saved to save/model.ckpt
+1340000/1612000 (epoch 1662), train_loss = 0.516, time/batch = 0.015, All_Time = 19930.579
+model saved to save/model.ckpt
+1341000/1612000 (epoch 1663), train_loss = 0.531, time/batch = 0.017, All_Time = 19945.418
+model saved to save/model.ckpt
+1342000/1612000 (epoch 1665), train_loss = 0.593, time/batch = 0.015, All_Time = 19960.339
+model saved to save/model.ckpt
+1343000/1612000 (epoch 1666), train_loss = 0.536, time/batch = 0.015, All_Time = 19975.197
+model saved to save/model.ckpt
+1344000/1612000 (epoch 1667), train_loss = 0.486, time/batch = 0.015, All_Time = 19990.061
+model saved to save/model.ckpt
+1345000/1612000 (epoch 1668), train_loss = 0.480, time/batch = 0.015, All_Time = 20004.895
+model saved to save/model.ckpt
+1346000/1612000 (epoch 1669), train_loss = 0.515, time/batch = 0.015, All_Time = 20019.777
+model saved to save/model.ckpt
+1347000/1612000 (epoch 1671), train_loss = 0.479, time/batch = 0.014, All_Time = 20034.642
+model saved to save/model.ckpt
+1348000/1612000 (epoch 1672), train_loss = 0.476, time/batch = 0.015, All_Time = 20049.533
+model saved to save/model.ckpt
+1349000/1612000 (epoch 1673), train_loss = 0.464, time/batch = 0.015, All_Time = 20064.501
+model saved to save/model.ckpt
+1350000/1612000 (epoch 1674), train_loss = 0.487, time/batch = 0.015, All_Time = 20079.349
+model saved to save/model.ckpt
+1351000/1612000 (epoch 1676), train_loss = 0.589, time/batch = 0.015, All_Time = 20094.239
+model saved to save/model.ckpt
+1352000/1612000 (epoch 1677), train_loss = 0.611, time/batch = 0.015, All_Time = 20109.124
+model saved to save/model.ckpt
+1353000/1612000 (epoch 1678), train_loss = 0.429, time/batch = 0.015, All_Time = 20124.043
+model saved to save/model.ckpt
+1354000/1612000 (epoch 1679), train_loss = 0.486, time/batch = 0.017, All_Time = 20138.927
+model saved to save/model.ckpt
+1355000/1612000 (epoch 1681), train_loss = 0.511, time/batch = 0.014, All_Time = 20153.792
+model saved to save/model.ckpt
+1356000/1612000 (epoch 1682), train_loss = 0.444, time/batch = 0.015, All_Time = 20168.638
+model saved to save/model.ckpt
+1357000/1612000 (epoch 1683), train_loss = 0.503, time/batch = 0.016, All_Time = 20183.532
+model saved to save/model.ckpt
+1358000/1612000 (epoch 1684), train_loss = 0.479, time/batch = 0.014, All_Time = 20198.375
+model saved to save/model.ckpt
+1359000/1612000 (epoch 1686), train_loss = 0.494, time/batch = 0.014, All_Time = 20213.210
+model saved to save/model.ckpt
+1360000/1612000 (epoch 1687), train_loss = 0.497, time/batch = 0.017, All_Time = 20228.101
+model saved to save/model.ckpt
+1361000/1612000 (epoch 1688), train_loss = 0.544, time/batch = 0.014, All_Time = 20242.933
+model saved to save/model.ckpt
+1362000/1612000 (epoch 1689), train_loss = 0.539, time/batch = 0.014, All_Time = 20257.823
+model saved to save/model.ckpt
+1363000/1612000 (epoch 1691), train_loss = 0.594, time/batch = 0.015, All_Time = 20272.724
+model saved to save/model.ckpt
+1364000/1612000 (epoch 1692), train_loss = 0.481, time/batch = 0.015, All_Time = 20287.616
+model saved to save/model.ckpt
+1365000/1612000 (epoch 1693), train_loss = 0.487, time/batch = 0.015, All_Time = 20302.475
+model saved to save/model.ckpt
+1366000/1612000 (epoch 1694), train_loss = 0.502, time/batch = 0.015, All_Time = 20317.353
+model saved to save/model.ckpt
+1367000/1612000 (epoch 1696), train_loss = 0.555, time/batch = 0.015, All_Time = 20332.200
+model saved to save/model.ckpt
+1368000/1612000 (epoch 1697), train_loss = 0.391, time/batch = 0.015, All_Time = 20347.068
+model saved to save/model.ckpt
+1369000/1612000 (epoch 1698), train_loss = 0.451, time/batch = 0.015, All_Time = 20361.942
+model saved to save/model.ckpt
+1370000/1612000 (epoch 1699), train_loss = 0.509, time/batch = 0.015, All_Time = 20376.840
+model saved to save/model.ckpt
+1371000/1612000 (epoch 1700), train_loss = 0.542, time/batch = 0.017, All_Time = 20391.736
+model saved to save/model.ckpt
+1372000/1612000 (epoch 1702), train_loss = 0.650, time/batch = 0.014, All_Time = 20406.639
+model saved to save/model.ckpt
+1373000/1612000 (epoch 1703), train_loss = 0.548, time/batch = 0.015, All_Time = 20421.524
+model saved to save/model.ckpt
+1374000/1612000 (epoch 1704), train_loss = 0.475, time/batch = 0.014, All_Time = 20436.391
+model saved to save/model.ckpt
+1375000/1612000 (epoch 1705), train_loss = 0.443, time/batch = 0.015, All_Time = 20451.224
+model saved to save/model.ckpt
+1376000/1612000 (epoch 1707), train_loss = 0.446, time/batch = 0.015, All_Time = 20466.119
+model saved to save/model.ckpt
+1377000/1612000 (epoch 1708), train_loss = 0.474, time/batch = 0.014, All_Time = 20481.012
+model saved to save/model.ckpt
+1378000/1612000 (epoch 1709), train_loss = 0.573, time/batch = 0.014, All_Time = 20495.905
+model saved to save/model.ckpt
+1379000/1612000 (epoch 1710), train_loss = 0.474, time/batch = 0.015, All_Time = 20510.790
+model saved to save/model.ckpt
+1380000/1612000 (epoch 1712), train_loss = 0.442, time/batch = 0.014, All_Time = 20525.633
+model saved to save/model.ckpt
+1381000/1612000 (epoch 1713), train_loss = 0.499, time/batch = 0.014, All_Time = 20540.504
+model saved to save/model.ckpt
+1382000/1612000 (epoch 1714), train_loss = 0.506, time/batch = 0.016, All_Time = 20555.347
+model saved to save/model.ckpt
+1383000/1612000 (epoch 1715), train_loss = 0.474, time/batch = 0.015, All_Time = 20570.232
+model saved to save/model.ckpt
+1384000/1612000 (epoch 1717), train_loss = 0.491, time/batch = 0.015, All_Time = 20585.077
+model saved to save/model.ckpt
+1385000/1612000 (epoch 1718), train_loss = 0.442, time/batch = 0.015, All_Time = 20599.965
+model saved to save/model.ckpt
+1386000/1612000 (epoch 1719), train_loss = 0.459, time/batch = 0.014, All_Time = 20614.793
+model saved to save/model.ckpt
+1387000/1612000 (epoch 1720), train_loss = 0.525, time/batch = 0.015, All_Time = 20629.680
+model saved to save/model.ckpt
+1388000/1612000 (epoch 1722), train_loss = 0.510, time/batch = 0.014, All_Time = 20644.600
+model saved to save/model.ckpt
+1389000/1612000 (epoch 1723), train_loss = 0.522, time/batch = 0.015, All_Time = 20659.463
+model saved to save/model.ckpt
+1390000/1612000 (epoch 1724), train_loss = 0.574, time/batch = 0.015, All_Time = 20674.383
+model saved to save/model.ckpt
+1391000/1612000 (epoch 1725), train_loss = 0.535, time/batch = 0.015, All_Time = 20689.275
+model saved to save/model.ckpt
+1392000/1612000 (epoch 1727), train_loss = 0.576, time/batch = 0.014, All_Time = 20704.175
+model saved to save/model.ckpt
+1393000/1612000 (epoch 1728), train_loss = 0.475, time/batch = 0.014, All_Time = 20719.051
+model saved to save/model.ckpt
+1394000/1612000 (epoch 1729), train_loss = 0.528, time/batch = 0.015, All_Time = 20733.999
+model saved to save/model.ckpt
+1395000/1612000 (epoch 1730), train_loss = 0.547, time/batch = 0.014, All_Time = 20748.832
+model saved to save/model.ckpt
+1396000/1612000 (epoch 1732), train_loss = 0.505, time/batch = 0.014, All_Time = 20763.706
+model saved to save/model.ckpt
+1397000/1612000 (epoch 1733), train_loss = 0.561, time/batch = 0.015, All_Time = 20778.594
+model saved to save/model.ckpt
+1398000/1612000 (epoch 1734), train_loss = 0.574, time/batch = 0.016, All_Time = 20793.464
+model saved to save/model.ckpt
+1399000/1612000 (epoch 1735), train_loss = 0.522, time/batch = 0.015, All_Time = 20808.303
+model saved to save/model.ckpt
+1400000/1612000 (epoch 1736), train_loss = 0.557, time/batch = 0.015, All_Time = 20823.182
+model saved to save/model.ckpt
+1401000/1612000 (epoch 1738), train_loss = 0.462, time/batch = 0.015, All_Time = 20838.031
+model saved to save/model.ckpt
+1402000/1612000 (epoch 1739), train_loss = 0.432, time/batch = 0.015, All_Time = 20852.912
+model saved to save/model.ckpt
+1403000/1612000 (epoch 1740), train_loss = 0.539, time/batch = 0.014, All_Time = 20867.787
+model saved to save/model.ckpt
+1404000/1612000 (epoch 1741), train_loss = 0.467, time/batch = 0.014, All_Time = 20882.626
+model saved to save/model.ckpt
+1405000/1612000 (epoch 1743), train_loss = 0.516, time/batch = 0.015, All_Time = 20897.499
+model saved to save/model.ckpt
+1406000/1612000 (epoch 1744), train_loss = 0.455, time/batch = 0.016, All_Time = 20912.357
+model saved to save/model.ckpt
+1407000/1612000 (epoch 1745), train_loss = 0.567, time/batch = 0.015, All_Time = 20927.201
+model saved to save/model.ckpt
+1408000/1612000 (epoch 1746), train_loss = 0.465, time/batch = 0.015, All_Time = 20942.047
+model saved to save/model.ckpt
+1409000/1612000 (epoch 1748), train_loss = 0.464, time/batch = 0.015, All_Time = 20956.953
+model saved to save/model.ckpt
+1410000/1612000 (epoch 1749), train_loss = 0.443, time/batch = 0.015, All_Time = 20971.828
+model saved to save/model.ckpt
+1411000/1612000 (epoch 1750), train_loss = 0.489, time/batch = 0.015, All_Time = 20986.686
+model saved to save/model.ckpt
+1412000/1612000 (epoch 1751), train_loss = 0.487, time/batch = 0.016, All_Time = 21001.559
+model saved to save/model.ckpt
+1413000/1612000 (epoch 1753), train_loss = 0.529, time/batch = 0.015, All_Time = 21016.445
+model saved to save/model.ckpt
+1414000/1612000 (epoch 1754), train_loss = 0.454, time/batch = 0.015, All_Time = 21031.306
+model saved to save/model.ckpt
+1415000/1612000 (epoch 1755), train_loss = 0.480, time/batch = 0.014, All_Time = 21046.168
+model saved to save/model.ckpt
+1416000/1612000 (epoch 1756), train_loss = 0.517, time/batch = 0.014, All_Time = 21061.045
+model saved to save/model.ckpt
+1417000/1612000 (epoch 1758), train_loss = 0.398, time/batch = 0.015, All_Time = 21075.881
+model saved to save/model.ckpt
+1418000/1612000 (epoch 1759), train_loss = 0.442, time/batch = 0.014, All_Time = 21090.737
+model saved to save/model.ckpt
+1419000/1612000 (epoch 1760), train_loss = 0.538, time/batch = 0.015, All_Time = 21105.640
+model saved to save/model.ckpt
+1420000/1612000 (epoch 1761), train_loss = 0.495, time/batch = 0.015, All_Time = 21120.504
+model saved to save/model.ckpt
+1421000/1612000 (epoch 1763), train_loss = 0.473, time/batch = 0.014, All_Time = 21135.409
+model saved to save/model.ckpt
+1422000/1612000 (epoch 1764), train_loss = 0.484, time/batch = 0.014, All_Time = 21150.252
+model saved to save/model.ckpt
+1423000/1612000 (epoch 1765), train_loss = 0.517, time/batch = 0.015, All_Time = 21165.084
+model saved to save/model.ckpt
+1424000/1612000 (epoch 1766), train_loss = 0.398, time/batch = 0.017, All_Time = 21179.963
+model saved to save/model.ckpt
+1425000/1612000 (epoch 1767), train_loss = 0.421, time/batch = 0.015, All_Time = 21194.821
+model saved to save/model.ckpt
+1426000/1612000 (epoch 1769), train_loss = 0.481, time/batch = 0.015, All_Time = 21209.698
+model saved to save/model.ckpt
+1427000/1612000 (epoch 1770), train_loss = 0.475, time/batch = 0.015, All_Time = 21224.545
+model saved to save/model.ckpt
+1428000/1612000 (epoch 1771), train_loss = 0.449, time/batch = 0.015, All_Time = 21239.425
+model saved to save/model.ckpt
+1429000/1612000 (epoch 1772), train_loss = 0.508, time/batch = 0.014, All_Time = 21254.333
+model saved to save/model.ckpt
+1430000/1612000 (epoch 1774), train_loss = 0.626, time/batch = 0.015, All_Time = 21269.205
+model saved to save/model.ckpt
+1431000/1612000 (epoch 1775), train_loss = 0.462, time/batch = 0.016, All_Time = 21284.074
+model saved to save/model.ckpt
+1432000/1612000 (epoch 1776), train_loss = 0.484, time/batch = 0.015, All_Time = 21298.946
+model saved to save/model.ckpt
+1433000/1612000 (epoch 1777), train_loss = 0.459, time/batch = 0.014, All_Time = 21313.890
+model saved to save/model.ckpt
+1434000/1612000 (epoch 1779), train_loss = 0.479, time/batch = 0.015, All_Time = 21328.769
+model saved to save/model.ckpt
+1435000/1612000 (epoch 1780), train_loss = 0.582, time/batch = 0.015, All_Time = 21343.643
+model saved to save/model.ckpt
+1436000/1612000 (epoch 1781), train_loss = 0.565, time/batch = 0.014, All_Time = 21358.548
+model saved to save/model.ckpt
+1437000/1612000 (epoch 1782), train_loss = 0.547, time/batch = 0.015, All_Time = 21373.391
+model saved to save/model.ckpt
+1438000/1612000 (epoch 1784), train_loss = 0.454, time/batch = 0.014, All_Time = 21388.306
+model saved to save/model.ckpt
+1439000/1612000 (epoch 1785), train_loss = 0.542, time/batch = 0.015, All_Time = 21403.172
+model saved to save/model.ckpt
+1440000/1612000 (epoch 1786), train_loss = 0.482, time/batch = 0.015, All_Time = 21418.063
+model saved to save/model.ckpt
+1441000/1612000 (epoch 1787), train_loss = 0.524, time/batch = 0.015, All_Time = 21432.943
+model saved to save/model.ckpt
+1442000/1612000 (epoch 1789), train_loss = 0.511, time/batch = 0.015, All_Time = 21447.814
+model saved to save/model.ckpt
+1443000/1612000 (epoch 1790), train_loss = 0.519, time/batch = 0.016, All_Time = 21462.678
+model saved to save/model.ckpt
+1444000/1612000 (epoch 1791), train_loss = 0.443, time/batch = 0.015, All_Time = 21477.543
+model saved to save/model.ckpt
+1445000/1612000 (epoch 1792), train_loss = 0.502, time/batch = 0.015, All_Time = 21492.400
+model saved to save/model.ckpt
+1446000/1612000 (epoch 1794), train_loss = 0.542, time/batch = 0.015, All_Time = 21507.249
+model saved to save/model.ckpt
+1447000/1612000 (epoch 1795), train_loss = 0.575, time/batch = 0.015, All_Time = 21522.113
+model saved to save/model.ckpt
+1448000/1612000 (epoch 1796), train_loss = 0.457, time/batch = 0.015, All_Time = 21536.950
+model saved to save/model.ckpt
+1449000/1612000 (epoch 1797), train_loss = 0.489, time/batch = 0.017, All_Time = 21551.814
+model saved to save/model.ckpt
+1450000/1612000 (epoch 1799), train_loss = 0.501, time/batch = 0.015, All_Time = 21566.701
+model saved to save/model.ckpt
+1451000/1612000 (epoch 1800), train_loss = 0.467, time/batch = 0.015, All_Time = 21581.599
+model saved to save/model.ckpt
+1452000/1612000 (epoch 1801), train_loss = 0.531, time/batch = 0.014, All_Time = 21596.449
+model saved to save/model.ckpt
+1453000/1612000 (epoch 1802), train_loss = 0.522, time/batch = 0.016, All_Time = 21611.315
+model saved to save/model.ckpt
+1454000/1612000 (epoch 1803), train_loss = 0.479, time/batch = 0.015, All_Time = 21626.239
+model saved to save/model.ckpt
+1455000/1612000 (epoch 1805), train_loss = 0.478, time/batch = 0.014, All_Time = 21641.136
+model saved to save/model.ckpt
+1456000/1612000 (epoch 1806), train_loss = 0.526, time/batch = 0.015, All_Time = 21656.024
+model saved to save/model.ckpt
+1457000/1612000 (epoch 1807), train_loss = 0.532, time/batch = 0.015, All_Time = 21670.960
+model saved to save/model.ckpt
+1458000/1612000 (epoch 1808), train_loss = 0.447, time/batch = 0.017, All_Time = 21685.837
+model saved to save/model.ckpt
+1459000/1612000 (epoch 1810), train_loss = 0.577, time/batch = 0.015, All_Time = 21700.686
+model saved to save/model.ckpt
+1460000/1612000 (epoch 1811), train_loss = 0.481, time/batch = 0.014, All_Time = 21715.520
+model saved to save/model.ckpt
+1461000/1612000 (epoch 1812), train_loss = 0.585, time/batch = 0.014, All_Time = 21730.391
+model saved to save/model.ckpt
+1462000/1612000 (epoch 1813), train_loss = 0.515, time/batch = 0.016, All_Time = 21745.276
+model saved to save/model.ckpt
+1463000/1612000 (epoch 1815), train_loss = 0.498, time/batch = 0.014, All_Time = 21760.179
+model saved to save/model.ckpt
+1464000/1612000 (epoch 1816), train_loss = 0.588, time/batch = 0.014, All_Time = 21775.016
+model saved to save/model.ckpt
+1465000/1612000 (epoch 1817), train_loss = 0.523, time/batch = 0.015, All_Time = 21789.901
+model saved to save/model.ckpt
+1466000/1612000 (epoch 1818), train_loss = 0.412, time/batch = 0.016, All_Time = 21804.742
+model saved to save/model.ckpt
+1467000/1612000 (epoch 1820), train_loss = 0.437, time/batch = 0.015, All_Time = 21819.586
+model saved to save/model.ckpt
+1468000/1612000 (epoch 1821), train_loss = 0.466, time/batch = 0.014, All_Time = 21834.444
+model saved to save/model.ckpt
+1469000/1612000 (epoch 1822), train_loss = 0.574, time/batch = 0.016, All_Time = 21849.356
+model saved to save/model.ckpt
+1470000/1612000 (epoch 1823), train_loss = 0.518, time/batch = 0.016, All_Time = 21864.218
+model saved to save/model.ckpt
+1471000/1612000 (epoch 1825), train_loss = 0.541, time/batch = 0.015, All_Time = 21879.090
+model saved to save/model.ckpt
+1472000/1612000 (epoch 1826), train_loss = 0.495, time/batch = 0.015, All_Time = 21894.026
+model saved to save/model.ckpt
+1473000/1612000 (epoch 1827), train_loss = 0.515, time/batch = 0.017, All_Time = 21908.923
+model saved to save/model.ckpt
+1474000/1612000 (epoch 1828), train_loss = 0.528, time/batch = 0.015, All_Time = 21923.811
+model saved to save/model.ckpt
+1475000/1612000 (epoch 1830), train_loss = 0.527, time/batch = 0.014, All_Time = 21938.689
+model saved to save/model.ckpt
+1476000/1612000 (epoch 1831), train_loss = 0.527, time/batch = 0.015, All_Time = 21953.559
+model saved to save/model.ckpt
+1477000/1612000 (epoch 1832), train_loss = 0.439, time/batch = 0.015, All_Time = 21968.459
+model saved to save/model.ckpt
+1478000/1612000 (epoch 1833), train_loss = 0.532, time/batch = 0.017, All_Time = 21983.347
+model saved to save/model.ckpt
+1479000/1612000 (epoch 1834), train_loss = 0.472, time/batch = 0.014, All_Time = 21998.216
+model saved to save/model.ckpt
+1480000/1612000 (epoch 1836), train_loss = 0.489, time/batch = 0.015, All_Time = 22013.118
+model saved to save/model.ckpt
+1481000/1612000 (epoch 1837), train_loss = 0.613, time/batch = 0.015, All_Time = 22028.026
+model saved to save/model.ckpt
+1482000/1612000 (epoch 1838), train_loss = 0.450, time/batch = 0.014, All_Time = 22042.877
+model saved to save/model.ckpt
+1483000/1612000 (epoch 1839), train_loss = 0.513, time/batch = 0.015, All_Time = 22057.807
+model saved to save/model.ckpt
+1484000/1612000 (epoch 1841), train_loss = 0.556, time/batch = 0.014, All_Time = 22072.676
+model saved to save/model.ckpt
+1485000/1612000 (epoch 1842), train_loss = 0.480, time/batch = 0.014, All_Time = 22087.537
+model saved to save/model.ckpt
+1486000/1612000 (epoch 1843), train_loss = 0.609, time/batch = 0.015, All_Time = 22102.426
+model saved to save/model.ckpt
+1487000/1612000 (epoch 1844), train_loss = 0.566, time/batch = 0.014, All_Time = 22117.302
+model saved to save/model.ckpt
+1488000/1612000 (epoch 1846), train_loss = 0.466, time/batch = 0.014, All_Time = 22132.157
+model saved to save/model.ckpt
+1489000/1612000 (epoch 1847), train_loss = 0.553, time/batch = 0.015, All_Time = 22147.009
+model saved to save/model.ckpt
+1490000/1612000 (epoch 1848), train_loss = 0.493, time/batch = 0.015, All_Time = 22161.868
+model saved to save/model.ckpt
+1491000/1612000 (epoch 1849), train_loss = 0.559, time/batch = 0.017, All_Time = 22176.741
+model saved to save/model.ckpt
+1492000/1612000 (epoch 1851), train_loss = 0.420, time/batch = 0.015, All_Time = 22191.703
+model saved to save/model.ckpt
+1493000/1612000 (epoch 1852), train_loss = 0.470, time/batch = 0.015, All_Time = 22206.601
+model saved to save/model.ckpt
+1494000/1612000 (epoch 1853), train_loss = 0.553, time/batch = 0.015, All_Time = 22221.500
+model saved to save/model.ckpt
+1495000/1612000 (epoch 1854), train_loss = 0.540, time/batch = 0.015, All_Time = 22236.361
+model saved to save/model.ckpt
+1496000/1612000 (epoch 1856), train_loss = 0.463, time/batch = 0.016, All_Time = 22251.270
+model saved to save/model.ckpt
+1497000/1612000 (epoch 1857), train_loss = 0.415, time/batch = 0.015, All_Time = 22266.136
+model saved to save/model.ckpt
+1498000/1612000 (epoch 1858), train_loss = 0.492, time/batch = 0.015, All_Time = 22281.077
+model saved to save/model.ckpt
+1499000/1612000 (epoch 1859), train_loss = 0.468, time/batch = 0.015, All_Time = 22295.951
+model saved to save/model.ckpt
+1500000/1612000 (epoch 1861), train_loss = 0.527, time/batch = 0.015, All_Time = 22310.885
+model saved to save/model.ckpt
+1501000/1612000 (epoch 1862), train_loss = 0.554, time/batch = 0.015, All_Time = 22325.756
+model saved to save/model.ckpt
+1502000/1612000 (epoch 1863), train_loss = 0.514, time/batch = 0.015, All_Time = 22340.622
+model saved to save/model.ckpt
+1503000/1612000 (epoch 1864), train_loss = 0.554, time/batch = 0.016, All_Time = 22355.551
+model saved to save/model.ckpt
+1504000/1612000 (epoch 1866), train_loss = 0.563, time/batch = 0.014, All_Time = 22370.433
+model saved to save/model.ckpt
+1505000/1612000 (epoch 1867), train_loss = 0.532, time/batch = 0.015, All_Time = 22385.290
+model saved to save/model.ckpt
+1506000/1612000 (epoch 1868), train_loss = 0.442, time/batch = 0.015, All_Time = 22400.113
+model saved to save/model.ckpt
+1507000/1612000 (epoch 1869), train_loss = 0.516, time/batch = 0.015, All_Time = 22414.981
+model saved to save/model.ckpt
+1508000/1612000 (epoch 1870), train_loss = 0.581, time/batch = 0.015, All_Time = 22429.808
+model saved to save/model.ckpt
+1509000/1612000 (epoch 1872), train_loss = 0.478, time/batch = 0.014, All_Time = 22444.679
+model saved to save/model.ckpt
+1510000/1612000 (epoch 1873), train_loss = 0.446, time/batch = 0.014, All_Time = 22459.606
+model saved to save/model.ckpt
+1511000/1612000 (epoch 1874), train_loss = 0.556, time/batch = 0.015, All_Time = 22474.500
+model saved to save/model.ckpt
+1512000/1612000 (epoch 1875), train_loss = 0.539, time/batch = 0.014, All_Time = 22489.377
+model saved to save/model.ckpt
+1513000/1612000 (epoch 1877), train_loss = 0.510, time/batch = 0.015, All_Time = 22504.264
+model saved to save/model.ckpt
+1514000/1612000 (epoch 1878), train_loss = 0.550, time/batch = 0.015, All_Time = 22519.114
+model saved to save/model.ckpt
+1515000/1612000 (epoch 1879), train_loss = 0.603, time/batch = 0.015, All_Time = 22533.979
+model saved to save/model.ckpt
+1516000/1612000 (epoch 1880), train_loss = 0.467, time/batch = 0.015, All_Time = 22548.865
+model saved to save/model.ckpt
+1517000/1612000 (epoch 1882), train_loss = 0.447, time/batch = 0.014, All_Time = 22563.791
+model saved to save/model.ckpt
+1518000/1612000 (epoch 1883), train_loss = 0.531, time/batch = 0.015, All_Time = 22578.646
+model saved to save/model.ckpt
+1519000/1612000 (epoch 1884), train_loss = 0.511, time/batch = 0.014, All_Time = 22593.481
+model saved to save/model.ckpt
+1520000/1612000 (epoch 1885), train_loss = 0.458, time/batch = 0.015, All_Time = 22608.283
+model saved to save/model.ckpt
+1521000/1612000 (epoch 1887), train_loss = 0.528, time/batch = 0.015, All_Time = 22623.152
+model saved to save/model.ckpt
+1522000/1612000 (epoch 1888), train_loss = 0.486, time/batch = 0.014, All_Time = 22638.026
+model saved to save/model.ckpt
+1523000/1612000 (epoch 1889), train_loss = 0.501, time/batch = 0.017, All_Time = 22652.938
+model saved to save/model.ckpt
+1524000/1612000 (epoch 1890), train_loss = 0.472, time/batch = 0.016, All_Time = 22667.789
+model saved to save/model.ckpt
+1525000/1612000 (epoch 1892), train_loss = 0.471, time/batch = 0.015, All_Time = 22682.682
+model saved to save/model.ckpt
+1526000/1612000 (epoch 1893), train_loss = 0.453, time/batch = 0.015, All_Time = 22697.527
+model saved to save/model.ckpt
+1527000/1612000 (epoch 1894), train_loss = 0.420, time/batch = 0.015, All_Time = 22712.457
+model saved to save/model.ckpt
+1528000/1612000 (epoch 1895), train_loss = 0.511, time/batch = 0.014, All_Time = 22727.356
+model saved to save/model.ckpt
+1529000/1612000 (epoch 1897), train_loss = 0.529, time/batch = 0.014, All_Time = 22742.192
+model saved to save/model.ckpt
+1530000/1612000 (epoch 1898), train_loss = 0.442, time/batch = 0.015, All_Time = 22757.057
+model saved to save/model.ckpt
+1531000/1612000 (epoch 1899), train_loss = 0.544, time/batch = 0.017, All_Time = 22771.921
+model saved to save/model.ckpt
+1532000/1612000 (epoch 1900), train_loss = 0.498, time/batch = 0.015, All_Time = 22786.765
+model saved to save/model.ckpt
+1533000/1612000 (epoch 1901), train_loss = 0.563, time/batch = 0.015, All_Time = 22801.622
+model saved to save/model.ckpt
+1534000/1612000 (epoch 1903), train_loss = 0.599, time/batch = 0.015, All_Time = 22816.450
+model saved to save/model.ckpt
+1535000/1612000 (epoch 1904), train_loss = 0.458, time/batch = 0.015, All_Time = 22831.298
+model saved to save/model.ckpt
+1536000/1612000 (epoch 1905), train_loss = 0.460, time/batch = 0.014, All_Time = 22846.158
+model saved to save/model.ckpt
+1537000/1612000 (epoch 1906), train_loss = 0.500, time/batch = 0.015, All_Time = 22861.017
+model saved to save/model.ckpt
+1538000/1612000 (epoch 1908), train_loss = 0.466, time/batch = 0.015, All_Time = 22875.902
+model saved to save/model.ckpt
+1539000/1612000 (epoch 1909), train_loss = 0.461, time/batch = 0.015, All_Time = 22890.810
+model saved to save/model.ckpt
+1540000/1612000 (epoch 1910), train_loss = 0.556, time/batch = 0.014, All_Time = 22905.698
+model saved to save/model.ckpt
+1541000/1612000 (epoch 1911), train_loss = 0.562, time/batch = 0.014, All_Time = 22920.571
+model saved to save/model.ckpt
+1542000/1612000 (epoch 1913), train_loss = 0.597, time/batch = 0.014, All_Time = 22935.481
+model saved to save/model.ckpt
+1543000/1612000 (epoch 1914), train_loss = 0.527, time/batch = 0.017, All_Time = 22950.340
+model saved to save/model.ckpt
+1544000/1612000 (epoch 1915), train_loss = 0.455, time/batch = 0.015, All_Time = 22965.211
+model saved to save/model.ckpt
+1545000/1612000 (epoch 1916), train_loss = 0.509, time/batch = 0.015, All_Time = 22980.078
+model saved to save/model.ckpt
+1546000/1612000 (epoch 1918), train_loss = 0.578, time/batch = 0.015, All_Time = 22994.989
+model saved to save/model.ckpt
+1547000/1612000 (epoch 1919), train_loss = 0.540, time/batch = 0.015, All_Time = 23009.868
+model saved to save/model.ckpt
+1548000/1612000 (epoch 1920), train_loss = 0.515, time/batch = 0.015, All_Time = 23024.738
+model saved to save/model.ckpt
+1549000/1612000 (epoch 1921), train_loss = 0.488, time/batch = 0.015, All_Time = 23039.608
+model saved to save/model.ckpt
+1550000/1612000 (epoch 1923), train_loss = 0.475, time/batch = 0.017, All_Time = 23054.452
+model saved to save/model.ckpt
+1551000/1612000 (epoch 1924), train_loss = 0.593, time/batch = 0.015, All_Time = 23069.301
+model saved to save/model.ckpt
+1552000/1612000 (epoch 1925), train_loss = 0.535, time/batch = 0.016, All_Time = 23084.172
+model saved to save/model.ckpt
+1553000/1612000 (epoch 1926), train_loss = 0.481, time/batch = 0.015, All_Time = 23099.021
+model saved to save/model.ckpt
+1554000/1612000 (epoch 1928), train_loss = 0.571, time/batch = 0.015, All_Time = 23113.877
+model saved to save/model.ckpt
+1555000/1612000 (epoch 1929), train_loss = 0.555, time/batch = 0.014, All_Time = 23128.746
+model saved to save/model.ckpt
+1556000/1612000 (epoch 1930), train_loss = 0.514, time/batch = 0.015, All_Time = 23143.587
+model saved to save/model.ckpt
+1557000/1612000 (epoch 1931), train_loss = 0.432, time/batch = 0.015, All_Time = 23158.445
+model saved to save/model.ckpt
+1558000/1612000 (epoch 1933), train_loss = 0.464, time/batch = 0.015, All_Time = 23173.280
+model saved to save/model.ckpt
+1559000/1612000 (epoch 1934), train_loss = 0.455, time/batch = 0.017, All_Time = 23188.196
+model saved to save/model.ckpt
+1560000/1612000 (epoch 1935), train_loss = 0.454, time/batch = 0.015, All_Time = 23203.030
+model saved to save/model.ckpt
+1561000/1612000 (epoch 1936), train_loss = 0.453, time/batch = 0.015, All_Time = 23217.892
+model saved to save/model.ckpt
+1562000/1612000 (epoch 1937), train_loss = 0.595, time/batch = 0.017, All_Time = 23232.780
+model saved to save/model.ckpt
+1563000/1612000 (epoch 1939), train_loss = 0.468, time/batch = 0.015, All_Time = 23247.710
+model saved to save/model.ckpt
+1564000/1612000 (epoch 1940), train_loss = 0.529, time/batch = 0.016, All_Time = 23262.574
+model saved to save/model.ckpt
+1565000/1612000 (epoch 1941), train_loss = 0.571, time/batch = 0.015, All_Time = 23277.429
+model saved to save/model.ckpt
+1566000/1612000 (epoch 1942), train_loss = 0.540, time/batch = 0.015, All_Time = 23292.356
+model saved to save/model.ckpt
+1567000/1612000 (epoch 1944), train_loss = 0.464, time/batch = 0.014, All_Time = 23307.223
+model saved to save/model.ckpt
+1568000/1612000 (epoch 1945), train_loss = 0.537, time/batch = 0.015, All_Time = 23322.082
+model saved to save/model.ckpt
+1569000/1612000 (epoch 1946), train_loss = 0.557, time/batch = 0.015, All_Time = 23336.936
+model saved to save/model.ckpt
+1570000/1612000 (epoch 1947), train_loss = 0.494, time/batch = 0.015, All_Time = 23351.827
+model saved to save/model.ckpt
+1571000/1612000 (epoch 1949), train_loss = 0.598, time/batch = 0.015, All_Time = 23366.702
+model saved to save/model.ckpt
+1572000/1612000 (epoch 1950), train_loss = 0.536, time/batch = 0.014, All_Time = 23381.587
+model saved to save/model.ckpt
+1573000/1612000 (epoch 1951), train_loss = 0.538, time/batch = 0.017, All_Time = 23396.521
+model saved to save/model.ckpt
+1574000/1612000 (epoch 1952), train_loss = 0.492, time/batch = 0.014, All_Time = 23411.381
+model saved to save/model.ckpt
+1575000/1612000 (epoch 1954), train_loss = 0.455, time/batch = 0.014, All_Time = 23426.255
+model saved to save/model.ckpt
+1576000/1612000 (epoch 1955), train_loss = 0.500, time/batch = 0.014, All_Time = 23441.104
+model saved to save/model.ckpt
+1577000/1612000 (epoch 1956), train_loss = 0.561, time/batch = 0.017, All_Time = 23455.967
+model saved to save/model.ckpt
+1578000/1612000 (epoch 1957), train_loss = 0.595, time/batch = 0.014, All_Time = 23470.810
+model saved to save/model.ckpt
+1579000/1612000 (epoch 1959), train_loss = 0.516, time/batch = 0.015, All_Time = 23485.669
+model saved to save/model.ckpt
+1580000/1612000 (epoch 1960), train_loss = 0.577, time/batch = 0.016, All_Time = 23500.539
+model saved to save/model.ckpt
+1581000/1612000 (epoch 1961), train_loss = 0.523, time/batch = 0.015, All_Time = 23515.441
+model saved to save/model.ckpt
+1582000/1612000 (epoch 1962), train_loss = 0.498, time/batch = 0.016, All_Time = 23530.321
+model saved to save/model.ckpt
+1583000/1612000 (epoch 1964), train_loss = 0.506, time/batch = 0.014, All_Time = 23545.234
+model saved to save/model.ckpt
+1584000/1612000 (epoch 1965), train_loss = 0.518, time/batch = 0.014, All_Time = 23560.122
+model saved to save/model.ckpt
+1585000/1612000 (epoch 1966), train_loss = 0.448, time/batch = 0.015, All_Time = 23574.966
+model saved to save/model.ckpt
+1586000/1612000 (epoch 1967), train_loss = 0.517, time/batch = 0.014, All_Time = 23589.792
+model saved to save/model.ckpt
+1587000/1612000 (epoch 1968), train_loss = 0.397, time/batch = 0.014, All_Time = 23604.653
+model saved to save/model.ckpt
+1588000/1612000 (epoch 1970), train_loss = 0.404, time/batch = 0.017, All_Time = 23619.510
+model saved to save/model.ckpt
+1589000/1612000 (epoch 1971), train_loss = 0.525, time/batch = 0.015, All_Time = 23634.417
+model saved to save/model.ckpt
+1590000/1612000 (epoch 1972), train_loss = 0.510, time/batch = 0.015, All_Time = 23649.228
+model saved to save/model.ckpt
+1591000/1612000 (epoch 1973), train_loss = 0.569, time/batch = 0.014, All_Time = 23664.127
+model saved to save/model.ckpt
+1592000/1612000 (epoch 1975), train_loss = 0.546, time/batch = 0.015, All_Time = 23679.007
+model saved to save/model.ckpt
+1593000/1612000 (epoch 1976), train_loss = 0.482, time/batch = 0.015, All_Time = 23693.896
+model saved to save/model.ckpt
+1594000/1612000 (epoch 1977), train_loss = 0.414, time/batch = 0.015, All_Time = 23708.757
+model saved to save/model.ckpt
+1595000/1612000 (epoch 1978), train_loss = 0.532, time/batch = 0.015, All_Time = 23723.608
+model saved to save/model.ckpt
+1596000/1612000 (epoch 1980), train_loss = 0.397, time/batch = 0.014, All_Time = 23738.423
+model saved to save/model.ckpt
+1597000/1612000 (epoch 1981), train_loss = 0.524, time/batch = 0.014, All_Time = 23753.333
+model saved to save/model.ckpt
+1598000/1612000 (epoch 1982), train_loss = 0.501, time/batch = 0.014, All_Time = 23768.215
+model saved to save/model.ckpt
+1599000/1612000 (epoch 1983), train_loss = 0.536, time/batch = 0.015, All_Time = 23783.072
+model saved to save/model.ckpt
+1600000/1612000 (epoch 1985), train_loss = 0.451, time/batch = 0.015, All_Time = 23797.991
+model saved to save/model.ckpt
+1601000/1612000 (epoch 1986), train_loss = 0.472, time/batch = 0.014, All_Time = 23812.853
+model saved to save/model.ckpt
+1602000/1612000 (epoch 1987), train_loss = 0.582, time/batch = 0.015, All_Time = 23827.694
+model saved to save/model.ckpt
+1603000/1612000 (epoch 1988), train_loss = 0.499, time/batch = 0.017, All_Time = 23842.584
+model saved to save/model.ckpt
+1604000/1612000 (epoch 1990), train_loss = 0.461, time/batch = 0.015, All_Time = 23857.466
+model saved to save/model.ckpt
+1605000/1612000 (epoch 1991), train_loss = 0.574, time/batch = 0.017, All_Time = 23872.328
+model saved to save/model.ckpt
+1606000/1612000 (epoch 1992), train_loss = 0.472, time/batch = 0.015, All_Time = 23887.225
+model saved to save/model.ckpt
+1607000/1612000 (epoch 1993), train_loss = 0.489, time/batch = 0.015, All_Time = 23902.094
+model saved to save/model.ckpt
+1608000/1612000 (epoch 1995), train_loss = 0.645, time/batch = 0.015, All_Time = 23917.016
+model saved to save/model.ckpt
+1609000/1612000 (epoch 1996), train_loss = 0.439, time/batch = 0.015, All_Time = 23931.864
+model saved to save/model.ckpt
+1610000/1612000 (epoch 1997), train_loss = 0.562, time/batch = 0.014, All_Time = 23946.718
+model saved to save/model.ckpt
+1611000/1612000 (epoch 1998), train_loss = 0.474, time/batch = 0.015, All_Time = 23961.632
+model saved to save/model.ckpt
+1611999/1612000 (epoch 1999), train_loss = 0.505, time/batch = 0.017, All_Time = 23976.479
+model saved to save/model.ckpt

@@ -33,7 +33,7 @@ automated_readability_index = ""
 linsear_write_formula = ""
 gunning_fog = ""
 
-grade_level_avg = ""
+# grade_level_avg = ""
 school_grade_level = ""
 
 with open(data_file, "r", encoding='UTF-8') as file:
@@ -119,21 +119,21 @@ with open(data_file, "r", encoding='UTF-8') as file:
         school_grade_level = textstat.text_standard(test_data)
         print(school_grade_level)
 
-        l = [flesch_kincaid_grade, coleman_liau_index, automated_readability_index, linsear_write_formula, gunning_fog]
-        grade_level_avg = sum(l) / len(l)
-        print(grade_level_avg)
+        # l = [flesch_kincaid_grade, coleman_liau_index, automated_readability_index, linsear_write_formula, gunning_fog]
+        # grade_level_avg = sum(l) / len(l)
+        # print(grade_level_avg)
         print("--------------------------------------------------------------------------")
 
         print("\n------------------------------------------------------------------------------")
         print("Save every Thing on CSV file")
 
-        list_row = ['-', '-', test_data, '-', '-', '-', difficulty_score, difficulty_label, grade_level_avg, school_grade_level, num_syllables, num_words, num_sentences, num_difficult_words]
+        list_row = ['-', '-', test_data, '-', '-', '-', difficulty_score, difficulty_label, school_grade_level, num_syllables, num_words, num_sentences, num_difficult_words]
         dfOriginal = pd.read_csv(outcsv, index_col=False)
 
         dfNew = pd.DataFrame([list_row],
                              columns=['id', 'seed_text(prime_text)', 'generated_text', 'perplexity'
                                    , 'readability_(0-10)', 'relevance_(R/I)', 'difficulty_score',
-                                      'difficulty_label', 'grade_level_(avg)', 'school_grade_level',
+                                      'difficulty_label', 'school_grade_level',
                                     '#_syllables', '#_words', '#_sentences', '#_difficult_words'])
         dfFinal = dfOriginal.append(dfNew, ignore_index=True)
 
