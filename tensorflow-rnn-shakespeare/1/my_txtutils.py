@@ -142,7 +142,7 @@ def find_book_index(index, bookranges):
         i for i, book in enumerate(bookranges) if (book["start"] <= index < book["end"]))
 
 
-def print_learning_learned_comparison(X, Y, losses, bookranges, batch_loss, batch_accuracy, epoch_size, index, epoch):
+def print_learning_learned_comparison(X, Y, losses, bookranges, batch_loss, batch_accuracy, epoch_size, index, epoch, history_dir):
     """Display utility for printing learning statistics"""
     print()
     # epoch_size in number of batches
@@ -188,7 +188,7 @@ def print_learning_learned_comparison(X, Y, losses, bookranges, batch_loss, batc
     print("TRAINING STATS: {}".format(stats))
     print(strftime("%Y-%m-%d %H:%M:%S", gmtime()))
 
-    with open("training_history.txt", "a") as myfile:
+    with open(history_dir, "a") as myfile:
         myfile.write("TRAINING STATS: {}".format(stats)+"\n")
         myfile.write("Time: {}".format(strftime("%Y-%m-%d %H:%M:%S", gmtime())) + "\n")
 

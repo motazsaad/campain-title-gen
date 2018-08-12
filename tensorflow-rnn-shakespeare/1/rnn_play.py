@@ -16,12 +16,22 @@
 import tensorflow as tf
 import numpy as np
 import my_txtutils
+import argparse
 
 # these must match what was saved !
 ALPHASIZE = my_txtutils.ALPHASIZE
 NLAYERS = 3
 INTERNALSIZE = 512
 
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--checkpoints', type=str, default='checkpoints/rnn_train_1533727684-18000000',
+                    help='model directory to load stored checkpointed models from')
+parser.add_argument('--checkpoints_meta', type=str, default='checkpoints/rnn_train_1533727684-18000000.meta',
+                    help='model directory to load stored meta checkpointed models from')
+parser.add_argument('--output', type=str, default='generated_output.txt',
+                    help='output generated text file')
+args = parser.parse_args()
 # Data files can be downloaded from the following locations:
 #    - Fully trained on Shakespeare or Tensorflow Python source:
 #      https://drive.google.com/file/d/0B5njS_LX6IsDc2lWTmtyanRpOHc/view?usp=sharing
@@ -34,7 +44,7 @@ INTERNALSIZE = 512
 # shakespeareC3 = "checkpoints/rnn_train_1495455686-450000"  # structure of a play, unintelligible words
 # shakespeareC4 = "checkpoints/rnn_train_1495447371-15000000"  # better structure of a play, character names (not very good), 4-letter words in correct English
 # shakespeareC5 = "checkpoints/rnn_train_1495447371-45000000"  # good names, even when invented (ex: SIR NATHANIS LORD OF SYRACUSE), correct 6-8 letter words
-shakespeareB10 = "checkpoints/rnn_train_1533727684-18000000" # ACT V SCENE IV, [Re-enter KING JOHN with MARDIAN], DON ADRIANO DRAGHAMONE <- invented!
+shakespeareB10 = args.checkpoints # ACT V SCENE IV, [Re-enter KING JOHN with MARDIAN], DON ADRIANO DRAGHAMONE <- invented!
 # most scene directions correct: [Enter FERDINAND] [Dies] [Exit ROSALIND] [To COMINIUS with me] [Enter PRINCE HENRY, and Attendants], correct English.
 
 # pythonA0 = "checkpoints/rnn_train_1495458538-300000"  # gibberish
@@ -47,7 +57,7 @@ author = shakespeareB10
 
 ncnt = 0
 with tf.Session() as sess:
-    new_saver = tf.train.import_meta_graph('checkpoints/rnn_train_1533727684-18000000.meta')
+    new_saver = tf.train.import_meta_graph(args.checkpoints_meta)
     new_saver.restore(sess, author)
     x = my_txtutils.convert_from_alphabet(ord("L"))
     x = np.array([[x]])  # shape [BATCHSIZE, SEQLEN] with BATCHSIZE=1 and SEQLEN=1
@@ -55,7 +65,7 @@ with tf.Session() as sess:
     # initial values
     y = x
     h = np.zeros([1, INTERNALSIZE * NLAYERS], dtype=np.float32)  # [ BATCHSIZE, INTERNALSIZE * NLAYERS]
-    file = open("generated_output.txt", "w")
+    file = open(args.output, "w")
     file.write("Hi there, this a generated output campaigns from the shakespeare machine. have fun! \n\n")
     for i in range(25000):
         yo, h = sess.run(['Yo:0', 'H:0'], feed_dict={'X:0': y, 'pkeep:0': 1., 'Hin:0': h, 'batchsize:0': 1})

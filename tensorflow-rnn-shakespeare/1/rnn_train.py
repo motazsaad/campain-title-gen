@@ -22,6 +22,7 @@ import math
 import numpy as np
 import my_txtutils as txt
 import re
+import argparse
 
 tf.set_random_seed(0)
 
@@ -39,6 +40,16 @@ tf.set_random_seed(0)
 #         To see the curves drift apart ("overfitting") try to use an insufficient amount of
 #         training data (shakedir = "shakespeare/t*.txt" for example)
 #
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--save_dir', type=str, default='checkpoints',
+                    help='model directory to load stored checkpointed models from')
+parser.add_argument('--data_dir', type=str, default='description/input.txt',
+                    help='data directory containing input.txt')
+parser.add_argument('--history_dir', type=str, default='training_history.txt',
+                    help='history directory containing training_history.txt')
+args = parser.parse_args()
+
 SEQLEN = 30
 BATCHSIZE = 200
 ALPHASIZE = txt.ALPHASIZE
@@ -48,8 +59,8 @@ learning_rate = 0.001  # fixed learning rate
 dropout_pkeep = 0.8    # some dropout
 
 # load data, either shakespeare, or the Python source of Tensorflow itself
-shakedir = "description/input.txt"
-#shakedir = "../tensorflow/**/*.py"
+shakedir = args.data_dir
+# shakedir = "../tensorflow/**/*.py"
 codetext, valitext, bookranges = txt.read_data_files(shakedir, validation=True)
 
 # print(codetext)
@@ -151,7 +162,7 @@ for x, y_, epoch in txt.rnn_minibatch_sequencer(codetext, BATCHSIZE, SEQLEN, nb_
     if step % _50_BATCHES == 0:
         feed_dict = {X: x, Y_: y_, Hin: istate, pkeep: 1.0, batchsize: BATCHSIZE}  # no dropout for validation
         y, l, bl, acc, smm = sess.run([Y, seqloss, batchloss, accuracy, summaries], feed_dict=feed_dict)
-        txt.print_learning_learned_comparison(x, y, l, bookranges, bl, acc, epoch_size, step, epoch)
+        txt.print_learning_learned_comparison(x, y, l, bookranges, bl, acc, epoch_size, step, epoch, args.history_dir)
         summary_writer.add_summary(smm, step)
 
     # run a validation step every 50 batches
@@ -185,7 +196,7 @@ for x, y_, epoch in txt.rnn_minibatch_sequencer(codetext, BATCHSIZE, SEQLEN, nb_
 
     # save a checkpoint (every 500 batches)
     if step // 10 % _50_BATCHES == 0:
-        saved_file = saver.save(sess, 'checkpoints/rnn_train_' + timestamp, global_step=step)
+        saved_file = saver.save(sess, args.save_dir+'/rnn_train_' + timestamp, global_step=step)
         print("Saved file: " + saved_file)
 
     # display progress bar
