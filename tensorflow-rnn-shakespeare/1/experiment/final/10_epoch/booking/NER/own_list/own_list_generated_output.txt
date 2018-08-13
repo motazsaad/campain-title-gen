@@ -1,6 +1,3 @@
-Hi there, this a generated output campaigns from the shakespeare machine. have fun! 
-
-at rooks hotel with expedia's price guarantee!
 book your hotel in i-city online. no reservation costs. great rates.
 book your hotel in saint penara online. no reservation costs. great rates.
 book at the marberla hotel, i-city. no reservation costs. great rates.
@@ -364,4 +361,3 @@ book a motel in san lucas, ca. no reservation costs. great rates.
 book a motel in i-city, i-coun. no reservation costs. great rates.
 save on hotels in santorini, i-coun.
 book at hotel meltin i-city i-city, new i-city. no reservation costs. great rates.
-s

@@ -1,7 +1,3 @@
-Hi there, this a generated output campaigns from the shakespeare machine. have fun! 
-
- house hotels.
-book at holly house hotel, i-city
 book at the grand hotel & suites, i-city. no reservation costs. great rates.
 book at hotel le cannon i-city, i-city. no reservation costs. great rates.
 book your hotel in collington online. no reservation costs. great rates.
@@ -365,4 +361,3 @@ book a hotel near perris square, i-city. get instant confirmation.
 book at hotel la cancun, i-city. no reservation costs. great rates.
 save on hotels in st. augustine, i-coun.
 book at the sort lake resort, i-city. no reservation costs. great rates.
-book at hotel lancert

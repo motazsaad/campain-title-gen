@@ -6,9 +6,21 @@ import collections
 import nltk
 
 # make to test file
-perplexity_file = "description/test.txt"
-outcsv = "tf_word_levelـshakespeare.csv"
-generated_text_file = "generated_output.txt"
+# perplexity_file = "../dataset/booking/NER/geotext/test.txt"
+# outcsv = "../experiment/final/10_epoch/booking/NER/geotext/geotext_shakespeare.csv"
+# generated_text_file = "../experiment/final/10_epoch/booking/NER/geotext/geotext_generated_output.txt"
+
+# perplexity_file = "../dataset/booking/NER/own_list/test.txt"
+# outcsv = "../experiment/final/10_epoch/booking/NER/own_list/own_list_shakespeare.csv"
+# generated_text_file = "../experiment/final/10_epoch/booking/NER/own_list/own_list_generated_output.txt"
+#
+# perplexity_file = "../dataset/hulu/test.txt"
+# outcsv = "../experiment/final/10_epoch/hulu/hulu_shakespeare.csv"
+# generated_text_file = "../experiment/final/10_epoch/hulu/hulu_generated_output.txt"
+#
+perplexity_file = "../dataset/shopzilla/test.txt"
+outcsv = "../experiment/final/10_epoch/shopzilla/shopzilla_shakespeare.csv"
+generated_text_file = "../experiment/final/10_epoch/shopzilla/shopzilla_generated_output.txt"
 
 print("\n------------------------------------------------------------------------------")
 print("Compute the perplexity for generated text with whole text file ")
