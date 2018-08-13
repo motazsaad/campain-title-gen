@@ -31,6 +31,8 @@ parser.add_argument('--checkpoints_meta', type=str, default='checkpoints/rnn_tra
                     help='model directory to load stored meta checkpointed models from')
 parser.add_argument('--output', type=str, default='generated_output.txt',
                     help='output generated text file')
+parser.add_argument('--num_char', type=int, default=25000,
+                    help='num of char for generated text')
 args = parser.parse_args()
 # Data files can be downloaded from the following locations:
 #    - Fully trained on Shakespeare or Tensorflow Python source:
@@ -67,7 +69,7 @@ with tf.Session() as sess:
     h = np.zeros([1, INTERNALSIZE * NLAYERS], dtype=np.float32)  # [ BATCHSIZE, INTERNALSIZE * NLAYERS]
     file = open(args.output, "w")
     file.write("Hi there, this a generated output campaigns from the shakespeare machine. have fun! \n\n")
-    for i in range(25000):
+    for i in range(args.num_char):
         yo, h = sess.run(['Yo:0', 'H:0'], feed_dict={'X:0': y, 'pkeep:0': 1., 'Hin:0': h, 'batchsize:0': 1})
 
         # If sampling is be done from the topn most likely characters, the generated text

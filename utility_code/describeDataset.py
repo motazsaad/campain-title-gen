@@ -1,14 +1,14 @@
 
-# your_filename = "../pytorch_word_level/data/FlightsAndHotels/title/adsTitleUniqe.txt"
-# your_filename = "../pytorch_word_level/data/FlightsAndHotels/description/adsDescriptionUniqe.txt"
+# your_filename = "dataset/hulu stream tv and movies/huluMoreUniqe.txt"
+# your_filename = "dataset/shopzilla multiple domain/shopzillaUniqe.txt"
 
-# your_filename = "../pytorch_word_level/data/FlightsAndHotels/title/train.txt"
-# your_filename = "../pytorch_word_level/data/FlightsAndHotels/title/test.txt"
-# your_filename = "../pytorch_word_level/data/FlightsAndHotels/title/valid.txt"
+# your_filename = "dataset/hulu stream tv and movies/train.txt"
+# your_filename = "dataset/hulu stream tv and movies/test.txt"
+# your_filename = "dataset/hulu stream tv and movies/valid.txt"
 
-# your_filename = "../pytorch_word_level/data/FlightsAndHotels/description/train.txt"
-# your_filename = "../pytorch_word_level/data/FlightsAndHotels/description/test.txt"
-your_filename = "../pytorch_word_level/data/FlightsAndHotels/description/valid.txt"
+# your_filename = "dataset/shopzilla multiple domain/train.txt"
+# your_filename = "dataset/shopzilla multiple domain/test.txt"
+your_filename = "dataset/shopzilla multiple domain/valid.txt"
 
 print("-------------------------------------")
 print("Max Line Length in Data set (with \ n)")

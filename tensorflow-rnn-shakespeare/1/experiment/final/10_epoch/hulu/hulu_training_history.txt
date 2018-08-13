@@ -1,0 +1,140 @@
+TRAINING STATS: batch 0/350 in epoch 0,      batch loss: 4.45205, batch accuracy: 0.16867
+Time: 2018-08-13 12:01:22
+TRAINING STATS: batch 50/350 in epoch 0,     batch loss: 2.91959, batch accuracy: 0.17633
+Time: 2018-08-13 12:01:27
+TRAINING STATS: batch 100/350 in epoch 0,    batch loss: 1.91668, batch accuracy: 0.45083
+Time: 2018-08-13 12:01:30
+TRAINING STATS: batch 150/350 in epoch 0,    batch loss: 0.84919, batch accuracy: 0.76867
+Time: 2018-08-13 12:01:34
+TRAINING STATS: batch 200/350 in epoch 0,    batch loss: 0.52535, batch accuracy: 0.85883
+Time: 2018-08-13 12:01:39
+TRAINING STATS: batch 250/350 in epoch 0,    batch loss: 0.36991, batch accuracy: 0.89717
+Time: 2018-08-13 12:01:42
+TRAINING STATS: batch 300/350 in epoch 0,    batch loss: 0.31979, batch accuracy: 0.90683
+Time: 2018-08-13 12:01:46
+TRAINING STATS: batch 0/350 in epoch 1,      batch loss: 0.25580, batch accuracy: 0.92567
+Time: 2018-08-13 12:01:51
+TRAINING STATS: batch 50/350 in epoch 1,     batch loss: 0.27407, batch accuracy: 0.92117
+Time: 2018-08-13 12:01:55
+TRAINING STATS: batch 100/350 in epoch 1,    batch loss: 0.26892, batch accuracy: 0.92067
+Time: 2018-08-13 12:01:58
+TRAINING STATS: batch 150/350 in epoch 1,    batch loss: 0.23383, batch accuracy: 0.93150
+Time: 2018-08-13 12:02:03
+TRAINING STATS: batch 200/350 in epoch 1,    batch loss: 0.20916, batch accuracy: 0.93550
+Time: 2018-08-13 12:02:07
+TRAINING STATS: batch 250/350 in epoch 1,    batch loss: 0.19450, batch accuracy: 0.93850
+Time: 2018-08-13 12:02:11
+TRAINING STATS: batch 300/350 in epoch 1,    batch loss: 0.21213, batch accuracy: 0.93333
+Time: 2018-08-13 12:02:15
+TRAINING STATS: batch 0/350 in epoch 2,      batch loss: 0.18013, batch accuracy: 0.94317
+Time: 2018-08-13 12:02:19
+TRAINING STATS: batch 50/350 in epoch 2,     batch loss: 0.19928, batch accuracy: 0.93867
+Time: 2018-08-13 12:02:23
+TRAINING STATS: batch 100/350 in epoch 2,    batch loss: 0.20532, batch accuracy: 0.93867
+Time: 2018-08-13 12:02:28
+TRAINING STATS: batch 150/350 in epoch 2,    batch loss: 0.19034, batch accuracy: 0.93883
+Time: 2018-08-13 12:02:31
+TRAINING STATS: batch 200/350 in epoch 2,    batch loss: 0.17362, batch accuracy: 0.94533
+Time: 2018-08-13 12:02:35
+TRAINING STATS: batch 250/350 in epoch 2,    batch loss: 0.16958, batch accuracy: 0.94633
+Time: 2018-08-13 12:02:40
+TRAINING STATS: batch 300/350 in epoch 2,    batch loss: 0.18307, batch accuracy: 0.94300
+Time: 2018-08-13 12:02:44
+TRAINING STATS: batch 0/350 in epoch 3,      batch loss: 0.15327, batch accuracy: 0.94883
+Time: 2018-08-13 12:02:47
+TRAINING STATS: batch 50/350 in epoch 3,     batch loss: 0.16891, batch accuracy: 0.94617
+Time: 2018-08-13 12:02:52
+TRAINING STATS: batch 100/350 in epoch 3,    batch loss: 0.18321, batch accuracy: 0.94567
+Time: 2018-08-13 12:02:56
+TRAINING STATS: batch 150/350 in epoch 3,    batch loss: 0.16487, batch accuracy: 0.94483
+Time: 2018-08-13 12:03:00
+TRAINING STATS: batch 200/350 in epoch 3,    batch loss: 0.15413, batch accuracy: 0.95100
+Time: 2018-08-13 12:03:04
+TRAINING STATS: batch 250/350 in epoch 3,    batch loss: 0.14726, batch accuracy: 0.95167
+Time: 2018-08-13 12:03:08
+TRAINING STATS: batch 300/350 in epoch 3,    batch loss: 0.16084, batch accuracy: 0.94933
+Time: 2018-08-13 12:03:12
+TRAINING STATS: batch 0/350 in epoch 4,      batch loss: 0.14026, batch accuracy: 0.95333
+Time: 2018-08-13 12:03:17
+TRAINING STATS: batch 50/350 in epoch 4,     batch loss: 0.15344, batch accuracy: 0.95233
+Time: 2018-08-13 12:03:20
+TRAINING STATS: batch 100/350 in epoch 4,    batch loss: 0.16612, batch accuracy: 0.94550
+Time: 2018-08-13 12:03:24
+TRAINING STATS: batch 150/350 in epoch 4,    batch loss: 0.15180, batch accuracy: 0.94867
+Time: 2018-08-13 12:03:29
+TRAINING STATS: batch 200/350 in epoch 4,    batch loss: 0.14576, batch accuracy: 0.95200
+Time: 2018-08-13 12:03:33
+TRAINING STATS: batch 250/350 in epoch 4,    batch loss: 0.14034, batch accuracy: 0.95433
+Time: 2018-08-13 12:03:36
+TRAINING STATS: batch 300/350 in epoch 4,    batch loss: 0.15247, batch accuracy: 0.94967
+Time: 2018-08-13 12:03:41
+TRAINING STATS: batch 0/350 in epoch 5,      batch loss: 0.12895, batch accuracy: 0.95883
+Time: 2018-08-13 12:03:45
+TRAINING STATS: batch 50/350 in epoch 5,     batch loss: 0.13793, batch accuracy: 0.95600
+Time: 2018-08-13 12:03:48
+TRAINING STATS: batch 100/350 in epoch 5,    batch loss: 0.15616, batch accuracy: 0.95150
+Time: 2018-08-13 12:03:53
+TRAINING STATS: batch 150/350 in epoch 5,    batch loss: 0.14164, batch accuracy: 0.95183
+Time: 2018-08-13 12:03:57
+TRAINING STATS: batch 200/350 in epoch 5,    batch loss: 0.13091, batch accuracy: 0.95600
+Time: 2018-08-13 12:04:01
+TRAINING STATS: batch 250/350 in epoch 5,    batch loss: 0.13009, batch accuracy: 0.95717
+Time: 2018-08-13 12:04:05
+TRAINING STATS: batch 300/350 in epoch 5,    batch loss: 0.13682, batch accuracy: 0.95417
+Time: 2018-08-13 12:04:09
+TRAINING STATS: batch 0/350 in epoch 6,      batch loss: 0.12004, batch accuracy: 0.95967
+Time: 2018-08-13 12:04:13
+TRAINING STATS: batch 50/350 in epoch 6,     batch loss: 0.12964, batch accuracy: 0.95717
+Time: 2018-08-13 12:04:18
+TRAINING STATS: batch 100/350 in epoch 6,    batch loss: 0.14736, batch accuracy: 0.95217
+Time: 2018-08-13 12:04:21
+TRAINING STATS: batch 150/350 in epoch 6,    batch loss: 0.13212, batch accuracy: 0.95433
+Time: 2018-08-13 12:04:25
+TRAINING STATS: batch 200/350 in epoch 6,    batch loss: 0.12442, batch accuracy: 0.95817
+Time: 2018-08-13 12:04:30
+TRAINING STATS: batch 250/350 in epoch 6,    batch loss: 0.12751, batch accuracy: 0.95633
+Time: 2018-08-13 12:04:34
+TRAINING STATS: batch 300/350 in epoch 6,    batch loss: 0.13399, batch accuracy: 0.95567
+Time: 2018-08-13 12:04:37
+TRAINING STATS: batch 0/350 in epoch 7,      batch loss: 0.11356, batch accuracy: 0.96117
+Time: 2018-08-13 12:04:42
+TRAINING STATS: batch 50/350 in epoch 7,     batch loss: 0.12026, batch accuracy: 0.96017
+Time: 2018-08-13 12:04:46
+TRAINING STATS: batch 100/350 in epoch 7,    batch loss: 0.14042, batch accuracy: 0.95283
+Time: 2018-08-13 12:04:50
+TRAINING STATS: batch 150/350 in epoch 7,    batch loss: 0.12686, batch accuracy: 0.95500
+Time: 2018-08-13 12:04:54
+TRAINING STATS: batch 200/350 in epoch 7,    batch loss: 0.12182, batch accuracy: 0.95767
+Time: 2018-08-13 12:04:58
+TRAINING STATS: batch 250/350 in epoch 7,    batch loss: 0.12196, batch accuracy: 0.95867
+Time: 2018-08-13 12:05:02
+TRAINING STATS: batch 300/350 in epoch 7,    batch loss: 0.12502, batch accuracy: 0.95533
+Time: 2018-08-13 12:05:07
+TRAINING STATS: batch 0/350 in epoch 8,      batch loss: 0.11060, batch accuracy: 0.96267
+Time: 2018-08-13 12:05:10
+TRAINING STATS: batch 50/350 in epoch 8,     batch loss: 0.11622, batch accuracy: 0.96167
+Time: 2018-08-13 12:05:14
+TRAINING STATS: batch 100/350 in epoch 8,    batch loss: 0.13521, batch accuracy: 0.95517
+Time: 2018-08-13 12:05:19
+TRAINING STATS: batch 150/350 in epoch 8,    batch loss: 0.12211, batch accuracy: 0.95683
+Time: 2018-08-13 12:05:23
+TRAINING STATS: batch 200/350 in epoch 8,    batch loss: 0.11454, batch accuracy: 0.95967
+Time: 2018-08-13 12:05:26
+TRAINING STATS: batch 250/350 in epoch 8,    batch loss: 0.11909, batch accuracy: 0.95783
+Time: 2018-08-13 12:05:31
+TRAINING STATS: batch 300/350 in epoch 8,    batch loss: 0.12229, batch accuracy: 0.95717
+Time: 2018-08-13 12:05:35
+TRAINING STATS: batch 0/350 in epoch 9,      batch loss: 0.11001, batch accuracy: 0.96333
+Time: 2018-08-13 12:05:39
+TRAINING STATS: batch 50/350 in epoch 9,     batch loss: 0.11250, batch accuracy: 0.96283
+Time: 2018-08-13 12:05:43
+TRAINING STATS: batch 100/350 in epoch 9,    batch loss: 0.13461, batch accuracy: 0.95233
+Time: 2018-08-13 12:05:47
+TRAINING STATS: batch 150/350 in epoch 9,    batch loss: 0.11547, batch accuracy: 0.95750
+Time: 2018-08-13 12:05:51
+TRAINING STATS: batch 200/350 in epoch 9,    batch loss: 0.11219, batch accuracy: 0.96017
+Time: 2018-08-13 12:05:56
+TRAINING STATS: batch 250/350 in epoch 9,    batch loss: 0.11538, batch accuracy: 0.95883
+Time: 2018-08-13 12:05:59
+TRAINING STATS: batch 300/350 in epoch 9,    batch loss: 0.11546, batch accuracy: 0.95767
+Time: 2018-08-13 12:06:03
