@@ -3,7 +3,7 @@ import pandas as pd
 
 # https://github.com/shivam5992/textstat
 
-
+# ----------------------------------------------------------------------------------
 # data_file = "Campaign Generator (Evaluation)/Library Level/Shake-spear Word.txt"
 # outcsv = "Campaign Generator (Evaluation)/Library Level/Shake-spear Word.csv"
 # data_file = "Campaign Generator (Evaluation)/Library Level/TF Word.txt"
@@ -16,8 +16,22 @@ import pandas as pd
 #
 # data_file = "Campaign Generator (Evaluation)/Text Level/TF Char.txt"
 # outcsv = "Campaign Generator (Evaluation)/Text Level/TF Char.csv"
-data_file = "Campaign Generator (Evaluation)/Text Level/TF Word.txt"
-outcsv = "Campaign Generator (Evaluation)/Text Level/TF Word.csv"
+# data_file = "Campaign Generator (Evaluation)/Text Level/TF Word.txt"
+# outcsv = "Campaign Generator (Evaluation)/Text Level/TF Word.csv"
+# ----------------------------------------------------------------------------------
+# 100 sample (to make summary table.)
+# data_file = "100 sample/booking/NE Level/geotext_shakespeare.txt"
+# outcsv = "100 sample/booking/NE Level/geotext_shakespeare.csv"
+# data_file = "100 sample/booking/NE Level/own_list_shakespeare.txt"
+# outcsv = "100 sample/booking/NE Level/own_list_shakespeare.csv"
+#
+# data_file = "100 sample/hulu/hulu_shakespeare.txt"
+# outcsv = "100 sample/hulu/hulu_shakespeare.csv"
+#
+data_file = "100 sample/shopzilla/shopzilla_shakespeare.txt"
+outcsv = "100 sample/shopzilla/shopzilla_shakespeare.csv"
+
+# ----------------------------------------------------------------------------------
 
 num_syllables = ""
 num_words = ""

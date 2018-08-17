@@ -1,726 +1,727 @@
-seed_text(prime_text),generated _text,perplexity
+seed_text(prime_text),generated _text,perplexity,,
 ,"book at the grand hotel & suites, i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"book at hotel le cannon i-city, i-city. no reservation costs. great rates.
-",67.13406600649647
+",67.13406601,,
 ,"book your hotel in collington online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book your hotel near sonton airport, i-city now. no reservation costs. great rates.
-",31.09136623257494
+",31.09136623,,
 ,"book at hotel le santoria i-city. no reservation costs. great rates.
-",40.5421876010524
+",40.5421876,,
 ,"best rates or refund + $50 coupon. book at hotel sai airport, i-city
-",30.269097459821573
+",30.26909746,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"best rates or refund + $50 coupon. book your solthers hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"best rates or refund + $50 coupon. book your cord beach hotel today!
-",38.78239924011357
+",38.78239924,,
 ,"book a hotel in the best rotes in i-city. no reservation costs. great rates.
-",36.65085554386715
+",36.65085554,,
 ,"best rates or refund + $50 coupon. save big on hotels in i-city, i-coun
-",39.892430481958655
+",39.89243048,,
 ,"book a hotel near park station, i-city. get instant confirmation.
-",69.26583166667714
+",69.26583167,,
 ,"book a hotel near panama cetter, i-city. get instant confirmation
-",113.65275257784648
+",113.6527526,,
 ,"book a motel in contral bergh, i-city. no reservation costs. great rates.
-",43.68856483769694
+",43.68856484,,
 ,"book at the south palace, i-city. no reservation costs. great rates.
-",48.41225287133426
+",48.41225287,,
 ,"book at the salama hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book at the southerd, i-city. no reservation costs. great rates.
-",39.06438524674073
+",39.06438525,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book a hotel near peris center. save up to 50% on your reservation.
-",28.8503429946907
+",28.85034299,,
 ,"best rates or refund + $50 coupon. save on hotels in i-coun, i-coun.
-",35.258967601780704
+",35.2589676,,
 ,"find and compare exclusive deals on hotels in i-city, ca and save big!
-",29.66464633596097
+",29.66464634,,
 ,"find and compare exclusive deals on hotels in i-city, ca and save big!
-",29.66464633596097
+",29.66464634,,
 ,"book your hotel in iscity online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book a hotel in central breakfast. near tokyo hotel in i-city. no reservation costs. great rates.
-",43.170390040281276
+",43.17039004,,
 ,"book a motel in i-city, ca. no reservation costs. great rates!
-",40.520420175416994
+",40.52042018,,
 ,"book at hotel santa cana, playa bel car. no reservation costs. great rates.
-",52.6179448120716
+",52.61794481,,
 ,"book at hotel le santoria i-city, i-city. no reservation costs. great rates.
-",43.71007791945736
+",43.71007792,,
 ,"book at hotel le solera, santa mara.
-",58.41077096571922
+",58.41077097,,
 ,"book your hotel in carlong ny online. no reservation costs. great rates.
-",44.093977333734856
+",44.09397733,,
 ,"book at the sourh hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"best rates or refund + $50 coupon. book your cariso hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book a hotel near six flags center. save up to 50% on your reservation.
-",56.63994523128476
+",56.63994523,,
 ,"book at hotel lancelona park, i-city. no reservation costs. great rates.
-",33.7079948073052
+",33.70799481,,
 ,"book a hotel in central bridge. no reservation costs. great rates.
-",45.84391619544433
+",45.8439162,,
 ,"book at the sandor hotel & spa, i-city. no reservation costs. great rates.
-",41.286943755624115
+",41.28694376,,
 ,"book at hotel le santa mala, i-city. no reservation costs. great rates.
-",50.23540228093285
+",50.23540228,,
 ,"book at hotel le cannor, i-city
-",28.606552042079354
+",28.60655204,,
 ,"book at hotel saint mall, i-city. no reservation costs. great rates.
-",30.72207412413252
+",30.72207412,,
 ,"book at the grand hotel & suites, i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"book a hotel near six flags. save up to 50% on your reservation.
-",43.52691413898513
+",43.52691414,,
 ,"book at the santorina hotel, port san aran. no reservation costs. great rates.
-",60.16587717988122
+",60.16587718,,
 ,"book a hotel in central bridge. no reservation costs. great rates.
-",45.84391619544433
+",45.8439162,,
 ,"book at hotel saint gram spa, i-city. no reservation costs. great rates.
-",33.89713463046918
+",33.89713463,,
 ,"book a hotel in central santa monia. no reservation costs. great rates.
-",56.225915793300594
+",56.22591579,,
 ,"book at hotel saint-louiner, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book a hotel in central st. park. no reservation costs. great rates.
-",56.343359882110825
+",56.34335988,,
 ,"book at hotel santa cara, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"best rates or refund + $50 coupon. book your santa monia hotel today!
-",43.39114925921133
+",43.39114926,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at the santa resort, i-city. no reservation costs. great rates.
-",49.523758694698216
+",49.52375869,,
 ,"book at the south beach, i-city. best price guarantee.
-",60.33349375429545
+",60.33349375,,
 ,"book at the grand hotel & spa, i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"book at hotel la pari, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"book your hotel in corning online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"best rates or refund + $50 coupon. save on hotels in st. augusters arena.
-",42.87260897367905
+",42.87260897,,
 ,"book at the groving inn, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book a hotel in central bricks. no reservation costs. great rates.
-",45.84391619544433
+",45.8439162,,
 ,"book your hotel in collersion online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book your hotel in corthell online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book a hostel in i-city, i-coun. no reservation costs. great rates.
-",52.16086030768911
+",52.16086031,,
 ,"book a hotel near six flags street, i-city. save up to 50% on your reservation.
-",58.827623342551014
+",58.82762334,,
 ,"book at hotel le corning i-city. no reservation costs. great rates.
-",40.5421876010524
+",40.5421876,,
 ,"book at hotel saint leeis mala, i-city. no reservation costs. great rates.
-",33.89713463046918
+",33.89713463,,
 ,"best rates or refund + $50 coupon. book your southers hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"best rates or refund + $50 coupon. book your cannon airport hotel today!
-",49.713560302539136
+",49.7135603,,
 ,"book at hotel le colora, i-city. no reservation costs. great rates.
-",40.5421876010524
+",40.5421876,,
 ,"best rates or refund + $50 coupon. save on hotels in san foads arena.
-",43.62036354569491
+",43.62036355,,
 ,"book a hotel in central barcelona. no reservation costs. great rates.
-",45.84391619544433
+",45.8439162,,
 ,"book at the salace hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book at hotel la canco, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"book at hotel santa, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book your hotel in carlong new online. no reservation costs. great rates.
-",43.26025542668341
+",43.26025543,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"best rates or refund + $50 coupon. book your santa maria hotel today!
-",62.85232179868631
+",62.8523218,,
 ,"book a hotel near penness city center. save up to 50% on your reservation.
-",31.20753846414312
+",31.20753846,,
 ,"book at the south beach hotel, i-city. no reservation costs. great rates.
-",52.33677632526938
+",52.33677633,,
 ,"book your hotel in carlond orlend online. no reservation costs. great rates.
-",36.10216919875899
+",36.1021692,,
 ,"book at hotel san frankis, i-city. no reservation costs. great rates.
-",40.19765025395004
+",40.19765025,,
 ,"save with expedia's price guarantee. save on hotels in i-city, i-coun.
-",37.25415440233106
+",37.2541544,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"best rates or refund + $50 coupon. book your salama hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"save with expedia's price guarantee. book at hotel san jose springs, i-city. no reservation costs. great rates.
-",51.27708623264154
+",51.27708623,,
 ,"save on hotels in salta mara, i-coun.
-",33.9780346793582
+",33.97803468,,
 ,"book at the grand hotel i-city, i-city. no reservation costs. great rates.
-",44.085659013290034
+",44.08565901,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book a hotel near san diego state university. save up to 50% on your reservation.
-",73.46356409779283
+",73.4635641,,
 ,"best rates or refund + $50 coupon. book your cornange hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book at hotel la corner, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"book your hotel in cancon ny online. no reservation costs. great rates.
-",44.093977333734856
+",44.09397733,,
 ,"book at tre sala and spa, i-city. no reservation costs. great rates.
-",45.97476137513961
+",45.97476138,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at tree saint hotel, i-city. no reservation costs. great rates.
-",63.32065209333325
+",63.32065209,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"best rates or refund + $50 coupon. book your santa caralina hotel today!
-",43.39114925921133
+",43.39114926,,
 ,"book at hotel santa, maria. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"book at hotel la plaza, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"book at the grove hotel, i-city. no reservation costs. great rates.
-",62.39202782974286
+",62.39202783,,
 ,"book at hotel santo mala, i-city. no reservation costs. great rates.
-",33.7079948073052
+",33.70799481,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book a hotel near six flogs on expedia. save up to 50% on your reservation.
-",45.92856855935897
+",45.92856856,,
 ,"book at hotel le southern i-city, i-city. no reservation costs. great rates.
-",59.81068321263618
+",59.81068321,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"best rates or refund + $50 coupon. book your santa convention centre hotel today!
-",53.8459018376781
+",53.84590184,,
 ,"book a hotel near park station, i-city. get instant confirmation.
-",69.26583166667714
+",69.26583167,,
 ,"book your hotel in i-city online
-",13.69526630790932
+",13.69526631,,
 ,"book your hotel in i-coun online. no reservation costs. great rates.
-",34.849717482254356
+",34.84971748,,
 ,"book at hotel santa cara, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"book a hostel in i-city, i-coun. no reservation costs. great rates.
-",52.16086030768911
+",52.16086031,,
 ,"best rates or refund + $50 coupon. book your cordich hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book a hotel near six flags airport. save up to 50% on your reservation.
-",56.63994523128476
+",56.63994523,,
 ,"book a motel in i-city, mn. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at hotel saint germain, i-city. no reservation costs. great rates.
-",30.72207412413252
+",30.72207412,,
 ,"book your hotel in cortona ca online. no reservation costs. great rates.
-",38.231556324782225
+",38.23155632,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book a hotel near park station, i-city. save up to 50% on your reservation.
-",36.16137194820387
+",36.16137195,,
 ,"save on your silmen airport hotel with expedia.
-",27.85003230254795
+",27.8500323,,
 ,"book at the santa cana resort & spa, i-city. no reservation costs. great rates.
-",77.2001130163408
+",77.20011302,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book a motel in i-city, ma. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at the salace hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book at the south palms hotel, i-city. no reservation costs. great rates.
-",71.96096500869119
+",71.96096501,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"book a hotel near pennestal station, i-city. save up to 50% on your reservation.
-",31.529103703442804
+",31.5291037,,
 ,"book at hotel le saint germain, i-city. no reservation costs. great rates.
-",40.147273856481426
+",40.14727386,,
 ,"book at the solaman hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book a hotel near panama center, st. save.up to 50% on your reservation.
-",58.65228617601202
+",58.65228618,,
 ,"book at hotel santa maria, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"book at hotel la carmon lodge, i-city. no reservation costs. great rates.
-",44.19794478325461
+",44.19794478,,
 ,"book at hotel santa mara, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"book your hotel in carlington online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"best rates or refund + $50 coupon. book your santa corda hotel today!
-",43.39114925921133
+",43.39114926,,
 ,"book at the south beach hotel, i-city. no reservation costs. great rates.
-",52.33677632526938
+",52.33677633,,
 ,"best rates or refund + $50 coupon. book your santa cana hotel today!
-",55.62708095900179
+",55.62708096,,
 ,"book at the grand i-city, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"book at the grond hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book at hotel la corta, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"book at the santorna, i-city
-",24.769931934824534
+",24.76993193,,
 ,"book at hotel la carmin, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"book a hotel near six flags street, i-city. get instant confirmation.
-",126.77796369030636
+",126.7779637,,
 ,"best rates or refund + $50 coupon. book your sal car hotel today!
-",52.18566401422074
+",52.18566401,,
 ,"book at hotel le carmen, i-city. no reservation costs. great rates
-",33.495977077265294
+",33.49597708,,
 ,"book your hotel in corning online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book at hotel santa carino, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"best rates or refund + $50 coupon. book your santa convention hotel today!
-",56.81130766493136
+",56.81130766,,
 ,"book at the grond hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"best rates or refund + $50 coupon. book your san franceshotel today!
-",52.04290893122187
+",52.04290893,,
 ,"best rates or refund +$50 coupon. book your santa canara hotel today!
-",45.252760921255636
+",45.25276092,,
 ,"save with expedia's price guarantee. book at the solora, i-city
-",35.76150677944176
+",35.76150678,,
 ,"book a hostel in i-city, i-coun. no reservation costs. great rates.
-",52.16086030768911
+",52.16086031,,
 ,"book at hotel solana, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"secure value with expedias price guarantee. hotels near sen arena airport.
-",91.82753034619688
+",91.82753035,,
 ,"book at the sourhotel, i-city. no reservation costs. great rates.
-",39.06438524674073
+",39.06438525,,
 ,"book at hotel le saint-millern, i-city. no reservation costs. great rates.
-",40.5421876010524
+",40.5421876,,
 ,"best rates or refund + $50 coupon. book your south beach hotel today!
-",43.25865399969607
+",43.258654,,
 ,"book at hotel seasing, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book a hostel in i-city, i-coun. no reservation costs. great rates.
-",52.16086030768911
+",52.16086031,,
 ,"book at trees hotel, i-city. no reservation costs. great rates.
-",73.82739753801575
+",73.82739754,,
 ,"book at hotel santa menta, manarea. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at hotel santa, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book at the sandoring, i-city. no reservation costs. great rates.
-",39.06438524674073
+",39.06438525,,
 ,"best rates or refund + $50 coupon. book your cord car hotel today!
-",35.204597260945285
+",35.20459726,,
 ,"book at the santa convention hotel, i-city. no reservation costs. great rates.
-",70.3124505710291
+",70.31245057,,
 ,"book at the southester hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book at the sands car rental deals. no reservation costs. great rates.
-",84.69508234725349
+",84.69508235,,
 ,"book at hotel le carino resort, i-city. no reservation costs. great rates.
-",43.71007791945736
+",43.71007792,,
 ,"book at the santorna, i-city. no reservation costs. great rates.
-",39.06438524674073
+",39.06438525,,
 ,"book a hotel near same cardoral save up to 50% on your reservation.
-",28.8503429946907
+",28.85034299,,
 ,"book at hotel lancarto, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book at hotel lanta, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book a hotel near six florida airport, i-city. save up to 50% on your reservation.
-",60.30019787482886
+",60.30019787,,
 ,"book at hotel le carmon i-city, i-city. no reservation costs. great rates.
-",43.71007791945736
+",43.71007792,,
 ,"book your hotel in collert city ca online. no reservation costs. great rates.
-",40.7144697771451
+",40.71446978,,
 ,"book at hotel la playa marina, i-city. no reservation costs. great rates.
-",51.97330093494715
+",51.97330093,,
 ,"save with expedia's price guarantee. save big on hotels in santa mara, i-coun.
-",49.520729231015046
+",49.52072923,,
 ,"book a hostel in i-city, usa. no reservation costs. great rates.
-",52.16086030768911
+",52.16086031,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"best rates or refund +$50 coupon. book your san antoria coty hotel today!
-",49.09727948275508
+",49.09727948,,
 ,"best rates or refund + $50 coupon. book your carison hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"best rates or refund + $50 coupon. book your colombe hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book a hotel near santorinity, i-city. save up to 50% on your reservation.
-",28.8503429946907
+",28.85034299,,
 ,"book a hotel near silvars street, i-city. save up to 50% on your reservation.
-",31.529103703442804
+",31.5291037,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"best rates or refund + $50 coupon. book your salama hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book at the salley rose, i-city
-",31.25628400122973
+",31.256284,,
 ,"book a hotel near parks station. save up to 50% on your reservation.
-",28.8503429946907
+",28.85034299,,
 ,"book your hotel in cannon city centre. no reservation costs. great rates.
-",54.78990392499406
+",54.78990392,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"book at the gorden hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at the santa convention center, i-city. no reservation costs. great rates.
-",70.3124505710291
+",70.31245057,,
 ,"best rates or refund + $50 coupon. book at the shilly hotel, i-city. no reservation costs. great rates.
-",42.51591123089505
+",42.51591123,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at hotel solama, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book at the grande hotel & suites i-city, i-city. no reservation costs. great rates.
-",72.28121163353738
+",72.28121163,,
 ,"best rates or refund + $50 coupon. book your cancun hotel today!
-",37.28697455279911
+",37.28697455,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book at thi channian hotel, i-city. no reservation costs. great rates.
-",43.280185788630256
+",43.28018579,,
 ,"best rates or refund + $50 coupon. book your santorini hotel today!
-",50.128057579177934
+",50.12805758,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book your hotel in carring or online. no reservation costs. great rates.
-",32.88073878837525
+",32.88073879,,
 ,"book at hotel la canara i-city, i-city. no reservation costs. great rates.
-",44.19794478325461
+",44.19794478,,
 ,"book a motel in contral contre.
-",40.39158383322194
+",40.39158383,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book a hotel near six flags area. save up to 50% on your reservation.
-",56.63994523128476
+",56.63994523,,
 ,"book at the south beach, i-city. no reservation costs. great rates.
-",48.41225287133426
+",48.41225287,,
 ,"book your hotel in corth beach online. no reservation costs. great rates.
-",36.73933130844888
+",36.73933131,,
 ,"book at the grand hotel & spa, i-city
-",42.96917310182476
+",42.9691731,,
 ,"best rates or refund + $50 coupon. book your san andos hotel today!
-",44.2919356395088
+",44.29193564,,
 ,"save with expedia's price guarantee. save big on hotels in i-city, ca.
-",40.63725026869165
+",40.63725027,,
 ,"book at the south beach hotel, i-city. no reservation costs. great rates.
-",52.33677632526938
+",52.33677633,,
 ,"best rates or refund + $50 coupon. book your cordich hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book a hotel near six san deals and save up to 50% on your reservation.
-",44.90964465544618
+",44.90964466,,
 ,"best rates or refund + $50 coupon. save on hotels near salta mall, i-coun.
-",35.65649113430369
+",35.65649113,,
 ,"book a motel in i-city, ca  no reservation costs. great rates.
-",43.134545638737706
+",43.13454564,,
 ,"book at hotel le santo cana, i-city. no reservation costs. great rates.
-",43.71007791945736
+",43.71007792,,
 ,"best rates or refund + $50 coupon. book your salace hotel today.
-",35.217317986222795
+",35.21731799,,
 ,"book a hotel in central santorini. no reservation costs. great rates.
-",45.84391619544433
+",45.8439162,,
 ,"book your hotel in corton online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book a hotel near six flags station. save up to 50% on your reservation.
-",56.63994523128476
+",56.63994523,,
 ,"book at the golden hotel, i-city. no reservation costs. great rates.
-",50.75120781255317
+",50.75120781,,
 ,"book a hotel near six salace station, i-city. save up to 50% on your reservation.
-",48.63215279932308
+",48.6321528,,
 ,"book a muxury hotel in cancn online. no reservation costs. great rates.
-",54.55927756797314
+",54.55927757,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at the sallort, i-city. no reservation costs. great rates.
-",39.06438524674073
+",39.06438525,,
 ,"book a hotel near parks station. save up to 50% on your reservation.
-",28.8503429946907
+",28.85034299,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book a motel in i-city. no reservation costs. great rates.
-",37.020419366941454
+",37.02041937,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book a hotel near perrist street, i-city. save up to 50% on your reservation.
-",31.529103703442804
+",31.5291037,,
 ,"book at hotel saint marina, i-city. no reservation costs. great rates.
-",30.72207412413252
+",30.72207412,,
 ,"book your hotel in carron online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book at the santorina hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book a hostel in i-city, i-coun. no reservation costs. great rates!
-",52.16086030768911
+",52.16086031,,
 ,"book a hotel near perister meter park. save up to 50% on your reservation.
-",31.529103703442804
+",31.5291037,,
 ,"book at transer hotel & suites, i-city. no reservation costs. great rates.
-",38.956326024510325
+",38.95632602,,
 ,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.
-",35.258967601780704
+",35.2589676,,
 ,"book at hotel la palace, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"book your hotel in cortherl online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book at the santarina hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book your hotel in cancon ny online. no reservation costs. great rates.
-",44.093977333734856
+",44.09397733,,
 ,"best rates or refund + $50 coupon on hotels in i-city.
-",28.466817992039715
+",28.46681799,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book at the sands hotel, i-coty. no reservation costs. great rates.
-",68.17081907983976
+",68.17081908,,
 ,"book at the grover palms hotel, i-city. no reservation costs. great rates.
-",63.93011052026215
+",63.93011052,,
 ,"book at hotel santo mara, i-city. no reservation costs. great rates.
-",33.7079948073052
+",33.70799481,,
 ,"book a hotel near penniss city arena, i-city. get instant confirmation.
-",59.37195873831557
+",59.37195874,,
 ,"book at hotel santa carino resort, i-city. no reservation costs. great rates.
-",42.41474029892696
+",42.4147403,,
 ,"save with expedia's price guarantee. book at hotel san juan, i-city. no reservation costs. great rates.
-",43.46816783996299
+",43.46816784,,
 ,"book your hotel in carlington online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"book at the grand hotel & suites, i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"best rates or refund + $50 coupon. book your san francisco hotel today!
-",60.78370911199982
+",60.78370911,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"best rates or refund +$50 coupon. book your cancun hotel today!
-",38.5011582314297
+",38.50115823,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.
-",35.258967601780704
+",35.2589676,,
 ,"book at hotel le corter i-city, i-city. no reservation costs. great rates.
-",43.71007791945736
+",43.71007792,,
 ,"book your hotel in corto ca online. no reservation costs. great rates.
-",38.231556324782225
+",38.23155632,,
 ,"save with expedia's price guarantee. book a hotel in i-city on i-city
-",28.630444155869625
+",28.63044416,,
 ,"book your hotel in i-city, i-city online. no reservation costs. great rates.
-",30.367344139989505
+",30.36734414,,
 ,"book a hotel in central brick. no reservation costs. great rates.
-",45.84391619544433
+",45.8439162,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book at the southerd, i-city. no reservation costs. great rates.
-",39.06438524674073
+",39.06438525,,
 ,"book at hotel le carmen i-city, i-city. no reservation costs. great rates.
-",53.014810080781224
+",53.01481008,,
 ,"book your hotel in i-city, i-city online. no reservation costs. great rates.
-",30.367344139989505
+",30.36734414,,
 ,"book at the santa resort, i-city. no reservation costs. great rates.
-",49.523758694698216
+",49.52375869,,
 ,"book at the golden hotel, i-city. no reservation costs. great rates.
-",50.75120781255317
+",50.75120781,,
 ,"save with expedia's price guarantee. save on hotels in i-city, i-city.
-",37.25415440233106
+",37.2541544,,
 ,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.
-",35.258967601780704
+",35.2589676,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"book your hotel near san antental airport, i-city. no reservation costs
-",34.98444016362603
+",34.98444016,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"book at the grand hotel & cancon i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"best rates or refund + $50 coupon. book your cornington hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book a hotel near six flags station, i-city. save up to 50% on your reservation.
-",58.827623342551014
+",58.82762334,,
 ,"book at hotel san francisco, i-city. no reservation costs. great rates.
-",40.19765025395004
+",40.19765025,,
 ,"best rates or refund + $50 coupon. book your sal casino resort today!
-",73.06968385406772
+",73.06968385,,
 ,"book a hotel near six street station, i-city. save up to 50% on your reservation.
-",44.18530804806107
+",44.18530805,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"book at hotel leiser, malan. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book at hotel le saint germant, i-city. no reservation costs. great rates.
-",40.147273856481426
+",40.14727386,,
 ,"book at hotel saint grams, i-city. no reservation costs. great rates.
-",30.72207412413252
+",30.72207412,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"save with expedia's price guarantee. book a package to i-city.
-",46.0142425382261
+",46.01424254,,
 ,"book at hotel santa mara, playa del mar. no reservation costs. great rates.
-",59.286391955256214
+",59.28639196,,
 ,"book at hotel la carmor, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"book at hotel santa cari, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"book at the santa course, i-city. no reservation costs. great rates.
-",49.523758694698216
+",49.52375869,,
 ,"book at hotel san front resort, pattoya beach. no reservation costs. great rates.
-",74.34120980059754
+",74.3412098,,
 ,"book a hotel near six flags station, i-city. get instant confirmation.
-",126.77796369030636
+",126.7779637,,
 ,"best rates or refund + $50 coupon. book your car rental deals.
-",53.29163181607922
+",53.29163182,,
 ,"book a hotel near santoric center, i-city. save up to 50% on your reservation.
-",31.529103703442804
+",31.5291037,,
 ,"best rates or refund + $50 coupon on hotels in saint marones i-coun.
-",31.930203526527748
+",31.93020353,,
 ,"book at hotel san areno, i-city. no reservation costs. great rates.
-",40.19765025395004
+",40.19765025,,
 ,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.
-",35.258967601780704
+",35.2589676,,
 ,"book your hotel in cancon new online. no reservation costs. great rates.
-",43.26025542668341
+",43.26025543,,
 ,"book at hotel le carino, i-city. no reservation costs. great rates.
-",40.5421876010524
+",40.5421876,,
 ,"book at the grand hotel, i-city. no reservation costs. great rates.
-",52.54324969884475
+",52.5432497,,
 ,"book at the salama hotel & spi, i-city. no reservation costs. great rates.
-",41.286943755624115
+",41.28694376,,
 ,"book at the grande hotel, i-city. no reservation costs. great rates.
-",67.95220225245517
+",67.95220225,,
 ,"book at the grovers royal hotel, i-city. no reservation costs. great rates!
-",52.470580432602475
+",52.47058043,,
 ,"book at hotel le santoria, i-city. no reservation costs. great rates.
-",40.5421876010524
+",40.5421876,,
 ,"best rates or refund + $50 coupon. save big on hotels in i-city, tn
-",48.059704374340456
+",48.05970437,,
 ,"book at the grand hotel & suites, i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"book at harbour hotel, i-city. no reservation costs. great rates.
-",63.34857425576949
+",63.34857426,,
 ,"book at hotel saint marine, i-city. no reservation costs. great rates.
-",30.72207412413252
+",30.72207412,,
 ,"book at hotel santa menia, i-coun. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"best rates or refund + $50 coupon. save on motels in i-city, i-coun.
-",60.392186891661005
+",60.39218689,,
 ,"find and compare exclusive deals on hotels in cornent city, ca and save big!
-",32.35462546320506
+",32.35462546,,
 ,"book your hotel in corning online. no reservation costs. great rates.
-",32.90857307489637
+",32.90857307,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"best rates or refund +$50 coupon. book your cannon hotel today!
-",57.77256048855029
+",57.77256049,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"book at hotel san francisco, i-city. no reservation costs. great rates.
-",40.19765025395004
+",40.19765025,,
 ,"book at the sallers hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"best rates or refund + $50 coupon. save on hotels in i-coun, fl.
-",35.258967601780704
+",35.2589676,,
 ,"best rates or refund + $50 coupon. book your san antonio hotel today!
-",66.10295220389074
+",66.1029522,,
 ,"secure value with expedias price guarantee. save big on hotels in i-city.
-",58.33707793630384
+",58.33707794,,
 ,"book at the grand hotel & spa, i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"book a hotel in central bricks. no reservation costs. great rates.
-",45.84391619544433
+",45.8439162,,
 ,"save on your san andorica hotel with expedia today.
-",44.22440912662877
+",44.22440913,,
 ,"book at hotel lancale city center, i-city. no reservation costs. great rates.
-",36.46652495284341
+",36.46652495,,
 ,"best rates or refund + $50 coupon. book your santa motel today!
-",44.93410240282264
+",44.9341024,,
 ,"book at hotel le south beach, i-city. no reservation costs. great rates.
-",49.20090646006814
+",49.20090646,,
 ,"book a motel in i-city, ca. no reservation costs. great rates.
-",40.520420175416994
+",40.52042018,,
 ,"best rates or refund + $50 coupon. save on hotels in santa mara, i-coun
-",44.76718235029913
+",44.76718235,,
 ,"book your hotel in cancn online. no reservation costs. great rates.
-",47.000304802803896
+",47.0003048,,
 ,"book at the soland, i-city. no reservation costs. great rates!
-",39.06438524674073
+",39.06438525,,
 ,"book a motel in i-city. no reservation costs. great rates.
-",37.020419366941454
+",37.02041937,,
 ,"book a hotel near perrice center. save up to 50% on your reservation.
-",28.8503429946907
+",28.85034299,,
 ,"book a hotel near penristor street, i-city. get instant confirmation.
-",57.17056304223461
+",57.17056304,,
 ,"book at the grand hotel & suates, i-city. no reservation costs. great rates.
-",49.35619603046731
+",49.35619603,,
 ,"book a hotel near san arena station. save up to 50% on your reservation.
-",44.48595454995085
+",44.48595455,,
 ,"book your hotel in collington nc online. no reservation costs. great rates.
-",42.39277365915864
+",42.39277366,,
 ,"best rates or refund + $50 coupon on hotels in i-city, i-coun.
-",31.608994499702764
+",31.6089945,,
 ,"book a hotel near park station, i-city. save up to 50% on your reservation.
-",36.16137194820387
+",36.16137195,,
 ,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.
-",35.258967601780704
+",35.2589676,,
 ,"book at the sorrence, i-city. no reservation costs. great rates.
-",39.06438524674073
+",39.06438525,,
 ,"book at hotel solani, i-city. no reservation costs. great rates.
-",30.234738042762384
+",30.23473804,,
 ,"book at hotel santa mana, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"book at the sallor hotel, i-city. no reservation costs. great rates.
-",42.54924055604546
+",42.54924056,,
 ,"book at hotel leinerton i-city, new zermant. no reservation costs. great rates.
-",44.222601823405505
+",44.22260182,,
 ,"save on hotels in i-city, i-coun.
-",28.383413953342792
+",28.38341395,,
 ,"book your hotel in colomber nc online. no reservation costs. great rates.
-",42.39277365915864
+",42.39277366,,
 ,"book your hotel in i-city online. no reservation costs. great rates.
-",27.24914531276185
+",27.24914531,,
 ,"best rates or refund + $50 coupon. book your colonaino hotel today!
-",35.217317986222795
+",35.21731799,,
 ,"book at hotel santa central, i-city. no reservation costs. great rates.
-",39.23328781204157
+",39.23328781,,
 ,"book a hotel near perris square, i-city. get instant confirmation.
-",57.17056304223461
+",57.17056304,,
 ,"book at hotel la cancun, i-city. no reservation costs. great rates.
-",41.03608304264444
+",41.03608304,,
 ,"save on hotels in st. augustine, i-coun.
-",43.28556840800285
-,"book at the sort lake resort, i-city. no reservation costs. great rates.",53.33964488450264
+",43.28556841,,
+,"book at the sort lake resort, i-city. no reservation costs. great rates.",53.33964488,,
+,,,,43.02988461
