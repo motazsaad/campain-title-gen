@@ -9,7 +9,7 @@ library:
 Tensorflow
 
 Level:
-
+Char
 
 Model:
 RNN
