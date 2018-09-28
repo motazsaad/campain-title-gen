@@ -1,0 +1,310 @@
+id,seed_text(prime_text),generated_text,perplexity,readability_(0-10),relevance_(R/I),difficulty_score,difficulty_label,school_grade_level,#_syllables,#_words,#_sentences,#_difficult_words
+-,-,"book at harbour hotel, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,10th and 11th grade,16,10,2,4
+-,-,"book at harbour hotel, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,10th and 11th grade,16,10,2,4
+-,-,"book at harbour hotel, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,10th and 11th grade,16,10,2,4
+-,-,"book a motel in i-city, ca. no reservation costs. great rates!",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates!",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates!",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,book a hotel in central bricks. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book a hotel in central bricks. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book a hotel in central bricks. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your cordich hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your cordich hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your cordich hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.",-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.",-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.",-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,"book a hotel near perrist street, i-city. save up to 50% on your reservation.",-,-,-,81.29,Easy,3th and 4th grade,20,14,2,3
+-,-,"book a hotel near perrist street, i-city. save up to 50% on your reservation.",-,-,-,81.29,Easy,3th and 4th grade,20,14,2,3
+-,-,"book a hotel near perrist street, i-city. save up to 50% on your reservation.",-,-,-,81.29,Easy,3th and 4th grade,20,14,2,3
+-,-,"book at hotel le saint-millern, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel le saint-millern, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel le saint-millern, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.",-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.",-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in i-city, i-coun.",-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. book your south beach hotel today!,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your south beach hotel today!,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your south beach hotel today!,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in corto ca online. no reservation costs. great rates.,-,-,-,82.31,Easy,7th and 8th grade,17,12,2,3
+-,-,book your hotel in corto ca online. no reservation costs. great rates.,-,-,-,82.31,Easy,7th and 8th grade,17,12,2,3
+-,-,book your hotel in corto ca online. no reservation costs. great rates.,-,-,-,82.31,Easy,7th and 8th grade,17,12,2,3
+-,-,"find and compare exclusive deals on hotels in i-city, ca and save big!",-,-,-,66.74,Standard,7th and 8th grade,19,13,1,3
+-,-,"find and compare exclusive deals on hotels in i-city, ca and save big!",-,-,-,66.74,Standard,7th and 8th grade,19,13,1,3
+-,-,"find and compare exclusive deals on hotels in i-city, ca and save big!",-,-,-,66.74,Standard,7th and 8th grade,19,13,1,3
+-,-,"book at hotel saint grams, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel saint grams, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel saint grams, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,book a hotel near six flags area. save up to 50% on your reservation.,-,-,-,98.21,Easy,0th and 1th grade,17,14,2,1
+-,-,book a hotel near six flags area. save up to 50% on your reservation.,-,-,-,98.21,Easy,0th and 1th grade,17,14,2,1
+-,-,book a hotel near six flags area. save up to 50% on your reservation.,-,-,-,98.21,Easy,0th and 1th grade,17,14,2,1
+-,-,best rates or refund + $50 coupon. book your santa maria hotel today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. book your santa maria hotel today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. book your santa maria hotel today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,book a hotel near san diego state university. save up to 50% on your reservation.,-,-,-,80.78,Easy,5th and 6th grade,21,15,2,2
+-,-,book a hotel near san diego state university. save up to 50% on your reservation.,-,-,-,80.78,Easy,5th and 6th grade,21,15,2,2
+-,-,book a hotel near san diego state university. save up to 50% on your reservation.,-,-,-,80.78,Easy,5th and 6th grade,21,15,2,2
+-,-,"book a hostel in i-city, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book a hostel in i-city, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book a hostel in i-city, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,book a hotel in central st. park. no reservation costs. great rates.,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,book a hotel in central st. park. no reservation costs. great rates.,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,book a hotel in central st. park. no reservation costs. great rates.,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,"book at hotel santa cari, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel santa cari, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel santa cari, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,best rates or refund + $50 coupon. book your cancun hotel today!,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. book your cancun hotel today!,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. book your cancun hotel today!,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at hotel santa carino, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at hotel santa carino, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at hotel santa carino, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at the south beach, i-city. best price guarantee.",-,-,-,83.83,Easy,12th and 13th grade,13,9,2,2
+-,-,"book at the south beach, i-city. best price guarantee.",-,-,-,83.83,Easy,12th and 13th grade,13,9,2,2
+-,-,"book at the south beach, i-city. best price guarantee.",-,-,-,83.83,Easy,12th and 13th grade,13,9,2,2
+-,-,"book at hotel le santoria i-city, i-city. no reservation costs. great rates.",-,-,-,48.47,Difficult,10th and 11th grade,21,12,2,4
+-,-,"book at hotel le santoria i-city, i-city. no reservation costs. great rates.",-,-,-,48.47,Difficult,10th and 11th grade,21,12,2,4
+-,-,"book at hotel le santoria i-city, i-city. no reservation costs. great rates.",-,-,-,48.47,Difficult,10th and 11th grade,21,12,2,4
+-,-,"book at the salama hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at the salama hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at the salama hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,best rates or refund + $50 coupon. book your santa motel today!,-,-,-,74.35,Easy,3th and 4th grade,16,11,2,4
+-,-,best rates or refund + $50 coupon. book your santa motel today!,-,-,-,74.35,Easy,3th and 4th grade,16,11,2,4
+-,-,best rates or refund + $50 coupon. book your santa motel today!,-,-,-,74.35,Easy,3th and 4th grade,16,11,2,4
+-,-,book a hotel near six flags. save up to 50% on your reservation.,-,-,-,98.72,Easy,1th and 2th grade,16,13,2,1
+-,-,book a hotel near six flags. save up to 50% on your reservation.,-,-,-,98.72,Easy,1th and 2th grade,16,13,2,1
+-,-,book a hotel near six flags. save up to 50% on your reservation.,-,-,-,98.72,Easy,1th and 2th grade,16,13,2,1
+-,-,"book at hotel le santa mala, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"book at hotel le santa mala, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"book at hotel le santa mala, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,book a hotel near same cardoral save up to 50% on your reservation.,-,-,-,75.2,Easy,6th and 7th grade,18,13,1,2
+-,-,book a hotel near same cardoral save up to 50% on your reservation.,-,-,-,75.2,Easy,6th and 7th grade,18,13,1,2
+-,-,book a hotel near same cardoral save up to 50% on your reservation.,-,-,-,75.2,Easy,6th and 7th grade,18,13,1,2
+-,-,"best rates or refund + $50 coupon on hotels in i-city, i-coun.",-,-,-,68.77,Standard,8th and 9th grade,16,11,1,3
+-,-,"best rates or refund + $50 coupon on hotels in i-city, i-coun.",-,-,-,68.77,Standard,8th and 9th grade,16,11,1,3
+-,-,"best rates or refund + $50 coupon on hotels in i-city, i-coun.",-,-,-,68.77,Standard,8th and 9th grade,16,11,1,3
+-,-,best rates or refund + $50 coupon. book your cannon airport hotel today!,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,2
+-,-,best rates or refund + $50 coupon. book your cannon airport hotel today!,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,2
+-,-,best rates or refund + $50 coupon. book your cannon airport hotel today!,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,2
+-,-,best rates or refund + $50 coupon. book your santa convention centre hotel today!,-,-,-,64.88,Standard,10th and 11th grade,21,13,2,5
+-,-,best rates or refund + $50 coupon. book your santa convention centre hotel today!,-,-,-,64.88,Standard,10th and 11th grade,21,13,2,5
+-,-,best rates or refund + $50 coupon. book your santa convention centre hotel today!,-,-,-,64.88,Standard,10th and 11th grade,21,13,2,5
+-,-,book your hotel in collington online. no reservation costs. great rates.,-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,book your hotel in collington online. no reservation costs. great rates.,-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,book your hotel in collington online. no reservation costs. great rates.,-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,book your hotel in carlong ny online. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,book your hotel in carlong ny online. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,book your hotel in carlong ny online. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,"book at the grond hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grond hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grond hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,book a hotel in central barcelona. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book a hotel in central barcelona. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book a hotel in central barcelona. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book at hotel le carino, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel le carino, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel le carino, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel la palace, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel la palace, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel la palace, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,save on your silmen airport hotel with expedia.,-,-,-,63.36,Standard,7th and 8th grade,13,8,1,2
+-,-,save on your silmen airport hotel with expedia.,-,-,-,63.36,Standard,7th and 8th grade,13,8,1,2
+-,-,save on your silmen airport hotel with expedia.,-,-,-,63.36,Standard,7th and 8th grade,13,8,1,2
+-,-,"book at hotel la pari, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel la pari, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel la pari, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,book your hotel in cancon ny online. no reservation costs. great rates.,-,-,-,82.31,Easy,7th and 8th grade,17,12,2,3
+-,-,book your hotel in cancon ny online. no reservation costs. great rates.,-,-,-,82.31,Easy,7th and 8th grade,17,12,2,3
+-,-,book your hotel in cancon ny online. no reservation costs. great rates.,-,-,-,82.31,Easy,7th and 8th grade,17,12,2,3
+-,-,"book your hotel near san antental airport, i-city. no reservation costs",-,-,-,57.43,Difficult,9th and 10th grade,19,11,2,4
+-,-,"book your hotel near san antental airport, i-city. no reservation costs",-,-,-,57.43,Difficult,9th and 10th grade,19,11,2,4
+-,-,"book your hotel near san antental airport, i-city. no reservation costs",-,-,-,57.43,Difficult,9th and 10th grade,19,11,2,4
+-,-,"book at hotel la canara i-city, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,9th and 10th grade,20,12,2,4
+-,-,"book at hotel la canara i-city, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,9th and 10th grade,20,12,2,4
+-,-,"book at hotel la canara i-city, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,9th and 10th grade,20,12,2,4
+-,-,book a hotel in the best rotes in i-city. no reservation costs. great rates.,-,-,-,81.29,Easy,5th and 6th grade,19,14,2,2
+-,-,book a hotel in the best rotes in i-city. no reservation costs. great rates.,-,-,-,81.29,Easy,5th and 6th grade,19,14,2,2
+-,-,book a hotel in the best rotes in i-city. no reservation costs. great rates.,-,-,-,81.29,Easy,5th and 6th grade,19,14,2,2
+-,-,"book at hotel san front resort, pattoya beach. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book at hotel san front resort, pattoya beach. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book at hotel san front resort, pattoya beach. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book at hotel san frankis, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel san frankis, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel san frankis, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at the santa convention hotel, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,11th and 12th grade,20,12,2,5
+-,-,"book at the santa convention hotel, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,11th and 12th grade,20,12,2,5
+-,-,"book at the santa convention hotel, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,11th and 12th grade,20,12,2,5
+-,-,"best rates or refund + $50 coupon. book at the shilly hotel, i-city. no reservation costs. great rates.",-,-,-,82.61,Easy,7th and 8th grade,24,17,3,4
+-,-,"best rates or refund + $50 coupon. book at the shilly hotel, i-city. no reservation costs. great rates.",-,-,-,82.61,Easy,7th and 8th grade,24,17,3,4
+-,-,"best rates or refund + $50 coupon. book at the shilly hotel, i-city. no reservation costs. great rates.",-,-,-,82.61,Easy,7th and 8th grade,24,17,3,4
+-,-,book your hotel in cannon city centre. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,2
+-,-,book your hotel in cannon city centre. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,2
+-,-,book your hotel in cannon city centre. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,2
+-,-,"book at the sallor hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at the sallor hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at the sallor hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at transer hotel & suites, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,17,11,2,2
+-,-,"book at transer hotel & suites, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,17,11,2,2
+-,-,"book at transer hotel & suites, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,17,11,2,2
+-,-,"book at hotel santa mara, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel santa mara, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel santa mara, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel le cannon i-city, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,9th and 10th grade,20,12,2,3
+-,-,"book at hotel le cannon i-city, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,9th and 10th grade,20,12,2,3
+-,-,"book at hotel le cannon i-city, i-city. no reservation costs. great rates.",-,-,-,56.93,Difficult,9th and 10th grade,20,12,2,3
+-,-,"book at hotel leiser, malan. no reservation costs. great rates.",-,-,-,83.32,Easy,6th and 7th grade,14,10,2,2
+-,-,"book at hotel leiser, malan. no reservation costs. great rates.",-,-,-,83.32,Easy,6th and 7th grade,14,10,2,2
+-,-,"book at hotel leiser, malan. no reservation costs. great rates.",-,-,-,83.32,Easy,6th and 7th grade,14,10,2,2
+-,-,"book at the sandoring, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,8th and 9th grade,16,10,2,3
+-,-,"book at the sandoring, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,8th and 9th grade,16,10,2,3
+-,-,"book at the sandoring, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,8th and 9th grade,16,10,2,3
+-,-,book a hotel in central bridge. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book a hotel in central bridge. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book a hotel in central bridge. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,"book at the sourhotel, i-city. no reservation costs. great rates.",-,-,-,74.86,Easy,10th and 11th grade,15,10,2,3
+-,-,"book at the sourhotel, i-city. no reservation costs. great rates.",-,-,-,74.86,Easy,10th and 11th grade,15,10,2,3
+-,-,"book at the sourhotel, i-city. no reservation costs. great rates.",-,-,-,74.86,Easy,10th and 11th grade,15,10,2,3
+-,-,"book a hostel in i-city, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book a hostel in i-city, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book a hostel in i-city, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,book a muxury hotel in cancn online. no reservation costs. great rates.,-,-,-,65.39,Standard,8th and 9th grade,19,12,2,4
+-,-,book a muxury hotel in cancn online. no reservation costs. great rates.,-,-,-,65.39,Standard,8th and 9th grade,19,12,2,4
+-,-,book a muxury hotel in cancn online. no reservation costs. great rates.,-,-,-,65.39,Standard,8th and 9th grade,19,12,2,4
+-,-,book your hotel in carlond orlend online. no reservation costs. great rates.,-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,book your hotel in carlond orlend online. no reservation costs. great rates.,-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,book your hotel in carlond orlend online. no reservation costs. great rates.,-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,"book at the golden hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at the golden hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at the golden hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,best rates or refund + $50 coupon. book your cariso hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your cariso hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your cariso hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at the southester hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,"book at the southester hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,"book at the southester hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book at hotel le saint germain, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,9th and 10th grade,18,12,2,3
+-,-,"book at hotel le saint germain, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,9th and 10th grade,18,12,2,3
+-,-,"book at hotel le saint germain, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,9th and 10th grade,18,12,2,3
+-,-,book your hotel in corton online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,book your hotel in corton online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,book your hotel in corton online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book a hotel near six salace station, i-city. save up to 50% on your reservation.",-,-,-,80.78,Easy,3th and 4th grade,21,15,2,3
+-,-,"book a hotel near six salace station, i-city. save up to 50% on your reservation.",-,-,-,80.78,Easy,3th and 4th grade,21,15,2,3
+-,-,"book a hotel near six salace station, i-city. save up to 50% on your reservation.",-,-,-,80.78,Easy,3th and 4th grade,21,15,2,3
+-,-,book at the sands car rental deals. no reservation costs. great rates.,-,-,-,99.23,Easy,7th and 8th grade,14,12,2,1
+-,-,book at the sands car rental deals. no reservation costs. great rates.,-,-,-,99.23,Easy,7th and 8th grade,14,12,2,1
+-,-,book at the sands car rental deals. no reservation costs. great rates.,-,-,-,99.23,Easy,7th and 8th grade,14,12,2,1
+-,-,"book a hostel in i-city, usa. no reservation costs. great rates.",-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,"book a hostel in i-city, usa. no reservation costs. great rates.",-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,"book a hostel in i-city, usa. no reservation costs. great rates.",-,-,-,74.35,Easy,7th and 8th grade,16,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at hotel santa menta, manarea. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at hotel santa menta, manarea. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at hotel santa menta, manarea. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"best rates or refund + $50 coupon. book at hotel sai airport, i-city",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"best rates or refund + $50 coupon. book at hotel sai airport, i-city",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"best rates or refund + $50 coupon. book at hotel sai airport, i-city",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"book at hotel saint-louiner, i-city. no reservation costs. great rates.",-,-,-,57.94,Difficult,15th and 16th grade,17,10,2,3
+-,-,"book at hotel saint-louiner, i-city. no reservation costs. great rates.",-,-,-,57.94,Difficult,15th and 16th grade,17,10,2,3
+-,-,"book at hotel saint-louiner, i-city. no reservation costs. great rates.",-,-,-,57.94,Difficult,15th and 16th grade,17,10,2,3
+-,-,"book at hotel santa menia, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at hotel santa menia, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at hotel santa menia, i-coun. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book a hotel near perris square, i-city. get instant confirmation.",-,-,-,49.48,Difficult,7th and 8th grade,18,10,2,3
+-,-,"book a hotel near perris square, i-city. get instant confirmation.",-,-,-,49.48,Difficult,7th and 8th grade,18,10,2,3
+-,-,"book a hotel near perris square, i-city. get instant confirmation.",-,-,-,49.48,Difficult,7th and 8th grade,18,10,2,3
+-,-,"book at the solaman hotel, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at the solaman hotel, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at the solaman hotel, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at hotel lancale city center, i-city. no reservation costs. great rates.",-,-,-,65.39,Standard,7th and 8th grade,19,12,2,4
+-,-,"book at hotel lancale city center, i-city. no reservation costs. great rates.",-,-,-,65.39,Standard,7th and 8th grade,19,12,2,4
+-,-,"book at hotel lancale city center, i-city. no reservation costs. great rates.",-,-,-,65.39,Standard,7th and 8th grade,19,12,2,4
+-,-,"book at the salace hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the salace hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the salace hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grand hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grand hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grand hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. book your cordich hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your cordich hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund + $50 coupon. book your cordich hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in i-city online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,save with expedia's price guarantee. book a package to i-city.,-,-,-,57.94,Difficult,8th and 9th grade,17,10,2,3
+-,-,save with expedia's price guarantee. book a package to i-city.,-,-,-,57.94,Difficult,8th and 9th grade,17,10,2,3
+-,-,save with expedia's price guarantee. book a package to i-city.,-,-,-,57.94,Difficult,8th and 9th grade,17,10,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book a motel in i-city, ca. no reservation costs. great rates.",-,-,-,74.35,Easy,3th and 4th grade,16,11,2,3
+-,-,"book at the sallort, i-city. no reservation costs. great rates.",-,-,-,74.86,Easy,6th and 7th grade,15,10,2,3
+-,-,"book at the sallort, i-city. no reservation costs. great rates.",-,-,-,74.86,Easy,6th and 7th grade,15,10,2,3
+-,-,"book at the sallort, i-city. no reservation costs. great rates.",-,-,-,74.86,Easy,6th and 7th grade,15,10,2,3
+-,-,"best rates or refund + $50 coupon. save big on hotels in i-city, tn",-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,"best rates or refund + $50 coupon. save big on hotels in i-city, tn",-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,"best rates or refund + $50 coupon. save big on hotels in i-city, tn",-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,best rates or refund +$50 coupon. book your cannon hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund +$50 coupon. book your cannon hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund +$50 coupon. book your cannon hotel today!,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,"book at hotel le santo cana, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"book at hotel le santo cana, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"book at hotel le santo cana, i-city. no reservation costs. great rates.",-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"book at the santorna, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,8th and 9th grade,16,10,2,3
+-,-,"book at the santorna, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,8th and 9th grade,16,10,2,3
+-,-,"book at the santorna, i-city. no reservation costs. great rates.",-,-,-,66.4,Standard,8th and 9th grade,16,10,2,3
+-,-,"book at the grand hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grand hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grand hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. book your san franceshotel today!,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,best rates or refund + $50 coupon. book your san franceshotel today!,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,best rates or refund + $50 coupon. book your san franceshotel today!,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,"book your hotel in i-city, i-city online. no reservation costs. great rates.",-,-,-,56.93,Difficult,6th and 7th grade,20,12,2,4
+-,-,"book your hotel in i-city, i-city online. no reservation costs. great rates.",-,-,-,56.93,Difficult,6th and 7th grade,20,12,2,4
+-,-,"book your hotel in i-city, i-city online. no reservation costs. great rates.",-,-,-,56.93,Difficult,6th and 7th grade,20,12,2,4
+-,-,"book a hotel near six flags station, i-city. get instant confirmation.",-,-,-,57.43,Difficult,6th and 7th grade,19,11,2,3
+-,-,"book a hotel near six flags station, i-city. get instant confirmation.",-,-,-,57.43,Difficult,6th and 7th grade,19,11,2,3
+-,-,"book a hotel near six flags station, i-city. get instant confirmation.",-,-,-,57.43,Difficult,6th and 7th grade,19,11,2,3
+-,-,"book at the golden hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at the golden hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,"book at the golden hotel, i-city. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in cancn online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,book your hotel in cancn online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,book your hotel in cancn online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at the grovers royal hotel, i-city. no reservation costs. great rates!",-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,"book at the grovers royal hotel, i-city. no reservation costs. great rates!",-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,"book at the grovers royal hotel, i-city. no reservation costs. great rates!",-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,"book at thi channian hotel, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at thi channian hotel, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book at thi channian hotel, i-city. no reservation costs. great rates.",-,-,-,65.89,Standard,9th and 10th grade,18,11,2,4
+-,-,"book your hotel in i-city, i-city online. no reservation costs. great rates.",-,-,-,56.93,Difficult,6th and 7th grade,20,12,2,4
+-,-,"book your hotel in i-city, i-city online. no reservation costs. great rates.",-,-,-,56.93,Difficult,6th and 7th grade,20,12,2,4
+-,-,"book your hotel in i-city, i-city online. no reservation costs. great rates.",-,-,-,56.93,Difficult,6th and 7th grade,20,12,2,4
+-,-,book your hotel in iscity online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in iscity online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in iscity online. no reservation costs. great rates.,-,-,-,74.35,Easy,8th and 9th grade,17,11,2,3
+-,-,book your hotel in corning online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book your hotel in corning online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book your hotel in corning online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3

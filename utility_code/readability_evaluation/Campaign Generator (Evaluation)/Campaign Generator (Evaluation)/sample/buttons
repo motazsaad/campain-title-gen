@@ -1,0 +1,18 @@
+<div class="btn-group-vertical" data-toggle="buttons" id="Inputs">
+
+<label class="btn btn-default">
+<input id="relevance" name="sentiment" required="" type="radio" value="relevance" />relevance </label> 
+
+<label class="btn btn-default"> 
+<input id="irrelevance" name="sentiment" required="" type="radio" value="irrelevance" />irrelevance </label> 
+
+<!-- Add more inputs by copy pasting the "label" container and incrementing/changing the "id" attribute on the "input" field to always be unique. Make sure the "value" attribute has the correct value that you want recorded as a response. -->
+
+</div>
+
+
+Series 
+Tv
+Movies
+Channels 
+Episode 

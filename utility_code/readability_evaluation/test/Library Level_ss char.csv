@@ -1,0 +1,307 @@
+id,seed_text(prime_text),generated_text,perplexity,readability_(0-10),relevance_(R/I),difficulty_score,difficulty_label,school_grade_level,#_syllables,#_words,#_sentences,#_difficult_words
+-,-,book your hotel in bermerston wa online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in bermerston wa online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in bermerston wa online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,"book at the london hotel and spa, killarney. no reservation costs. great rates.",-,-,-,73.34,Easy,13th and 14th grade,19,13,2,3
+-,-,"book at the london hotel and spa, killarney. no reservation costs. great rates.",-,-,-,73.34,Easy,13th and 14th grade,19,13,2,3
+-,-,"book at the london hotel and spa, killarney. no reservation costs. great rates.",-,-,-,73.34,Easy,13th and 14th grade,19,13,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in barrelon today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in barrelon today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in barrelon today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,book a b&b in barboro online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,book a b&b in barboro online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,book a b&b in barboro online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,"book at tokers inn and spa hotel, london. no reservation costs. great rates.",-,-,-,81.8,Easy,8th and 9th grade,18,13,2,4
+-,-,"book at tokers inn and spa hotel, london. no reservation costs. great rates.",-,-,-,81.8,Easy,8th and 9th grade,18,13,2,4
+-,-,"book at tokers inn and spa hotel, london. no reservation costs. great rates.",-,-,-,81.8,Easy,8th and 9th grade,18,13,2,4
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, germany.",-,-,-,90.77,Easy,7th and 8th grade,16,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, germany.",-,-,-,90.77,Easy,7th and 8th grade,16,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, germany.",-,-,-,90.77,Easy,7th and 8th grade,16,12,2,3
+-,-,"book at the santa barbara hotel, london. no reservation costs. great rates.",-,-,-,73.85,Easy,10th and 11th grade,18,12,2,5
+-,-,"book at the santa barbara hotel, london. no reservation costs. great rates.",-,-,-,73.85,Easy,10th and 11th grade,18,12,2,5
+-,-,"book at the santa barbara hotel, london. no reservation costs. great rates.",-,-,-,73.85,Easy,10th and 11th grade,18,12,2,5
+-,-,best rates or refund + $50 coupon. book your south padris hotel today!,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your south padris hotel today!,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your south padris hotel today!,-,-,-,90.77,Easy,6th and 7th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your hotel in bellin today!,-,-,-,90.77,Easy,2th and 3th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your hotel in bellin today!,-,-,-,90.77,Easy,2th and 3th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your hotel in bellin today!,-,-,-,90.77,Easy,2th and 3th grade,16,12,2,2
+-,-,best rates or refund + $50 coupon. book your san jusn airport hotel today!,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,2
+-,-,best rates or refund + $50 coupon. book your san jusn airport hotel today!,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,2
+-,-,best rates or refund + $50 coupon. book your san jusn airport hotel today!,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,2
+-,-,"book at the santa barca hotel, london. no reservation costs. great rates.",-,-,-,73.85,Easy,10th and 11th grade,18,12,2,5
+-,-,"book at the santa barca hotel, london. no reservation costs. great rates.",-,-,-,73.85,Easy,10th and 11th grade,18,12,2,5
+-,-,"book at the santa barca hotel, london. no reservation costs. great rates.",-,-,-,73.85,Easy,10th and 11th grade,18,12,2,5
+-,-,"best rates on the park hotel, dublin. plan your next trip with expedia.",-,-,-,98.72,Easy,1th and 2th grade,16,13,2,2
+-,-,"best rates on the park hotel, dublin. plan your next trip with expedia.",-,-,-,98.72,Easy,1th and 2th grade,16,13,2,2
+-,-,"best rates on the park hotel, dublin. plan your next trip with expedia.",-,-,-,98.72,Easy,1th and 2th grade,16,13,2,2
+-,-,save on your hotels in bangkok city central save with expedia's price guarantee,-,-,-,66.74,Standard,8th and 9th grade,19,13,1,4
+-,-,save on your hotels in bangkok city central save with expedia's price guarantee,-,-,-,66.74,Standard,8th and 9th grade,19,13,1,4
+-,-,save on your hotels in bangkok city central save with expedia's price guarantee,-,-,-,66.74,Standard,8th and 9th grade,19,13,1,4
+-,-,"santorini plaza hotel & casino, rome. no reservation costs. great rates.",-,-,-,57.94,Difficult,15th and 16th grade,17,10,2,3
+-,-,"santorini plaza hotel & casino, rome. no reservation costs. great rates.",-,-,-,57.94,Difficult,15th and 16th grade,17,10,2,3
+-,-,"santorini plaza hotel & casino, rome. no reservation costs. great rates.",-,-,-,57.94,Difficult,15th and 16th grade,17,10,2,3
+-,-,"book a cheap hotel in benidorm, usa. no reservation costs. great rates.",-,-,-,90.77,Easy,7th and 8th grade,15,12,2,1
+-,-,"book a cheap hotel in benidorm, usa. no reservation costs. great rates.",-,-,-,90.77,Easy,7th and 8th grade,15,12,2,1
+-,-,"book a cheap hotel in benidorm, usa. no reservation costs. great rates.",-,-,-,90.77,Easy,7th and 8th grade,15,12,2,1
+-,-,book a hotel near state cardiff. save up to 50% on your reservation.,-,-,-,98.72,Easy,4th and 5th grade,16,13,2,1
+-,-,book a hotel near state cardiff. save up to 50% on your reservation.,-,-,-,98.72,Easy,4th and 5th grade,16,13,2,1
+-,-,book a hotel near state cardiff. save up to 50% on your reservation.,-,-,-,98.72,Easy,4th and 5th grade,16,13,2,1
+-,-,"book a hotel near st germain, mall. save up to 50% on your reservation.",-,-,-,89.75,Easy,2th and 3th grade,18,14,2,2
+-,-,"book a hotel near st germain, mall. save up to 50% on your reservation.",-,-,-,89.75,Easy,2th and 3th grade,18,14,2,2
+-,-,"book a hotel near st germain, mall. save up to 50% on your reservation.",-,-,-,89.75,Easy,2th and 3th grade,18,14,2,2
+-,-,"book at the langelon hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the langelon hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the langelon hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the stan hotel, manchester. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at the stan hotel, manchester. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at the stan hotel, manchester. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at hotel santa barbara, paris. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at hotel santa barbara, paris. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at hotel santa barbara, paris. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,best rates or refund + $50 coupon. book your santa cruz hotel today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. book your santa cruz hotel today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. book your santa cruz hotel today!,-,-,-,82.31,Easy,3th and 4th grade,17,12,2,3
+-,-,book at hot l span hotel berley. no reservation costs. great rates.,-,-,-,90.77,Easy,1th and 2th grade,15,12,2,1
+-,-,book at hot l span hotel berley. no reservation costs. great rates.,-,-,-,90.77,Easy,1th and 2th grade,15,12,2,1
+-,-,book at hot l span hotel berley. no reservation costs. great rates.,-,-,-,90.77,Easy,1th and 2th grade,15,12,2,1
+-,-,"book at the starlon hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the starlon hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the starlon hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,book your hotel in bellivie online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book your hotel in bellivie online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book your hotel in bellivie online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book your hotel in saint-jark ny online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in saint-jark ny online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in saint-jark ny online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,"book at the langkok hotel, longon. no reservation costs. great rates.",-,-,-,82.81,Easy,9th and 10th grade,15,11,2,3
+-,-,"book at the langkok hotel, longon. no reservation costs. great rates.",-,-,-,82.81,Easy,9th and 10th grade,15,11,2,3
+-,-,"book at the langkok hotel, longon. no reservation costs. great rates.",-,-,-,82.81,Easy,9th and 10th grade,15,11,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in singapore today!,-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in singapore today!,-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in singapore today!,-,-,-,73.85,Easy,7th and 8th grade,18,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in santa craza, ca.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in santa craza, ca.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in santa craza, ca.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,"book at the salin beach resort, cancn. no reservation costs. great rates.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,3
+-,-,"book at the salin beach resort, cancn. no reservation costs. great rates.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,3
+-,-,"book at the salin beach resort, cancn. no reservation costs. great rates.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,3
+-,-,book your hotel in bellaville ma online. no reservation costs,-,-,-,74.86,Easy,8th and 9th grade,15,10,2,3
+-,-,book your hotel in bellaville ma online. no reservation costs,-,-,-,74.86,Easy,8th and 9th grade,15,10,2,3
+-,-,book your hotel in bellaville ma online. no reservation costs,-,-,-,74.86,Easy,8th and 9th grade,15,10,2,3
+-,-,"book a hotel near singepore airport, saint paul. no reservation costs. great rates.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,"book a hotel near singepore airport, saint paul. no reservation costs. great rates.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,"book a hotel near singepore airport, saint paul. no reservation costs. great rates.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,"book at thistle hotel, london. no reservation costs. great rates.",-,-,-,74.86,Easy,10th and 11th grade,15,10,2,4
+-,-,"book at thistle hotel, london. no reservation costs. great rates.",-,-,-,74.86,Easy,10th and 11th grade,15,10,2,4
+-,-,"book at thistle hotel, london. no reservation costs. great rates.",-,-,-,74.86,Easy,10th and 11th grade,15,10,2,4
+-,-,"book at the lancaster hotel, tokyo. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at the lancaster hotel, tokyo. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at the lancaster hotel, tokyo. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,"book at hotel el carlio, milan. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at hotel el carlio, milan. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"book at hotel el carlio, milan. no reservation costs. great rates.",-,-,-,74.35,Easy,8th and 9th grade,16,11,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in benida, italy.",-,-,-,90.77,Easy,2th and 3th grade,16,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in benida, italy.",-,-,-,90.77,Easy,2th and 3th grade,16,12,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in benida, italy.",-,-,-,90.77,Easy,2th and 3th grade,16,12,2,3
+-,-,best rates on the san antonio hotel. plan your next trip with expedia.,-,-,-,81.8,Easy,5th and 6th grade,18,13,2,3
+-,-,best rates on the san antonio hotel. plan your next trip with expedia.,-,-,-,81.8,Easy,5th and 6th grade,18,13,2,3
+-,-,best rates on the san antonio hotel. plan your next trip with expedia.,-,-,-,81.8,Easy,5th and 6th grade,18,13,2,3
+-,-,best rates or refund + $50 coupon. save on hotels in barbara and save big!,-,-,-,89.75,Easy,2th and 3th grade,18,14,2,3
+-,-,best rates or refund + $50 coupon. save on hotels in barbara and save big!,-,-,-,89.75,Easy,2th and 3th grade,18,14,2,3
+-,-,best rates or refund + $50 coupon. save on hotels in barbara and save big!,-,-,-,89.75,Easy,2th and 3th grade,18,14,2,3
+-,-,book your hotel in sunset online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,book your hotel in sunset online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,book your hotel in sunset online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel expedia, manchester. no reservation costs. great rates.",-,-,-,57.94,Difficult,8th and 9th grade,17,10,2,3
+-,-,"book at hotel expedia, manchester. no reservation costs. great rates.",-,-,-,57.94,Difficult,8th and 9th grade,17,10,2,3
+-,-,"book at hotel expedia, manchester. no reservation costs. great rates.",-,-,-,57.94,Difficult,8th and 9th grade,17,10,2,3
+-,-,"book a hotel near state centre, san francisco. get instant confirmation.",-,-,-,57.43,Difficult,7th and 8th grade,19,11,2,3
+-,-,"book a hotel near state centre, san francisco. get instant confirmation.",-,-,-,57.43,Difficult,7th and 8th grade,19,11,2,3
+-,-,"book a hotel near state centre, san francisco. get instant confirmation.",-,-,-,57.43,Difficult,7th and 8th grade,19,11,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, texas.",-,-,-,90.77,Easy,6th and 7th grade,15,12,2,2
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, texas.",-,-,-,90.77,Easy,6th and 7th grade,15,12,2,2
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, texas.",-,-,-,90.77,Easy,6th and 7th grade,15,12,2,2
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,"book at the lanchenter hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,11th and 12th grade,16,11,2,4
+-,-,"book at the lanchenter hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,11th and 12th grade,16,11,2,4
+-,-,"book at the lanchenter hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,11th and 12th grade,16,11,2,4
+-,-,book your hotel in suran online. no reservation costs. great rates.,-,-,-,82.81,Easy,5th and 6th grade,15,11,2,2
+-,-,book your hotel in suran online. no reservation costs. great rates.,-,-,-,82.81,Easy,5th and 6th grade,15,11,2,2
+-,-,book your hotel in suran online. no reservation costs. great rates.,-,-,-,82.81,Easy,5th and 6th grade,15,11,2,2
+-,-,"book at head royal hotel & suites, milan. no reservation costs. great rates.",-,-,-,73.85,Easy,6th and 7th grade,18,12,2,2
+-,-,"book at head royal hotel & suites, milan. no reservation costs. great rates.",-,-,-,73.85,Easy,6th and 7th grade,18,12,2,2
+-,-,"book at head royal hotel & suites, milan. no reservation costs. great rates.",-,-,-,73.85,Easy,6th and 7th grade,18,12,2,2
+-,-,find ant compare exclusive deals on hotels in santa cruz and save big!,-,-,-,75.2,Easy,7th and 8th grade,18,13,1,3
+-,-,find ant compare exclusive deals on hotels in santa cruz and save big!,-,-,-,75.2,Easy,7th and 8th grade,18,13,1,3
+-,-,find ant compare exclusive deals on hotels in santa cruz and save big!,-,-,-,75.2,Easy,7th and 8th grade,18,13,1,3
+-,-,best rates or refund + $50 coupon. book your hotel in san juan indine today!,-,-,-,81.29,Easy,2th and 3th grade,19,14,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in san juan indine today!,-,-,-,81.29,Easy,2th and 3th grade,19,14,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in san juan indine today!,-,-,-,81.29,Easy,2th and 3th grade,19,14,2,3
+-,-,"book at the starlon hotel, los angeles. no reservation costs. great rates.",-,-,-,73.85,Easy,9th and 10th grade,18,12,2,4
+-,-,"book at the starlon hotel, los angeles. no reservation costs. great rates.",-,-,-,73.85,Easy,9th and 10th grade,18,12,2,4
+-,-,"book at the starlon hotel, los angeles. no reservation costs. great rates.",-,-,-,73.85,Easy,9th and 10th grade,18,12,2,4
+-,-,book your hotel in santa caras online. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,book your hotel in santa caras online. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,book your hotel in santa caras online. no reservation costs. great rates.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,"book at hotel experia stadium, paris. no reservation costs. great rates.",-,-,-,65.89,Standard,7th and 8th grade,18,11,2,3
+-,-,"book at hotel experia stadium, paris. no reservation costs. great rates.",-,-,-,65.89,Standard,7th and 8th grade,18,11,2,3
+-,-,"book at hotel experia stadium, paris. no reservation costs. great rates.",-,-,-,65.89,Standard,7th and 8th grade,18,11,2,3
+-,-,book your hotel in san francisco ca online. no reservation costs. great rates.,-,-,-,73.34,Easy,13th and 14th grade,19,13,2,3
+-,-,book your hotel in san francisco ca online. no reservation costs. great rates.,-,-,-,73.34,Easy,13th and 14th grade,19,13,2,3
+-,-,book your hotel in san francisco ca online. no reservation costs. great rates.,-,-,-,73.34,Easy,13th and 14th grade,19,13,2,3
+-,-,"book at the banff hotel, lincoln. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the banff hotel, lincoln. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the banff hotel, lincoln. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, tn. no reservation costs. great rates.",-,-,-,91.07,Easy,6th and 7th grade,22,17,3,3
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, tn. no reservation costs. great rates.",-,-,-,91.07,Easy,6th and 7th grade,22,17,3,3
+-,-,"best rates or refund + $50 coupon. save on hotels in bangkok, tn. no reservation costs. great rates.",-,-,-,91.07,Easy,6th and 7th grade,22,17,3,3
+-,-,"book at hotel eler cantre london, london. no reservation costs. great rates.",-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,"book at hotel eler cantre london, london. no reservation costs. great rates.",-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,"book at hotel eler cantre london, london. no reservation costs. great rates.",-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,"book a hotel near hond stadium, san antonio save up to 50% on your reservation.",-,-,-,64.71,Standard,7th and 8th grade,22,15,1,3
+-,-,"book a hotel near hond stadium, san antonio save up to 50% on your reservation.",-,-,-,64.71,Standard,7th and 8th grade,22,15,1,3
+-,-,"book a hotel near hond stadium, san antonio save up to 50% on your reservation.",-,-,-,64.71,Standard,7th and 8th grade,22,15,1,3
+-,-,"book at the stan in the harbor,, los angeles. no reservation costs. great rates.",-,-,-,81.29,Easy,7th and 8th grade,19,14,2,3
+-,-,"book at the stan in the harbor,, los angeles. no reservation costs. great rates.",-,-,-,81.29,Easy,7th and 8th grade,19,14,2,3
+-,-,"book at the stan in the harbor,, los angeles. no reservation costs. great rates.",-,-,-,81.29,Easy,7th and 8th grade,19,14,2,3
+-,-,"book at the starbur hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the starbur hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the starbur hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,book your hotel in belling online. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book your hotel in belling online. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book your hotel in belling online. no reservation costs. great rates.,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book your hotel in barcelona online. no reservation costs. great rates,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book your hotel in barcelona online. no reservation costs. great rates,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,book your hotel in barcelona online. no reservation costs. great rates,-,-,-,82.81,Easy,6th and 7th grade,15,11,2,2
+-,-,best rates or refund +$50 coupon. book your hotel in belland now!,-,-,-,90.77,Easy,2th and 3th grade,15,12,2,2
+-,-,best rates or refund +$50 coupon. book your hotel in belland now!,-,-,-,90.77,Easy,2th and 3th grade,15,12,2,2
+-,-,best rates or refund +$50 coupon. book your hotel in belland now!,-,-,-,90.77,Easy,2th and 3th grade,15,12,2,2
+-,-,"book at the lancaster hatel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at the lancaster hatel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,"book at the lancaster hatel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,17,11,2,4
+-,-,book a b&b in stanbur online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,book a b&b in stanbur online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,book a b&b in stanbur online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,"book a b&b near manchester city center, station. save up to 50% on your reservation.",-,-,-,80.78,Easy,3th and 4th grade,21,15,2,4
+-,-,"book a b&b near manchester city center, station. save up to 50% on your reservation.",-,-,-,80.78,Easy,3th and 4th grade,21,15,2,4
+-,-,"book a b&b near manchester city center, station. save up to 50% on your reservation.",-,-,-,80.78,Easy,3th and 4th grade,21,15,2,4
+-,-,"book at the london hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the london hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the london hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,book your hotel near santa maria city centre. save up to 50% on your reservation.,-,-,-,89.24,Easy,2th and 3th grade,20,15,2,3
+-,-,book your hotel near santa maria city centre. save up to 50% on your reservation.,-,-,-,89.24,Easy,2th and 3th grade,20,15,2,3
+-,-,book your hotel near santa maria city centre. save up to 50% on your reservation.,-,-,-,89.24,Easy,2th and 3th grade,20,15,2,3
+-,-,best rates or refund +$50 coupon. book your hotel in san francisco today!,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,best rates or refund +$50 coupon. book your hotel in san francisco today!,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,best rates or refund +$50 coupon. book your hotel in san francisco today!,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,"book at the starlin hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the starlin hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,"book at the starlin hotel, london. no reservation costs. great rates.",-,-,-,74.35,Easy,9th and 10th grade,16,11,2,4
+-,-,book a b&b in bridgeton online. no reservation costs. great rates.,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,book a b&b in bridgeton online. no reservation costs. great rates.,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,book a b&b in bridgeton online. no reservation costs. great rates.,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,"book at the long bay hotel, london. no reservation costs",-,-,-,83.32,Easy,5th and 6th grade,14,10,2,3
+-,-,"book at the long bay hotel, london. no reservation costs",-,-,-,83.32,Easy,5th and 6th grade,14,10,2,3
+-,-,"book at the long bay hotel, london. no reservation costs",-,-,-,83.32,Easy,5th and 6th grade,14,10,2,3
+-,-,"book at hotel elee rana, barcelona. no reservation costs. great rates.",-,-,-,91.27,Easy,1th and 2th grade,14,11,2,1
+-,-,"book at hotel elee rana, barcelona. no reservation costs. great rates.",-,-,-,91.27,Easy,1th and 2th grade,14,11,2,1
+-,-,"book at hotel elee rana, barcelona. no reservation costs. great rates.",-,-,-,91.27,Easy,1th and 2th grade,14,11,2,1
+-,-,book your hotel in belfard online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book your hotel in belfard online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book your hotel in belfard online. no reservation costs. great rates.,-,-,-,74.35,Easy,6th and 7th grade,16,11,2,3
+-,-,book a b&b in bangkok online. no reservation costs. great rates.,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,book a b&b in bangkok online. no reservation costs. great rates.,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,book a b&b in bangkok online. no reservation costs. great rates.,-,-,-,91.27,Easy,1th and 2th grade,14,11,2,2
+-,-,best rates on the palace hotel resort. plan your next trip with expedia.,-,-,-,90.26,Easy,6th and 7th grade,17,13,2,2
+-,-,best rates on the palace hotel resort. plan your next trip with expedia.,-,-,-,90.26,Easy,6th and 7th grade,17,13,2,2
+-,-,best rates on the palace hotel resort. plan your next trip with expedia.,-,-,-,90.26,Easy,6th and 7th grade,17,13,2,2
+-,-,"book at hotel expedia palace, paris. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel expedia palace, paris. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,"book at hotel expedia palace, paris. no reservation costs. great rates.",-,-,-,74.35,Easy,6th and 7th grade,16,11,2,2
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in san francisco online. no reservation costs. great rates.,-,-,-,73.85,Easy,6th and 7th grade,18,12,2,3
+-,-,book your hotel in bata rach ca online. no reservation costs. great rates.,-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,book your hotel in bata rach ca online. no reservation costs. great rates.,-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,book your hotel in bata rach ca online. no reservation costs. great rates.,-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in barcelona, italy.",-,-,-,90.77,Easy,6th and 7th grade,15,12,2,2
+-,-,"best rates or refund + $50 coupon. save on hotels in barcelona, italy.",-,-,-,90.77,Easy,6th and 7th grade,15,12,2,2
+-,-,"best rates or refund + $50 coupon. save on hotels in barcelona, italy.",-,-,-,90.77,Easy,6th and 7th grade,15,12,2,2
+-,-,"book at the san francisco hotel, new york. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book at the san francisco hotel, new york. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book at the san francisco hotel, new york. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in santa bernar,, tx.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in santa bernar,, tx.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in santa bernar,, tx.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,"book at the san francisco hotel, north beach. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book at the san francisco hotel, north beach. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book at the san francisco hotel, north beach. no reservation costs. great rates.",-,-,-,81.8,Easy,13th and 14th grade,18,13,2,3
+-,-,"book a hotel near st arena station, london. save up to 50% on your reservation.",-,-,-,80.78,Easy,2th and 3th grade,21,15,2,4
+-,-,"book a hotel near st arena station, london. save up to 50% on your reservation.",-,-,-,80.78,Easy,2th and 3th grade,21,15,2,4
+-,-,"book a hotel near st arena station, london. save up to 50% on your reservation.",-,-,-,80.78,Easy,2th and 3th grade,21,15,2,4
+-,-,best rates on the san francisco hotel. plan your next trip with expedia.,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,best rates on the san francisco hotel. plan your next trip with expedia.,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,best rates on the san francisco hotel. plan your next trip with expedia.,-,-,-,81.8,Easy,3th and 4th grade,18,13,2,3
+-,-,best rates or refund + $50 coupon. book your hotel in barcelona and save big!,-,-,-,98.21,Easy,2th and 3th grade,17,14,2,1
+-,-,best rates or refund + $50 coupon. book your hotel in barcelona and save big!,-,-,-,98.21,Easy,2th and 3th grade,17,14,2,1
+-,-,best rates or refund + $50 coupon. book your hotel in barcelona and save big!,-,-,-,98.21,Easy,2th and 3th grade,17,14,2,1
+-,-,"book at the starlin house hotel, london. no reservation costs. great rates.",-,-,-,82.31,Easy,17th and 18th grade,17,12,2,4
+-,-,"book at the starlin house hotel, london. no reservation costs. great rates.",-,-,-,82.31,Easy,17th and 18th grade,17,12,2,4
+-,-,"book at the starlin house hotel, london. no reservation costs. great rates.",-,-,-,82.31,Easy,17th and 18th grade,17,12,2,4
+-,-,"book at the santi beach resort, manchester. no reservation costs. great rates.",-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,"book at the santi beach resort, manchester. no reservation costs. great rates.",-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,"book at the santi beach resort, manchester. no reservation costs. great rates.",-,-,-,73.85,Easy,17th and 18th grade,18,12,2,4
+-,-,"book at the stan in tangara beach hotel & suites, miami. no reservation costs. great rates.",-,-,-,72.32,Easy,6th and 7th grade,22,15,2,3
+-,-,"book at the stan in tangara beach hotel & suites, miami. no reservation costs. great rates.",-,-,-,72.32,Easy,6th and 7th grade,22,15,2,3
+-,-,"book at the stan in tangara beach hotel & suites, miami. no reservation costs. great rates.",-,-,-,72.32,Easy,6th and 7th grade,22,15,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in silla meth, fl.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in silla meth, fl.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,"best rates or refund + $50 coupon. save on hotels in silla meth, fl.",-,-,-,90.26,Easy,2th and 3th grade,17,13,2,3
+-,-,find and compare exclusive deals on hotels in san faancisco and save big!,-,-,-,66.74,Standard,7th and 8th grade,19,13,1,3
+-,-,find and compare exclusive deals on hotels in san faancisco and save big!,-,-,-,66.74,Standard,7th and 8th grade,19,13,1,3
+-,-,find and compare exclusive deals on hotels in san faancisco and save big!,-,-,-,66.74,Standard,7th and 8th grade,19,13,1,3
+-,-,"book at the bangkok hotel, london. no reservation costs. great rates.",-,-,-,82.81,Easy,9th and 10th grade,15,11,2,3
+-,-,"book at the bangkok hotel, london. no reservation costs. great rates.",-,-,-,82.81,Easy,9th and 10th grade,15,11,2,3
+-,-,"book at the bangkok hotel, london. no reservation costs. great rates.",-,-,-,82.81,Easy,9th and 10th grade,15,11,2,3
+-,-,"book at toe harron palace hotel and spa, killarney. no reservation costs. great rates.",-,-,-,81.29,Easy,6th and 7th grade,20,14,2,3
+-,-,"book at toe harron palace hotel and spa, killarney. no reservation costs. great rates.",-,-,-,81.29,Easy,6th and 7th grade,20,14,2,3
+-,-,"book at toe harron palace hotel and spa, killarney. no reservation costs. great rates.",-,-,-,81.29,Easy,6th and 7th grade,20,14,2,3
+-,-,"book at the starlin hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the starlin hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the starlin hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the long beach hotel, london. no reservation costs. great rates.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,3
+-,-,"book at the long beach hotel, london. no reservation costs. great rates.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,3
+-,-,"book at the long beach hotel, london. no reservation costs. great rates.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,3
+-,-,"book at the lancant hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the lancant hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the lancant hotel, tokyo. no reservation costs. great rates.",-,-,-,82.81,Easy,8th and 9th grade,15,11,2,3
+-,-,"book at the santa cana royal, santa cara. no reservation costs. great rates.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,"book at the santa cana royal, santa cara. no reservation costs. great rates.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,"book at the santa cana royal, santa cara. no reservation costs. great rates.",-,-,-,81.8,Easy,7th and 8th grade,18,13,2,3
+-,-,best rates or refund + $50 coupon. save big on hotels in singapore.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. save big on hotels in singapore.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,best rates or refund + $50 coupon. save big on hotels in singapore.,-,-,-,82.31,Easy,5th and 6th grade,17,12,2,3
+-,-,book a b&b in brooklin online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,book a b&b in brooklin online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,book a b&b in brooklin online. no reservation costs. great rates.,-,-,-,82.81,Easy,7th and 8th grade,15,11,2,3
+-,-,book your hotel in san juan an online. no reservation costs. great rates.,-,-,-,90.26,Easy,6th and 7th grade,17,13,2,2
+-,-,book your hotel in san juan an online. no reservation costs. great rates.,-,-,-,90.26,Easy,6th and 7th grade,17,13,2,2
+-,-,book your hotel in san juan an online. no reservation costs. great rates.,-,-,-,90.26,Easy,6th and 7th grade,17,13,2,2
+-,-,"secure value with expedias price guarantee. save on hotels in barcelona, in.",-,-,-,65.39,Standard,17th and 18th grade,19,12,2,4
+-,-,"secure value with expedias price guarantee. save on hotels in barcelona, in.",-,-,-,65.39,Standard,17th and 18th grade,19,12,2,4
+-,-,"secure value with expedias price guarantee. save on hotels in barcelona, in.",-,-,-,65.39,Standard,17th and 18th grade,19,12,2,4
+-,-,"book at the santi beach hotel, miami beach. no reservation costs. great rates.",-,-,-,73.34,Easy,8th and 9th grade,19,13,2,4
+-,-,"book at the santi beach hotel, miami beach. no reservation costs. great rates.",-,-,-,73.34,Easy,8th and 9th grade,19,13,2,4
+-,-,"book at the santi beach hotel, miami beach. no reservation costs. great rates.",-,-,-,73.34,Easy,8th and 9th grade,19,13,2,4
+-,-,best rates or refund + $50 coupon. save on hotels in san jose beach ca.,-,-,-,98.21,Easy,10th and 11th grade,17,14,2,2
+-,-,best rates or refund + $50 coupon. save on hotels in san jose beach ca.,-,-,-,98.21,Easy,10th and 11th grade,17,14,2,2
+-,-,best rates or refund + $50 coupon. save on hotels in san jose beach ca.,-,-,-,98.21,Easy,10th and 11th grade,17,14,2,2
+-,-,"more choices, best prices, trusted. save on hotels in santa cana, mi.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,4
+-,-,"more choices, best prices, trusted. save on hotels in santa cana, mi.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,4
+-,-,"more choices, best prices, trusted. save on hotels in santa cana, mi.",-,-,-,90.77,Easy,1th and 2th grade,16,12,2,4
